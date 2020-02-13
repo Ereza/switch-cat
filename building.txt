@@ -1,0 +1,21 @@
+Standard procedure:
+
+1. Import translations:
+	switch-translation-tool import switchsystemmenu msbt/ nintendo-switch-menu-del-sistema-ca.csv
+2. Import error texts:
+	switch-error-tool import error_codes/ nintendo-switch-missatges-d-error-ca.csv
+3. Create SZS from MSBT one by one, using Uwizard.
+4. Generate "contents" folder:
+	./generate.sh EUes es
+	./generate.sh EUfr fr
+	./generate.sh EUit it
+	./generate.sh EUen en-GB
+
+
+IMPORTANT:
+
+When any change occurs in common, notification or starter, rebuild all languages by changing these strings:
+	common.msbt.msbt/Cmn_Lang_EUes / EUfr / EUit / USen -> Català
+	error.msbt.msbt/ErrCmn_LblErrCode_EUes / EUfr / EUit / EUen -> Codi d'error
+	notification.msbt.msbt/NtfViewerR_UnmatchedLanguage -> ...català ni <language>.
+	starter.msbt.msbt/Str_Decide_Spanish / French / Italian / English -> D'acord

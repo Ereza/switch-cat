@@ -1,0 +1,1303 @@
+"error_codes/2002/0030/lang_DlgBtn","D'acord"
+"error_codes/2002/0030/lang_DlgMsg","No hi ha prou espai lliure a la destinació per a desar.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Arxiveu o suprimiu dades a  (Configuració del sistema) ⇒ Gestió de dades al menú HOME."
+"error_codes/2002/0031/lang_DlgBtn","D'acord"
+"error_codes/2002/0031/lang_DlgMsg","No es poden crear partides desades perquè no hi ha prou espai a la memòria del sistema.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Arxiveu o suprimiu dades a  (Configuració del sistema) ⇒ Gestió de dades al menú HOME."
+"error_codes/2002/0032/lang_DlgBtn","D'acord"
+"error_codes/2002/0032/lang_DlgMsg","No es poden crear partides desades perquè no hi ha prou espai lliure.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar."
+"error_codes/2002/2000/lang_DlgBtn","D'acord"
+"error_codes/2002/2000/lang_DlgMsg","No es pot accedir a la targeta microSD.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Apagueu la consola i torneu a inserir
+la targeta microSD.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Podeu apagar la consola a les Opcions d'alimentació del menú d'alimentació (mantingueu premut el botó POWER durant tres segons)."
+"error_codes/2002/2500/lang_DlgBtn","D'acord"
+"error_codes/2002/2500/lang_DlgMsg","No es pot accedir al cartutx de joc.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu a inserir el cartutx de joc."
+"error_codes/2002/3500/lang_DlgBtn","D'acord"
+"error_codes/2002/3500/lang_DlgMsg","No es pot accedir a la memòria del sistema.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Reinicieu la consola des de les Opcions d'alimentació del menú d'alimentació (mantingueu premut el botó POWER durant tres segons) i torneu-ho a provar."
+"error_codes/2002/4000/lang_DlgBtn","D'acord"
+"error_codes/2002/4000/lang_DlgMsg","S'han trobat dades corruptes."
+"error_codes/2016/0247/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2016/0247/lang_DlgMsg","No es pot accedir a la targeta microSD.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Apagueu la consola i torneu a inserir
+la targeta microSD.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Podeu apagar la consola a les Opcions d'alimentació del menú d'alimentació (mantingueu premut el botó POWER durant tres segons)."
+"error_codes/2016/0390/lang_DlgBtn","D'acord"
+"error_codes/2016/0390/lang_DlgMsg","No es pot accedir a la targeta microSD.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Comproveu que la targeta microSD estigui ben inserida. Si ho està, és possible que estigui espatllada.
+Proveu d'inserir una altra targeta microSD.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Abans d'inserir o extreure la targeta microSD, apagueu la consola a les Opcions d'alimentació del menú d'alimentació (mantingueu premut el botó POWER durant tres segons)."
+"error_codes/2016/0401/lang_DlgBtn","D'acord"
+"error_codes/2016/0401/lang_DlgMsg","Ja s'han obtingut els punts My Nintendo d'aquest programa."
+"error_codes/2016/0402/lang_DlgBtn","D'acord"
+"error_codes/2016/0402/lang_DlgMsg","Encara no podeu obtenir punts My Nintendo per aquest programa."
+"error_codes/2016/0403/lang_DlgBtn","D'acord"
+"error_codes/2016/0403/lang_DlgMsg","No podeu obtenir punts My Nintendo per aquest programa perquè la data de caducitat ja ha passat."
+"error_codes/2016/0404/lang_DlgBtn","D'acord"
+"error_codes/2016/0404/lang_DlgMsg","No podeu obtenir punts My Nintendo per aquest programa."
+"error_codes/2016/0407/lang_DlgBtn","D'acord"
+"error_codes/2016/0407/lang_DlgMsg","Hi ha inserit un cartutx de joc diferent."
+"error_codes/2016/0408/lang_DlgBtn","D'acord"
+"error_codes/2016/0408/lang_DlgMsg","El cartutx de joc no està inserit."
+"error_codes/2016/0415/lang_DlgBtn","D'acord"
+"error_codes/2016/0415/lang_DlgMsg","No podeu obtenir punts per aquest programa al país/regió definits al vostre Compte Nintendo."
+"error_codes/2016/0600/lang_DlgBtn","D'acord"
+"error_codes/2016/0600/lang_DlgMsg","S'han trobat dades corruptes."
+"error_codes/2016/0610/lang_DlgBtn","D'acord"
+"error_codes/2016/0610/lang_DlgMsg","Les dades de la targeta microSD són corruptes."
+"error_codes/2016/0640/lang_DlgBtn","D'acord"
+"error_codes/2016/0640/lang_DlgMsg","No hi ha prou espai lliure a la targeta microSD.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Suprimiu les dades innecessàries de la targeta microSD fent servir un ordinador.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Abans d'inserir o extreure la targeta microSD, apagueu la consola a Opcions d'alimentació del menú d'alimentació (mantingueu premut el botó POWER durant tres segons)."
+"error_codes/2016/1100/lang_DlgBtn","D'acord"
+"error_codes/2016/1100/lang_DlgMsg","Cal instal·lar una actualització del sistema per a descarregar aquestes dades.
+Executeu una actualització del sistema tornant al menú HOME i seleccionant  (Configuració del sistema) ⇒ Sistema."
+"error_codes/2016/1140/lang_DlgBtn","D'acord"
+"error_codes/2016/1140/lang_DlgMsg","No podeu jugar a aquest programa.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Visiteu el lloc web d'assistència de Nintendo per a més informació.
+support.nintendo.com/switch/error"
+"error_codes/2016/2010/lang_DlgBtn","D'acord"
+"error_codes/2016/2010/lang_DlgMsg","No s'ha pogut executar una actualització del sistema.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Actualitzeu la consola des del menú HOME ⇒  (Configuració del sistema) ⇒ Sistema."
+"error_codes/2016/2100/lang_DlgBtn","D'acord"
+"error_codes/2016/2100/lang_DlgMsg","No podeu utilitzar aquest cartutx de joc en aquesta consola.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Visiteu el lloc web d'assistència de Nintendo per a més informació.
+support.nintendo.com/switch/error"
+"error_codes/2019/1002/lang_DlgBtn","D'acord"
+"error_codes/2019/1002/lang_DlgMsg","No s'ha pogut connectar a Internet.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar."
+"error_codes/2019/9999/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2019/9999/lang_DlgMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2110/1000/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2110/1000/lang_DlgMsg","No s'ha pogut connectar amb el dispositiu de xarxa.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+És possible que la intensitat del senyal sense fils sigui feble.
+Torneu-ho a provar més tard."
+"error_codes/2110/1011/lang_DlgBtn","D'acord"
+"error_codes/2110/1011/lang_DlgMsg","No es pot fer servir la comunicació en línia en aquesta consola."
+"error_codes/2110/1100/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2110/1100/lang_DlgMsg","No s'ha pogut connectar a Internet.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Reviseu la configuració.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si feu servir una connexió a Internet per cable, assegureu-vos que l'adaptador LAN estigui ben connectat."
+"error_codes/2110/1111/lang_DlgBtn","D'acord"
+"error_codes/2110/1111/lang_DlgMsg","No s'ha pogut connectar a Internet perquè està activat el mode d'avió.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Podeu desactivar el mode d'avió a la configuració ràpida (mantingueu premut )."
+"error_codes/2110/1115/lang_DlgBtn","D'acord"
+"error_codes/2110/1115/lang_DlgMsg","La comunicació sense fils no està disponible a causa d'un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Reinicieu la consola des de les Opcions d'alimentació del menú d'alimentació (mantingueu premut el botó POWER durant tres segons)."
+"error_codes/2110/1119/lang_DlgBtn","D'acord"
+"error_codes/2110/1119/lang_DlgMsg","No s'ha pogut detectar l'adaptador LAN.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Comproveu que l'adaptador LAN estigui ben connectat."
+"error_codes/2110/2000/lang_DlgBtn","D'acord"
+"error_codes/2110/2000/lang_DlgMsg","No s'ha pogut connectar a Internet.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Reviseu la configuració.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si feu servir una connexió a Internet per cable, assegureu-vos que l'adaptador LAN estigui ben connectat."
+"error_codes/2110/2001/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2110/2001/lang_DlgMsg","No s'ha pogut connectar amb el dispositiu de xarxa.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Comproveu l'estat del dispositiu de xarxa i torneu-ho a provar."
+"error_codes/2110/2002/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2110/2002/lang_DlgMsg","No s'ha pogut connectar amb el dispositiu de xarxa.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+La configuració de seguretat del dispositiu de xarxa no és compatible amb aquesta consola."
+"error_codes/2110/2091/lang_DlgBtn","D'acord"
+"error_codes/2110/2091/lang_DlgMsg","No s'ha pogut connectar a Internet mitjançant la connexió per cable.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Reviseu el següent:
+・{bytes:0E|00|01|00|06|00|00|00}Que el cable LAN estigui ben connectat.{bytes:0F|00|01|00|06|00}
+・{bytes:0E|00|01|00|06|00|00|00}Que el dispositiu de xarxa al qual esteu connectat estigui engegat.{bytes:0F|00|01|00|06|00}"
+"error_codes/2110/2101/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2110/2101/lang_DlgMsg","No s'ha pogut connectar al dispositiu de xarxa. {bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Pot ser que la intensitat del senyal sigui feble. 
+Torneu-ho a provar."
+"error_codes/2110/2200/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2110/2200/lang_DlgMsg","No s'ha pogut connectar al dispositiu de xarxa.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Pot ser que la intensitat del senyal sense fils sigui feble, o que la contrasenya sigui incorrecta.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si ho torneu a provar i no us podeu connectar, reviseu la configuració."
+"error_codes/2110/2900/lang_DlgBtn","D'acord"
+"error_codes/2110/2900/lang_DlgMsg","No s'ha pogut configurar l'adreça IP.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, assegureu-vos que esteu connectat al dispositiu de xarxa correcte."
+"error_codes/2110/2961/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2110/2961/lang_DlgMsg","No s'ha pogut configurar l'adreça IP.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2110/2963/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2110/2963/lang_DlgMsg","No s'ha pogut obtenir l'adreça IP.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2110/2964/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2110/2964/lang_DlgMsg","No s'ha pogut obtenir l'adreça IP.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2110/2979/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2110/2979/lang_DlgMsg","Un altre dispositiu d'aquesta xarxa té la mateixa
+adreça IP que aquesta consola.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2110/3000/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2110/3000/lang_DlgMsg","No s'ha pogut connectar a Internet.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+No s'ha rebut cap resposta del servidor.
+Torneu-ho a provar més tard."
+"error_codes/2110/3126/lang_DlgBtn","D'acord"
+"error_codes/2110/3126/lang_DlgMsg","No s'ha pogut connectar a Internet.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+No s'ha pogut connectar al servidor intermediari.
+Reviseu la configuració del servidor intermediari."
+"error_codes/2110/3127/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2110/3127/lang_DlgMsg","No s'ha pogut connectar a Internet.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+No s'ha pogut executar la resolució de noms del DNS.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2110/3128/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2110/3128/lang_DlgMsg","No s'ha pogut connectar a Internet.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+No hi ha hagut resposta del servidor.
+Torneu-ho a provar més tard."
+"error_codes/2110/3129/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2110/3129/lang_DlgMsg","No s'ha pogut connectar a Internet.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+La comunicació amb el servidor ha superat el temps màxim d'espera.
+Torneu-ho a provar més tard."
+"error_codes/2110/3130/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2110/3130/lang_DlgMsg","No s'ha pogut connectar a Internet.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+S'ha produït un error durant la comunicació amb el servidor.
+Torneu-ho a provar més tard."
+"error_codes/2110/3200/lang_DlgBtn","D'acord"
+"error_codes/2110/3200/lang_DlgMsg","No s'ha pogut connectar a Internet.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2110/3276/lang_DlgBtn","D'acord"
+"error_codes/2110/3276/lang_DlgMsg","L'ús de la xarxa està restringit en aquesta consola."
+"error_codes/2110/3279/lang_DlgBtn","D'acord"
+"error_codes/2110/3279/lang_DlgMsg","No s'ha pogut connectar a Internet.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, és possible que el dispositiu de xarxa no sigui usable."
+"error_codes/2110/4002/lang_DlgBtn","D'acord"
+"error_codes/2110/4002/lang_DlgMsg","S'ha perdut la connexió a Internet. {bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+S'ha suprimit la configuració de xarxa de la connexió.
+Per a tornar a fer servir aquesta xarxa, torneu-la a configurar."
+"error_codes/2110/4003/lang_DlgBtn","D'acord"
+"error_codes/2110/4003/lang_DlgMsg","S'ha perdut la connexió a Internet perquè s'ha activat el mode d'avió.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Podeu desactivar el mode d'avió a la configuració ràpida
+(mantingueu premut )."
+"error_codes/2110/4004/lang_DlgBtn","D'acord"
+"error_codes/2110/4004/lang_DlgMsg","S'ha perdut la connexió a Internet perquè la consola ha entrat en mode d'espera."
+"error_codes/2110/4005/lang_DlgBtn","D'acord"
+"error_codes/2110/4005/lang_DlgMsg","No s'ha pogut connectar a la xarxa.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2110/4007/lang_DlgBtn","D'acord"
+"error_codes/2110/4007/lang_DlgMsg","S'ha perdut la connexió a Internet perquè s'ha suspès la partida."
+"error_codes/2110/4011/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2110/4011/lang_DlgMsg","S'ha perdut la connexió a Internet.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar col·locant-vos més a prop del dispositiu de xarxa."
+"error_codes/2110/4021/lang_DlgBtn","D'acord"
+"error_codes/2110/4021/lang_DlgMsg","S'ha perdut la connexió a Internet.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+No s'ha pogut actualitzar l'adreça IP.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, comproveu si hi ha problemes amb la xarxa a què us connecteu."
+"error_codes/2110/4091/lang_DlgBtn","D'acord"
+"error_codes/2110/4091/lang_DlgMsg","S'ha perdut la connexió a Internet.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Comproveu que el cable LAN i l'adaptador LAN estiguin ben connectats."
+"error_codes/2110/4100/lang_DlgBtn","D'acord"
+"error_codes/2110/4100/lang_DlgMsg","S'ha perdut la connexió amb el dispositiu de xarxa.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, comproveu la configuració de la xarxa."
+"error_codes/2110/4101/lang_DlgBtn","D'acord"
+"error_codes/2110/4101/lang_DlgMsg","S'ha perdut la connexió amb el dispositiu de xarxa.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, comproveu la configuració de la xarxa."
+"error_codes/2110/9999/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2110/9999/lang_DlgMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2115/0064/lang_DlgBtn","D'acord"
+"error_codes/2115/0064/lang_DlgMsg","Connecteu un controlador que pugui llegir amiibo.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si voleu fer servir un Controlador Pro de la Nintendo Switch que estigui connectat actualment a la consola mitjançant un cable, caldrà que desconnecteu el cable de càrrega USB i que ho torneu a provar."
+"error_codes/2115/0080/lang_DlgBtn","D'acord"
+"error_codes/2115/0080/lang_DlgMsg","Desactiveu el mode d'avió.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Podeu fer-ho a la configuració ràpida (mantingueu premut )."
+"error_codes/2115/0088/lang_DlgBtn","D'acord"
+"error_codes/2115/0088/lang_DlgMsg","S'ha produït un error en provar d'accedir a l'amiibo.
+Torneu-ho a provar."
+"error_codes/2115/0112/lang_DlgBtn","D'acord"
+"error_codes/2115/0112/lang_DlgMsg","S'ha produït un error en provar d'accedir a l'amiibo. Torneu-ho a provar.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2115/0113/lang_DlgBtn","D'acord"
+"error_codes/2115/0113/lang_DlgMsg","Hi ha un problema amb la memòria del sistema.
+Reinicieu la consola des de les Opcions d'alimentació del menú d'alimentació (mantingueu premut el botó POWER durant tres segons) i torneu-ho a provar.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2115/0114/lang_DlgBtn","D'acord"
+"error_codes/2115/0114/lang_DlgMsg","El programari del controlador està desactualitzat o corrupte.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Podeu actualitzar el controlador des del menú HOME seleccionant  (Configuració del sistema) ⇒ Controladors i sensors."
+"error_codes/2115/0115/lang_DlgBtn","D'acord"
+"error_codes/2115/0115/lang_DlgMsg","No s'ha pogut accedir a l'amiibo perquè
+la bateria del controlador és baixa.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Carregueu el controlador una estona i
+torneu-ho a provar."
+"error_codes/2115/0128/lang_DlgBtn","D'acord"
+"error_codes/2115/0128/lang_DlgMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar."
+"error_codes/2115/0144/lang_DlgBtn","D'acord"
+"error_codes/2115/0144/lang_DlgMsg","Les dades de l'amiibo són corruptes.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Proveu de restaurar-ne les dades fent servir el dispositiu Nintendo amb què es va accedir per darrer cop a aquest amiibo, o restabliu l'amiibo anant a  (Configuració del sistema) ⇒ amiibo al menú HOME."
+"error_codes/2115/0176/lang_DlgBtn","D'acord"
+"error_codes/2115/0176/lang_DlgMsg","Això no és un amiibo."
+"error_codes/2115/0184/lang_DlgBtn","D'acord"
+"error_codes/2115/0184/lang_DlgMsg","Aquest amiibo no està suportat."
+"error_codes/2121/0006/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2121/0006/lang_DlgMsg","S'ha produït un error de comunicació.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2121/0201/lang_DlgBtn","D'acord"
+"error_codes/2121/0201/lang_DlgMsg","Heu arribat al nombre màxim de peticions d'amistat que es poden desar en aquesta consola.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si seleccioneu Afegeix un amic ⇒ Peticions d'amistat enviades a la vostra pàgina d'usuari i després suprimiu les peticions d'amistat enviades marcades amb , podreu desar més peticions d'amistat."
+"error_codes/2121/0203/lang_DlgBtn","D'acord"
+"error_codes/2121/0203/lang_DlgMsg","Vós i aquest usuari esteu enllaçats al mateix compte de Nintendo.
+No podeu establir amistat amb aquest usuari."
+"error_codes/2121/1005/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2121/1005/lang_DlgMsg","S'ha produït un error de comunicació.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2121/1006/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2121/1006/lang_DlgMsg","S'ha produït un error de comunicació.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2121/2221/lang_DlgBtn","D'acord"
+"error_codes/2121/2221/lang_DlgMsg","No s'ha pogut obtenir la informació.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Pot ser que s'hagi suprimit el compte de Nintendo d'aquest usuari, o que s'hagi mostrat informació antiga."
+"error_codes/2121/2501/lang_DlgBtn","D'acord"
+"error_codes/2121/2501/lang_DlgMsg","Ja heu establert amistat amb aquest usuari."
+"error_codes/2121/2502/lang_DlgBtn","D'acord"
+"error_codes/2121/2502/lang_DlgMsg","Ja heu enviat una petició d'amistat a aquest usuari."
+"error_codes/2121/2503/lang_DlgBtn","D'acord"
+"error_codes/2121/2503/lang_DlgMsg","No podeu enviar més peticions d'amistat.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Gestioneu la vostra llista d'amics i/o peticions d'amistat enviades."
+"error_codes/2121/2504/lang_DlgBtn","D'acord"
+"error_codes/2121/2504/lang_DlgMsg","No s'ha pogut enviar la petició.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+La llista d'amics de l'usuari és plena."
+"error_codes/2121/2505/lang_DlgBtn","D'acord"
+"error_codes/2121/2505/lang_DlgMsg","No s'ha pogut enviar la petició.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+L'usuari ha configurat la seva consola per a no rebre peticions d'amistat."
+"error_codes/2121/2506/lang_DlgBtn","D'acord"
+"error_codes/2121/2506/lang_DlgMsg","Actualment, aquest usuari està blocat.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Per a enviar-li una petició d'amistat, cal que primer seleccioneu Configuració de l'usuari ⇒ Gestiona la llista d'usuaris blocats a la vostra pàgina d'usuari i desbloqueu l'usuari."
+"error_codes/2121/2507/lang_DlgBtn","D'acord"
+"error_codes/2121/2507/lang_DlgMsg","No podeu enviar una petició d'amistat a aquest usuari."
+"error_codes/2121/2618/lang_DlgBtn","D'acord"
+"error_codes/2121/2618/lang_DlgMsg","Aquesta funcionalitat no està disponible per a usuaris menors de 13 anys."
+"error_codes/2121/2619/lang_DlgBtn","D'acord"
+"error_codes/2121/2619/lang_DlgMsg","Aquest compte d'una xarxa social no es pot enllaçar a la vostra consola perquè ja el fa servir un altre usuari a la funcionalitat Suggeriments d'amistat."
+"error_codes/2121/2620/lang_DlgBtn","D'acord"
+"error_codes/2121/2620/lang_DlgMsg","No heu enllaçat cap compte de cap xarxa social.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Enllaceu un compte a Suggeriments d'amistat a la vostra pàgina d'usuari."
+"error_codes/2121/2621/lang_DlgBtn","D'acord"
+"error_codes/2121/2621/lang_DlgMsg","No s'ha pogut carregar el perfil del compte d'aquesta xarxa social.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+És possible que ja no estigueu connectat a l'usuari mitjançant aquesta xarxa social, o que el compte de l'usuari s'hagi desenllaçat de la seva consola Nintendo Switch."
+"error_codes/2121/2631/lang_DlgBtn","D'acord"
+"error_codes/2121/2631/lang_DlgMsg","No s'ha pogut iniciar la sessió al Facebook.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu a iniciar la sessió a Suggeriments d'amistat a la vostra pàgina d'usuari."
+"error_codes/2121/2632/lang_DlgBtn","D'acord"
+"error_codes/2121/2632/lang_DlgMsg","No s'ha pogut iniciar la sessió al Twitter.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu a iniciar la sessió a Suggeriments d'amistat a la vostra pàgina d'usuari."
+"error_codes/2121/9997/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2121/9997/lang_DlgMsg","S'ha produït un error de comunicació amb el servidor.
+Torneu-ho a provar més tardr."
+"error_codes/2121/9998/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2121/9998/lang_DlgMsg","S'ha produït un error de comunicació.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2121/9999/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2121/9999/lang_DlgMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2122/0002/lang_DlgBtn","D'acord"
+"error_codes/2122/0002/lang_DlgMsg","No s'han pogut carregar les dades.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Les dades que heu provat de carregar no estan disponibles encara.
+Torneu-ho a provar més tard."
+"error_codes/2122/0003/lang_DlgBtn","D'acord"
+"error_codes/2122/0003/lang_DlgMsg","No s'ha completat la descàrrega de dades.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2122/0008/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2122/0008/lang_DlgMsg","S'ha produït un error de comunicació.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2122/0011/lang_DlgBtn","D'acord"
+"error_codes/2122/0011/lang_DlgMsg","No s'han pogut desar les dades a la consola.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+És possible que se solucioni actualitzant el programa. Podeu actualitzar-lo a Opcions al menú HOME."
+"error_codes/2122/0021/lang_DlgBtn","D'acord"
+"error_codes/2122/0021/lang_DlgMsg","S'ha cancel·lat l'acció."
+"error_codes/2122/0031/lang_DlgBtn","D'acord"
+"error_codes/2122/0031/lang_DlgMsg","Cal un compte de Nintendo.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Podeu enllaçar un compte de Nintendo a la vostra pàgina d'usuari. S'hi accedeix seleccionant la vostra icona d'usuari al menú HOME."
+"error_codes/2122/0032/lang_DlgBtn","D'acord"
+"error_codes/2122/0032/lang_DlgMsg","S'ha produït un error de comunicació.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Cal instal·lar una actualització del programa per a fer servir alguns serveis en línia. Podeu instal·lar-la anant al menú HOME i seleccionant Opcions."
+"error_codes/2122/0040/lang_DlgBtn","D'acord"
+"error_codes/2122/0040/lang_DlgMsg","S'ha produït un error de comunicació.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+El servei en línia que volíeu fer servir s'ha acabat."
+"error_codes/2122/0082/lang_DlgBtn","D'acord"
+"error_codes/2122/0082/lang_DlgMsg","No s'han pogut desar les dades a la consola.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+És possible que se solucioni actualitzant la consola.
+Podeu executar una actualització del sistema anant al menú HOME i seleccionant  (Configuració del sistema) ⇒ Sistema."
+"error_codes/2122/1006/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2122/1006/lang_DlgMsg","No s'ha pogut connectar a Internet.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+No s'ha pogut executar la resolució de noms del DNS.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2122/2404/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2122/2404/lang_DlgMsg","S'ha produït un error de comunicació.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+És possible que la consola no pugui comunicar-se amb el servidor, o que proveu de carregar dades que encara no s'han llançat.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2122/2599/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2122/2599/lang_DlgMsg","S'ha produït un error de comunicació amb el servidor.
+Torneu-ho a provar més tard."
+"error_codes/2122/9998/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2122/9998/lang_DlgMsg","S'ha produït un error de comunicació amb el servidor.
+Torneu-ho a provar més tard."
+"error_codes/2122/9999/lang_DlgBtn","D'acord"
+"error_codes/2122/9999/lang_DlgMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2123/0011/lang_DlgBtn","D'acord"
+"error_codes/2123/0011/lang_DlgMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Reinicieu la consola des de les Opcions d'alimentació del menú d'alimentació (mantingueu premut el botó POWER durant tres segons)."
+"error_codes/2123/0102/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2123/0102/lang_DlgMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2123/0119/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2123/0119/lang_DlgMsg","S'ha perdut la connexió amb el servidor.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2123/0207/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2123/0207/lang_DlgMsg","No s'ha pogut comunicar amb el servidor.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2123/0303/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2123/0303/lang_DlgMsg","No s'ha pogut comunicar amb el servidor.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2123/0304/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2123/0304/lang_DlgMsg","No s'ha pogut comunicar amb el servidor.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2123/0310/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2123/0310/lang_DlgMsg","S'ha produït un error de comunicació amb el servidor.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2124/0000/lang_DlgBtn","D'acord"
+"error_codes/2124/0000/lang_DlgMsg","S'ha cancel·lat."
+"error_codes/2124/0002/lang_DlgBtn","D'acord"
+"error_codes/2124/0002/lang_DlgMsg","Torneu-ho a provar."
+"error_codes/2124/0059/lang_DlgBtn","D'acord"
+"error_codes/2124/0059/lang_DlgMsg","No s'ha pogut connectar a Internet.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si encara no us podeu connectar, reinicieu el programa i torneu-ho a provar.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2124/0122/lang_DlgBtn","D'acord"
+"error_codes/2124/0122/lang_DlgMsg","No s'ha pogut afegir l'usuari.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Tanqueu el programa suspès i torneu-ho a provar."
+"error_codes/2124/0140/lang_DlgBtn","D'acord"
+"error_codes/2124/0140/lang_DlgMsg","No s'ha pogut enllaçar el compte de Nintendo.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar."
+"error_codes/2124/0150/lang_DlgBtn","D'acord"
+"error_codes/2124/0150/lang_DlgMsg","Aquest compte de Nintendo ja es fa servir en aquesta consola.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Enllaceu un compte de Nintendo diferent."
+"error_codes/2124/0200/lang_DlgBtn","D'acord"
+"error_codes/2124/0200/lang_DlgMsg","Cal un compte de Nintendo.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Podeu enllaçar un compte de Nintendo a la vostra pàgina d'usuari. S'hi accedeix seleccionant la vostra icona d'usuari al menú HOME."
+"error_codes/2124/0210/lang_DlgBtn","D'acord"
+"error_codes/2124/0210/lang_DlgMsg","El compte de Nintendo enllaçat no es pot fer servir.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Aquest usuari no pot fer servir les funcionalitats en línia."
+"error_codes/2124/0240/lang_DlgBtn","D'acord"
+"error_codes/2124/0240/lang_DlgMsg","Torneu a iniciar la sessió al vostre compte de Nintendo.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Per a iniciar-la, torneu al menú HOME i obriu la vostra pàgina d'usuari."
+"error_codes/2124/0241/lang_DlgBtn","D'acord"
+"error_codes/2124/0241/lang_DlgMsg","S'ha suprimit el compte de Nintendo.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Aquest usuari no pot fer servir les funcionalitats en línia."
+"error_codes/2124/0280/lang_DlgBtn","D'acord"
+"error_codes/2124/0280/lang_DlgMsg","No teniu permís per a accedir a la informació d'aquest compte de Nintendo."
+"error_codes/2124/0290/lang_DlgBtn","D'acord"
+"error_codes/2124/0290/lang_DlgMsg","No podeu fer servir un compte de Nintendo que no s'hagi fet servir abans en una consola Nintendo Switch."
+"error_codes/2124/0291/lang_DlgBtn","D'acord"
+"error_codes/2124/0291/lang_DlgMsg","Aquest compte de Nintendo ja està enllaçat a un usuari d'aquesta consola."
+"error_codes/2124/3010/lang_DlgBtn","D'acord"
+"error_codes/2124/3010/lang_DlgMsg","Ara mateix no es pot fer servir el compte de Nintendo enllaçat a aquesta consola.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Obriu la vostra pàgina d'usuari al menú HOME i torneu a iniciar la sessió al compte de Nintendo o proveu de tornar a enllaçar el compte de Nintendo."
+"error_codes/2124/3080/lang_DlgBtn","D'acord"
+"error_codes/2124/3080/lang_DlgMsg","Aquesta funció no es pot fer servir amb la configuració de país/regió actual del vostre compte de Nintendo."
+"error_codes/2124/4007/lang_DlgBtn","D'acord"
+"error_codes/2124/4007/lang_DlgMsg","Actualment, l'ús dels serveis en línia en aquesta consola està restringit per Nintendo."
+"error_codes/2124/4020/lang_DlgBtn","D'acord"
+"error_codes/2124/4020/lang_DlgMsg","Actualment, l'ús dels serveis en línia està restringit per Nintendo.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Contacteu amb l'assistència al client mitjançant el lloc web d'assistència de Nintendo i esmenteu aquest codi d'error.
+support.nintendo.com/switch/error"
+"error_codes/2124/4025/lang_DlgBtn","D'acord"
+"error_codes/2124/4025/lang_DlgMsg","Actualment, l'ús dels serveis en línia en aquest programa està restringit per Nintendo."
+"error_codes/2124/4027/lang_DlgBtn","D'acord"
+"error_codes/2124/4027/lang_DlgMsg","Actualment, l'ús dels serveis en línia en aquest programa està restringit en aquesta consola."
+"error_codes/2124/4028/lang_DlgBtn","D'acord"
+"error_codes/2124/4028/lang_DlgMsg","Aquest servei no està disponible en aquest moment."
+"error_codes/2124/4517/lang_DlgBtn","D'acord"
+"error_codes/2124/4517/lang_DlgMsg","Els serveis de xarxa no estan disponibles temporalment.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Espereu una estona i torneu-ho a provar.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si aquest error es manté durant un llarg període de temps, visiteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2124/4621/lang_DlgBtn","D'acord"
+"error_codes/2124/4621/lang_DlgMsg","No podeu fer servir les funcionalitats en línia en aquest programa.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Visiteu el lloc web d'assistència de Nintendo per a més informació.
+support.nintendo.com/switch/error"
+"error_codes/2124/5111/lang_DlgBtn","D'acord"
+"error_codes/2124/5111/lang_DlgMsg","Actualment, l'ús dels serveis en línia d'aquest compte de Nintendo està restringit per Nintendo."
+"error_codes/2124/5114/lang_DlgBtn","D'acord"
+"error_codes/2124/5114/lang_DlgMsg","Actualment, l'ús dels serveis en línia en aquest programa està restringit per a aquest compte de Nintendo."
+"error_codes/2124/8006/lang_DlgBtn","D'acord"
+"error_codes/2124/8006/lang_DlgMsg","No s'ha pogut connectar a Internet.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+És possible que no hàgiu introduït correctament la configuració dels DNS.
+Reviseu la configuració."
+"error_codes/2124/9997/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2124/9997/lang_DlgMsg","Actualment, el servidor està en manteniment.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Disculpeu les molèsties.
+Torneu-ho a provar més tard."
+"error_codes/2124/9999/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2124/9999/lang_DlgMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2137/0222/lang_DlgBtn","D'acord"
+"error_codes/2137/0222/lang_DlgMsg","No s'han pogut descarregar les dades perquè no s'ha trobat el compte de Nintendo utilitzat per a comprar aquest producte.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Enllaceu el compte de Nintendo utilitzat per a comprar aquest producte i torneu a provar de descarregar-lo de la Nintendo eShop."
+"error_codes/2137/0240/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2137/0240/lang_DlgMsg","No s'ha pogut comunicar amb el servidor.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2137/0282/lang_DlgBtn","D'acord"
+"error_codes/2137/0282/lang_DlgMsg","No s'ha pogut actualitzar el programa.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar."
+"error_codes/2137/0300/lang_DlgBtn","D'acord"
+"error_codes/2137/0300/lang_DlgMsg","S'ha cancel·lat la descàrrega perquè s'ha extret la targeta microSD.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+No extraieu la targeta microSD fins que finalitzi la descàrrega."
+"error_codes/2137/0311/lang_DlgBtn","D'acord"
+"error_codes/2137/0311/lang_DlgMsg","No podeu descarregar més coses en aquest moment.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Espereu fins que s'hagin acabat de descarregar els altres programes i torneu-ho a provar."
+"error_codes/2137/4010/lang_DlgBtn","D'acord"
+"error_codes/2137/4010/lang_DlgMsg","Encara no podeu jugar a aquest programa."
+"error_codes/2137/8006/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2137/8006/lang_DlgMsg","No s'ha pogut comunicar amb el servidor.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+No s'ha pogut executar la resolució de noms del DNS.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2141/9999/lang_DlgBtn","D'acord"
+"error_codes/2141/9999/lang_DlgMsg","No s'ha pogut definir."
+"error_codes/2142/0130/lang_DlgBtn","D'acord"
+"error_codes/2142/0130/lang_DlgMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2142/0180/lang_DlgBtn","D'acord"
+"error_codes/2142/0180/lang_DlgMsg","No es pot canviar la configuració del control parental fent servir aquest programa."
+"error_codes/2142/0181/lang_DlgBtn","D'acord"
+"error_codes/2142/0181/lang_DlgMsg","Aquesta configuració només es pot fer servir en una consola que tingui el control parental activat.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Podeu activar el control parental anant al menú HOME i seleccionant  (Configuració del sistema) ⇒ Control parental."
+"error_codes/2142/0182/lang_DlgBtn","D'acord"
+"error_codes/2142/0182/lang_DlgMsg","S'ha cancel·lat l'acció."
+"error_codes/2142/0201/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2142/0201/lang_DlgMsg","El codi de registre no és correcte.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-lo a introduir."
+"error_codes/2142/0220/lang_DlgBtn","D'acord"
+"error_codes/2142/0220/lang_DlgMsg","Aquest dispositiu intel·ligent ja s'ha desenllaçat."
+"error_codes/2142/0505/lang_DlgBtn","D'acord"
+"error_codes/2142/0505/lang_DlgMsg","No s'ha pogut connectar a Internet.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+És possible que no hàgiu introduït correctament el servidor intermediari.
+Reviseu la configuració."
+"error_codes/2142/0506/lang_DlgBtn","D'acord"
+"error_codes/2142/0506/lang_DlgMsg","No s'ha pogut connectar a Internet.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+És possible que no hàgiu introduït correctament la configuració dels DNS.
+Reviseu la configuració."
+"error_codes/2142/2001/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2142/2001/lang_DlgMsg","Actualment, el servidor està en manteniment.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Disculpeu les molèsties.
+Torneu-ho a provar més tard."
+"error_codes/2142/2014/lang_DlgBtn","D'acord"
+"error_codes/2142/2014/lang_DlgMsg","Cal una actualització del sistema per a continuar.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Per a executar una actualització del sistema, torneu al menú HOME i seleccioneu  (Configuració del sistema) ⇒ Sistema."
+"error_codes/2142/9998/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2142/9998/lang_DlgMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2142/9999/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2142/9999/lang_DlgMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2155/8006/lang_DlgBtn","D'acord"
+"error_codes/2155/8006/lang_DlgMsg","No s'ha pogut connectar a Internet.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+És possible que no hàgiu introduït correctament la configuració dels DNS.
+Reviseu la configuració.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, reinicieu la consola a les Opcions d'alimentació del menú d'alimentació (mantingueu premut el botó POWER durant tres segons)."
+"error_codes/2160/0103/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2160/0103/lang_DlgMsg","No s'ha pogut iniciar una connexió.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2160/0105/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2160/0105/lang_DlgMsg","No s'ha pogut connectar.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+S'ha produït un error de comunicació amb el servidor.
+Torneu-ho a provar més tard."
+"error_codes/2160/0201/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2160/0201/lang_DlgMsg","No s'ha pogut iniciar una connexió.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2160/0202/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2160/0202/lang_DlgMsg","No s'ha pogut connectar.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+No hi ha hagut cap resposta del servidor.
+Torneu-ho a provar més tard."
+"error_codes/2160/0203/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2160/0203/lang_DlgMsg","No s'ha pogut connectar.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+S'ha produït un error de comunicació amb el servidor.
+Torneu-ho a provar més tard."
+"error_codes/2160/9999/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2160/9999/lang_DlgMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2161/0064/lang_DlgBtn","D'acord"
+"error_codes/2161/0064/lang_DlgMsg","Connecteu un controlador amb funcionalitat NFC."
+"error_codes/2161/0080/lang_DlgBtn","D'acord"
+"error_codes/2161/0080/lang_DlgMsg","Desactiveu el mode d'avió.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Podeu fer-ho a la configuració ràpida (mantingueu premut )."
+"error_codes/2161/0088/lang_DlgBtn","D'acord"
+"error_codes/2161/0088/lang_DlgMsg","S'ha produït un error mentre es provava d'accedir a aquest element.
+Torneu-ho a provar."
+"error_codes/2161/0112/lang_DlgBtn","D'acord"
+"error_codes/2161/0112/lang_DlgMsg","S'ha produït un error mentre es provava d'accedir
+a aquest element. Torneu-ho a provar.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2161/0114/lang_DlgBtn","D'acord"
+"error_codes/2161/0114/lang_DlgMsg","El microprogramari del controlador està desactualitzat o corrupte.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Podeu actualitzar el controlador obrint  (Configuració del sistema) al menú HOME i seleccionant Controladors i sensors."
+"error_codes/2161/0115/lang_DlgBtn","D'acord"
+"error_codes/2161/0115/lang_DlgMsg","No s'ha pogut accedir a l'element perquè la bateria del controlador és baixa.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Carregueu el controlador una estona i
+torneu-ho a provar."
+"error_codes/2161/0192/lang_DlgBtn","D'acord"
+"error_codes/2161/0192/lang_DlgMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar."
+"error_codes/2162/0101/lang_DlgBtn","Reinicia
+Més tard"
+"error_codes/2162/0101/lang_DlgMsg","Cal instal·lar una actualització del contingut descarregable.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Reinicieu el programa i executeu una actualització del programa.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+◆ {bytes:0E|00|01|00|06|00|00|00}Si reinicieu el programa, es perdran les dades que no hàgiu desat.{bytes:0F|00|01|00|06|00}"
+"error_codes/2164/0026/lang_DlgBtn","D'acord"
+"error_codes/2164/0026/lang_DlgMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Heu d'accedir a la Nintendo eShop des d'aquesta consola com a mínim una vegada.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Obriu la Nintendo eShop seleccionant  al menú HOME."
+"error_codes/2164/0206/lang_DlgBtn","D'acord"
+"error_codes/2164/0206/lang_DlgMsg","No sou apte per a fer compres a la Nintendo eShop."
+"error_codes/2170/1002/lang_DlgBtn","D'acord"
+"error_codes/2170/1002/lang_DlgMsg","Nintendo ha fet que l'ús d'aquesta funcionalitat no estigui disponible en aquest moment.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Visiteu el lloc web d'assistència de Nintendo per a més informació.
+support.nintendo.com/switch/error"
+"error_codes/2179/1100/lang_DlgBtn","D'acord"
+"error_codes/2179/1100/lang_DlgMsg","S'ha cancel·lat la còpia de seguretat de les partides desades."
+"error_codes/2179/1110/lang_DlgBtn","D'acord"
+"error_codes/2179/1110/lang_DlgMsg","Ja esteu provant de fer una còpia de seguretat de les partides desades."
+"error_codes/2179/1400/lang_DlgBtn","D'acord"
+"error_codes/2179/1400/lang_DlgMsg","La còpia de seguretat ha fallat perquè no s'han trobat partides desades."
+"error_codes/2179/2001/lang_DlgBtn","D'acord"
+"error_codes/2179/2001/lang_DlgMsg","La còpia de seguretat de partides desades al núvol no està suportada per a aquest programa."
+"error_codes/2179/2020/lang_DlgBtn","D'acord"
+"error_codes/2179/2020/lang_DlgMsg","S'ha cancel·lat la descàrrega de les partides desades perquè s'han actualitzat les partides desades d'aquesta consola."
+"error_codes/2179/2022/lang_DlgBtn","D'acord"
+"error_codes/2179/2022/lang_DlgMsg","S'ha cancel·lat la descàrrega de les partides desades perquè s'han suprimit les partides desades d'aquesta consola."
+"error_codes/2179/2102/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2179/2102/lang_DlgMsg","No s'ha pogut fer la còpia de seguretat de les partides desades.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2179/2120/lang_DlgBtn","D'acord"
+"error_codes/2179/2120/lang_DlgMsg","S'ha cancel·lat la còpia de seguretat de les partides desades perquè s'han actualitzat les partides desades al servidor."
+"error_codes/2179/2122/lang_DlgBtn","D'acord"
+"error_codes/2179/2122/lang_DlgMsg","S'ha cancel·lat la descàrrega de les partides desades perquè s'han actualitzat les partides desades al servidor."
+"error_codes/2179/2123/lang_DlgBtn","D'acord"
+"error_codes/2179/2123/lang_DlgMsg","S'ha cancel·lat la còpia de seguretat de les partides desades perquè s'han suprimit les partides desades al servidor."
+"error_codes/2179/2300/lang_DlgBtn","D'acord"
+"error_codes/2179/2300/lang_DlgMsg","S'ha suspès el procés perquè s'han actualitzat les partides desades en el seu transcurs.
+El procés es reiniciarà d'aquí a una estona."
+"error_codes/2179/2400/lang_DlgBtn","D'acord"
+"error_codes/2179/2400/lang_DlgMsg","No s'ha pogut fer la còpia de seguretat de les partides desades.
+Torneu-ho a provar."
+"error_codes/2179/3000/lang_DlgBtn","D'acord"
+"error_codes/2179/3000/lang_DlgMsg","No s'ha pogut connectar a Internet.
+Torneu-ho a provar."
+"error_codes/2179/9999/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2179/9999/lang_DlgMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2181/9998/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2181/9998/lang_DlgMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2181/9999/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2181/9999/lang_DlgMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2203/0017/lang_DlgBtn","D'acord"
+"error_codes/2203/0017/lang_DlgMsg","S'ha produït un error de comunicació.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+No podeu executar la comunicació local i altres tipus de comunicació sense fils alhora."
+"error_codes/2203/0018/lang_DlgBtn","D'acord"
+"error_codes/2203/0018/lang_DlgMsg","La comunicació local no es pot fer servir en aquesta consola."
+"error_codes/2203/0020/lang_DlgBtn","D'acord"
+"error_codes/2203/0020/lang_DlgMsg","S'ha produït un error de comunicació.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Els programes descarregats i el contingut descarregable comprat fent servir aquest compte de Nintendo només són jugables en una consola al mateix temps.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Visiteu el lloc web d'assistència de Nintendo per a més informació.
+support.nintendo.com/switch/error"
+"error_codes/2203/0021/lang_DlgBtn","D'acord"
+"error_codes/2203/0021/lang_DlgMsg","S'ha perdut la connexió perquè s'ha suspès la partida."
+"error_codes/2203/0023/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2203/0023/lang_DlgMsg","Desactiveu el mode d'avió.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Podeu fer-ho a la configuració ràpida (mantingueu premut )."
+"error_codes/2203/0024/lang_DlgBtn","D'acord"
+"error_codes/2203/0024/lang_DlgMsg","S'ha perdut la connexió perquè la consola ha entrat en mode d'espera."
+"error_codes/2203/0032/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2203/0032/lang_DlgMsg","S'ha produït un error de comunicació.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2203/0064/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2203/0064/lang_DlgMsg","No s'ha pogut comunicar amb les altres consoles.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2203/0113/lang_DlgBtn","Iguala la versió
+Més tard"
+"error_codes/2203/0113/lang_DlgMsg","La vostra versió del programa no coincideix amb la de les altres consoles.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Connecteu les consoles i igualeu les vostres versions del programa."
+"error_codes/2203/0144/lang_DlgBtn","D'acord"
+"error_codes/2203/0144/lang_DlgMsg","No es pot fer servir la comunicació local perquè hi ha massa controladors connectats.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Aneu a  (Controladors) al menú HOME i connecteu només els controladors que vulgueu fer servir."
+"error_codes/2205/0122/lang_DlgBtn","D'acord"
+"error_codes/2205/0122/lang_DlgMsg","El microprogramari del controlador està desactualitzat o corrupte.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Podeu actualitzar el controlador obrint  (Configuració del sistema) al menú HOME i seleccionant Controladors i sensors."
+"error_codes/2205/0123/lang_DlgBtn","D'acord"
+"error_codes/2205/0123/lang_DlgMsg","S'ha produït un error mentre la càmera infraroja de moviment llegia.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, consulteu el
+lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2205/0124/lang_DlgBtn","D'acord"
+"error_codes/2205/0124/lang_DlgMsg","No es pot fer servir la càmera infraroja de moviment perquè la bateria del controlador és baixa.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Carregueu el controlador una estona i
+torneu-ho a provar."
+"error_codes/2211/0033/lang_DlgBtn","D'acord"
+"error_codes/2211/0033/lang_DlgMsg","S'ha produït un error de comunicació.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+No podeu executar la comunicació local i altres tipus de comunicació sense fils alhora."
+"error_codes/2211/0037/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2211/0037/lang_DlgMsg","Desactiveu el mode d'avió.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Podeu fer-ho a la configuració ràpida (mantingueu premut )."
+"error_codes/2211/0038/lang_DlgBtn","D'acord"
+"error_codes/2211/0038/lang_DlgMsg","S'ha perdut la connexió perquè la consola ha entrat en mode d'espera."
+"error_codes/2211/0064/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2211/0064/lang_DlgMsg","S'ha produït un error de comunicació.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2211/0256/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2211/0256/lang_DlgMsg","No s'ha pogut comunicar amb les altres consoles.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2211/0288/lang_DlgBtn","D'acord"
+"error_codes/2211/0288/lang_DlgMsg","No es pot fer servir la comunicació local perquè hi ha massa controladors connectats.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Aneu a  (Controladors) al menú HOME i connecteu només els controladors que vulgueu fer servir."
+"error_codes/2211/0417/lang_DlgBtn","D'acord"
+"error_codes/2211/0417/lang_DlgMsg","L'actualització del programa encara no ha acabat.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar quan hagi finalitzat l'actualització."
+"error_codes/2211/0448/lang_DlgBtn","D'acord"
+"error_codes/2211/0448/lang_DlgMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu a igualar les vostres versions del programa."
+"error_codes/2211/0515/lang_DlgBtn","D'acord"
+"error_codes/2211/0515/lang_DlgMsg","S'ha suprimit el grup."
+"error_codes/2211/0518/lang_DlgBtn","D'acord"
+"error_codes/2211/0518/lang_DlgMsg","No s'ha pogut executar una instal·lació del sistema.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Connecteu-vos a Internet i actualitzeu la consola al menú HOME ⇒  (Configuració del sistema) ⇒ Sistema."
+"error_codes/2211/0519/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2211/0519/lang_DlgMsg","Les dades d'actualització obtingudes són corruptes.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar."
+"error_codes/2211/0520/lang_DlgBtn","D'acord"
+"error_codes/2211/0520/lang_DlgMsg","No s'han pogut obtenir les dades d'actualització del programa.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Executeu una actualització del programa mitjançant Internet obrint Opcions al menú HOME i seleccionant Actualització del programa ⇒ Mitjançant Internet."
+"error_codes/2211/0521/lang_DlgBtn","D'acord"
+"error_codes/2211/0521/lang_DlgMsg","No es pot accedir a la memòria del sistema.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Reinicieu la consola a les Opcions d'alimentació del menú d'alimentació (mantingueu premut el botó POWER durant tres segons) i torneu-ho a provar."
+"error_codes/2211/0522/lang_DlgBtn","D'acord"
+"error_codes/2211/0522/lang_DlgMsg","No s'ha pogut accedir al cartutx de joc.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu a inserir el cartutx de joc."
+"error_codes/2211/0523/lang_DlgBtn","D'acord"
+"error_codes/2211/0523/lang_DlgMsg","No es pot accedir a la targeta microSD.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Apagueu la consola i torneu a inserir
+la targeta microSD.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Podeu apagar la consola a les Opcions d'alimentació del menú d'alimentació (mantingueu premut el botó POWER durant tres segons)."
+"error_codes/2211/0524/lang_DlgBtn","D'acord"
+"error_codes/2211/0524/lang_DlgMsg","No s'han pogut trobar les dades d'actualització del programa.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Proveu el següent:
+・{bytes:0E|00|01|00|06|00|00|00}Reinicieu la consola.{bytes:0F|00|01|00|06|00}
+・{bytes:0E|00|01|00|06|00|00|00}Extraieu el cartutx de joc i torneu-lo a inserir a la consola.{bytes:0F|00|01|00|06|00}
+・{bytes:0E|00|01|00|06|00|00|00}Apagueu la consola, i després extraieu i torneu a inserir la targeta microSD.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Podeu reiniciar o apagar la consola a les Opcions d'alimentació del menú d'alimentació (mantingueu premut el botó POWER durant tres segons)."
+"error_codes/2211/0526/lang_DlgBtn","D'acord"
+"error_codes/2211/0526/lang_DlgMsg","No podeu fer servir aquesta versió del programa per a igualar les versions amb altres usuaris.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Executeu una actualització del programa mitjançant Internet obrint Opcions al menú HOME i seleccionant Actualització del programa ⇒ Mitjançant Internet."
+"error_codes/2211/0527/lang_DlgBtn","D'acord"
+"error_codes/2211/0527/lang_DlgMsg","No hi ha prou espai lliure a la destinació on voleu desar.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Arxiveu o suprimiu dades a  (Configuració del sistema) ⇒ Gestió de dades al menú HOME."
+"error_codes/2214/0102/lang_DlgBtn","D'acord"
+"error_codes/2214/0102/lang_DlgMsg","La destinació on voleu desar és plena.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Suprimiu-ne les dades innecessàries."
+"error_codes/2214/0103/lang_DlgBtn","D'acord"
+"error_codes/2214/0103/lang_DlgMsg","No podeu desar més captures de pantalla ni més vídeos en aquesta destinació.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Suprimiu-ne les dades innecessàries."
+"error_codes/2214/0105/lang_DlgBtn","D'acord"
+"error_codes/2214/0105/lang_DlgMsg","No s'han pogut desar les dades."
+"error_codes/2214/0107/lang_DlgBtn","D'acord"
+"error_codes/2214/0107/lang_DlgMsg","No s'han pogut carregar les dades."
+"error_codes/2214/0110/lang_DlgBtn","D'acord"
+"error_codes/2214/0110/lang_DlgMsg","No s'ha pogut accedir a la targeta microSD.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Apagueu la consola i torneu a inserir
+la targeta microSD.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Podeu apagar la consola a les Opcions d'alimentació del menú d'alimentació (mantingueu premut el botó POWER durant tres segons)."
+"error_codes/2214/0501/lang_DlgBtn","D'acord"
+"error_codes/2214/0501/lang_DlgMsg","S'ha cancel·lat la publicació."
+"error_codes/2214/0502/lang_DlgBtn","D'acord"
+"error_codes/2214/0502/lang_DlgMsg","No s'ha pogut publicar."
+"error_codes/2216/1200/lang_DlgBtn","D'acord"
+"error_codes/2216/1200/lang_DlgMsg","Aquest no és el compte de Nintendo que fèieu servir abans que s'interrompés el procés de transferència del sistema. Feu servir el mateix compte."
+"error_codes/2216/1201/lang_DlgBtn","D'acord"
+"error_codes/2216/1201/lang_DlgMsg","No es poden transferir les partides desades perquè hi ha massa fitxers de partides desades.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Suprimiu les partides desades innecessàries anant al menú HOME i seleccionant  (Configuració del sistema) ⇒ Gestió de dades."
+"error_codes/2216/1202/lang_DlgBtn","D'acord"
+"error_codes/2216/1202/lang_DlgMsg","No es poden transferir les dades perquè no hi ha prou espai lliure a la consola de destinació.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Suprimiu-ne les dades innecessàries anant al menú HOME i seleccionant  (Configuració del sistema) ⇒ Gestió de dades."
+"error_codes/2216/1203/lang_DlgBtn","D'acord"
+"error_codes/2216/1203/lang_DlgMsg","No s'ha pogut connectar a Internet."
+"error_codes/2216/2002/lang_DlgBtn","D'acord"
+"error_codes/2216/2002/lang_DlgMsg","Aquesta no és la consola amb què us comunicàveu abans que s'interrompés el procés de transferència del sistema.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar fent servir la mateixa consola que abans."
+"error_codes/2216/5000/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2216/5000/lang_DlgMsg","No s'ha pogut comunicar amb l'altra consola."
+"error_codes/2216/5002/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2216/5002/lang_DlgMsg","S'ha perdut la connexió amb l'altra consola."
+"error_codes/2216/7890/lang_DlgBtn","D'acord"
+"error_codes/2216/7890/lang_DlgMsg","S'ha produït un error de comunicació.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+El servei en línia que heu provat de fer servir ha finalitzat."
+"error_codes/2216/7899/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2216/7899/lang_DlgMsg","S'ha produït un error de comunicació amb el servidor.
+Torneu-ho a provar més tard."
+"error_codes/2217/0000/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2217/0000/lang_DlgMsg","No s'ha pogut comunicar amb l'altra consola."
+"error_codes/2219/0010/lang_DlgBtn","D'acord"
+"error_codes/2219/0010/lang_DlgMsg","S'ha cancel·lat l'acció."
+"error_codes/2219/0032/lang_DlgBtn","D'acord"
+"error_codes/2219/0032/lang_DlgMsg","S'ha produït un error de comunicació.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Cal instal·lar una actualització del programa per a fer servir alguns serveis en línia. Podeu instal·lar-la anant al menú HOME i seleccionant Opcions."
+"error_codes/2219/1005/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2219/1005/lang_DlgMsg","S'ha produït un error de comunicació.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2219/1006/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2219/1006/lang_DlgMsg","S'ha produït un error de comunicació.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2219/2999/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2219/2999/lang_DlgMsg","S'ha produït un error de comunicació amb el servidor.
+Torneu-ho a provar més tard."
+"error_codes/2219/3998/lang_DlgBtn","D'acord"
+"error_codes/2219/3998/lang_DlgMsg","Actualment, el servidor està en manteniment.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Disculpeu les molèsties.
+Torneu-ho a provar més tard."
+"error_codes/2219/9998/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2219/9998/lang_DlgMsg","S'ha produït un error de comunicació.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2219/9999/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2219/9999/lang_DlgMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2229/0200/lang_DlgBtn","D'acord"
+"error_codes/2229/0200/lang_DlgMsg","No podeu afegir més alarmes.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Suprimiu les alarmes innecessàries i torneu-ho a provar.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Podeu suprimir alarmes anant al menú HOME i seleccionant  (Configuració del sistema) ⇒ Notificacions ⇒ Configuració de les notificacions de les alarmes."
+"error_codes/2231/0528/lang_DlgBtn","D'acord"
+"error_codes/2231/0528/lang_DlgMsg","Desactiveu el mode d'avió.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Podeu fer-ho a la configuració ràpida (mantingueu premut )."
+"error_codes/2231/0529/lang_DlgBtn","D'acord"
+"error_codes/2231/0529/lang_DlgMsg","S'ha perdut la connexió amb els accessoris perquè la consola ha entrat en mode d'espera."
+"error_codes/2231/0531/lang_DlgBtn","D'acord"
+"error_codes/2231/0531/lang_DlgMsg","Aquesta consola no es pot connectar a accessoris."
+"error_codes/2231/0544/lang_DlgBtn","D'acord"
+"error_codes/2231/0544/lang_DlgMsg","No es pot connectar amb els accessoris perquè s'estan fent servir altres funcionalitats de comunicació."
+"error_codes/2231/0546/lang_DlgBtn","D'acord"
+"error_codes/2231/0546/lang_DlgMsg","S'ha perdut la connexió amb els accessoris perquè s'ha suspès la partida."
+"error_codes/2231/0547/lang_DlgBtn","D'acord"
+"error_codes/2231/0547/lang_DlgMsg","No es poden connectar accessoris perquè hi ha massa controladors connectats.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Aneu a  (Controlador) al menú HOME i connecteu només els controladors que vulgueu fer servir."
+"error_codes/2231/0640/lang_DlgBtn","D'acord"
+"error_codes/2231/0640/lang_DlgMsg","S'ha perdut la connexió amb els accessoris."
+"error_codes/2231/0912/lang_DlgBtn","D'acord"
+"error_codes/2231/0912/lang_DlgMsg","No s'ha pogut iniciar una connexió amb els accessoris.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Reinicieu la consola des de les Opcions d'alimentació del menú d'alimentació (mantingueu premut el botó POWER durant tres segons)."
+"error_codes/2306/0301/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2306/0301/lang_DlgMsg","No s'ha pogut connectar amb el servidor.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2306/0311/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2306/0311/lang_DlgMsg","Actualment el servidor experimenta un volum de tràfic elevat.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2306/0332/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2306/0332/lang_DlgMsg","S'ha produït un error de comunicació.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2306/0347/lang_DlgBtn","D'acord"
+"error_codes/2306/0347/lang_DlgMsg","Aquest servei en línia ha finalitzat.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Per a obtenir-ne detalls, consulteu el lloc web oficial d'aquest programa."
+"error_codes/2306/0348/lang_DlgBtn","D'acord"
+"error_codes/2306/0348/lang_DlgMsg","S'ha perdut la connexió amb el servidor.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Aquest servei només es pot fer servir en una consola alhora per cada compte de Nintendo, encara que hi hagi múltiples consoles enllaçades a aquell compte."
+"error_codes/2306/0502/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2306/0502/lang_DlgMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2306/0519/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2306/0519/lang_DlgMsg","S'ha produït un error de comunicació.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2306/0520/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2306/0520/lang_DlgMsg","No s'ha pogut connectar a Internet.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+És possible que no hàgiu introduït correctament la configuració dels DNS o del servidor intermediari.
+Reviseu-ne la configuració anant al menú
+HOME ⇒  (Configuració del sistema) ⇒ Internet."
+"error_codes/2306/0617/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2306/0617/lang_DlgMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Reinicieu la consola des de les Opcions d'alimentació del menú d'alimentació (mantingueu premut el botó POWER durant tres segons) i torneu-ho a provar."
+"error_codes/2306/0623/lang_DlgBtn","D'acord"
+"error_codes/2306/0623/lang_DlgMsg","S'ha produït un error de comunicació.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Per tal de fer servir els serveis en línia, cal una versió més nova d'aquest programa.
+Podeu actualitzar el programa des d'Opcions al menú HOME."
+"error_codes/2306/0720/lang_DlgBtn","D'acord"
+"error_codes/2306/0720/lang_DlgMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Reinicieu la consola des de les Opcions d'alimentació del menú d'alimentació (mantingueu premut el botó POWER durant tres segons) i torneu-ho a provar.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2306/0820/lang_DlgBtn","D'acord"
+"error_codes/2306/0820/lang_DlgMsg","Aquest servei no està disponible temporalment."
+"error_codes/2306/9998/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2306/9998/lang_DlgMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2306/9999/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2306/9999/lang_DlgMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2307/2107/lang_DlgBtn","D'acord"
+"error_codes/2307/2107/lang_DlgMsg","Cal l'aplicació Nintendo Switch Online per a fer servir el xat de veu."
+"error_codes/2307/2116/lang_DlgBtn","D'acord"
+"error_codes/2307/2116/lang_DlgMsg","Actualment, l'ús dels serveis en línia està restringit per Nintendo."
+"error_codes/2307/9998/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2307/9998/lang_DlgMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2307/9999/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2307/9999/lang_DlgMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2308/0002/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2308/0002/lang_DlgMsg","Actualment, el servidor està en manteniment.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Disculpeu les molèsties.
+Torneu-ho a provar més tard."
+"error_codes/2308/0024/lang_DlgBtn","D'acord"
+"error_codes/2308/0024/lang_DlgMsg","S'ha canviat la configuració de país/regió del vostre compte de Nintendo.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Seleccioneu  al menú HOME per a reiniciar la Nintendo eShop i torneu-ho a provar."
+"error_codes/2308/0998/lang_DlgBtn","D'acord"
+"error_codes/2308/0998/lang_DlgMsg","Actualment, aquesta funcionalitat no es pot fer servir al vostre país/regió."
+"error_codes/2308/9712/lang_DlgBtn","D'acord"
+"error_codes/2308/9712/lang_DlgMsg","S'ha esgotat el temps màxim de connexió al servidor a causa de la inactivitat de l'usuari.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar."
+"error_codes/2308/9999/lang_DlgBtn","D'acord"
+"error_codes/2308/9999/lang_DlgMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, consulteu el
+lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2618/0006/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2618/0006/lang_DlgMsg","S'ha produït un error de comunicació.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2618/0201/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2618/0201/lang_DlgMsg","S'ha produït un error de comunicació.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2618/0203/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2618/0203/lang_DlgMsg","S'ha produït un error de comunicació.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si ho torneu a provar i encara no us podeu connectar, és possible que no hàgiu introduït correctament la configuració dels DNS o del servidor intermediari.
+Reviseu-ne la configuració mitjançant el menú HOME ⇒  (Configuració del sistema) ⇒ Internet."
+"error_codes/2618/0311/lang_DlgBtn","Iguala la versió
+Més tard"
+"error_codes/2618/0311/lang_DlgMsg","La vostra versió del programa no coincideix amb la de les altres consoles.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Connecteu les consoles i igualeu les vostres versions del programa."
+"error_codes/2618/0313/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2618/0313/lang_DlgMsg","Desactiveu el mode d'avió.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Podeu fer-ho a la configuració ràpida (mantingueu premut )."
+"error_codes/2618/0314/lang_DlgBtn","D'acord"
+"error_codes/2618/0314/lang_DlgMsg","S'ha perdut la connexió perquè la consola ha entrat en mode d'espera."
+"error_codes/2618/0315/lang_DlgBtn","D'acord"
+"error_codes/2618/0315/lang_DlgMsg","No es pot fer servir la comunicació local perquè hi ha massa controladors connectats.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu al menú HOME i seleccioneu  (Controladors) per a connectar només els controladors que vulgueu fer servir."
+"error_codes/2618/0501/lang_DlgBtn","D'acord"
+"error_codes/2618/0501/lang_DlgMsg","No s'ha pogut connectar amb les altres consoles.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2618/0502/lang_DlgBtn","D'acord"
+"error_codes/2618/0502/lang_DlgMsg","Una o més de les altres consoles no responen.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2618/0506/lang_DlgBtn","D'acord"
+"error_codes/2618/0506/lang_DlgMsg","El dispositiu de destinació no pot acceptar més connexions.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2618/0510/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2618/0510/lang_DlgMsg","No s'ha pogut connectar amb les altres consoles.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2618/0517/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2618/0517/lang_DlgMsg","No s'ha pogut connectar amb les altres consoles.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2618/0521/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2618/0521/lang_DlgMsg","Una o més de les altres consoles no responen.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2618/0542/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2618/0542/lang_DlgMsg","El dispositiu de destinació no pot acceptar més connexions.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2618/0547/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2618/0547/lang_DlgMsg","S'ha produït un error de comunicació.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2618/0561/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2618/0561/lang_DlgMsg","Actualment, el servidor està en manteniment.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Disculpeu les molèsties.
+Torneu-ho a provar més tard."
+"error_codes/2618/0579/lang_DlgBtn","D'acord"
+"error_codes/2618/0579/lang_DlgMsg","S'ha perdut la connexió amb el servidor.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Aquest servei només es pot fer servir en una consola alhora per cada compte de Nintendo, encara que hi hagi múltiples consoles enllaçades a aquell compte."
+"error_codes/2618/0701/lang_DlgBtn","Reinicia
+Més tard"
+"error_codes/2618/0701/lang_DlgMsg","No s'ha pogut connectar perquè la versió del programa està desactualitzada.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Reinicieu el programa i executeu una actualització.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+◆ {bytes:0E|00|01|00|06|00|00|00}Quan reinicieu el programa es perdran les dades que no hàgiu desat.{bytes:0F|00|01|00|06|00}"
+"error_codes/2618/0702/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2618/0702/lang_DlgMsg","No s'ha pogut connectar.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Un o més dels altres usuaris han d'actualitzar el programa."
+"error_codes/2618/9998/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2618/9998/lang_DlgMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2620/3697/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2620/3697/lang_DlgMsg","No s'ha pogut connectar amb el servidor.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2620/3698/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2620/3698/lang_DlgMsg","Actualment, el servidor està en manteniment.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Disculpeu les molèsties.
+Torneu-ho a provar més tard."
+"error_codes/2620/3704/lang_DlgBtn","D'acord"
+"error_codes/2620/3704/lang_DlgMsg","Abans que pugueu fer servir aquest servei, cal que accediu a la Nintendo eShop almenys una vegada.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Seleccioneu  al menú HOME per a obrir la Nintendo eShop i torneu-ho a provar."
+"error_codes/2620/9999/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2620/9999/lang_DlgMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2621/1202/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2621/1202/lang_DlgMsg","Alguns serveis de la Nintendo eShop no estan disponibles temporalment.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Disculpeu les molèsties.
+Torneu-ho a provar més tard."
+"error_codes/2621/9999/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2621/9999/lang_DlgMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2622/1502/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2622/1502/lang_DlgMsg","Alguns serveis de la Nintendo eShop no estan disponibles temporalment.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Disculpeu les molèsties.
+Torneu-ho a provar més tard."
+"error_codes/2622/9999/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2622/9999/lang_DlgMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2623/1005/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2623/1005/lang_DlgMsg","S'ha produït un error de comunicació.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si ho torneu a provar i encara no us podeu connectar, és possible que no hàgiu introduït correctament la configuració dels DNS o del servidor intermediari.
+Reviseu-ne la configuració mitjançant el menú HOME ⇒  (Configuració del sistema) ⇒ Internet."
+"error_codes/2623/1007/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2623/1007/lang_DlgMsg","No s'ha pogut connectar amb el servidor.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2623/1009/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2623/1009/lang_DlgMsg","S'ha produït un error de comunicació.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2623/1010/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2623/1010/lang_DlgMsg","S'ha produït un error de comunicació.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2623/1022/lang_DlgBtn","D'acord"
+"error_codes/2623/1022/lang_DlgMsg","S'ha produït un error de comunicació.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Per tal de fer servir els serveis en línia, cal una versió més nova d'aquest programa.
+Podeu actualitzar el programa des d'Opcions al menú HOME."
+"error_codes/2623/9000/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2623/9000/lang_DlgMsg","Actualment, el servidor està en manteniment.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Disculpeu les molèsties.
+Torneu-ho a provar més tard."
+"error_codes/2623/9999/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2623/9999/lang_DlgMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2800/1001/lang_DlgBtn","D'acord"
+"error_codes/2800/1001/lang_DlgMsg","No es pot mostrar la pàgina."
+"error_codes/2800/1005/lang_DlgBtn","D'acord"
+"error_codes/2800/1005/lang_DlgMsg","Ha fallat la connexió amb el servidor intermediari.
+Reviseu que la configuració del servidor intermediari sigui correcta."
+"error_codes/2800/1208/lang_DlgBtn","D'acord"
+"error_codes/2800/1208/lang_DlgMsg","Aquesta pàgina no es pot mostrar."
+"error_codes/2800/1209/lang_DlgBtn","D'acord"
+"error_codes/2800/1209/lang_DlgMsg","Aquest fitxer no es pot carregar."
+"error_codes/2800/1212/lang_DlgBtn","D'acord"
+"error_codes/2800/1212/lang_DlgMsg","Aquesta funcionalitat no està disponible."
+"error_codes/2800/1214/lang_DlgBtn","D'acord"
+"error_codes/2800/1214/lang_DlgMsg","No podeu permetre l'accés a cap més pàgina."
+"error_codes/2800/1225/lang_DlgBtn","D'acord"
+"error_codes/2800/1225/lang_DlgMsg","No s'ha pogut mostrar, ja que el cartutx de joc no està inserit."
+"error_codes/2800/1226/lang_DlgBtn","D'acord"
+"error_codes/2800/1226/lang_DlgMsg","No s'ha pogut accedir al cartutx de joc."
+"error_codes/2800/1228/lang_DlgBtn","D'acord"
+"error_codes/2800/1228/lang_DlgMsg","No s'ha pogut connectar a Internet."
+"error_codes/2800/1809/lang_DlgBtn","D'acord"
+"error_codes/2800/1809/lang_DlgMsg","El certificat ha caducat o encara no és vàlid.
+Assegureu-vos que la data i l'hora de la consola siguin correctes."
+"error_codes/2800/1813/lang_DlgBtn","D'acord"
+"error_codes/2800/1813/lang_DlgMsg","El període de validesa del certificat és invàlid."
+"error_codes/2800/1818/lang_DlgBtn","D'acord"
+"error_codes/2800/1818/lang_DlgMsg","No es poden verificar els certificats autosignats."
+"error_codes/2800/1820/lang_DlgBtn","D'acord"
+"error_codes/2800/1820/lang_DlgMsg","No s'ha trobat el certificat."
+"error_codes/2800/1822/lang_DlgBtn","D'acord"
+"error_codes/2800/1822/lang_DlgMsg","La cadena de certificats és massa llarga."
+"error_codes/2800/1823/lang_DlgBtn","D'acord"
+"error_codes/2800/1823/lang_DlgMsg","El certificat ha caducat."
+"error_codes/2800/1825/lang_DlgBtn","D'acord"
+"error_codes/2800/1825/lang_DlgMsg","El certificat és massa avall en la jerarquia de certificació."
+"error_codes/2800/1827/lang_DlgBtn","D'acord"
+"error_codes/2800/1827/lang_DlgMsg","No es pot confiar en el certificat."
+"error_codes/2800/1834/lang_DlgBtn","D'acord"
+"error_codes/2800/1834/lang_DlgMsg","Extensió de certificat desconeguda."
+"error_codes/2800/1909/lang_DlgBtn","D'acord"
+"error_codes/2800/1909/lang_DlgMsg","El contingut del certificat és invàlid."
+"error_codes/2800/2400/lang_DlgBtn","D'acord"
+"error_codes/2800/2400/lang_DlgMsg","No s'ha pogut carregar el vídeo.
+Voleu tornar-ho a provar?"
+"error_codes/2800/2606/lang_DlgBtn","D'acord"
+"error_codes/2800/2606/lang_DlgMsg","Aquest vídeo no es pot reproduir."
+"error_codes/2800/9999/lang_DlgBtn","D'acord"
+"error_codes/2800/9999/lang_DlgMsg","No s'ha pogut mostrar la pàgina a causa d'un error."
+"error_codes/2801/5000/lang_DlgBtn","D'acord"
+"error_codes/2801/5000/lang_DlgMsg","Torneu a iniciar la sessió al vostre compte de Nintendo.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Per a iniciar la sessió, torneu al menú HOME i obriu la vostra pàgina d'usuari."
+"error_codes/2801/5002/lang_DlgBtn","D'acord"
+"error_codes/2801/5002/lang_DlgMsg","S'ha perdut la connexió amb el servidor.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Proveu de tornar a publicar.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+◆ {bytes:0E|00|01|00|06|00|00|00}És possible que es perdi la connexió amb el servidor si passeu massa temps sense publicar.{bytes:0F|00|01|00|06|00}"
+"error_codes/2801/5004/lang_DlgBtn","D'acord"
+"error_codes/2801/5004/lang_DlgMsg","Els usuaris menors de 13 anys no poden publicar a les xarxes socials."
+"error_codes/2801/5005/lang_DlgBtn","D'acord"
+"error_codes/2801/5005/lang_DlgMsg","Aquesta funció no es pot fer servir amb la configuració actual de país/regió del vostre compte de Nintendo."
+"error_codes/2801/6004/lang_DlgBtn","D'acord"
+"error_codes/2801/6004/lang_DlgMsg","Les captures de pantalla i els vídeos d'aquest programa no es poden publicar a les xarxes socials."
+"error_codes/2801/6005/lang_DlgBtn","D'acord"
+"error_codes/2801/6005/lang_DlgMsg","Les captures de pantalla i els vídeos d'aquest programa no es poden publicar a les xarxes socials en aquest moment."
+"error_codes/2801/6999/lang_DlgBtn","D'acord"
+"error_codes/2801/6999/lang_DlgMsg","Aquesta captura de pantalla o aquest vídeo no es pot publicar a les xarxes socials."
+"error_codes/2801/7000/lang_DlgBtn","D'acord"
+"error_codes/2801/7000/lang_DlgMsg","Aquest compte de xarxa social no es pot fer servir.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+S'ha desenllaçat el compte.
+Seleccioneu un altre lloc on vulgueu publicar."
+"error_codes/2801/7002/lang_DlgBtn","D'acord"
+"error_codes/2801/7002/lang_DlgMsg","No s'ha pogut publicar.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar."
+"error_codes/2801/7080/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2801/7080/lang_DlgMsg","No podeu publicar captures de pantalla a aquesta xarxa social en aquest moment.
+Disculpeu les molèsties.
+Torneu-ho a provar més tard."
+"error_codes/2801/7081/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2801/7081/lang_DlgMsg","No podeu publicar vídeos a aquesta xarxa social en aquest moment.
+Disculpeu les molèsties.
+Torneu-ho a provar més tard."
+"error_codes/2801/7102/lang_DlgBtn","D'acord"
+"error_codes/2801/7102/lang_DlgMsg","La publicació no està activada per a aquest compte de xarxa social.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu a enllaçar el vostre compte i assegureu-vos que la publicació estigui activada."
+"error_codes/2801/7998/lang_DlgBtn","D'acord"
+"error_codes/2801/7998/lang_DlgMsg","La funcionalitat de publicació no està disponible en aquest compte de xarxa social."
+"error_codes/2801/9996/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2801/9996/lang_DlgMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2801/9999/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2801/9999/lang_DlgMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2802/1001/lang_DlgBtn","D'acord"
+"error_codes/2802/1001/lang_DlgMsg","No es pot accedir a la memòria del sistema.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Reinicieu la consola des de les Opcions d'alimentació del menú d'alimentació (mantingueu premut el botó POWER durant tres segons) i torneu-ho a provar."
+"error_codes/2802/1002/lang_DlgBtn","D'acord"
+"error_codes/2802/1002/lang_DlgMsg","No es pot accedir a la targeta microSD.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Apagueu la consola i torneu a inserir
+la targeta microSD.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Podeu apagar la consola a les Opcions d'alimentació del menú d'alimentació (mantingueu premut el botó POWER durant tres segons)."
+"error_codes/2802/3001/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2802/3001/lang_DlgMsg","No es pot accedir a la memòria del sistema.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Reinicieu la consola a les Opcions d'alimentació del menú d'alimentació (mantingueu premut el botó POWER durant tres segons) i torneu-ho a provar."
+"error_codes/2802/3002/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2802/3002/lang_DlgMsg","No es pot accedir a la targeta microSD.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Apagueu la consola i torneu a inserir
+la targeta microSD.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Podeu apagar la consola a les Opcions d'alimentació del menú d'alimentació (mantingueu premut el botó POWER durant tres segons)."
+"error_codes/2802/4001/lang_DlgBtn","D'acord"
+"error_codes/2802/4001/lang_DlgMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Per a mirar aquest vídeo, reinicieu la consola des de les Opcions d'alimentació del menú d'alimentació (mantingueu premut el botó POWER durant tres segons).{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+◆ {bytes:0E|00|01|00|06|00|00|00}Si reinicieu la consola, es perdran les dades que no hàgiu desat.{bytes:0F|00|01|00|06|00}"
+"error_codes/2812/0001/lang_DlgBtn","D'acord"
+"error_codes/2812/0001/lang_DlgMsg","Les dades del Mii eren corruptes i s'han suprimit."
+"error_codes/2814/9999/lang_DlgBtn","D'acord"
+"error_codes/2814/9999/lang_DlgMsg","No s'ha pogut connectar amb el servidor.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Reviseu la configuració."
+"error_codes/2815/2116/lang_DlgBtn","D'acord"
+"error_codes/2815/2116/lang_DlgMsg","Actualment, l'ús dels serveis en línia està restringit per Nintendo."
+"error_codes/2815/9998/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2815/9998/lang_DlgMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2815/9999/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2815/9999/lang_DlgMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2819/0001/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2819/0001/lang_DlgMsg","Se suspendrà la partida.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Per a continuar jugant on ho heu deixat, caldrà que us connecteu a Internet i continueu el programa suspès des del menú HOME."
+"error_codes/2819/0002/lang_DlgBtn","D'acord"
+"error_codes/2819/0002/lang_DlgMsg","Se suspendrà la partida.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Visiteu el lloc web d'assistència de Nintendo per a més informació.
+support.nintendo.com/switch/error{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Per a continuar jugant on ho heu deixat, caldrà que us connecteu a Internet i continueu el programa suspès des del menú HOME."
+"error_codes/2819/0003/lang_DlgBtn","D'acord"
+"error_codes/2819/0003/lang_DlgMsg","Se suspendrà la partida.
+És possible que l'usuari enllaçat a aquest compte de Nintendo estigui jugant a programes descarregats o contingut descarregable en una altra consola.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Visiteu el lloc web d'assistència de Nintendo per a més informació.
+support.nintendo.com/switch/error"
+"error_codes/2820/0001/lang_DlgBtn","D'acord"
+"error_codes/2820/0001/lang_DlgMsg","No s'ha pogut connectar amb el servidor.
+És possible que la xarxa estigui ocupada, o que hi hagi un problema amb el servidor.
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Vegeu el lloc web d'assistència de Nintendo per a més informació de l'estat del servidor.
+support.nintendo.com/switch/error"
+"error_codes/2820/0002/lang_DlgBtn","D'acord"
+"error_codes/2820/0002/lang_DlgMsg","S'ha canviat la configuració de país/regió del vostre compte de Nintendo.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Reinicieu la Nintendo eShop."
+"error_codes/2820/0003/lang_DlgBtn","D'acord"
+"error_codes/2820/0003/lang_DlgMsg","Actualment, la Nintendo eShop no es pot fer servir al vostre país/regió."
+"error_codes/2899/1000/lang_DlgBtn","D'acord"
+"error_codes/2899/1000/lang_DlgMsg","La Nintendo eShop no es pot mostrar en aquesta llengua al país/regió definits al vostre compte de Nintendo. Es mostrarà en la llengua suportada."
+"error_codes/2999/0001/lang_DlgBtn","D'acord"
+"error_codes/2999/0001/lang_DlgMsg","No s'ha pogut connectar perquè feu servir una versió del sistema desactualitzada.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Executeu una actualització del sistema al menú HOME ⇒  (Configuració del sistema) ⇒ Sistema i torneu-ho a provar."
+"error_codes/2999/0002/lang_DlgBtn","D'acord"
+"error_codes/2999/0002/lang_DlgMsg","No s'ha pogut connectar perquè una o més de les altres consoles fan servir una versió del sistema desactualitzada.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar quan s'hagi executat una actualització del sistema. Es pot fer anant al menú HOME ⇒
+ (Configuració del sistema) ⇒ Sistema."
+"error_codes/2999/0003/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2999/0003/lang_DlgMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, proveu d'executar una actualització del sistema a  (Configuració del sistema) ⇒ Sistema al menú HOME."
+"error_codes/2999/0004/lang_DlgBtn","D'acord"
+"error_codes/2999/0004/lang_DlgMsg","Cal instal·lar una actualització del sistema.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Executeu una actualització del sistema mitjançant el menú HOME ⇒  (Configuració del sistema) ⇒ Sistema."
+"error_codes/2999/0005/lang_DlgBtn","D'acord"
+"error_codes/2999/0005/lang_DlgMsg","Aquest servei en línia ha finalitzat.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Gràcies pel vostre interès."
+"error_codes/2999/0006/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2999/0006/lang_DlgMsg","Actualment, el servidor està en manteniment.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Disculpeu les molèsties.
+Torneu-ho a provar més tard."
+"error_codes/2999/0007/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2999/0007/lang_DlgMsg","S'ha produït un error de comunicació amb el servidor.
+Torneu-ho a provar més tard."
+"error_codes/2999/0008/lang_DlgBtn","Reinicia
+Més tard"
+"error_codes/2999/0008/lang_DlgMsg","Cal instal·lar una actualització del programa.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Reinicieu el programa i executeu una actualització del programa.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+◆ {bytes:0E|00|01|00|06|00|00|00}Si reinicieu el programa, es perdran les dades que no hàgiu desat.{bytes:0F|00|01|00|06|00}"
+"error_codes/2999/0009/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2999/0009/lang_DlgMsg","S'ha produït un error de comunicació amb el servidor.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, proveu d'executar una actualització del sistema a  (Configuració el sistema) ⇒ Sistema al menú HOME."
+"error_codes/2999/8000/lang_DlgBtn","D'acord"
+"error_codes/2999/8000/lang_DlgMsg","Cal una subscripció al servei Nintendo Switch Online.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Vegeu la Nintendo eShop per a més informació.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si ja teniu una subscripció a Nintendo Switch Online, reinicieu la consola a les Opcions d'alimentació del menú d'alimentació (mantingueu premut el botó POWER durant tres segons) i torneu-ho a provar."
+"error_codes/2999/9999/lang_DlgBtn","D'acord"
+"error_codes/2999/9999/lang_DlgMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, consulteu el
+lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/Messages/lang_Close","Tanca"
+"error_codes/Messages/lang_Detail","Detalls"
+"error_codes/Messages/lang_Ok","D'acord"
