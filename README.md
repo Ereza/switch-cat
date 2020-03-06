@@ -8,9 +8,9 @@ Ara ja podeu posar la interfície de la vostra Nintendo Switch en català!
 
 Modificar la consola i instal·lar-hi pedaços que la modifiquin pot fer que Nintendo us prohibeixi l'accés als serveis en línia (incloent-hi el joc en línia, la Nintendo eShop i les funcionalitats d'amistat). Si bé és cert que normalment no passa si us manteniu dintre de la legalitat, no es pot descartar del tot. Si instal·leu aquesta traducció, assumiu aquesta possibilitat.
 
-**La traducció només s'ha provat amb la versió del sistema 9.1.0.**
+**La traducció només s'ha provat amb la versió del sistema 9.1.0 o 9.2.0.**
 
-Si la proveu amb qualsevol altra versió, no en garantim el correcte funcionament, i poden aparèixer errors que facin inutilitzable la consola. És possible que la traducció funcioni amb versions anteriors del sistema operatiu, però probablement no funcionarà amb versions posteriors a la 9.1.0. Si hi ha una nova actualització del sistema, espereu a la publicació de l'actualització de la traducció o desinstal·leu-la abans d'actualitzar el sistema.
+Si la proveu amb qualsevol altra versió, no en garantim el correcte funcionament, i poden aparèixer errors que facin inutilitzable la consola. És possible que la traducció funcioni amb versions anteriors del sistema operatiu, però probablement no funcionarà amb versions posteriors a la 9.2.0. Si hi ha una nova actualització del sistema, espereu a la publicació de l'actualització de la traducció o desinstal·leu-la abans d'actualitzar el sistema.
 
 ## Com puc instal·lar-la?
 * **No totes les consoles són compatibles**, cal que tingueu una Nintendo Switch que pugui executar *homebrew*. Consulteu [aquesta guia](https://switch.homebrew.guide/gettingstarted/beforestarting) amb indicacions de com podeu arribar a executar *homebrew*.
