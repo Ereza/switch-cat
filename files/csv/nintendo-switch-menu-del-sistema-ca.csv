@@ -21,7 +21,6 @@
 "Cruiser.msbt/CrsCmn_2BtnDlgBtnOK","D'acord"
 "Cruiser.msbt/CrsMain_Web2ECDlgBody","Voleu obrir la Nintendo eShop?"
 "Cruiser.msbt/CrsErr_MemOverDlgBody","A causa de la mida de la pàgina, no se'n pot mostrar tot el contingut.
-
 Voleu provar de tornar a carregar la pàgina?"
 "Cruiser.msbt/CrsMain_FooterSLBtn",""
 "Cruiser.msbt/CrsCmn_SSLDlgBodyExpirationDate","Data de caducitat"
@@ -37,7 +36,6 @@ Voleu provar de tornar a carregar la pàgina?"
 "Cruiser.msbt/CrsMpFooterABtnPlay","Reprodueix"
 "Cruiser.msbt/CrsCmn_SSLDlgBodyCertificateSubject","Subjecte del certificat"
 "Cruiser.msbt/CrsDDList_ItemOverDlgBody","Hi ha massa opcions per a mostrar.
-
 Es mostren les primeres %d opcions."
 "Cruiser.msbt/CrsMpFooterABtnPause","Pausa"
 "Cruiser.msbt/CrsMain_FooterLstickPointer","Punter"
@@ -53,9 +51,7 @@ Es mostren les primeres %d opcions."
 "Cruiser.msbt/CrsMain_PageInfoDlgDlgBodySecurityValid","La connexió a aquesta pàgina és xifrada."
 "Cruiser.msbt/CrsOthDlg_JSTimeoutDlgBtnContinue","Continua"
 "Cruiser.msbt/CrsPW_PWSaveDlgDlgBody","Voleu desar aquest nom d'usuari i contrasenya?
-
 Si ho feu, s'introduiran automàticament en aquest
-
 lloc en el futur."
 "Cruiser.msbt/CrsCmn_SSLDlgBodyIssueDate","Data d'emissió"
 "Cruiser.msbt/CrsOthDlg_AuthDlgTitle","Autenticació de l'usuari"
@@ -66,8 +62,6 @@ lloc en el futur."
 "Cruiser.msbt/CrsErr_WhiteListDlgBody","Aquesta pàgina no es pot mostrar."
 "Cruiser.msbt/CrsInputValidationDlgBodyTooLong","S'ha superat el límit de caràcters"
 "Cruiser.msbt/CrsMain_DlgBody_ConfirmAppDisconnectRequired","No es pot continuar si hi ha programes que fan servir la comunicació sense fils.
-
-
 
 Us voleu desconnectar?"
 "Cruiser.msbt/CrsStart_NotAvailableThisFunctionDlgDlgBody","Aquesta funcionalitat no està disponible."
@@ -87,15 +81,12 @@ Us voleu desconnectar?"
 "Cruiser.msbt/CrsMainFooterBBtn",""
 "Cruiser.msbt/CrsPW_PWUpdateDlgDlgBtnUpdate","Desa"
 "Cruiser.msbt/CrsDev_ManualDlgDlgBody","S'ha activat el Web Inspector.
-
 Adreça IP: %s"
 "Cruiser.msbt/CrsMain_PageInfoDlgDlgBodySecurityNonSSL","La connexió a aquesta pàgina no és xifrada."
 "Cruiser.msbt/CrsMainFooterXBtnFunction","Finalitza"
 "Cruiser.msbt/CrsOthDlg_AuthDlgDlgBtnLogin","Inicia la sessió"
 "Cruiser.msbt/CrsSSL_CertCautionDlgBodyAllowable","No s'ha pogut confirmar el certificat de seguretat d'aquesta pàgina.
-
 Voleu permetre l'accés a aquesta pàgina?
-
 (No recomanat.)"
 "Cruiser.msbt/CrsMp_BootYouTubeAppDlgBody","Voleu tancar el programa que esteu fent servir i obrir %s?"
 "Cruiser.msbt/CrsMainFooterPlusMinusBtnFunction","Informació"
@@ -112,7 +103,6 @@ Voleu permetre l'accés a aquesta pàgina?
 "Cruiser.msbt/CrsMain_CancelDlgBtn","Cancel·la"
 "Cruiser.msbt/CrsMain_FooterLstickCursor","Cursor"
 "Cruiser.msbt/CrsOthDlg_NomDlgDlgBodyJSTimeout","L'execució d'un script tarda massa.
-
 Voleu continuar executant l'script?"
 "Cruiser.msbt/CrsInputValidationDlgBodyRangeUnderflow","El valor introduït és massa petit"
 "Cruiser.msbt/CrsWebContentBtnSubmitButton","Envia"
@@ -127,7 +117,6 @@ Voleu continuar executant l'script?"
 "Cruiser.msbt/CrsMp_FailedPlayingAndRetryDlgDlgBtnReload","Torna a carregar"
 "Cruiser.msbt/CrsPW_PWSaveDlgDlgBtnSave","Desa"
 "Cruiser.msbt/CrsStart_NupRequiredDlgBody","Cal instal·lar una actualització del sistema.
-
 No es pot executar una actualització del sistema durant la configuració inicial de la consola. Per a executar una actualització del sistema més tard, seleccioneu  (Configuració del sistema) ⇒ Sistema al menú HOME."
 "Cruiser.msbt/CrsMp_Mp2ECDlgBody","Voleu obrir la Nintendo eShop?"
 "Cruiser.msbt/CrsPW_PWSaveDlgDlgBtnNotNow","Ara no"
@@ -139,7 +128,6 @@ No es pot executar una actualització del sistema durant la configuració inicia
 "Cruiser.msbt/CrsWebContentBodyNoFileSelected","No heu seleccionat cap fitxer."
 "Cruiser.msbt/CrsMp_CcDlgTitle","Subtítols"
 "Cruiser.msbt/CrsMain_DlgBodyBeforeUnload","A continuació sortireu d'aquesta pantalla.
-
 La informació que hi hàgiu introduït no es desarà."
 "Cruiser.msbt/CrsMainFooterYBtn",""
 "Cruiser.msbt/CrsErr_MemOverDlgBtnReload","Torna a carregar"
@@ -826,13 +814,13 @@ La llista blanca es pot modificar més tard.{bytes:0E|00|00|00|02|00|02|00|64|00
 "common.msbt.msbt/Cmn_SupportUrl_HTK","support.nintendo.com"
 "common.msbt.msbt/Cmn_DlgBtnBack","Endarrere"
 "common.msbt.msbt/Cmn_SupportUrl_US_Initialize","support.nintendo.com/switch/initialize"
-"common.msbt.msbt/Cmn_FooterKey_SLSR","{empty}"
+"common.msbt.msbt/Cmn_FooterKey_SLSR","{bytes:0E|00|00|00|02|00|02|00|46|00} {bytes:0E|00|00|00|02|00|02|00|64|00}/{bytes:0E|00|00|00|02|00|02|00|46|00} {bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0E|00|00|00|02|00|02|00|32|00} {bytes:0E|00|00|00|02|00|02|00|64|00}"
 "common.msbt.msbt/Cmn_DlgBody_ConfirmAppDisconnectLimited","Algunes funcionalitats no estan disponibles mentre el programa fa servir la comunicació sense fils.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Us voleu desconnectar?"
 "common.msbt.msbt/Cmn_DlgBtnLater","Més tard"
 "common.msbt.msbt/Cmn_DlgBtnSleep","Mode d'espera"
 "common.msbt.msbt/Cmn_DlgBtnReset","Reinicia"
-"common.msbt.msbt/Cmn_FooterKey_LR","{empty}"
+"common.msbt.msbt/Cmn_FooterKey_LR","{bytes:0E|00|00|00|02|00|02|00|46|00} {bytes:0E|00|00|00|02|00|02|00|64|00}/{bytes:0E|00|00|00|02|00|02|00|46|00} {bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0E|00|00|00|02|00|02|00|32|00} {bytes:0E|00|00|00|02|00|02|00|64|00}"
 "common.msbt.msbt/Cmn_Lang_CnSimpChinese","简体中文"
 "common.msbt.msbt/Cmn_BodyUrl_Address","{empty}"
 "common.msbt.msbt/Cmn_DlgBtnToShop","Nintendo eShop"
@@ -1066,9 +1054,11 @@ Espereu i no toqueu la consola ni el controlador mentre s'executa l'actualitzaci
 "dataErase.msbt.msbt/Der_SideHead_Need","Espai lliure necessari"
 "dataErase.msbt.msbt/Der_SideHead_Need2","{bytes:0E|00|00|00|02|00|02|00|5F|00}Allibereu espai a la memòria del sistema o a la targeta microSD.{bytes:0E|00|00|00|02|00|02|00|64|00}"
 "dataErase.msbt.msbt/Der_MeterTitle_Sd","Targeta microSD"
-"dataErase.msbt.msbt/Der_DlgBodyCapaOver","Encara que arxiveu programes, no hi haurà més de {bytes:0E|00|02|00|03|00|04|00|00|00|00|00} d'espai lliure a la memòria del sistema.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+"dataErase.msbt.msbt/Der_DlgBodyCapaOver","Encara que arxiveu programes, no hi haurà més de {bytes:0E|00|02|00|04|00|04|00|00|00|00|00} d'espai lliure a la memòria del sistema.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 A banda d'arxivar programes, suprimiu també partides desades, captures de pantalla i/o vídeos a  (Configuració del sistema) ⇒ Gestió de dades al menú HOME per a crear més espai lliure."
-"dataErase.msbt.msbt/Der_TitleAuto","{empty}"
+"dataErase.msbt.msbt/Der_TitleAuto","Voleu arxivar els següents programes per a alliberar espai?
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Només es mantindran les partides desades i la icona al menú HOME dels programes arxivats. Caldrà que torneu a descarregar els programes per a tornar-los a fer servir.
+També podeu moure dades mitjançant  (Configuració del sistema) ⇒ Gestió de dades.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "dataErase.msbt.msbt/Der_DlgBodyEnough","No cal que arxiveu dades en aquests moments,
 ja que hi ha prou espai lliure disponible."
 "dataErase.msbt.msbt/Der_DlgBodyCacheStorageFullNand","No hi ha prou espai lliure.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
@@ -1081,12 +1071,12 @@ Arxiveu programes per a fer espai."
 "dataErase.msbt.msbt/Der_MeterDetail_Picture","Captures de pantalla: {bytes:0E|00|02|00|0E|00|04|00|00|00|00|00}"
 "dataErase.msbt.msbt/Der_FooterText_Scoop","Suprimeix captures de pantalla i vídeos"
 "dataErase.msbt.msbt/Der_MeterTitle_Nand","Memòria del sistema"
-"dataErase.msbt.msbt/Der_MeterSizeDetail","{bytes:0E|00|02|00|03|00|04|00|00|00|00|00}"
-"dataErase.msbt.msbt/Der_BtnDataNand_MB","{bytes:0E|00|02|00|03|00|04|00|00|00|00|00} MB"
+"dataErase.msbt.msbt/Der_MeterSizeDetail","{bytes:0E|00|02|00|04|00|04|00|00|00|00|00}"
+"dataErase.msbt.msbt/Der_BtnDataNand_MB","{bytes:0E|00|02|00|04|00|04|00|00|00|00|00} MB"
 "dataErase.msbt.msbt/Der_DlgBodyCacheStorageFullSd","No hi ha prou espai lliure.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Necessitareu {bytes:0E|00|02|00|07|00|04|00|00|00|00|00} d'espai lliure a la targeta microSD.
 Arxiveu programes per a fer espai."
-"dataErase.msbt.msbt/Der_MeterSize","{bytes:0E|00|02|00|03|00|04|00|00|00|00|00}"
+"dataErase.msbt.msbt/Der_MeterSize","{bytes:0E|00|02|00|04|00|04|00|00|00|00|00}"
 "dataErase.msbt.msbt/Der_TextFromShop","Només es mantindran les partides desades i la icona al menú HOME dels programes arxivats. Caldrà que torneu a descarregar els programes per a tornar-los a fer servir."
 "dataErase.msbt.msbt/Der_MeterNoDevice","No inserida"
 "dataErase.msbt.msbt/Der_BtnDataDate_1Week","Hi vau jugar per darrer cop fa més d'una setmana"
@@ -1106,7 +1096,7 @@ Quan ja no resti espai lliure, els programes que no hàgiu fet servir recentment
 "dataErase.msbt.msbt/Der_SideHead_Open","Espai lliure disponible"
 "dataErase.msbt.msbt/Der_MeterUnitDetail_KB","{empty}"
 "dataErase.msbt.msbt/Der_BtnDataDate_1Year","Hi vau jugar per darrer cop fa més d'un any"
-"dataErase.msbt.msbt/Der_BtnDataNand_GB","{bytes:0E|00|02|00|03|00|04|00|00|00|00|00} GB"
+"dataErase.msbt.msbt/Der_BtnDataNand_GB","{bytes:0E|00|02|00|04|00|04|00|00|00|00|00} GB"
 "dataErase.msbt.msbt/Der_ListInfoAuto","{bytes:0E|00|02|00|01|00|04|00|00|00|00|00}"
 "dataErase.msbt.msbt/Der_MeterDetail_Movie","Vídeos: {bytes:0E|00|02|00|0E|00|04|00|00|00|00|00}"
 "dataErase.msbt.msbt/Der_MeterAside_Open","Espai disponible"
@@ -1124,7 +1114,7 @@ Quan ja no resti espai lliure, els programes que no hàgiu fet servir recentment
 "dataErase.msbt.msbt/Der_BtnDataDate_3Month","Hi vau jugar per darrer cop fa més de tres mesos"
 "dataErase.msbt.msbt/Der_BtnDataDate_6Month","Hi vau jugar per darrer cop fa més de sis mesos"
 "dataErase.msbt.msbt/Der_DlgBodyMicroSD","No hi haurà prou espai lliure encara que arxiveu programes.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
-Feu servir una targeta microSD amb {bytes:0E|00|02|00|03|00|04|00|00|00|00|00} o més d'espai lliure."
+Feu servir una targeta microSD amb {bytes:0E|00|02|00|04|00|04|00|00|00|00|00} o més d'espai lliure."
 "dataErase.msbt.msbt/Der_DlgBodyDeleteWait","S'estan arxivant programes..."
 "dataErase.msbt.msbt/Der_DlgBtn0UseAuto","Activa"
 "dataErase.msbt.msbt/Der_MeterUnit_TB","TB"
@@ -1135,7 +1125,7 @@ Arxiveu programes per a fer espai."
 "dataErase.msbt.msbt/Der_TextFromSet","Només es mantindran les partides desades i la icona al menú HOME dels programes arxivats. Caldrà que torneu a descarregar els programes per a tornar-los a fer servir."
 "dataErase.msbt.msbt/Der_BtnDataDate_NotPlay","No hi heu jugat mai"
 "dataErase.msbt.msbt/Der_MeterTitle_Nand2","Memòria del sistema"
-"dataErase.msbt.msbt/Der_BtnDataSize","{bytes:0E|00|02|00|03|00|04|00|00|00|00|00}"
+"dataErase.msbt.msbt/Der_BtnDataSize","{bytes:0E|00|02|00|04|00|04|00|00|00|00|00}"
 "dataErase.msbt.msbt/Der_HeaderTextSelect","Seleccioneu programes per a arxivar-los."
 "dataErase.msbt.msbt/Der_DlgBodyForMakeSave","No es poden crear partides desades perquè no hi ha prou espai lliure.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Arxiveu programes i allibereu {bytes:0E|00|02|00|07|00|04|00|00|00|00|00} o més d'espai lliure a la memòria del sistema."
@@ -2189,7 +2179,6 @@ en línia"
 "myPage.msbt.msbt/FrdCmn_Block_DlgBody_NoMoreBlock","La vostra llista d'usuaris blocats és plena.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Podeu gestionar-la a Configuració de l'usuari."
 "myPage.msbt.msbt/FrdFrdList_Empty_DlgBodyHelpAboutFrd","Seleccioneu Afegeix un amic o Suggeriments d'amistat per a començar a cercar amics i enviar-los peticions d'amistat!
-
 Podeu enviar peticions d'amistat a:{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 ・{bytes:0E|00|01|00|06|00|00|00}Amics del Super Mario Run i altres{bytes:0F|00|01|00|06|00}
 ・{bytes:0E|00|01|00|06|00|00|00}Amics del Facebook o del Twitter{bytes:0F|00|01|00|06|00}
@@ -2722,8 +2711,8 @@ Les dades suprimides es poden tornar a descarregar més tard."
 "overlayDisp.msbt.msbt/OvlFriendRequest_New","Heu rebut una petició d'amistat."
 "overlayDisp.msbt.msbt/OvlZoomGuide_HeaderZoom","Ampliació"
 "overlayDisp.msbt.msbt/OvlPlayTimer_Limit0","S'ha acabat el temps."
-"overlayDisp.msbt.msbt/Min_BtnWirelessSub_Off","{bytes:0E|00|00|00|02|00|02|00|64|00}Si activeu el mode d'avió, no podreu
-fer servir els controladors sense fils.{bytes:0E|00|00|00|02|00|02|00|64|00}"
+"overlayDisp.msbt.msbt/Min_BtnWirelessSub_Off","{bytes:0E|00|00|00|02|00|02|00|64|00}Si activeu el mode d'avió, no podreu fer
+servir els controladors sense fils.{bytes:0E|00|00|00|02|00|02|00|64|00}"
 "overlayDisp.msbt.msbt/OvlPlayTimer_Limit1","S'ha acabat el temps per avui."
 "overlayDisp.msbt.msbt/OvlParentalControlChange_Unlink","{bytes:0E|00|00|00|02|00|02|00|5B|00}S'ha desenllaçat l'aplicació de control parental.{bytes:0E|00|00|00|02|00|02|00|64|00}"
 "overlayDisp.msbt.msbt/OvlParentalControlChange_AlarmOff","{bytes:0E|00|00|00|02|00|02|00|5B|00}Les alarmes s'han desactivat només per a avui.{bytes:0E|00|00|00|02|00|02|00|64|00}"
@@ -2779,7 +2768,7 @@ Traieu la consola de les ulleres de RV {bytes:0E|00|01|00|04|00|00|00}Toy-Con{by
 "overlayDisp.msbt.msbt/Ctn_ExitSVMode","Ara s'acabarà {bytes:0E|00|02|00|07|00|04|00|00|00|00|00}.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Traieu la consola de {bytes:0E|00|02|00|07|00|04|00|01|00|00|00}, i després seleccioneu Tanca."
 "overlayDisp.msbt.msbt/OvlPhotoOk","S'ha fet una captura."
-"overlayDisp.msbt.msbt/OvlReservedSoftPlayable","A punt per a jugar-hi."
+"overlayDisp.msbt.msbt/OvlReservedSoftPlayable","A punt per a jugar-hi!"
 "overlayDisp.msbt.msbt/Slp_BodyNotice","Es tancarà el programa suspès."
 "overlayDisp.msbt.msbt/Slp_BtnOff","Apaga"
 "overlayDisp.msbt.msbt/OvlCoral_StartVoiceChat","Ha començat el xat de veu."
@@ -3143,7 +3132,7 @@ Executeu una actualització del sistema."
 "qlaunch.msbt.msbt/QlcSd_DlgBodyNotReady","La targeta microSD no està a punt per a ser utilitzada.
 Per a utilitzar-la, reinicieu la consola.
 {bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Per a reiniciar la consola més tard, obriu el menú d'alimentació (mantingueu premut el botó POWER durant tres segons) i seleccioneu Opcions d'alimentació ⇒ Reinicia.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
-"qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyUndeliveredTryLater","Encara no podeu jugar a aquest programa.
+"qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyUndeliveredTryLater","Encara no podeu jugar a aquest programa o contingut descarregable.
 Torneu-ho a provar més tard."
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyRightsNoRights3","Aquest usuari no pot jugar a aquest programa.
 Si no heu comprat el programa, podeu fer-ho a la Nintendo eShop.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
@@ -3173,7 +3162,7 @@ Necessitareu {bytes:0E|00|02|00|02|00|04|00|00|00|00|00} {bytes:0E|00|02|00|00|0
 Arxiveu programes per a fer espai."
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyPctlUnlock","Podeu desactivar temporalment el control parental al menú HOME."
 "qlaunch.msbt.msbt/QlcDl_DlgBtnPlayAsIs","Inicia el programa"
-"qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyNoRightsAoc","S'ha trobat contingut descarregable no jugable.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+"qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyNoRightsAoc","S'ha trobat contingut o dades d'actualització no utilitzables.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Caldrà que us connecteu a Internet i n'obtingueu més informació."
 "qlaunch.msbt.msbt/QlcChildLock_StateAlarmDisabled","Alarmes: Desactivades per a avui"
 "qlaunch.msbt.msbt/Rdt_Empty","Per a jugar a un joc podeu inserir un cartutx de joc o descarregar programes a la Nintendo eShop."
@@ -3226,7 +3215,7 @@ Voleu instal·lar-lo ara?"
 cal tancar aquest programa."
 "qlaunch.msbt.msbt/QlcDl_MeterHour","{empty}"
 "qlaunch.msbt.msbt/QlcDl_MeterSuspended","{empty}"
-"qlaunch.msbt.msbt/EntIcon_Promotion_d","Resta: {bytes:0E|00|02|00|0C|00|04|00|00|00|00|00} d {bytes:0E|00|02|00|0C|00|04|00|01|00|00|00} h"
+"qlaunch.msbt.msbt/EntIcon_Promotion_d","L'esdeveniment s'acaba d'aquí a {bytes:0E|00|02|00|0C|00|04|00|00|00|00|00} d {bytes:0E|00|02|00|0C|00|04|00|01|00|00|00} h"
 "qlaunch.msbt.msbt/EntLock_BtnIntro","Premeu el mateix botó tres vegades."
 "qlaunch.msbt.msbt/QlcDl_DlgBodyDlCancelled","S'ha cancel·lat la descàrrega.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 El contingut es pot tornar a descarregar de la Nintendo eShop.
@@ -3242,7 +3231,7 @@ Necessitareu {bytes:0E|00|02|00|02|00|04|00|00|00|00|00} {bytes:0E|00|02|00|00|0
 Arxiveu programes per a fer espai."
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyRightsLimitExceededAoC","Algun contingut descarregable no és jugable ara mateix.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 {bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Connecteu a Internet una altra consola Nintendo Switch enllaçada a aquest compte de Nintendo i torneu-ho a provar.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
-"qlaunch.msbt.msbt/EntIcon_Promotion_h","Resta: {bytes:0E|00|02|00|0C|00|04|00|00|00|00|00} h {bytes:0E|00|02|00|0C|00|04|00|01|00|00|00} min"
+"qlaunch.msbt.msbt/EntIcon_Promotion_h","L'esdeveniment s'acaba d'aquí a {bytes:0E|00|02|00|0C|00|04|00|00|00|00|00} h {bytes:0E|00|02|00|0C|00|04|00|01|00|00|00} min"
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyUpdateRequired","Cal instal·lar una actualització del programa.
 Ara es descarregaran les dades d'actualització."
 "qlaunch.msbt.msbt/Qlc_DlgBodyCacheStorageFullSd","El programa no es pot iniciar perquè no hi ha prou espai lliure.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
@@ -3261,7 +3250,7 @@ Voleu suprimir el contingut descarregable no jugable i iniciar el programa?"
 "qlaunch.msbt.msbt/EntAlarm_Btn_R",""
 "qlaunch.msbt.msbt/QlcDl_DlgBodyFatal","Es cancel·larà la descàrrega perquè s'ha produït un error.
 Torneu a iniciar la descàrrega des del començament."
-"qlaunch.msbt.msbt/EntIcon_Promotion_m","Resta {bytes:0E|00|02|00|0C|00|04|00|00|00|00|00} min"
+"qlaunch.msbt.msbt/EntIcon_Promotion_m","L'esdeveniment s'acaba d'aquí a {bytes:0E|00|02|00|0C|00|04|00|00|00|00|00} min"
 "qlaunch.msbt.msbt/QlcDl_DlgBtnStopInstall","Cancel·la l'actualització del programa"
 "qlaunch.msbt.msbt/RdtIcon_Promotion","Programes de Game Trials"
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodySystemUpdateRequiredToCheckRights","Cal instal·lar una actualització del sistema per a comprovar si aquest programa és usable."
@@ -3327,7 +3316,7 @@ Continueu descarregant quan s'hagi solucionat el problema."
 Voleu instal·lar-les ara?"
 "qlaunch.msbt.msbt/EntLock_BtnCancel","Endarrere"
 "qlaunch.msbt.msbt/Qlc_DlgBodySaveDataCreating","S'està preparant el programa..."
-"qlaunch.msbt.msbt/RdtIcon_Promotion_d","Resta: {bytes:0E|00|02|00|0C|00|04|00|00|00|00|00} d {bytes:0E|00|02|00|0C|00|04|00|01|00|00|00} h"
+"qlaunch.msbt.msbt/RdtIcon_Promotion_d","L'esdeveniment s'acaba d'aquí a {bytes:0E|00|02|00|0C|00|04|00|00|00|00|00} d {bytes:0E|00|02|00|0C|00|04|00|01|00|00|00} h"
 "qlaunch.msbt.msbt/QlcRebootApp_DlgBodyConfirmCaution","El programa que esteu fent servir es tancarà i la consola es reiniciarà.
 {bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Es perdran les dades que no hàgiu desat.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "qlaunch.msbt.msbt/QlcSd_DlgBodyNotReadyExFat","S'ha inserit una targeta de memòria microSDXC.
@@ -3336,13 +3325,13 @@ Per a fer servir aquesta targeta SD, executeu una actualització del sistema."
 "qlaunch.msbt.msbt/EntAlarm_BtnCancel","Tanca"
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyCheckRights","S'està comprovant si es pot jugar a aquest programa..."
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyRightsD1Only","Només es pot jugar a aquest programa a la vostra consola primària."
-"qlaunch.msbt.msbt/RdtIcon_Promotion_h","Resta: {bytes:0E|00|02|00|0C|00|04|00|00|00|00|00} h {bytes:0E|00|02|00|0C|00|04|00|01|00|00|00} min"
+"qlaunch.msbt.msbt/RdtIcon_Promotion_h","L'esdeveniment s'acaba d'aquí a {bytes:0E|00|02|00|0C|00|04|00|00|00|00|00} h {bytes:0E|00|02|00|0C|00|04|00|01|00|00|00} min"
 "qlaunch.msbt.msbt/QlcPctlCheck_DlgBtnAllowAlways","Afegeix a la llista blanca"
 "qlaunch.msbt.msbt/QlcDl_DlgBodySystemUpdate","{empty}"
 "qlaunch.msbt.msbt/QlcChangeUser_DlgBodyConfirmCaution","Per a canviar d'usuari, cal tancar aquest programa.
 {bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Es perdran les dades que no hàgiu desat.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "qlaunch.msbt.msbt/Rdt_FooterText_Option","Opcions"
-"qlaunch.msbt.msbt/RdtIcon_Promotion_m","Resta: {bytes:0E|00|02|00|0C|00|04|00|00|00|00|00} min"
+"qlaunch.msbt.msbt/RdtIcon_Promotion_m","L'esdeveniment s'acaba d'aquí a {bytes:0E|00|02|00|0C|00|04|00|00|00|00|00} min"
 "qlaunch.msbt.msbt/RdtIcon_UserChange","Canvia d'usuari"
 "qlaunch.msbt.msbt/EntAlarm_Btn_Home",""
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyPromotion","No es pot jugar a aquest programa fins a {bytes:0E|00|02|00|11|00|04|00|00|00|00|00}.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
@@ -3669,7 +3658,8 @@ support.nintendo.com"
 "setting.msbt.msbt/SetCntNet_BodySecurityWEP_Open","WEP (oberta)"
 "setting.msbt.msbt/SetCntHardware_DlgBodyLanguageRestartConfirm","Per tal de canviar de llengua, caldrà reiniciar la consola.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Es tancarà el programa suspès."
-"setting.msbt.msbt/SetCntSysFormatAgree_BodyCautionFormatSystem","Una vegada la consola s'hagi restaurat a la configuració de fàbrica, les dades suprimides no es podran recuperar. Esteu segur que voleu continuar?"
+"setting.msbt.msbt/SetCntSysFormatAgree_BodyCautionFormatSystem","Una vegada la consola s'hagi restaurat a la configuració de fàbrica, les dades suprimides no es podran recuperar. Esteu segur que voleu continuar?
+El procés tardarà una estona a completar-se."
 "setting.msbt.msbt/SetCntControllerStickCorrect_DlgBodyDisconnected","S'ha interromput la connexió amb el controlador."
 "setting.msbt.msbt/SetCntZoom_BodyQuickAccess","Quan aquesta opció estigui activada, podeu activar la funcionalitat d'ampliació prement ràpidament  dues vegades seguides."
 "setting.msbt.msbt/SetCntHardware_BtnVisualSupport_None","Per defecte"
@@ -4745,3 +4735,219 @@ Connecteu-vos amb amics mitjançant una aplicació específica al vostre telèfo
 "swkbd.msbt.msbt/SwkbdAddKeytop_EUEnglish","Anglès (Regne Unit)"
 "swkbd.msbt.msbt/SwkbdFooter_CapsLockOn_TraditionalChinese","Tot en majúscules"
 "swkbd.msbt.msbt/SwkbdFooter_CapsLockOff_Korean","Minúscules"
+"swkbd.msbt.msbt/SwkbdFooter_AltEnter_Confirm","D'acord"
+"swkbd.msbt.msbt/SwkbdFooter_NormalizeKeyboardSize","Mostra el teclat"
+"setting.msbt.msbt/SetCntSysUpdate_DlgBodyReadyLocalUpdate_NC","S'ha completat l'actualització.
+La consola es reiniciarà d'aquí a uns segons."
+"setting.msbt.msbt/SetFullDelImportant_BodyFormatSd_Complete_NC","S'ha formatat la targeta microSD.
+La consola es reiniciarà d'aquí a uns segons."
+"setting.msbt.msbt/SetCntController_BtnRemap","Canvia l'assignació de botons"
+"setting.msbt.msbt/SetCntDataMng_BtnDataMove","Mou dades entre la consola i la targeta microSD"
+"setting.msbt.msbt/SetCntNtf_DlgBodyRefreshError_NC","L'actualització ha fallat.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+La consola es reiniciarà d'aquí a uns segons."
+"setting.msbt.msbt/SetCntKeyConfig_DlgBodyReset","Tots els canvis que hàgiu fet a l'assignació de botons es desactivaran temporalment."
+"setting.msbt.msbt/SetCntSysUpdate_DlgBodyApplying_NC","S'ha completat l'actualització.
+La consola es reiniciarà d'aquí a uns segons."
+"setting.msbt.msbt/SetCntPlayerNAPlayLogSet_TitleHeader","Configuració de l'activitat de joc"
+"setting.msbt.msbt/SetCntSysFormatAgree_DlgBodyFormatComplete_NC","S'ha restaurat la configuració de fàbrica.
+La consola es reiniciarà d'aquí a uns segons."
+"setting.msbt.msbt/SetCntController_BodyRemap","Us permet canviar l'assignació dels botons de cada controlador. Podeu desar les assignacions que feu servir sovint com a configuracions predefinides que després podreu carregar."
+"setting.msbt.msbt/SetCntSysUpdate_MeterUpdating_Undecided","Resta: --- min"
+"setting.msbt.msbt/SetCntPlayerNA_BtnPlayLogSet","Configuració de l'activitat de joc"
+"setting.msbt.msbt/SetCntNtf_DlgBodyRefreshApplying_NC","S'ha completat l'actualització.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+La consola es reiniciarà d'aquí a uns segons."
+"setting.msbt.msbt/SetFullDelImportant_BodyFormatSd_Failure_NC","No s'ha pogut formatar la targeta microSD.
+La consola es reiniciarà d'aquí a uns segons."
+"setting.msbt.msbt/SetCntSysUpdate_DlgBodyErrReboot","No s'ha pogut executar l'actualització del sistema.
+La consola es reiniciarà d'aquí a uns segons."
+"qlaunch.msbt.msbt/RdtIcon_Promotion_Preload","L'esdeveniment encara no ha començat."
+"qlaunch.msbt.msbt/EntLock_BtnCancel_B",""
+"qlaunch.msbt.msbt/QlcKeyRemap_DlgBodyResetDone","S'ha restablert l'assignació de botons del controlador."
+"qlaunch.msbt.msbt/QlcKeyRemap_DlgBtnReset","Restableix l'assignació de botons"
+"qlaunch.msbt.msbt/QlcKeyRemap_DlgBodyReset","Un o més controladors tenen una assignació de botons personalitzada.
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Podeu retornar l'assignació de botons a la configuració per defecte seleccionant ""Restableix l'assignació de botons"". Si no podeu fer servir un controlador per a seleccionar aquesta opció, proveu de fer servir la pantalla tàctil. {bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+"qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyPrePurchasedAoC","La consola farà servir Internet per a comprovar si es pot jugar al contingut descarregable."
+"qlaunch.msbt.msbt/QlcKeyRemap_DlgBtnUseAsIs","Mantén la configuració actual"
+"qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyPromotionPreload","L'esdeveniment Game Trials d'aquest programa començarà el {bytes:0E|00|02|00|11|00|04|00|00|00|00|00}.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+En voleu veure més informació detallada a la Nintendo eShop?"
+"overlayDisp.msbt.msbt/OvlPromotion_Start","{bytes:0E|00|00|00|02|00|02|00|5B|00}Ara podeu jugar a
+aquest programa!{bytes:0E|00|00|00|02|00|02|00|64|00}"
+"overlayDisp.msbt.msbt/OvlReservedAoCPlayable","El DLC està llest per a jugar-hi!"
+"overlayDisp.msbt.msbt/OvlDownloadFinishReserveAoC_P2","{bytes:0E|00|00|00|02|00|02|00|5B|00}Llest per a jugar-hi
+el dia del llançament.{bytes:0E|00|00|00|02|00|02|00|64|00}"
+"option.msbt.msbt/OptCntUpdate_AsideInternet","Si el contingut descarregable no és utilitzable fins i tot després d'actualitzar, torneu-lo a descarregar a la Nintendo eShop."
+"notification.msbt.msbt/Ntf_DlgBody_BookmarkFull","No podeu afegir més articles a preferits."
+"notification.msbt.msbt/NtfBookmark_NoRegistration","Si afegiu articles a preferits, es mostraran aquí."
+"notification.msbt.msbt/NtfViewer_BtnBookmark","Preferit"
+"notification.msbt.msbt/NtfViewerF_Bookmark","Llista de preferits"
+"notification.msbt.msbt/NtfViewer_Expired","Aquest article ha caducat."
+"notification.msbt.msbt/NtfBookmark_Expired","Aquest article ha caducat."
+"maintenance.msbt.msbt/MntCntSysFormat_DlgBodyQuickFormat","S'executarà una neteja ràpida de les dades de la memòria del sistema.
+Algunes dades no se suprimiran."
+"maintenance.msbt.msbt/MntFullDelImportant_DlgBodyFormatWithoutSaveComplete_NC","S'ha restaurat la configuració de fàbrica.
+La consola es reiniciarà d'aquí a uns segons."
+"interrupt.msbt.msbt/ItpAoCNotFoundOnLaunch_Body","No s'ha pogut trobar el contingut descarregable necessari.
+Torneu a baixar el contingut a la Nintendo eShop."
+"gift.msbt.msbt/Gft_DlgBodyReboot_NC","S'ha completat l'actualització.
+La consola es reiniciarà d'aquí a uns segons."
+"dataErase.msbt.msbt/Dem_DlgBodyDataCorrupted","S'han detectat dades corruptes.
+Executeu una comprovació de dades corruptes."
+"dataErase.msbt.msbt/Dem_DlgBodyNoData","No hi ha cap programa."
+"dataErase.msbt.msbt/Dem_TextFullStorageNAND","No hi ha prou espai lliure."
+"dataErase.msbt.msbt/Dem_BtnMove","Mou les dades"
+"dataErase.msbt.msbt/Dem_NoSpace","No hi ha prou espai lliure."
+"dataErase.msbt.msbt/Dem_TextFromSet","Les partides desades i algunes dades d'actualitzacions no es poden moure."
+"dataErase.msbt.msbt/Dem_HeaderTextSelect2SdCard","Seleccioneu programes que vulgueu moure a la targeta microSD."
+"dataErase.msbt.msbt/Dem_TitleManual","Es mouran els següents programes.
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Les partides desades i algunes dades d'actualitzacions no es poden moure.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+"dataErase.msbt.msbt/Dem_DlgBodyNoMovableSoft","No hi ha cap programa que es pugui moure.
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}No podeu moure programes als quals estigueu jugant o que estigueu descarregant. Les partides desades i algunes dades d'actualitzacions no es poden moure.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+"dataErase.msbt.msbt/Dem_BtnAutoMove","Mou"
+"dataErase.msbt.msbt/Dem_TextWarning","No podeu moure programes als quals estigueu jugant o que estigueu descarregant.
+Les partides desades i algunes dades d'actualitzacions no es poden moure.
+Quan els programes s'actualitzen, és possible que les dades es desin en una ubicació diferent de la destinació on les mogueu."
+"dataErase.msbt.msbt/Dem_BtnToNAND","Mou a la memòria del sistema"
+"dataErase.msbt.msbt/Dem_DlgBodyMoveComplete","S'ha mogut."
+"dataErase.msbt.msbt/Dem_DlgBodyDeleteDownloadTask","S'estan baixant dades del programa.
+Si moveu les partides desades, es cancel·larà la descàrrega.
+Per a tornar a descarregar les dades del programa, obriu el menú Opcions seleccionant la icona del programa al menú HOME i prement , i a continuació seleccioneu Actualització del programa."
+"dataErase.msbt.msbt/Dem_BtnToSD","Mou a la targeta microSD"
+"dataErase.msbt.msbt/Dem_NoMovableData","No hi ha dades que es puguin moure."
+"dataErase.msbt.msbt/Dem_TextNoMovableSoft","No hi ha cap programa que es pugui moure."
+"dataErase.msbt.msbt/Dem_DlgBodyMoveWait","S'està movent el programa..."
+"dataErase.msbt.msbt/Dem_TextFullStorageSD","No hi ha prou espai lliure."
+"dataErase.msbt.msbt/Dem_HeaderTextSelect2Nand","Seleccioneu els programes que voleu moure a la memòria del sistema."
+"dataErase.msbt.msbt/Dem_HeaderTextSelectStorage","Mou dades entre la consola i la targeta microSD"
+"dataErase.msbt.msbt/Dem_ExistDownloadTask","S'està descarregant..."
+"dataErase.msbt.msbt/Dem_TextNoSoftSD","No hi ha cap programa."
+"dataErase.msbt.msbt/Dem_TextNoSoftNAND","No hi ha cap programa."
+"dataErase.msbt.msbt/Dem_DlgBodyNoStorage","No hi ha prou espai lliure per a moure el programa.
+Caldrà que allibereu espai arxivant dades."
+"dataErase.msbt.msbt/Dem_SoftPlaying","No podeu moure programes que esteu fent servir."
+"controller.msbt.msbt/Ctrl_Remap_Edit_Btn_Finish","Fet"
+"controller.msbt.msbt/Ctrl_Remap_Load_Header","Seleccioneu la configuració predefinida que voleu carregar."
+"controller.msbt.msbt/Ctrl_Remap_Preview_StickVectorChange","S'ha canviat l'orientació"
+"controller.msbt.msbt/Ctrl_Remap_DlgBody_NoController","No s'ha trobat cap controlador.
+Connecteu un o més controladors i torneu-ho a provar."
+"controller.msbt.msbt/Ctrl_Remap_Edit_Body_ErrorDemand_JoyR","Tant  com  han d'estar
+assignats a un botó del
+Joy-Con (dret)."
+"controller.msbt.msbt/Ctrl_Remap_Detail_Result_StickChange_On","Sí"
+"controller.msbt.msbt/Ctrl_Remap_Detail_Btn_ChangeToRStick","Canvia a la palanca dreta"
+"controller.msbt.msbt/Ctrl_Remap_Detail_Btn_ChangeToLStick","Canvia a la palanca esquerra"
+"controller.msbt.msbt/Ctrl_Remap_Select_Btn_Load","Carrega una configuració predefinida"
+"controller.msbt.msbt/Ctrl_Help_DlgHeaderRemap","S'ha canviat l'assignació de botons?"
+"controller.msbt.msbt/Ctrl_Remap_DlgBtn_Reset","Restableix"
+"controller.msbt.msbt/Ctrl_Remap_DlgBody_LoadFinish","S'ha carregat la configuració de l'assignació de botons.
+Si hi ha altres persones que fan servir aquest controlador, assegureu-vos d'informar-los dels canvis."
+"controller.msbt.msbt/Ctrl_Remap_Save_Header","Seleccioneu un espai on vulgueu desar la configuració."
+"controller.msbt.msbt/Ctrl_Remap_Save_BodyEmpty","Si deseu la configuració de l'assignació de botons a un espai de configuració predefinida, podeu seleccionar ""Carrega una configuració predefinida"" per a canviar la configuració fàcilment."
+"controller.msbt.msbt/Ctrl_Remap_Select_Body_Out","No es pot canviar"
+"controller.msbt.msbt/Ctrl_Remap_DlgBtn_Overwrite","Sobreescriu"
+"controller.msbt.msbt/Ctrl_Remap_Load_BodyEmpty","No hi ha cap configuració predefinida."
+"controller.msbt.msbt/Ctrl_Remap_Button_List_Body_ForJoyCon","Si voleu assignar el botó seleccionat a una de les següents opcions,
+feu servir la subjecció amb dos comandaments."
+"controller.msbt.msbt/Ctrl_Remap_Button_List_Header","Seleccioneu quina opció voleu assignar a {bytes:0E|00|02|00|08|00|04|00|00|00|00|00}."
+"controller.msbt.msbt/Ctrl_Remap_Select_Body_Console","Acoblat"
+"controller.msbt.msbt/Ctrl_Remap_Select_Btn_Reset","Restableix"
+"controller.msbt.msbt/Ctrl_Remap_Select_Body_NoChange","No es pot canviar l'assignació de botons en aquest controlador."
+"controller.msbt.msbt/Ctrl_Remap_LoadSave_Delete_DlgBtn","Suprimeix"
+"controller.msbt.msbt/Ctrl_Remap_Select_Btn_Save","Desa com a configuració predefinida"
+"controller.msbt.msbt/Ctrl_Remap_LoadSave_Delete_DlgBody","Se suprimirà aquesta configuració."
+"controller.msbt.msbt/Ctrl_Remap_DlgBody_CheckOverwrite","Se sobreescriurà aquesta configuració."
+"controller.msbt.msbt/Ctrl_Remap_DlgBody_CheckBack","Voleu tornar endarrere sense fer cap canvi?"
+"controller.msbt.msbt/Ctrl_Remap_Detail_Comment_Rotate","Opció per als programes dissenyats perquè el Joy-Con s'agafi en horitzontal. Si s'activa l'opció, fa més fàcil fer servir el controlador en vertical."
+"controller.msbt.msbt/Ctrl_Remap_Detail_Btn_Rotate","Canvia l'orientació"
+"controller.msbt.msbt/Ctrl_Remap_DlgBody_Disconnect_Editing","S'ha perdut la connexió amb el controlador.
+Assegureu-vos que el controlador estigui connectat i torneu-ho a provar."
+"controller.msbt.msbt/Ctrl_Remap_Detail_Result_Rotate_Off","No"
+"controller.msbt.msbt/Ctrl_Remap_Select_Body_SwitchLite","Sistema"
+"controller.msbt.msbt/Ctrl_Remap_DlgBody_Finish","S'ha canviat l'assignació dels botons.
+Si hi ha altres persones que fan servir aquest controlador, assegureu-vos d'informar-los dels canvis."
+"controller.msbt.msbt/Ctrl_Remap_DlgBody_SaveFinish","S'ha desat la configuració."
+"controller.msbt.msbt/Ctrl_Remap_Select_Body_ProCon","Controlador Pro"
+"controller.msbt.msbt/Ctrl_Remap_Select_Header","Assignació de botons"
+"controller.msbt.msbt/Ctrl_Remap_Edit_Btn_ViewV","Mostra en vertical"
+"controller.msbt.msbt/Ctrl_Remap_LoadSave_Delete_Footer","Suprimeix la configuració"
+"controller.msbt.msbt/Ctrl_Remap_Detail_Result_Rotate_On","Sí"
+"controller.msbt.msbt/Ctrl_Remap_Edit_Body_ErrorDemand","Tant  com  han d'estar
+assignats a algun botó."
+"controller.msbt.msbt/Ctrl_Remap_Detail_Result_StickChange_Off","No"
+"controller.msbt.msbt/Ctrl_Remap_Select_Body_JoyConR","Joy-Con (dret)"
+"controller.msbt.msbt/Ctrl_Help_DlgBodyRemap","{bytes:0E|00|00|00|02|00|02|00|64|00}Podeu canviar l'assignació de botons a  (Configuració del sistema) ⇒ Controladors i sensors, a través del menú HOME.{bytes:0E|00|00|00|02|00|02|00|64|00}"
+"controller.msbt.msbt/Ctrl_Remap_Edit_Btn_Detail","Configuració de les
+palanques de control"
+"controller.msbt.msbt/Ctrl_Remap_Edit_Btn_ViewH","Mostra en horitzontal"
+"controller.msbt.msbt/Ctrl_Remap_Select_Body_JoyConL","Joy-Con (esquerre)"
+"controller.msbt.msbt/Ctrl_Remap_Detail_Body_RStick","Palanca dreta"
+"controller.msbt.msbt/Ctrl_Remap_DlgBody_Disconnect","No s'ha pogut canviar l'assignació de botons.
+Assegureu-vos que el controlador estigui connectat i torneu-ho a provar."
+"controller.msbt.msbt/Ctrl_Remap_Detail_Body_LStick","Palanca esquerra"
+"controller.msbt.msbt/Ctrl_Remap_DlgBody_CheckReset","Es restablirà l'assignació de botons."
+"controller.msbt.msbt/Ctrl_Remap_Edit_Header","Canvia l'assignació de botons"
+"controller.msbt.msbt/Ctrl_Remap_Detail_Comment_ChangeStick","Si voleu fer aquest canvi, feu servir la subjecció amb dos comandaments."
+"controller.msbt.msbt/Ctrl_Remap_Select_Btn_Edit","Canvia"
+"common.msbt.msbt/Cmn_FooterKey_AltEsc","[Alt+Esc]"
+"common.msbt.msbt/Cmn_FooterKey_AltEnter","[Alt+Retorn]"
+"common.msbt.msbt/Cmn_FooterKey_AltBackspace","[Alt+Retrocés]"
+"button.msbt.msbt/Button_Name_None","Desactiva"
+"button.msbt.msbt/Button_Pict_Arrow_R",""
+"button.msbt.msbt/Button_Pict_X",""
+"button.msbt.msbt/Button_Name_ZL","Botó ZL"
+"button.msbt.msbt/Button_Name_Y","Botó Y"
+"button.msbt.msbt/Button_Pict_Plus",""
+"button.msbt.msbt/Button_Name_Arrow_L","Botó Esquerra"
+"button.msbt.msbt/Button_Name_X","Botó X"
+"button.msbt.msbt/Button_Pict_Home",""
+"button.msbt.msbt/Button_Pict_SR",""
+"button.msbt.msbt/Button_Pict_R",""
+"button.msbt.msbt/Button_Pict_Arrow_L",""
+"button.msbt.msbt/Button_Name_SR","Botó SR"
+"button.msbt.msbt/Button_Pict_Minus",""
+"button.msbt.msbt/Button_Name_R","Botó R"
+"button.msbt.msbt/Button_Pict_Capture",""
+"button.msbt.msbt/Button_Pict_Stick_R",""
+"button.msbt.msbt/Button_Name_Arrow_D","Botó Avall"
+"button.msbt.msbt/Button_Name_Minus","Botó －"
+"button.msbt.msbt/Button_Pict_SL",""
+"button.msbt.msbt/Button_Name_Stick_R_Push","Palanca dreta
+premuda"
+"button.msbt.msbt/Button_Pict_L",""
+"button.msbt.msbt/Button_Name_SL","Botó SL"
+"button.msbt.msbt/Button_Name_Plus","Botó +"
+"button.msbt.msbt/Button_Name_L","Botó L"
+"button.msbt.msbt/Button_Pict_Arrow_D",""
+"button.msbt.msbt/Button_Pict_Stick_L",""
+"button.msbt.msbt/Button_Pict_None",""
+"button.msbt.msbt/Button_Name_Home","Botó HOME"
+"button.msbt.msbt/Button_Name_Capture","Botó Captura"
+"button.msbt.msbt/Button_Name_Stick_R","Palanca dreta"
+"button.msbt.msbt/Button_Name_Stick_L_Push","Palanca esquerra
+premuda"
+"button.msbt.msbt/Button_Pict_Stick_L_Push",""
+"button.msbt.msbt/Button_Name_Arrow_U","Botó Amunt"
+"button.msbt.msbt/Button_Pict_ZR",""
+"button.msbt.msbt/Button_Pict_B",""
+"button.msbt.msbt/Button_Pict_A",""
+"button.msbt.msbt/Button_Name_Stick_L","Palanca esquerra"
+"button.msbt.msbt/Button_Name_ZR","Botó ZR"
+"button.msbt.msbt/Button_Name_B","Botó B"
+"button.msbt.msbt/Button_Name_Arrow_R","Botó Dreta"
+"button.msbt.msbt/Button_Name_A","Botó A"
+"button.msbt.msbt/Button_Pict_Arrow_U",""
+"button.msbt.msbt/Button_Pict_Stick_R_Push",""
+"button.msbt.msbt/Button_Pict_ZL",""
+"button.msbt.msbt/Button_Pict_Y",""
+"Cruiser.msbt/CrsWifiWebAuth_AutomaticterminationDlgBody","Es tancarà aquesta pantalla."
+"setting.msbt.msbt/SetCntPlayerNAFrdSnsUnlink_DlgBodyUnlinkComplete_T","{empty}"
+"setting.msbt.msbt/SetCntPlayerNAFrdSnsUnlink_BodyUnlinkExplain_T","{empty}"
+"setting.msbt.msbt/SetCntPlayerNAFrdSnsUnlink_BodyWc","{empty}"
+"myPage.msbt.msbt/FrdFrdRec_WCFrd_WCNotLinked_BtnNext","{empty}"
+"myPage.msbt.msbt/FrdFrdRec_WCFrd_WCLoginError_Body","{empty}"
+"myPage.msbt.msbt/FrdFrdRec_WCFrd_WCNotLinked_Body","{empty}"
+"myPage.msbt.msbt/FrdFrdRec_WCFrd_LoadingFailure","{empty}"
+"myPage.msbt.msbt/FrdAddRec_WCFrd_NoConnection","{empty}"
+"myPage.msbt.msbt/FrdFrdRec_WCFrd_WCLoginError_BtnNext","{empty}"
+"myPage.msbt.msbt/FrdDetail_SubInfoWCFriend","{empty}"
+"myPage.msbt.msbt/FrdReqReceived_SubInfo_WC","{empty}"
+"myPage.msbt.msbt/FrdFrdRec_WCFrd_Empty_Body","{empty}"

@@ -56,6 +56,7 @@ mkdir -p $DSTDIR/0100000000001002/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/cab
 mkdir -p $DSTDIR/0100000000001002/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/common_$LANGFULL.msbt.szs $DSTDIR/0100000000001002/romfs/message/$LANGFULL/common.msbt.szs
 
 #0100000000001003 "controller" applet
+mkdir -p $DSTDIR/0100000000001003/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/button.msbt.szs "$_"
 mkdir -p $DSTDIR/0100000000001003/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/common_$LANGFULL.msbt.szs $DSTDIR/0100000000001003/romfs/message/$LANGFULL/common.msbt.szs
 mkdir -p $DSTDIR/0100000000001003/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/controller.msbt.szs "$_"
 

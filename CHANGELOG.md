@@ -1,5 +1,18 @@
 # Registre de canvis
 
+## 2.1.0 - 2020-08-15
+### Versió del sistema
+- **Versió 10.1.0. Altres versions no estan suportades.**
+### Canvis
+- Actualització a la darrera versió del sistema i traducció dels components nous.
+
+## 2.0.0 - 2020-05-16
+### Versió del sistema
+- **Versió 10.0.2. Altres versions no estan suportades.**
+### Canvis
+- Actualització a la darrera versió del sistema i traducció dels components nous.
+
+
 ## 1.0.1 - 2020-02-14
 ### Versió del sistema
 - **Versió 9.1.0. Altres versions no estan suportades.**

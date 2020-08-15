@@ -8,13 +8,13 @@ Ara ja podeu posar la interfície de la vostra Nintendo Switch en català!
 
 Modificar la consola i instal·lar-hi pedaços que la modifiquin pot fer que Nintendo us prohibeixi l'accés als serveis en línia (incloent-hi el joc en línia, la Nintendo eShop i les funcionalitats d'amistat). Si bé és cert que normalment no passa si us manteniu dintre de la legalitat, no es pot descartar del tot. Si instal·leu aquesta traducció, assumiu aquesta possibilitat.
 
-**La traducció només s'ha provat amb la versió del sistema 9.1.0 o 9.2.0.**
+**La traducció només s'ha provat amb la versió del sistema 10.1.0.**
 
-Si la proveu amb qualsevol altra versió, no en garantim el correcte funcionament, i poden aparèixer errors que facin inutilitzable la consola. És possible que la traducció funcioni amb versions anteriors del sistema operatiu, però probablement no funcionarà amb versions posteriors a la 9.2.0. Si hi ha una nova actualització del sistema, espereu a la publicació de l'actualització de la traducció o desinstal·leu-la abans d'actualitzar el sistema.
+Si la proveu amb qualsevol altra versió, no en garantim el correcte funcionament, i poden aparèixer errors que facin inutilitzable la consola. És possible que la traducció funcioni amb versions anteriors del sistema operatiu, però probablement no funcionarà amb versions posteriors a la 10.1.0. Si hi ha una nova actualització del sistema, espereu a la publicació de l'actualització de la traducció o desinstal·leu-la abans d'actualitzar el sistema.
 
 ## Com puc instal·lar-la?
 * **No totes les consoles són compatibles**, cal que tingueu una Nintendo Switch que pugui executar *homebrew*. Consulteu [aquesta guia](https://switch.homebrew.guide/gettingstarted/beforestarting) amb indicacions de com podeu arribar a executar *homebrew*.
-* Heu de tenir instal·lat [Atmosphère](https://github.com/Atmosphere-NX/Atmosphere) versió 0.10.0 o superior, o un sistema similar que faci servir LayeredFS.
+* Heu de tenir instal·lat [Atmosphère](https://github.com/Atmosphere-NX/Atmosphere) versió 0.12.0 o superior, o un sistema similar que faci servir LayeredFS.
 * Apagueu completament la consola, extraieu-ne la targeta microSD, inseriu-la a l'ordinador i extraieu el contingut de la baixada directament dins de la carpeta "atmosphere" de la targeta microSD. Torneu a inserir-la a la consola i torneu-la a engegar. També podeu fer servir [FTP](https://github.com/mtheall/ftpd) per a evitar extreure i inserir la targeta microSD.
 * Ja podeu gaudir de la Nintendo Switch en català!
 
@@ -25,10 +25,13 @@ Si la proveu amb qualsevol altra versió, no en garantim el correcte funcionamen
 * Encara que un joc tingui disponible el català de manera oficial al menú de selecció de llengua, per defecte es mostrarà en la llengua original de la consola, com en una Nintendo Switch sense traduir.
 * Si voleu tornar a veure la interfície de la consola en la llengua original, caldrà que esborreu els fitxers que heu copiat a la targeta microSD.
 
+### Problemes coneguts
+* En accedir a l'apartat "Assistència" de la configuració, o en mostrar detalls de qualsevol error, la consola es congela durant uns segons. Això passa a causa del retard en llegir els fitxers modificats de la targeta microSD. Depèn de la implementació de LayeredFS, i no creiem que sigui solucionable. Si voleu eliminar el retard, elimineu la carpeta "0100000000000801" de la carpeta "contents" de l'Atmosphère. En aquest cas, els errors es mostraran en la llengua original de la consola.
+* En general, és possible que el sistema funcioni amb una mica més de lentitud, causada per aquest mateix motiu: l'accés a la targeta microSD en lloc de la memòria interna.
+
 ### Què no s'ha traduït?
 * La Nintendo eShop (és un servei en línia).
 * L'enllaç de comptes de xarxes socials (és un servei en línia).
-* Alguns dels missatges d'error relacionats amb la Nintendo eShop.
 * Algunes imatges (promocions de Nintendo Switch Online i de l'aplicació Control parental de la Nintendo Switch o les captures de pantalla d'exemple a la transferència d'usuaris).
 * Si configureu la consola de zero, la llista de llengües de la primera pantalla mostrarà el nom de la llengua original. La resta de pantalles es mostraran ja en català.
 

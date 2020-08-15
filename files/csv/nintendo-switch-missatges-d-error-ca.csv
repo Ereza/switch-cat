@@ -44,7 +44,7 @@ Abans d'inserir o extreure la targeta microSD, apagueu la consola a les Opcions 
 "error_codes/2016/0408/lang_DlgBtn","D'acord"
 "error_codes/2016/0408/lang_DlgMsg","El cartutx de joc no està inserit."
 "error_codes/2016/0415/lang_DlgBtn","D'acord"
-"error_codes/2016/0415/lang_DlgMsg","No podeu obtenir punts per aquest programa al país/regió definits al vostre Compte Nintendo."
+"error_codes/2016/0415/lang_DlgMsg","No podeu obtenir punts per aquest programa al país/regió definits al vostre compte de Nintendo."
 "error_codes/2016/0600/lang_DlgBtn","D'acord"
 "error_codes/2016/0600/lang_DlgMsg","S'han trobat dades corruptes."
 "error_codes/2016/0610/lang_DlgBtn","D'acord"
@@ -314,7 +314,7 @@ Torneu a iniciar la sessió a Suggeriments d'amistat a la vostra pàgina d'usuar
 "error_codes/2121/9997/lang_DlgBtn","Detalls
 Tanca"
 "error_codes/2121/9997/lang_DlgMsg","S'ha produït un error de comunicació amb el servidor.
-Torneu-ho a provar més tardr."
+Torneu-ho a provar més tard."
 "error_codes/2121/9998/lang_DlgBtn","Detalls
 Tanca"
 "error_codes/2121/9998/lang_DlgMsg","S'ha produït un error de comunicació.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
@@ -925,7 +925,7 @@ Torneu-ho a provar més tard."
 "error_codes/2307/2107/lang_DlgBtn","D'acord"
 "error_codes/2307/2107/lang_DlgMsg","Cal l'aplicació Nintendo Switch Online per a fer servir el xat de veu."
 "error_codes/2307/2116/lang_DlgBtn","D'acord"
-"error_codes/2307/2116/lang_DlgMsg","Actualment, l'ús dels serveis en línia està restringit per Nintendo."
+"error_codes/2307/2116/lang_DlgMsg","Actualment, l'ús del l'aplicació Nintendo Switch Online amb el vostre compte de Nintendo està restringit per Nintendo."
 "error_codes/2307/9998/lang_DlgBtn","Detalls
 Tanca"
 "error_codes/2307/9998/lang_DlgMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
@@ -1301,3 +1301,672 @@ support.nintendo.com/switch/error"
 "error_codes/Messages/lang_Close","Tanca"
 "error_codes/Messages/lang_Detail","Detalls"
 "error_codes/Messages/lang_Ok","D'acord"
+"error_codes/2999/0011/lang_DlgMsg","S'ha produït un error de comunicació amb el servidor.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2999/0011/lang_DlgBtn","D'acord"
+"error_codes/2999/0010/lang_FlvMsg","Si el problema continua, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2999/0010/lang_DlgMsg","S'ha produït un error de comunicació amb el servidor.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2999/0010/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2999/0009/lang_FlvMsg","Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, proveu d'executar una actualització del sistema a  (Configuració del sistema) ⇒ Sistema al menú HOME.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si això no soluciona el problema, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2999/0007/lang_FlvMsg","Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2999/0006/lang_FlvMsg","Vegeu el lloc web d'assistència de Nintendo per a informació de l'estat de la xarxa i manteniment programat.
+support.nintendo.com/switch/error"
+"error_codes/2999/0003/lang_FlvMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, proveu d'executar una actualització del sistema a
+ (Configuració del sistema) ⇒ Sistema al menú HOME.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si això no soluciona el problema, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2819/0001/lang_FlvMsg","Com que aquesta consola no està definida com a consola primària, només es pot jugar als programes descarregats i al contingut descarragable mentre la consola està connectada a Internet.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Visiteu el lloc web d'assistència de Nintendo per a més informació.
+support.nintendo.com/switch/error"
+"error_codes/2815/9999/lang_FlvMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2815/9998/lang_FlvMsg","Si el problema continua, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2802/3002/lang_FlvMsg","No es pot accedir a la targeta microSD.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Apagueu la consola i torneu a inserir
+la targeta microSD.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Podeu apagar la consola a les Opcions d'alimentació del menú d'alimentació (mantingueu premut el botó POWER durant tres segons).{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2802/3001/lang_FlvMsg","No es pot accedir a la memòria del sistema.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Reinicieu la consola a les Opcions d'alimentació del menú d'alimentació (mantingueu premut el botó POWER durant tres segons) i torneu-ho a provar.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2801/9999/lang_FlvMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2801/9996/lang_FlvMsg","Si el problema continua, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2801/7081/lang_FlvMsg","Vegeu el lloc web d'assistència de Nintendo per a informació de l'estat de la xarxa i manteniment programat.
+support.nintendo.com/switch/error"
+"error_codes/2801/7080/lang_FlvMsg","Vegeu el lloc web d'assistència de Nintendo per a informació de l'estat de la xarxa i manteniment programat.
+support.nintendo.com/switch/error"
+"error_codes/2623/9999/lang_FlvMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2623/9000/lang_FlvMsg","Vegeu el lloc web d'assistència de Nintendo per a informació de l'estat de la xarxa i manteniment programat.
+support.nintendo.com/switch/error"
+"error_codes/2623/1010/lang_FlvMsg","S'ha produït un error de comunicació.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+És possible que la xarxa estigui ocupada o que la intensitat del senyal sense fils sigui feble.
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema, continua, és possible que pugueu augmentar la intensitat del senyal de les següents maneres:
+・{bytes:0E|00|01|00|06|00|00|00}Acosteu la consola al dispositiu de xarxa.{bytes:0F|00|01|00|06|00}
+・{bytes:0E|00|01|00|06|00|00|00}Elimineu els obstacles que hi pugui haver entre el dispositiu de xarxa i la consola.{bytes:0F|00|01|00|06|00}"
+"error_codes/2623/1009/lang_FlvMsg","S'ha produït un error de comunicació.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2623/1007/lang_FlvMsg","No s'ha pogut connectar amb el servidor.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2623/1005/lang_FlvMsg","S'ha produït un error de comunicació.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si ho torneu a provar i encara no us podeu connectar, és possible que no hàgiu introduït correctament la configuració dels DNS o del servidor intermediari.
+Reviseu la configuració mitjançant el menú HOME ⇒  (Configuració del sistema) ⇒ Internet.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si la configuració és correcta, proveu de reiniciar la consola a les Opcions d'alimentació del menú d'alimentació (mantingueu premut el botó POWER durant tres segons).{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si feu servir una connexió sense fils, és possible que la intensitat del senyal sense fils sigui feble.
+Proveu les següents solucions:
+・{bytes:0E|00|01|00|06|00|00|00}Acosteu la consola al dispositiu de xarxa.{bytes:0F|00|01|00|06|00}
+・{bytes:0E|00|01|00|06|00|00|00}Elimineu els obstacles que hi pugui haver entre el dispositiu de xarxa i la consola.{bytes:0F|00|01|00|06|00}"
+"error_codes/2622/9999/lang_FlvMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2622/1502/lang_FlvMsg","Vegeu el lloc web d'assistència de Nintendo per a informació de l'estat de la xarxa i manteniment programat.
+support.nintendo.com/switch/error"
+"error_codes/2621/9999/lang_FlvMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2621/1202/lang_FlvMsg","Vegeu el lloc web d'assistència de Nintendo per a informació de l'estat de la xarxa i manteniment programat.
+support.nintendo.com/switch/error"
+"error_codes/2620/9999/lang_FlvMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2620/3698/lang_FlvMsg","Vegeu el lloc web d'assistència de Nintendo per a informació de l'estat de la xarxa i manteniment programat.
+support.nintendo.com/switch/error"
+"error_codes/2620/3697/lang_FlvMsg","És possible que la xarxa estigui ocupada.
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Vegeu el lloc web d'assistència de Nintendo per a informació de l'estat de la xarxa i manteniment programat.
+support.nintendo.com/switch/error"
+"error_codes/2618/9998/lang_FlvMsg","Si el problema continua, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2618/0702/lang_FlvMsg","No s'ha pogut connectar perquè on o més usuaris fan servir una versió del programa no actualitzada.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Feu que es connectin a Internet i actualitzin el programa.
+Es pot fer anant a les Opcions del menú HOME."
+"error_codes/2618/0561/lang_FlvMsg","Vegeu el lloc web d'assistència de Nintendo per a informació de l'estat de la xarxa i manteniment programat.
+support.nintendo.com/switch/error"
+"error_codes/2618/0547/lang_FlvMsg","S'ha produït un error de comunicació.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si feu servir una connexió sense fils, és possible que la intensitat del senyal sense fils sigui feble.
+Proveu les següents solucions:
+・{bytes:0E|00|01|00|06|00|00|00}Acosteu la consola al dispositiu de xarxa.{bytes:0F|00|01|00|06|00}
+・{bytes:0E|00|01|00|06|00|00|00}Elimineu els obstacles que hi pugui haver entre el dispositiu de xarxa i la consola.{bytes:0F|00|01|00|06|00}"
+"error_codes/2618/0542/lang_FlvMsg","El dispositiu de destinació no pot acceptar més connexions.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2618/0521/lang_FlvMsg","És possible que hagi fallat el procés de travessada de NAT.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, és possible que les condicions de la vostra xarxa no siguin apropiades per a un joc en línia estable."
+"error_codes/2618/0517/lang_FlvMsg","No s'ha pogut connectar amb les altres consoles.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, és possible que les condicions de la vostra xarxa no siguin apropiades per a un joc en línia estable."
+"error_codes/2618/0510/lang_FlvMsg","No s'ha pogut connectar amb les altres consoles.
+Ha fallat el procés de travessada de NAT.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, és possible que les condicions de la vostra xarxa no siguin apropiades per a un joc en línia estable."
+"error_codes/2618/0313/lang_FlvMsg","Desactiveu el mode d'avió.
+Podeu fer-ho a la configuració ràpida (mantingueu premut ).{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua fins i tot amb el mode d'avió desactivat, reinicieu la consola a les Opcions d'alimentació del menú d'alimentació (mantingueu premut el botó POWER durant tres segons)."
+"error_codes/2618/0203/lang_FlvMsg","S'ha produït un error de comunicació.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si ho torneu a provar i encara no us podeu connectar, és possible que no hàgiu introduït correctament la configuració dels DNS o del servidor intermediari.
+Reviseu la configuració mitjançant el menú HOME ⇒  (Configuració del sistema) ⇒ Internet.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si la configuració és correcta, proveu de reiniciar la consola a les Opcions d'alimentació del menú d'alimentació (mantingueu premut el botó POWER durant tres segons).{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si feu servir una connexió sense fils, és possible que la intensitat del senyal sense fils sigui feble.
+Proveu les següents solucions:
+・{bytes:0E|00|01|00|06|00|00|00}Acosteu la consola al dispositiu de xarxa.{bytes:0F|00|01|00|06|00}
+・{bytes:0E|00|01|00|06|00|00|00}Elimineu els obstacles que hi pugui haver entre el dispositiu de xarxa i la consola.{bytes:0F|00|01|00|06|00}"
+"error_codes/2618/0201/lang_FlvMsg","Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si feu servir una connexió sense fils, és possible que la intensitat del senyal sense fils sigui feble.
+Proveu les següents solucions:
+・{bytes:0E|00|01|00|06|00|00|00}Acosteu la consola al dispositiu de xarxa.{bytes:0F|00|01|00|06|00}
+・{bytes:0E|00|01|00|06|00|00|00}Elimineu els obstacles que hi pugui haver entre el dispositiu de xarxa i la consola.{bytes:0F|00|01|00|06|00}"
+"error_codes/2618/0006/lang_FlvMsg","S'ha produït un error de comunicació.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+És possible que xarxa estigui ocupada o que la intensitat del senyal sense fils sigui feble.
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+És possible que pugueu augmentar la intensitat del senyal de les següents maneres:
+・{bytes:0E|00|01|00|06|00|00|00}Acosteu la consola al dispositiu de xarxa.{bytes:0F|00|01|00|06|00}
+・{bytes:0E|00|01|00|06|00|00|00}Elimineu els obstacles que hi pugui haver entre el dispositiu de xarxa i la consola.{bytes:0F|00|01|00|06|00}
+Si el problema es produeix durant la comunicació local o si el problema continua, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2308/0002/lang_FlvMsg","Vegeu el lloc web d'assistència de Nintendo per a informació de l'estat de la xarxa i manteniment programat.
+support.nintendo.com/switch/error"
+"error_codes/2307/9999/lang_FlvMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2307/9998/lang_FlvMsg","Si el problema continua, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2307/2115/lang_DlgMsg","La funcionalitat de xat de veu dintre de l'aplicació Nintendo Switch Online ha finalitzat.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Gràcies pel vostre interès."
+"error_codes/2307/2115/lang_DlgBtn","D'acord"
+"error_codes/2307/2114/lang_FlvMsg","Vegeu el lloc web d'assistència de Nintendo per a informació de l'estat de la xarxa i manteniment programat.
+support.nintendo.com/switch/error"
+"error_codes/2307/2114/lang_DlgMsg","Actualment, la funcionalitat de xat de veu de l'aplicació Nintendo Switch Online està en manteniment.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Disculpeu les molèsties.
+Torneu-ho a provar més tard."
+"error_codes/2307/2114/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2306/9999/lang_FlvMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2306/9998/lang_FlvMsg","Si el problema continua, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2306/0819/lang_DlgMsg","Cal una actualització del programa.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Reinicieu el programa i executeu l'actualització del programa.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+◆ {bytes:0E|00|01|00|06|00|00|00}Si reinicieu el programa, es perdran les dades que no hàgiu desat.{bytes:0F|00|01|00|06|00}"
+"error_codes/2306/0819/lang_DlgBtn","Reinicia
+Més tard"
+"error_codes/2306/0617/lang_FlvMsg","Reinicieu la consola a les Opcions d'alimentació del menú d'alimentació (mantingueu premut el botó POWER durant tres segons) i torneu-ho a provar.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2306/0520/lang_FlvMsg","No s'ha pogut connectar a Internet.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+És possible que no hàgiu introduït correctament la configuració dels DNS o del servidor intermediari.
+Reviseu la configuració anant al menú HOME ⇒  (Configuració del sistema) ⇒ Internet.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si la configuració és correcta, proveu de reiniciar la consola a les Opcions d'alimentació del menú d'alimentació (mantingueu premut el botó POWER durant tres segons).{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si feu servir una connexió sense fils, és possible que la intensitat del senyal sense fils sigui feble.
+Proveu les següents solucions:
+・{bytes:0E|00|01|00|06|00|00|00}Acosteu la consola al dispositiu de xarxa.{bytes:0F|00|01|00|06|00}
+・{bytes:0E|00|01|00|06|00|00|00}Elimineu els obstacles que hi pugui haver entre el dispositiu de xarxa i la consola.{bytes:0F|00|01|00|06|00}
+Si encara no us podeu connectar, comproveu si podeu accedir a Internet en un ordinador o un altre dispositiu."
+"error_codes/2306/0519/lang_FlvMsg","Ha fallat el procés de travessada de NAT.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, és possible que les condicions de la vostra xarxa no siguin apropiades per a un joc en línia estable."
+"error_codes/2306/0502/lang_FlvMsg","Si el problema continua, reinicieu la consola a les Opcions d'alimentació del menú d'alimentació (mantingueu premut el botó POWER durant tres segons)."
+"error_codes/2306/0332/lang_FlvMsg","És possible que la xarxa estigui ocupada o que la intensitat del senyal sense fils sigui feble.
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+És possible que pugueu augmentar la intensitat del senyal de les següents maneres:
+・{bytes:0E|00|01|00|06|00|00|00}Acosteu la consola al dispositiu de xarxa.{bytes:0F|00|01|00|06|00}
+・{bytes:0E|00|01|00|06|00|00|00}Elimineu els obstacles que hi pugui haver entre el dispositiu de xarxa i la consola.{bytes:0F|00|01|00|06|00}"
+"error_codes/2306/0311/lang_FlvMsg","Torneu-ho a provar més tard."
+"error_codes/2306/0301/lang_FlvMsg","Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2219/9999/lang_FlvMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2219/9998/lang_FlvMsg","És possible que la xarxa estigui ocupada o que la intensitat del senyal sense fils sigui feble.
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, és possible que la configuració de la xarxa sigui incorrecta.
+Comproveu-ne la configuració mitjançant el menú HOME ⇒  (Configuració del sistema) ⇒ Internet."
+"error_codes/2219/3997/lang_DlgMsg","Actualment, el servidor està en manteniment.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Disculpeu les molèsties.
+Torneu-ho a provar més tard."
+"error_codes/2219/3997/lang_DlgBtn","D'acord"
+"error_codes/2219/2999/lang_FlvMsg","Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2219/1006/lang_FlvMsg","S'ha produït un error de comunicació.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+És possible que la xarxa estigui ocupada o que la intensitat del senyal sense fils sigui feble.
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, és possible que hàgiu introduït incorrectament els DNS.
+Reviseu la configuració mitjançant el menú HOME ⇒  (Configuració del sistema) ⇒ Internet."
+"error_codes/2219/1005/lang_FlvMsg","S'ha produït un error de comunicació.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+És possible que la xarxa estigui ocupada o que la intensitat del senyal sense fils sigui feble.
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, és possible que hàgiu introduït incorrectament el servidor intermediari.
+Reviseu la configuració mitjançant el menú HOME ⇒  (Configuració del sistema) ⇒ Internet."
+"error_codes/2217/0000/lang_FlvMsg","No s'ha pogut comunicar amb l'altra consola.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+És possible que el problema se solucioni si augmenteu la intensitat del senyal de les següents maneres:
+・{bytes:0E|00|01|00|06|00|00|00}Acosteu més les consoles.{bytes:0F|00|01|00|06|00}
+・{bytes:0E|00|01|00|06|00|00|00}Elimineu els obstacles que hi pugui haver entre les consoles.{bytes:0F|00|01|00|06|00}"
+"error_codes/2216/7899/lang_FlvMsg","Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2216/5002/lang_FlvMsg","S'ha perdut la connexió amb l'altra consola.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+És possible que el problema se solucioni si augmenteu la intensitat del senyal de les següents maneres:
+・{bytes:0E|00|01|00|06|00|00|00}Acosteu més les consoles.{bytes:0F|00|01|00|06|00}
+・{bytes:0E|00|01|00|06|00|00|00}Elimineu els obstacles que hi pugui haver entre les consoles.{bytes:0F|00|01|00|06|00}"
+"error_codes/2216/5000/lang_FlvMsg","No s'ha pogut comunicar amb l'altra consola.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+És possible que pugueu augmentar la intensitat del senyal de les següents maneres:
+・{bytes:0E|00|01|00|06|00|00|00}Acosteu més les consoles.{bytes:0F|00|01|00|06|00}
+・{bytes:0E|00|01|00|06|00|00|00}Elimineu els obstacles que hi pugui haver entre les consoles.{bytes:0F|00|01|00|06|00}"
+"error_codes/2211/0519/lang_FlvMsg","Les dades d'actualització obtingudes són corruptes.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, caldria executar una comprovació de dades corruptes a la consola de la qual s'han obtingut les dades d'actualització.
+Podeu comprovar si teniu dades corruptes anant al menú HOME, seleccionant
+ (Configuració del sistema) ⇒ Gestió de dades ⇒ Programes i seleccionant un programa."
+"error_codes/2211/0256/lang_FlvMsg","No s'ha pogut comunicar amb les altres consoles.
+És possible que la intensitat del senyal sense fils sigui feble.
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+És possible que pugueu augmentar la intensitat del senyal de les següents maneres:
+・{bytes:0E|00|01|00|06|00|00|00}Acosteu més les consoles.{bytes:0F|00|01|00|06|00}
+・{bytes:0E|00|01|00|06|00|00|00}Elimineu els obstacles que hi pugui haver entre les consoles.{bytes:0F|00|01|00|06|00}"
+"error_codes/2211/0064/lang_FlvMsg","S'ha produït un error de comunicació.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+És possible que la intensitat del senyal sense fils sigui feble.
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+És possible que pugueu augmentar la intensitat del senyal de les següents maneres:
+・{bytes:0E|00|01|00|06|00|00|00}Acosteu més les consoles.{bytes:0F|00|01|00|06|00}
+・{bytes:0E|00|01|00|06|00|00|00}Elimineu els obstacles que hi pugui haver entre les consoles.{bytes:0F|00|01|00|06|00}"
+"error_codes/2211/0037/lang_FlvMsg","Desactiveu el mode d'avió.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Podeu fer-ho a la configuració ràpida (mantingueu premut ).{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua fins i tot amb el mode d'avió desactivat, reinicieu la consola a les Opcions d'alimentació del menú d'alimentació (mantingueu premut el botó POWER durant tres segons)."
+"error_codes/2203/0064/lang_FlvMsg","No s'ha pogut comunicar amb les altres consoles.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+És possible que la intensitat del senyal sense fils sigui feble.
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+És possible que pugueu augmentar la intensitat del senyal de les següents maneres:
+・{bytes:0E|00|01|00|06|00|00|00}Acosteu més les consoles.{bytes:0F|00|01|00|06|00}
+・{bytes:0E|00|01|00|06|00|00|00}Elimineu els obstacles que hi pugui haver entre les consoles.{bytes:0F|00|01|00|06|00}"
+"error_codes/2203/0032/lang_FlvMsg","""S'ha produït un error de comunicació.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+És possible que la intensitat del senyal sense fils sigui feble.
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+És possible que pugueu augmentar la intensitat del senyal de les següents maneres:
+・{bytes:0E|00|01|00|06|00|00|00}Acosteu més les consoles.{bytes:0F|00|01|00|06|00}
+・{bytes:0E|00|01|00|06|00|00|00}Elimineu els obstacles que hi pugui haver entre les consoles.{bytes:0F|00|01|00|06|00}"
+"error_codes/2203/0023/lang_FlvMsg","Desactiveu el mode d'avió.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Podeu fer-ho a la configuració ràpida (mantingueu premut ).{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua fins i tot amb el mode d'avió desactivat, reinicieu la consola a les Opcions d'alimentació del menú d'alimentació (mantingueu premut el botó POWER durant tres segons)."
+"error_codes/2181/9999/lang_FlvMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2181/9998/lang_FlvMsg","Si el problema continua, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2179/9999/lang_FlvMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2179/2102/lang_FlvMsg","No s'ha pogut fer la còpia de seguretat de les partides desades perquè l'anterior còpia de seguretat no s'ha completat correctament o perquè les dades s'estaven copiant en una altra consola.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2164/1000/lang_DlgMsg","No s'ha pogut trobar el contingut descarregable al qual heu estat jugant.
+Torneu-lo a descarregar de la Nintendo eShop.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+◆ {bytes:0E|00|01|00|06|00|00|00}També podeu comprar el DLC a la Nintendo eShop, si encara no ho heu fet.{bytes:0F|00|01|00|06|00}"
+"error_codes/2164/1000/lang_DlgBtn","D'acord"
+"error_codes/2160/9999/lang_FlvMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2160/0203/lang_FlvMsg","No s'ha pogut connectar.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+S'ha produït un error de comunicació amb el servidor.
+És possible que la xarxa estigui ocupada. Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, comproveu si altres dispositius, com ara un ordinador, es poden connectar a Internet."
+"error_codes/2160/0202/lang_FlvMsg","No s'ha pogut connectar.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+S'ha perdut la connexió amb el servidor.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+És possible que la xarxa estigui ocupada. Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, comproveu si altres dispositius, com ara un ordinador, es poden connectar a Internet."
+"error_codes/2160/0201/lang_FlvMsg","No s'ha pogut iniciar una connexió.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, assegureu-vos que esteu connectat al dispositiu de xarxa correcte."
+"error_codes/2160/0105/lang_FlvMsg","No s'ha pogut connectar.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+S'ha produït un error de comunicació amb el servidor.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+És possible que la xarxa estigui ocupada. Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, comproveu si altres dispositius, com ara un ordinador, es poden connectar a Internet."
+"error_codes/2160/0103/lang_FlvMsg","No s'ha pogut iniciar una connexió.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, assegureu-vos que esteu connectat al dispositiu de xarxa correcte."
+"error_codes/2142/9999/lang_FlvMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2142/9998/lang_FlvMsg","Si el problema continua, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2142/2001/lang_FlvMsg","Vegeu el lloc web d'assistència de Nintendo per a informació de l'estat de la xarxa i manteniment programat.
+support.nintendo.com/switch/error"
+"error_codes/2142/0201/lang_FlvMsg","El codi de registre no és correcte.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-lo a introduir.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Els codis de registre caduquen 15 minuts després de ser emesos.
+Si esteu segur que heu introduït un codi correcte i encara no podeu continuar, proveu de reiniciar l'aplicació Control parental de la Nintendo Switch i torneu a començar la configuració."
+"error_codes/2137/8006/lang_FlvMsg","No s'ha pogut comunicar amb el servidor.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+És possible que la xarxa estigui ocupada o que la intensitat del senyal sense fils sigui feble.
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, és possible que hàgiu introduït incorrectament els DNS.
+Reviseu la configuració.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si la configuració és correcta, proveu de reiniciar la consola a les Opcions d'alimentació del menú d'alimentació (mantingueu premut el botó POWER durant tres segons)."
+"error_codes/2137/0240/lang_FlvMsg","No s'ha pogut comunicar amb el servidor.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+És possible que la xarxa estigui ocupada o que la intensitat del senyal sense fils sigui feble.
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Vegeu el lloc web d'assistència de Nintendo per a informació de l'estat de la xarxa i manteniment programat.
+support.nintendo.com/switch/error"
+"error_codes/2124/9999/lang_FlvMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2124/9997/lang_FlvMsg","Vegeu el lloc web d'assistència de Nintendo per a informació de l'estat de la xarxa i manteniment programat.
+support.nintendo.com/switch/error"
+"error_codes/2123/0310/lang_FlvMsg","S'ha produït un error de comunicació amb el servidor.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+És possible que la xarxa estigui ocupada. Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si encara no us podeu connectar, comproveu si podeu accedir a Internet en un ordinador o un altre dispositiu."
+"error_codes/2123/0304/lang_FlvMsg","No s'ha pogut comunicar amb el servidor.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2123/0303/lang_FlvMsg","No s'ha pogut comunicar amb el servidor.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, proveu el següent:
+・{bytes:0E|00|01|00|06|00|00|00}Comproveu que podeu accedir a Internet en un ordinador o un altre dispositiu.{bytes:0F|00|01|00|06|00}
+・{bytes:0E|00|01|00|06|00|00|00}Comproveu que la configuració de data i hora de la consola siguin correctes.{bytes:0F|00|01|00|06|00}"
+"error_codes/2123/0207/lang_FlvMsg","No s'ha pogut comunicar amb el servidor.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, comproveu si altres dispositius, com ara un ordinador, es poden connectar a Internet."
+"error_codes/2123/0119/lang_FlvMsg","S'ha perdut la connexió amb el servidor.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+És possible que la xarxa estigui ocupada o que la intensitat del senyal sense fils sigui feble.
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, és possible que pugueu augmentar la intensitat del senyal de les següents maneres:
+・{bytes:0E|00|01|00|06|00|00|00}Acosteu la consola al dispositiu de xarxa.{bytes:0F|00|01|00|06|00}
+・{bytes:0E|00|01|00|06|00|00|00}Elimineu els obstacles que hi pugui haver entre el dispositiu de xarxa i la consola.{bytes:0F|00|01|00|06|00}
+Si encara no us podeu connectar, comproveu si altres dispositius, com ara un ordinador, es poden connectar a Internet."
+"error_codes/2123/0102/lang_FlvMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2122/9998/lang_FlvMsg","S'ha produït un error de comunicació amb el servidor.
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2122/2599/lang_FlvMsg","Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2122/2404/lang_FlvMsg","Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2122/1006/lang_FlvMsg","No s'ha pogut connectar a Internet.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+No s'ha pogut executar la resolució de noms del DNS.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+És possible que la xarxa estigui ocupada. Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si encara no us podeu connectar, proveu el següent:
+・{bytes:0E|00|01|00|06|00|00|00}Comproveu si altres dispositius, com ara un ordinador, es poden connectar a Internet.{bytes:0F|00|01|00|06|00}
+・{bytes:0E|00|01|00|06|00|00|00}Assegureu-vos que tingueu la configuració correcta dels DNS.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, reinicieu la consola a les Opcions d'alimentació del menú d'alimentació (mantingueu premut el botó POWER durant tres segons)."
+"error_codes/2122/0008/lang_FlvMsg","S'ha produït un error de comunicació.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2121/9999/lang_FlvMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2121/9998/lang_FlvMsg","És possible que la xarxa estigui ocupada o que la intensitat del senyal sense fils sigui feble.
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, és possible que la configuració de la xarxa sigui incorrecta.
+Comproveu-ne la configuració mitjançant el menú HOME ⇒  (Configuració del sistema) ⇒ Internet."
+"error_codes/2121/9997/lang_FlvMsg","S'ha produït un error de comunicació amb el servidor.
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2121/1006/lang_FlvMsg","S'ha produït un error de comunicació.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+És possible que la xarxa estigui ocupada o que la intensitat del senyal sense fils sigui feble.
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, és possible que hàgiu introduït incorrectament els DNS.
+Reviseu la configuració mitjançant el menú HOME ⇒  (Configuració del sistema) ⇒ Internet."
+"error_codes/2121/1005/lang_FlvMsg","S'ha produït un error de comunicació.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+És possible que la xarxa estigui ocupada o que la intensitat del senyal sense fils sigui feble.
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, és possible que hàgiu introduït incorrectament el servidor intermediari.
+Reviseu la configuració mitjançant el menú HOME ⇒  (Configuració del sistema) ⇒ Internet."
+"error_codes/2121/0006/lang_FlvMsg","S'ha produït un error de comunicació.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2116/0101/lang_FlvMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Caldrà que connecteu la consola a Internet.
+Configureu una connexió a Internet mitjançant el menú HOME ⇒  (Configuració del sistema) ⇒ Internet.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, reinicieu la consola a les Opcions d'alimentació del menú d'alimentació (mantingueu premut el botó POWER durant tres segons)."
+"error_codes/2116/0101/lang_DlgMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Caldrà que connecteu la consola a Internet.
+Configureu una connexió a Internet mitjançant el menú HOME ⇒  (Configuració del sistema) ⇒ Internet."
+"error_codes/2116/0101/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2110/9999/lang_FlvMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2110/4011/lang_FlvMsg","S'ha perdut la connexió a Internet.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar col·locant-vos més a prop del dispositiu de xarxa.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si la consola ja és a prop del dispositiu de xarxa, és possible que el la intensitat del senyal sigui feble. Proveu el següent:
+・{bytes:0E|00|01|00|06|00|00|00}Acosteu la consola al dispositiu de xarxa.{bytes:0F|00|01|00|06|00}
+・{bytes:0E|00|01|00|06|00|00|00}Elimineu els obstacles que hi pugui haver entre el dispositiu de xarxa i la consola.{bytes:0F|00|01|00|06|00}"
+"error_codes/2110/3130/lang_FlvMsg","No s'ha pogut connectar a Internet.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+S'ha produït un error durant la comunicació amb el servidor.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+És possible que la xarxa estigui ocupada. Torneu-ho a provar més tard.
+Si l'error continua, comproveu si altres dispositius, com ara un ordinador, es poden connectar a Internet."
+"error_codes/2110/3129/lang_FlvMsg","No s'ha pogut connectar a Internet.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+La comunicació amb el servidor ha superat el temps màxim d'espera.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+És possible que la xarxa estigui ocupada. Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si l'error continua, comproveu si altres dispositius, com ara un ordinador, es poden connectar a Internet."
+"error_codes/2110/3128/lang_FlvMsg","No s'ha pogut connectar a Internet.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+No hi ha hagut resposta del servidor.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+És possible que la xarxa estigui ocupada. Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, comproveu si altres dispositius, com ara un ordinador, es poden connectar a Internet."
+"error_codes/2110/3127/lang_FlvMsg","No s'ha pogut connectar a Internet.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+No s'ha pogut executar la resolució de noms del DNS.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+És possible que la xarxa estigui ocupada. Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si encara no us podeu connectar, proveu el següent:
+・{bytes:0E|00|01|00|06|00|00|00}Comproveu si altres dispositius, com ara un ordinador, es poden connectar a Internet.{bytes:0F|00|01|00|06|00}
+・{bytes:0E|00|01|00|06|00|00|00}Assegureu-vos que tingueu la configuració correcta dels DNS.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, reinicieu la consola a les Opcions d'alimentació del menú d'alimentació (mantingueu premut el botó POWER durant tres segons)."
+"error_codes/2110/3000/lang_FlvMsg","No s'ha pogut connectar a Internet.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+No s'ha rebut cap resposta del servidor.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+És possible que la xarxa estigui ocupada. Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, comproveu si altres dispositius, com ara un ordinador, es poden connectar a Internet."
+"error_codes/2110/2979/lang_FlvMsg","Un altre dispositiu d'aquesta xarxa té la mateixa adreça IP que aquesta consola.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, proveu el següent:
+・{bytes:0E|00|01|00|06|00|00|00}Assegureu-vos que l'adreça IP sigui correcta.{bytes:0F|00|01|00|06|00}
+・{bytes:0E|00|01|00|06|00|00|00}Si heu definit l'adreça IP manualment, assegureu-vos que l'adreça que us hagi donat l'operador de la xarxa sigui correcta.{bytes:0F|00|01|00|06|00}
+・{bytes:0E|00|01|00|06|00|00|00}Assegureu-vos que altres dispositius de la mateixa xarxa no facin servir l'adreça IP de la consola.{bytes:0F|00|01|00|06|00}"
+"error_codes/2110/2964/lang_FlvMsg","No s'ha pogut obtenir l'adreça IP.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, proveu el següent:
+・{bytes:0E|00|01|00|06|00|00|00}Assegureu-vos que esteu connectat al dispositiu de xarxa correcte.{bytes:0F|00|01|00|06|00}
+・{bytes:0E|00|01|00|06|00|00|00}Comproveu que la contrasenya introduïda a la configuració d'Internet sigui correcta.{bytes:0F|00|01|00|06|00}"
+"error_codes/2110/2963/lang_FlvMsg","No s'ha pogut obtenir l'adreça IP.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, proveu el següent:
+・{bytes:0E|00|01|00|06|00|00|00}Assegureu-vos que esteu connectat al dispositiu de xarxa correcte.{bytes:0F|00|01|00|06|00}
+・{bytes:0E|00|01|00|06|00|00|00}Configureu la consola perquè obtingui l'adreça IP automàticament, si és possible.{bytes:0F|00|01|00|06|00}"
+"error_codes/2110/2961/lang_FlvMsg","No s'ha pogut configurar l'adreça IP.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, proveu el següent:
+・{bytes:0E|00|01|00|06|00|00|00}Assegureu-vos que esteu connectat al dispositiu de xarxa correcte.{bytes:0F|00|01|00|06|00}
+・{bytes:0E|00|01|00|06|00|00|00}Configureu la consola perquè obtingui l'adreça IP automàticament, si és possible.{bytes:0F|00|01|00|06|00}"
+"error_codes/2110/2200/lang_FlvMsg","No s'ha pogut connectar al dispositiu de xarxa.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Pot ser que la intensitat del senyal sense fils sigui feble
+Torneu-ho a provar.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+És possible que pugueu augmentar la intensitat del senyal de les següents maneres:
+・{bytes:0E|00|01|00|06|00|00|00}Acosteu la consola al dispositiu de xarxa.{bytes:0F|00|01|00|06|00}
+・{bytes:0E|00|01|00|06|00|00|00}Elimineu els obstacles que hi pugui haver entre el dispositiu de xarxa i la consola.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si encara no us podeu connectar, és possible que la contrasenya sigui incorrecta.
+Reviseu la configuració."
+"error_codes/2110/2101/lang_FlvMsg","No s'ha pogut connectar al dispositiu de xarxa.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Pot ser que la intensitat del senyal sigui feble. 
+Torneu-ho a provar.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+És possible que pugueu augmentar la intensitat del senyal de les següents maneres:
+・{bytes:0E|00|01|00|06|00|00|00}Acosteu la consola al dispositiu de xarxa.{bytes:0F|00|01|00|06|00}
+・{bytes:0E|00|01|00|06|00|00|00}Elimineu els obstacles que hi pugui haver entre el dispositiu de xarxa i la consola.{bytes:0F|00|01|00|06|00}
+Si encara no us podeu connectar, reviseu la configuració de seguretat del dispositiu de xarxa."
+"error_codes/2110/2002/lang_FlvMsg","No s'ha pogut connectar amb el dispositiu de xarxa.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+La configuració de seguretat del dispositiu de xarxa no és compatible amb aquesta consola.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si és possible, canvieu la configuració de seguretat i torneu-ho a provar.
+Llegiu el manual del dispositiu de xarxa per a més informació."
+"error_codes/2110/2001/lang_FlvMsg","No s'ha pogut connectar amb el dispositiu de xarxa.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Comproveu que el dispositiu de xarxa funcioni correctament.
+Llegiu el manual del dispositiu de xarxa per a més informació.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+És possible que pugueu augmentar la intensitat del senyal de les següents maneres:
+・{bytes:0E|00|01|00|06|00|00|00}Acosteu la consola al dispositiu de xarxa.{bytes:0F|00|01|00|06|00}
+・{bytes:0E|00|01|00|06|00|00|00}Elimineu els obstacles que hi pugui haver entre el dispositiu de xarxa i la consola.{bytes:0F|00|01|00|06|00}"
+"error_codes/2110/1100/lang_FlvMsg","No s'ha pogut connectar a Internet.
+Reviseu la configuració.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si feu servir una connexió a Internet per cable, assegureu-vos que l'adaptador LAN estigui ben connectat.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, reinicieu la consola a les Opcions d'alimentació del menú d'alimentació (mantingueu premut el botó POWER durant tres segons).
+"
+"error_codes/2110/1000/lang_FlvMsg","No s'ha pogut connectar amb el dispositiu de xarxa.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+És possible que la intensitat del senyal sense fils sigui feble.
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+És possible que pugueu augmentar la intensitat del senyal de les següents maneres:
+・{bytes:0E|00|01|00|06|00|00|00}Acosteu la consola al dispositiu de xarxa.{bytes:0F|00|01|00|06|00}
+・{bytes:0E|00|01|00|06|00|00|00}Elimineu els obstacles que hi pugui haver entre el dispositiu de xarxa i la consola.{bytes:0F|00|01|00|06|00}"
+"error_codes/2019/9999/lang_FlvMsg","S'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2016/0247/lang_FlvMsg","No es pot accedir a la targeta microSD.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Apagueu la consola i torneu a inserir la targeta microSD.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Podeu apagar la consola a les Opcions d'alimentació del menú d'alimentació
+(mantingueu premut el botó POWER durant tres segons).{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, seleccioneu  (Configuració del sistema) al menú HOME, i llavors Sistema ⇒ Opcions de formatació, i proveu de formatar la targeta microSD.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si continua sense funcionar, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2999/0010/lang_FlvBtn","D'acord"
+"error_codes/2999/0009/lang_FlvBtn","D'acord"
+"error_codes/2999/0007/lang_FlvBtn","D'acord"
+"error_codes/2999/0006/lang_FlvBtn","D'acord"
+"error_codes/2999/0003/lang_FlvBtn","D'acord"
+"error_codes/2819/0001/lang_FlvBtn","D'acord"
+"error_codes/2815/9999/lang_FlvBtn","D'acord"
+"error_codes/2815/9998/lang_FlvBtn","D'acord"
+"error_codes/2802/3002/lang_FlvBtn","D'acord"
+"error_codes/2802/3001/lang_FlvBtn","D'acord"
+"error_codes/2801/9999/lang_FlvBtn","D'acord"
+"error_codes/2801/9996/lang_FlvBtn","D'acord"
+"error_codes/2801/7081/lang_FlvBtn","D'acord"
+"error_codes/2801/7080/lang_FlvBtn","D'acord"
+"error_codes/2623/9999/lang_FlvBtn","D'acord"
+"error_codes/2623/9000/lang_FlvBtn","D'acord"
+"error_codes/2623/1010/lang_FlvBtn","D'acord"
+"error_codes/2623/1009/lang_FlvBtn","D'acord"
+"error_codes/2623/1007/lang_FlvBtn","D'acord"
+"error_codes/2623/1005/lang_FlvBtn","D'acord"
+"error_codes/2622/9999/lang_FlvBtn","D'acord"
+"error_codes/2622/1502/lang_FlvBtn","D'acord"
+"error_codes/2621/9999/lang_FlvBtn","D'acord"
+"error_codes/2621/1202/lang_FlvBtn","D'acord"
+"error_codes/2620/9999/lang_FlvBtn","D'acord"
+"error_codes/2620/3698/lang_FlvBtn","D'acord"
+"error_codes/2620/3697/lang_FlvBtn","D'acord"
+"error_codes/2618/9998/lang_FlvBtn","D'acord"
+"error_codes/2618/0702/lang_FlvBtn","D'acord"
+"error_codes/2618/0561/lang_FlvBtn","D'acord"
+"error_codes/2618/0547/lang_FlvBtn","D'acord"
+"error_codes/2618/0542/lang_FlvBtn","D'acord"
+"error_codes/2618/0521/lang_FlvBtn","D'acord"
+"error_codes/2618/0517/lang_FlvBtn","D'acord"
+"error_codes/2618/0510/lang_FlvBtn","D'acord"
+"error_codes/2618/0313/lang_FlvBtn","D'acord"
+"error_codes/2618/0203/lang_FlvBtn","D'acord"
+"error_codes/2618/0201/lang_FlvBtn","D'acord"
+"error_codes/2618/0006/lang_FlvBtn","D'acord"
+"error_codes/2308/0002/lang_FlvBtn","D'acord"
+"error_codes/2307/9999/lang_FlvBtn","D'acord"
+"error_codes/2307/9998/lang_FlvBtn","D'acord"
+"error_codes/2307/2114/lang_FlvBtn","D'acord"
+"error_codes/2306/9999/lang_FlvBtn","D'acord"
+"error_codes/2306/9998/lang_FlvBtn","D'acord"
+"error_codes/2306/0617/lang_FlvBtn","D'acord"
+"error_codes/2306/0520/lang_FlvBtn","D'acord"
+"error_codes/2306/0519/lang_FlvBtn","D'acord"
+"error_codes/2306/0502/lang_FlvBtn","D'acord"
+"error_codes/2306/0332/lang_FlvBtn","D'acord"
+"error_codes/2306/0311/lang_FlvBtn","D'acord"
+"error_codes/2306/0301/lang_FlvBtn","D'acord"
+"error_codes/2219/9999/lang_FlvBtn","D'acord"
+"error_codes/2219/9998/lang_FlvBtn","D'acord"
+"error_codes/2219/2999/lang_FlvBtn","D'acord"
+"error_codes/2219/1006/lang_FlvBtn","D'acord"
+"error_codes/2219/1005/lang_FlvBtn","D'acord"
+"error_codes/2217/0000/lang_FlvBtn","D'acord"
+"error_codes/2216/7899/lang_FlvBtn","D'acord"
+"error_codes/2216/5002/lang_FlvBtn","D'acord"
+"error_codes/2216/5000/lang_FlvBtn","D'acord"
+"error_codes/2211/0519/lang_FlvBtn","D'acord"
+"error_codes/2211/0256/lang_FlvBtn","D'acord"
+"error_codes/2211/0064/lang_FlvBtn","D'acord"
+"error_codes/2211/0037/lang_FlvBtn","D'acord"
+"error_codes/2203/0064/lang_FlvBtn","D'acord"
+"error_codes/2203/0032/lang_FlvBtn","D'acord"
+"error_codes/2203/0023/lang_FlvBtn","D'acord"
+"error_codes/2181/9999/lang_FlvBtn","D'acord"
+"error_codes/2181/9998/lang_FlvBtn","D'acord"
+"error_codes/2179/9999/lang_FlvBtn","D'acord"
+"error_codes/2179/2102/lang_FlvBtn","D'acord"
+"error_codes/2160/9999/lang_FlvBtn","D'acord"
+"error_codes/2160/0203/lang_FlvBtn","D'acord"
+"error_codes/2160/0202/lang_FlvBtn","D'acord"
+"error_codes/2160/0201/lang_FlvBtn","D'acord"
+"error_codes/2160/0105/lang_FlvBtn","D'acord"
+"error_codes/2160/0103/lang_FlvBtn","D'acord"
+"error_codes/2142/9999/lang_FlvBtn","D'acord"
+"error_codes/2142/9998/lang_FlvBtn","D'acord"
+"error_codes/2142/2001/lang_FlvBtn","D'acord"
+"error_codes/2142/0201/lang_FlvBtn","D'acord"
+"error_codes/2137/8006/lang_FlvBtn","D'acord"
+"error_codes/2137/0240/lang_FlvBtn","D'acord"
+"error_codes/2124/9999/lang_FlvBtn","D'acord"
+"error_codes/2124/9997/lang_FlvBtn","D'acord"
+"error_codes/2123/0310/lang_FlvBtn","D'acord"
+"error_codes/2123/0304/lang_FlvBtn","D'acord"
+"error_codes/2123/0303/lang_FlvBtn","D'acord"
+"error_codes/2123/0207/lang_FlvBtn","D'acord"
+"error_codes/2123/0119/lang_FlvBtn","D'acord"
+"error_codes/2123/0102/lang_FlvBtn","D'acord"
+"error_codes/2122/9998/lang_FlvBtn","D'acord"
+"error_codes/2122/2599/lang_FlvBtn","D'acord"
+"error_codes/2122/2404/lang_FlvBtn","D'acord"
+"error_codes/2122/1006/lang_FlvBtn","D'acord"
+"error_codes/2122/0008/lang_FlvBtn","D'acord"
+"error_codes/2121/9999/lang_FlvBtn","D'acord"
+"error_codes/2121/9998/lang_FlvBtn","D'acord"
+"error_codes/2121/9997/lang_FlvBtn","D'acord"
+"error_codes/2121/1006/lang_FlvBtn","D'acord"
+"error_codes/2121/1005/lang_FlvBtn","D'acord"
+"error_codes/2121/0006/lang_FlvBtn","D'acord"
+"error_codes/2116/0101/lang_FlvBtn","D'acord"
+"error_codes/2110/9999/lang_FlvBtn","D'acord"
+"error_codes/2110/4011/lang_FlvBtn","D'acord"
+"error_codes/2110/3130/lang_FlvBtn","D'acord"
+"error_codes/2110/3129/lang_FlvBtn","D'acord"
+"error_codes/2110/3128/lang_FlvBtn","D'acord"
+"error_codes/2110/3127/lang_FlvBtn","D'acord"
+"error_codes/2110/3000/lang_FlvBtn","D'acord"
+"error_codes/2110/2979/lang_FlvBtn","D'acord"
+"error_codes/2110/2964/lang_FlvBtn","D'acord"
+"error_codes/2110/2963/lang_FlvBtn","D'acord"
+"error_codes/2110/2961/lang_FlvBtn","D'acord"
+"error_codes/2110/2200/lang_FlvBtn","D'acord"
+"error_codes/2110/2101/lang_FlvBtn","D'acord"
+"error_codes/2110/2002/lang_FlvBtn","D'acord"
+"error_codes/2110/2001/lang_FlvBtn","D'acord"
+"error_codes/2110/1100/lang_FlvBtn","D'acord"
+"error_codes/2110/1000/lang_FlvBtn","D'acord"
+"error_codes/2019/9999/lang_FlvBtn","D'acord"
+"error_codes/2016/0247/lang_FlvBtn","D'acord"
+"error_codes/2179/2802/lang_DlgMsg","Cal una actualització del programa.
+Per a executar una actualització del programa, obriu el menú Opcions seleccionant la icona del programa al menú HOME, premeu  i després seleccioneu Actualització del programa."
+"error_codes/2179/2802/lang_DlgBtn","D'acord"
+"error_codes/2179/2801/lang_DlgMsg","S'ha cancel·lat la descàrrega de les partides desades.
+Torneu-ho a provar."
+"error_codes/2179/2801/lang_DlgBtn","D'acord"
+"error_codes/2121/2671/lang_DlgBtn","D'acord"
+"error_codes/2121/2634/lang_DlgBtn","D'acord"

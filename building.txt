@@ -1,11 +1,29 @@
-Standard procedure:
+Standard procedure for exporting:
 
-1. Import translations:
+1. Goldleaf: Manage system contents -> NAND SYSTEM -> codis (status) -> Base title -> Export -> Yes
+2. Copy .nsp folders to your PC
+3. Run hactool -k prod.keys --intype=pfs0 --pfs0dir="nca" -x <NSP>/00
+4. Rename the .nca files to the titleId (the bigger one, not the .cnmt one).
+5. Run hactool -k prod.keys --romfsdir=<TITLEID> <NCAFILE>
+6. Copy all files for special title ids manually (remove all errors except en-GB, use for each language code: find . -type f -name 'de*' -exec rm {} + && find . -type f -name 'fr*' -exec rm {} + && find . -type f -name 'es*' -exec rm {} + && find . -type f -name 'it*' -exec rm {} + && find . -type f -name 'ja*' -exec rm {} + && find . -type f -name 'ko*' -exec rm {} + && find . -type f -name 'nl*' -exec rm {} + && find . -type f -name 'pt*' -exec rm {} + && find . -type f -name 'ru*' -exec rm {} + && find . -type f -name 'zh*' -exec rm {} + && find . -type f -name 'en-US*' -exec rm {} + && find . -type f -name 'common' -exec rm {} +)
+7. Copy all szs (there are repeated files: ignore them) to a folder.
+8. wine sarc_tool.exe -o <FILE.szs>, copy exported .msbt files to correct dir.
+9. Export translations:
+	switch-translation-tool export switchsystemmenu msbt/ nintendo-switch-menu-del-sistema-en.csv
+10. Export error texts (first rename all to es-XXX: find . -iname "*" | rename -v "s/en-GB_/es_/g"):
+	switch-error-tool export error_codes/ nintendo-switch-missatges-d-error-en.csv
+11. Upload to Weblate
+
+Standard procedure for importing:
+
+1. Remove source/target header from CSV, set line endings to LF only
+
+2. Import translations:
 	switch-translation-tool import switchsystemmenu msbt/ nintendo-switch-menu-del-sistema-ca.csv
-2. Import error texts:
+3. Import error texts:
 	switch-error-tool import error_codes/ nintendo-switch-missatges-d-error-ca.csv
-3. Create SZS from MSBT one by one, using Uwizard.
-4. Generate "contents" folder:
+4. Create SZS from MSBT one by one, using Uwizard.
+5. Generate "contents" folder:
 	./generate.sh EUes es
 	./generate.sh EUfr fr
 	./generate.sh EUit it
