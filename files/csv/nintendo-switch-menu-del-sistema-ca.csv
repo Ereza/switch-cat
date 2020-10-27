@@ -309,7 +309,9 @@ Nintendo pot actualitzar automàticament la vostra consola o programari per a as
 
 Aquest producte conté mesures de protecció tècniques. La vostra consola no està dissenyada per a utilitzar-la amb cap dispositiu o programari no autoritzat existent o futur que permeti la modificació tècnica de la consola o del programari. Qualsevol ús no autoritzat pot fer que la vostra consola o el Programari esdevinguin injugables i resultin en la supressió de contingut."
 "MiiEditN.msbt/ListSortTitleText","Seleccioneu i moveu personatges Mii per a ordenar-los."
-"MiiEditN.msbt/AmiiboDlgTextConnect","Connecteu un controlador que pugui llegir amiibo."
+"MiiEditN.msbt/AmiiboDlgTextConnect","Connecteu un controlador que pugui llegir amiibo.
+
+Si voleu fer servir un Controlador Pro de la Nintendo Switch que estigui connectat actualment a la consola mitjançant un cable, caldrà que desconnecteu el cable de càrrega USB i que ho torneu a provar."
 "MiiEditN.msbt/HeaderTitleMii","Mii"
 "MiiEditN.msbt/EditTopBtnNose","Nas"
 "MiiEditN.msbt/NetDlgTextCautionMiiListFullEachOther","No teniu espai per a més personatges Mii.
@@ -343,7 +345,6 @@ Aneu a  (Controladors) al menú HOME i connecteu només els controladors que 
 "MiiEditN.msbt/DlgBtnContinueNet","Cancel·la"
 "MiiEditN.msbt/NetDlgTextConfirmAppDisconnect","Es desconnectarà de la connexió a Internet actual i de la comunicació local."
 "MiiEditN.msbt/HeaderTitleMiiNumber","Personatges Mii: {bytes:0E|00|02|00|02|00|04|00|00|00|00|00}/100"
-"MiiEditN.msbt/AmiiboDlgTextConnect2","No hi ha connectat cap controlador que pugui llegir amiibo."
 "MiiEditN.msbt/AmiiboBodyTextRemoveAmiibo","Traieu l'amiibo del punt NFC."
 "MiiEditN.msbt/EditNicknameTitleText","Introduïu un sobrenom per al Mii."
 "MiiEditN.msbt/CommonDlgTextWarningNGNickname","El sobrenom que heu introduït s'ha substituït per ??? perquè contenia un mot inapropiat."
