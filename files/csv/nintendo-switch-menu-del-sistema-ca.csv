@@ -16,7 +16,7 @@
 "Cruiser.msbt/CrsOthDlg_ResubmitFormDlgBtnContinue","Torna a enviar"
 "Cruiser.msbt/CrsErr_RetryPageBtn","Torna-ho a provar"
 "Cruiser.msbt/CrsMain_FooterPushStick",""
-"Cruiser.msbt/CrsMp_NeedYouTubeAppDlgBodyAlert","Cal l'aplicació de YouTube per a fer servir aquesta funcionalitat. Podeu descarregar-ne l'aplicació a la Nintendo eShop."
+"Cruiser.msbt/CrsMp_NeedYouTubeAppDlgBodyAlert","Cal l'aplicació de YouTube per a fer servir aquesta funcionalitat. Podeu baixar-ne l'aplicació a la Nintendo eShop."
 "Cruiser.msbt/CrsOthDlg_ResubmitFormDlgBody","Voleu tornar a enviar el formulari?"
 "Cruiser.msbt/CrsCmn_2BtnDlgBtnOK","D'acord"
 "Cruiser.msbt/CrsMain_Web2ECDlgBody","Voleu obrir la Nintendo eShop?"
@@ -345,6 +345,7 @@ Aneu a  (Controladors) al menú HOME i connecteu només els controladors que 
 "MiiEditN.msbt/DlgBtnContinueNet","Cancel·la"
 "MiiEditN.msbt/NetDlgTextConfirmAppDisconnect","Es desconnectarà de la connexió a Internet actual i de la comunicació local."
 "MiiEditN.msbt/HeaderTitleMiiNumber","Personatges Mii: {bytes:0E|00|02|00|02|00|04|00|00|00|00|00}/100"
+"MiiEditN.msbt/AmiiboDlgTextConnect2","No hi ha connectat cap controlador que pugui llegir amiibo."
 "MiiEditN.msbt/AmiiboBodyTextRemoveAmiibo","Traieu l'amiibo del punt NFC."
 "MiiEditN.msbt/EditNicknameTitleText","Introduïu un sobrenom per al Mii."
 "MiiEditN.msbt/CommonDlgTextWarningNGNickname","El sobrenom que heu introduït s'ha substituït per ??? perquè contenia un mot inapropiat."
@@ -775,7 +776,7 @@ Us voleu desconnectar?"
 "common.msbt.msbt/Cmn_DlgBtmBtnSelBoxMulti_Decide","D'acord"
 "common.msbt.msbt/Cmn_DlgBtnOk_KrHangeul","D'acord"
 "common.msbt.msbt/Cmn_DlgBtnHowToExclude","Excloure aquest programa de les restriccions del control parental"
-"common.msbt.msbt/Cmn_DlgBtnDownload","Descarrega"
+"common.msbt.msbt/Cmn_DlgBtnDownload","Baixa"
 "common.msbt.msbt/Cmn_DlgBtnInstall","Instal·la"
 "common.msbt.msbt/Cmn_SupportUrl_CN","nintendoswitch.com.cn/support"
 "common.msbt.msbt/Cmn_FooterKeyCross_LEFT",""
@@ -834,7 +835,7 @@ Us voleu desconnectar?"
 "common.msbt.msbt/Cmn_FooterKey_B",""
 "common.msbt.msbt/Cmn_SupportUrl_US_Parent","support.nintendo.com/switch/parent"
 "common.msbt.msbt/Cmn_SupportUrl_US_Explore","support.nintendo.com/switch/ratings"
-"common.msbt.msbt/Cmn_DlgBtnContinueDownload","Continua la descàrrega"
+"common.msbt.msbt/Cmn_DlgBtnContinueDownload","Continua la baixada"
 "common.msbt.msbt/Cmn_DlgBtnSend","Envia"
 "common.msbt.msbt/Cmn_DlgBtnChoose","Selecciona"
 "common.msbt.msbt/Cmn_FooterKey_S_Push",""
@@ -975,9 +976,10 @@ també està suportat."
 "controller.msbt.msbt/Ctrl_Info_DlgRegistMainButtonOther","Mostra altres mètodes d'emparellament"
 "controller.msbt.msbt/Ctrl_Help_DlgBodyAddJoint","Abans que pugueu fer servir un controlador, cal emparellar-lo amb la consola. Podeu fer-ho en qualsevol moment acoblant-lo a la consola.
 {bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Quan els hàgiu emparellat, podreu fer servir els controladors encara que no estiguin acoblats.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
-"controller.msbt.msbt/Ctrl_Strap_Text","Quan jugueu amb un Joy-Con, acobleu-hi
-la corretja seguint els passos indicats, i
-subjecteu-la de manera segura sense deixar-la anar."
+"controller.msbt.msbt/Ctrl_Strap_Text","Quan jugueu amb un Joy-Con, acobleu-hi la corretja seguint
+els passos indicats, i subjecteu-la de manera segura sense
+deixar-la anar. Mentre jugueu, mantingueu suficient espai
+al vostre voltant. Tingueu el compte el que us envolta."
 "controller.msbt.msbt/Ctrl_Info_DlgRegistMainButtonFinish","Fet"
 "controller.msbt.msbt/Ctrl_Find_BtnHelp","Si no trobeu els controladors"
 "controller.msbt.msbt/Ctrl_Info_DlgRegistSubBodyUSB","Emparellar controladors amb un connector USB:{bytes:0E|00|01|00|00|00|04|00|00|00|00|3F}
@@ -1058,7 +1060,7 @@ Espereu i no toqueu la consola ni el controlador mentre s'executa l'actualitzaci
 "dataErase.msbt.msbt/Der_DlgBodyCapaOver","Encara que arxiveu programes, no hi haurà més de {bytes:0E|00|02|00|04|00|04|00|00|00|00|00} d'espai lliure a la memòria del sistema.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 A banda d'arxivar programes, suprimiu també partides desades, captures de pantalla i/o vídeos a  (Configuració del sistema) ⇒ Gestió de dades al menú HOME per a crear més espai lliure."
 "dataErase.msbt.msbt/Der_TitleAuto","Voleu arxivar els següents programes per a alliberar espai?
-{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Només es mantindran les partides desades i la icona al menú HOME dels programes arxivats. Caldrà que torneu a descarregar els programes per a tornar-los a fer servir.
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Només es mantindran les partides desades i la icona al menú HOME dels programes arxivats. Caldrà que torneu a baixar els programes per a tornar-los a fer servir.
 També podeu moure dades mitjançant  (Configuració del sistema) ⇒ Gestió de dades.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "dataErase.msbt.msbt/Der_DlgBodyEnough","No cal que arxiveu dades en aquests moments,
 ja que hi ha prou espai lliure disponible."
@@ -1078,7 +1080,7 @@ Arxiveu programes per a fer espai."
 Necessitareu {bytes:0E|00|02|00|07|00|04|00|00|00|00|00} d'espai lliure a la targeta microSD.
 Arxiveu programes per a fer espai."
 "dataErase.msbt.msbt/Der_MeterSize","{bytes:0E|00|02|00|04|00|04|00|00|00|00|00}"
-"dataErase.msbt.msbt/Der_TextFromShop","Només es mantindran les partides desades i la icona al menú HOME dels programes arxivats. Caldrà que torneu a descarregar els programes per a tornar-los a fer servir."
+"dataErase.msbt.msbt/Der_TextFromShop","Només es mantindran les partides desades i la icona al menú HOME dels programes arxivats. Caldrà que torneu a baixar els programes per a tornar-los a fer servir."
 "dataErase.msbt.msbt/Der_MeterNoDevice","No inserida"
 "dataErase.msbt.msbt/Der_BtnDataDate_1Week","Hi vau jugar per darrer cop fa més d'una setmana"
 "dataErase.msbt.msbt/Der_BtnDataUnit_MB","MB"
@@ -1108,7 +1110,7 @@ Quan ja no resti espai lliure, els programes que no hàgiu fet servir recentment
 "dataErase.msbt.msbt/Der_MeterUnit_GB","GB"
 "dataErase.msbt.msbt/Der_MeterDetail_Patch","Dades d'actualització"
 "dataErase.msbt.msbt/Der_TitleManual","Voleu arxivar els programes següents per a alliberar espai?
-{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Només es mantindran les partides desades i la icona al menú HOME dels programes arxivats. Caldrà que torneu a descarregar els programes per a tornar-los a fer servir.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Només es mantindran les partides desades i la icona al menú HOME dels programes arxivats. Caldrà que torneu a baixar els programes per a tornar-los a fer servir.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "dataErase.msbt.msbt/Der_BtnAutoCancel","Cancel·la"
 "dataErase.msbt.msbt/Der_MeterUnitDetail_MB","MB"
 "dataErase.msbt.msbt/Der_BtnDataDate_1Month","Hi vau jugar per darrer cop fa més d'un mes"
@@ -1123,7 +1125,7 @@ Feu servir una targeta microSD amb {bytes:0E|00|02|00|04|00|04|00|00|00|00|00} o
 "dataErase.msbt.msbt/Der_DlgBodyCacheStorageFullAny","No hi ha prou espai lliure.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Necessitareu {bytes:0E|00|02|00|07|00|04|00|00|00|00|00} d'espai lliure a la memòria del sistema de la consola o a la targeta microSD.
 Arxiveu programes per a fer espai."
-"dataErase.msbt.msbt/Der_TextFromSet","Només es mantindran les partides desades i la icona al menú HOME dels programes arxivats. Caldrà que torneu a descarregar els programes per a tornar-los a fer servir."
+"dataErase.msbt.msbt/Der_TextFromSet","Només es mantindran les partides desades i la icona al menú HOME dels programes arxivats. Caldrà que torneu a baixar els programes per a tornar-los a fer servir."
 "dataErase.msbt.msbt/Der_BtnDataDate_NotPlay","No hi heu jugat mai"
 "dataErase.msbt.msbt/Der_MeterTitle_Nand2","Memòria del sistema"
 "dataErase.msbt.msbt/Der_BtnDataSize","{bytes:0E|00|02|00|04|00|04|00|00|00|00|00}"
@@ -1191,7 +1193,7 @@ Aquesta activitat està restringida pel control parental. Podeu desactivar tempo
 "flaunch.msbt.msbt/Flc_DlgBtnSelectSort_PlayDate","Per partida més recent"
 "flaunch.msbt.msbt/Flc_DlgBtnSelectSort_PlayTime","Per temps total de joc"
 "flaunch.msbt.msbt/Flc_FooterText_Start","Inicia"
-"flaunch.msbt.msbt/Flc_BtnRedownload","Torna a descarregar programes"
+"flaunch.msbt.msbt/Flc_BtnRedownload","Torna a baixar programes"
 "flaunch.msbt.msbt/Flc_FooterText_Close","Tanca el programa"
 "flaunch.msbt.msbt/FlcIcon_Suspend","Hi jugueu"
 "flaunch.msbt.msbt/Flc_FooterText_Continue","Continua"
@@ -1245,7 +1247,7 @@ consola"
 "gift.msbt.msbt/Gft_Reboot_CountDown_Two","dos segons"
 "gift.msbt.msbt/Gftp_Header","Iguala la versió amb usuaris locals"
 "gift.msbt.msbt/Gftp_Help_01","Al menú HOME, seleccioneu el programa del qual voleu igualar les versions,
-després premeu  per a obrir el menú d'opcions d'aquell programa."
+després premeu  per a obrir el menú d'opcions d'aquell programa."
 "gift.msbt.msbt/Gft_TotalProgress_Unknown","Membres restants per actualitzar: ?"
 "gift.msbt.msbt/Gftp_Help_02","Seleccioneu Actualització del programa ⇒ Iguala la versió amb usuaris locals."
 "gift.msbt.msbt/Gft_DlgBodyExit","Es finalitzarà la comunicació."
@@ -1317,12 +1319,12 @@ Si aquest missatge apareix sovint, comproveu la següent pàgina al vostre dispo
 {bytes:0E|00|00|00|02|00|02|00|50|00}La consola es reiniciarà després de suprimir les dades.
 (Es tancarà el programa suspès.)
 Les partides desades, les captures de pantalla, els vídeos i altres dades que no són de la Nintendo Switch no se suprimiran. Podeu extreure la targeta microSD si no voleu utilitzar-la en aquesta consola.{bytes:0E|00|00|00|02|00|02|00|64|00}"
-"interrupt.msbt.msbt/ItpExpireRights_N1_Detail_Body","Com que aquesta consola no està definida com a consola primària, els programes descarregats i el contingut descarregable només són jugables mentre la consola estigui connectada a Internet.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}  
+"interrupt.msbt.msbt/ItpExpireRights_N1_Detail_Body","Com que aquesta consola no està definida com a consola primària, els programes i el contingut descarregable baixats només són jugables mentre la consola estigui connectada a Internet.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}  
 Visiteu el lloc web d'assistència de Nintendo per a més informació.
 {bytes:0E|00|02|00|0A|00|04|00|00|00|00|00}"
 "interrupt.msbt.msbt/ItpExpireRights_Simultaneous_Body","{bytes:0E|00|01|00|03|00|02|00|06|CD}{bytes:0E|00|00|00|02|00|02|00|5A|00}Codi d'error: {bytes:0E|00|02|00|05|00|04|00|00|00|00|00}{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Se suspendrà la partida.
-És possible que l'usuari enllaçat a aquest compte de Nintendo estigui jugant a programes descarregats o contingut descarregable en una altra consola.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}  
+És possible que l'usuari enllaçat a aquest compte de Nintendo estigui jugant a programes o contingut descarregable baixats en una altra consola.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Visiteu el lloc web d'assistència de Nintendo per a més informació.
 {bytes:0E|00|02|00|0A|00|04|00|01|00|00|00}"
 "interrupt.msbt.msbt/ItpSdDbCorrupted_Btn","Suprimeix"
@@ -1854,7 +1856,7 @@ Les partides desades, les captures de pantalla, els vídeos i la informació del
 ■ Tingueu en compte que:{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 ・{bytes:0E|00|01|00|06|00|00|00}Totes les dades de programes desades a la targeta microSD, excepte les captures de pantalla i els vídeos, esdevindran inusables. (Les dades de la targeta microSD no se suprimiran.){bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 ・{bytes:0E|00|01|00|06|00|00|00}La versió del sistema no canviarà.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
-・{bytes:0E|00|01|00|06|00|00|00}Els programes i DLC suprimits es poden tornar a descarregar de la Nintendo eShop. (Els programes discontinuats és possible que no estiguin disponibles per a tornar-los a descarregar en alguns casos.){bytes:0F|00|01|00|06|00}"
+・{bytes:0E|00|01|00|06|00|00|00}Els programes i DLC suprimits es poden tornar a baixar de la Nintendo eShop. (Els programes discontinuats és possible que no estiguin disponibles per a tornar-los a baixar en alguns casos.){bytes:0F|00|01|00|06|00}"
 "maintenance.msbt.msbt/MntCntTop_BodyPowerOff","Quan hàgiu acabat d'utilitzar el mode de recuperació, premeu el botó POWER per a apagar la consola."
 "maintenance.msbt.msbt/MntCntTop_BodySysUpdate","Versió actual del sistema: {bytes:0E|00|02|00|09|00|04|00|00|00|00|00}"
 "maintenance.msbt.msbt/MntCntTop_BodySysFormat","Suprimeix totes les dades de la memòria del sistema."
@@ -1882,11 +1884,11 @@ Executeu l'actualització del sistema i torneu-ho a provar."
 "migration.msbt.msbt/SaveMove_NeedDataErase_DlgBody","No es poden rebre les partides desades perquè no hi ha prou espai lliure.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Arxiveu programes i allibereu {bytes:0E|00|02|00|07|00|04|00|00|00|00|00} o més d'espai lliure a la memòria del sistema."
 "migration.msbt.msbt/Mig_Server_MigrationDetail_HeadSet","Començar la preparació des de  (Configuració del sistema) al menú HOME"
-"migration.msbt.msbt/Mig_Server_CompleteLearnMore_DlgBody_Au","・{bytes:0E|00|01|00|06|00|00|00}Els programes descarregables comprats per {bytes:0E|00|02|00|07|00|04|00|00|00|00|00} són jugables a la consola de destinació. Podeu descarregar-los a Informació del compte a la Nintendo eShop.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+"migration.msbt.msbt/Mig_Server_CompleteLearnMore_DlgBody_Au","・{bytes:0E|00|01|00|06|00|00|00}Els programes descarregables comprats per {bytes:0E|00|02|00|07|00|04|00|00|00|00|00} són jugables a la consola de destinació. Podeu baixar-los a Informació del compte a la Nintendo eShop.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 ・{bytes:0E|00|01|00|06|00|00|00}Les captures de pantalla i els vídeos romandran a la consola original i no s'han transferit.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Visiteu el lloc web d'assistència de Nintendo per a més informació.
 http://www.nintendo.com.au/nintendo-switch/transfer"
-"migration.msbt.msbt/Mig_Client_CompleteLearnMore_DlgBody_Au","・{bytes:0E|00|01|00|06|00|00|00}Els programes descarregables comprats per {bytes:0E|00|02|00|07|00|04|00|00|00|00|00} són jugables si els descarregueu a Informació del compte a la Nintendo eShop.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+"migration.msbt.msbt/Mig_Client_CompleteLearnMore_DlgBody_Au","・{bytes:0E|00|01|00|06|00|00|00}Els programes descarregables comprats per {bytes:0E|00|02|00|07|00|04|00|00|00|00|00} són jugables si els baixeu a Informació del compte a la Nintendo eShop.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 ・{bytes:0E|00|01|00|06|00|00|00}Les captures de pantalla i els vídeos romandran a la consola original i no s'han transferit.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Visiteu el lloc web d'assistència de Nintendo per a més informació.
 http://www.nintendo.com.au/nintendo-switch/transfer"
@@ -1930,11 +1932,11 @@ Feu el següent i seleccioneu ""Torna a cercar"".{bytes:0E|00|01|00|00|00|04|00|
 "migration.msbt.msbt/Mig_RebootErr_DlgBody","La consola es reiniciarà perquè s'ha produït un error."
 "migration.msbt.msbt/SaveMove_Server_SaveList_BodyText","Seleccioneu les partides desades que voleu enviar a l'altra consola."
 "migration.msbt.msbt/Mig_Client_Migration_HeadTransfer","S'està transferint la informació de l'usuari i les partides desades de {bytes:0E|00|02|00|07|00|04|00|00|00|00|00}..."
-"migration.msbt.msbt/Mig_Server_CompleteLearnMore_DlgBody_Eu","・{bytes:0E|00|01|00|06|00|00|00}Els programes descarregables comprats per {bytes:0E|00|02|00|07|00|04|00|00|00|00|00} són jugables a la consola de destinació. Podeu descarregar-los a Informació del compte a la Nintendo eShop.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+"migration.msbt.msbt/Mig_Server_CompleteLearnMore_DlgBody_Eu","・{bytes:0E|00|01|00|06|00|00|00}Els programes descarregables comprats per {bytes:0E|00|02|00|07|00|04|00|00|00|00|00} són jugables a la consola de destinació. Podeu baixar-los a Informació del compte a la Nintendo eShop.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 ・{bytes:0E|00|01|00|06|00|00|00}Les captures de pantalla i els vídeos romandran a la consola original i no s'han transferit.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Visiteu el lloc web d'assistència de Nintendo per a més informació.
 support.nintendo.com"
-"migration.msbt.msbt/Mig_Client_CompleteLearnMore_DlgBody_Eu","・{bytes:0E|00|01|00|06|00|00|00}Els programes descarregables comprats per {bytes:0E|00|02|00|07|00|04|00|00|00|00|00} són jugables si els descarregueu a Informació del compte a la Nintendo eShop.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+"migration.msbt.msbt/Mig_Client_CompleteLearnMore_DlgBody_Eu","・{bytes:0E|00|01|00|06|00|00|00}Els programes descarregables comprats per {bytes:0E|00|02|00|07|00|04|00|00|00|00|00} són jugables si els baixeu a Informació del compte a la Nintendo eShop.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 ・{bytes:0E|00|01|00|06|00|00|00}Les captures de pantalla i els vídeos romandran a la consola original i no s'han transferit.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Visiteu el lloc web d'assistència de Nintendo per a més informació.
 support.nintendo.com"
@@ -1945,7 +1947,7 @@ support.nintendo.com"
 "migration.msbt.msbt/Mig_Restart_Complete_DlgBody","S'han transferit la informació de l'usuari i les partides desades.
 La consola es reiniciarà."
 "migration.msbt.msbt/SaveMove_Top_BtnClient","Rep partides desades"
-"migration.msbt.msbt/Mig_Server_Confirm_Sub","Els programes descarregables comprats per {bytes:0E|00|02|00|07|00|04|00|00|00|00|00} ja no seran jugables en aquesta consola. Podreu jugar-hi a la consola de destinació descarregant-los de la Nintendo eShop."
+"migration.msbt.msbt/Mig_Server_Confirm_Sub","Els programes descarregables comprats per {bytes:0E|00|02|00|07|00|04|00|00|00|00|00} ja no seran jugables en aquesta consola. Podreu jugar-hi a la consola de destinació baixant-los de la Nintendo eShop."
 "migration.msbt.msbt/Mig_Client_ConfirmUser_Main","Es transferirà {bytes:0E|00|02|00|07|00|04|00|00|00|00|00} a aquesta consola.
 Prepareu la consola des de la qual es transferirà {bytes:0E|00|02|00|07|00|04|00|00|00|00|00}."
 "migration.msbt.msbt/Mig_Client_Migration_Sub","Connecteu un adaptador de corrent a cada consola i acosteu-les."
@@ -1953,22 +1955,22 @@ Prepareu la consola des de la qual es transferirà {bytes:0E|00|02|00|07|00|04|0
 "migration.msbt.msbt/SaveMove_Client_ConfirmOverwrite_BtnCancel","Cancel·la"
 "migration.msbt.msbt/Mig_Select_Main","Prepareu la consola d'origen, i també la consola de destinació a la qual es transferirà aquest usuari. Quina consola feu servir, ara mateix?"
 "migration.msbt.msbt/Mig_Server_MigrationDetail_TextStarter","La primera vegada que engegueu una consola nova, s'iniciarà el procés de configuració. Seleccioneu ""Importa un usuari d'una altra consola Nintendo Switch"" quan arribeu a la pantalla de sota."
-"migration.msbt.msbt/Mig_Server_CompleteLearnMore_DlgBody_Jp","・{bytes:0E|00|01|00|06|00|00|00}Els programes descarregables comprats per {bytes:0E|00|02|00|07|00|04|00|00|00|00|00} són jugables a la consola de destinació. Podeu descarregar-los a Informació del compte a la Nintendo eShop.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+"migration.msbt.msbt/Mig_Server_CompleteLearnMore_DlgBody_Jp","・{bytes:0E|00|01|00|06|00|00|00}Els programes descarregables comprats per {bytes:0E|00|02|00|07|00|04|00|00|00|00|00} són jugables a la consola de destinació. Podeu baixar-los a Informació del compte a la Nintendo eShop.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 ・{bytes:0E|00|01|00|06|00|00|00}Les captures de pantalla i els vídeos romandran a la consola original i no s'han transferit.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Visiteu el lloc web d'assistència de Nintendo per a més informació.
 https://www.nintendo.co.jp/support/switch/"
-"migration.msbt.msbt/Mig_Client_CompleteLearnMore_DlgBody_Jp","・{bytes:0E|00|01|00|06|00|00|00}Els programes descarregables comprats per {bytes:0E|00|02|00|07|00|04|00|00|00|00|00} són jugables si els descarregueu a Informació del compte a la Nintendo eShop.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+"migration.msbt.msbt/Mig_Client_CompleteLearnMore_DlgBody_Jp","・{bytes:0E|00|01|00|06|00|00|00}Els programes descarregables comprats per {bytes:0E|00|02|00|07|00|04|00|00|00|00|00} són jugables si els baixeu a Informació del compte a la Nintendo eShop.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 ・{bytes:0E|00|01|00|06|00|00|00}Les captures de pantalla i els vídeos romandran a la consola original i no s'han transferit.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Visiteu el lloc web d'assistència de Nintendo per a més informació.
 https://www.nintendo.co.jp/support/switch/"
 "migration.msbt.msbt/SaveMove_RestartMatching_DlgBody","S'estan cercant consoles entre les quals es transferiran dades...
 Feu servir les mateixes consoles que abans i acosteu-les."
 "migration.msbt.msbt/Mig_Server_MigrationDetail_TextSet","A la consola de destinació, aneu al menú HOME i seleccioneu  (Configuració del sistema) ⇒ Usuari ⇒ Transfereix l'usuari."
-"migration.msbt.msbt/Mig_Server_CompleteLearnMore_DlgBody_HTK","・{bytes:0E|00|01|00|06|00|00|00}Els programes descarregables comprats per {bytes:0E|00|02|00|07|00|04|00|00|00|00|00} són jugables a la consola de destinació. Podeu descarregar-los a Informació del compte a la Nintendo eShop.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+"migration.msbt.msbt/Mig_Server_CompleteLearnMore_DlgBody_HTK","・{bytes:0E|00|01|00|06|00|00|00}Els programes descarregables comprats per {bytes:0E|00|02|00|07|00|04|00|00|00|00|00} són jugables a la consola de destinació. Podeu baixar-los a Informació del compte a la Nintendo eShop.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 ・{bytes:0E|00|01|00|06|00|00|00}Les captures de pantalla i els vídeos romandran a la consola original i no s'han transferit.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Visiteu el lloc web d'assistència de Nintendo per a més informació.
 support.nintendo.com"
-"migration.msbt.msbt/Mig_Client_CompleteLearnMore_DlgBody_HTK","・{bytes:0E|00|01|00|06|00|00|00}Els programes descarregables comprats per {bytes:0E|00|02|00|07|00|04|00|00|00|00|00} són jugables si els descarregueu a Informació del compte a la Nintendo eShop.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+"migration.msbt.msbt/Mig_Client_CompleteLearnMore_DlgBody_HTK","・{bytes:0E|00|01|00|06|00|00|00}Els programes descarregables comprats per {bytes:0E|00|02|00|07|00|04|00|00|00|00|00} són jugables si els baixeu a Informació del compte a la Nintendo eShop.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 ・{bytes:0E|00|01|00|06|00|00|00}Les captures de pantalla i els vídeos romandran a la consola original i no s'han transferit.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Visiteu el lloc web d'assistència de Nintendo per a més informació.
 support.nintendo.com"
@@ -2006,11 +2008,11 @@ Suprimiu un usuari i torneu-ho a provar."
 {bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Seleccioneu Transfereix partides desades ⇒ Rep partides desades i acosteu les dues consoles.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "migration.msbt.msbt/Mig_Server_Confirm_BtnNext","Continua"
 "migration.msbt.msbt/SaveMove_HeaderClient","Recepció de partides desades"
-"migration.msbt.msbt/Mig_Server_CompleteLearnMore_DlgBody_Us","・{bytes:0E|00|01|00|06|00|00|00}Els programes descarregables comprats per {bytes:0E|00|02|00|07|00|04|00|00|00|00|00} són jugables a la consola de destinació. Podeu descarregar-los a Informació del compte a la Nintendo eShop.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+"migration.msbt.msbt/Mig_Server_CompleteLearnMore_DlgBody_Us","・{bytes:0E|00|01|00|06|00|00|00}Els programes descarregables comprats per {bytes:0E|00|02|00|07|00|04|00|00|00|00|00} són jugables a la consola de destinació. Podeu baixar-los a Informació del compte a la Nintendo eShop.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 ・{bytes:0E|00|01|00|06|00|00|00}Les captures de pantalla i els vídeos romandran a la consola original i no s'han transferit.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Visiteu el lloc web d'assistència de Nintendo per a més informació.
 support.nintendo.com/switch/transfer"
-"migration.msbt.msbt/Mig_Client_CompleteLearnMore_DlgBody_Us","・{bytes:0E|00|01|00|06|00|00|00}Els programes descarregables comprats per {bytes:0E|00|02|00|07|00|04|00|00|00|00|00} són jugables si els descarregueu a Informació del compte a la Nintendo eShop.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+"migration.msbt.msbt/Mig_Client_CompleteLearnMore_DlgBody_Us","・{bytes:0E|00|01|00|06|00|00|00}Els programes descarregables comprats per {bytes:0E|00|02|00|07|00|04|00|00|00|00|00} són jugables si els baixeu a Informació del compte a la Nintendo eShop.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 ・{bytes:0E|00|01|00|06|00|00|00}Les captures de pantalla i els vídeos romandran a la consola original i no s'han transferit.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Visiteu el lloc web d'assistència de Nintendo per a més informació.
 support.nintendo.com/switch/transfer"
@@ -2605,25 +2607,25 @@ Obriu la vostra pàgina d'usuari al menú HOME i enllaceu-hi un compte de Ninten
 "notification.msbt.msbt/NtfChDetail_BtnRegister","Segueix el canal"
 "option.msbt.msbt/OptCntUpdate_DlgBodyWaitSystemUpdateToCommit","Cal instal·lar una actualització del sistema.
 Executeu una actualització del sistema anant al menú HOME i seleccionant  (Configuració del sistema) ⇒ Sistema."
-"option.msbt.msbt/OptCntDelete_AsideCutDl","S'arxivarà aquest programa per a estalviar espai d'emmagatzematge. Després d'això, només en romandran les partides desades i la icona al menú HOME. Haureu de tornar a descarregar el programa per a tornar-lo a fer servir."
+"option.msbt.msbt/OptCntDelete_AsideCutDl","S'arxivarà aquest programa per a estalviar espai d'emmagatzematge. Després d'això, només en romandran les partides desades i la icona al menú HOME. Haureu de tornar a baixar el programa per a tornar-lo a fer servir."
 "option.msbt.msbt/OptNav_Point","Programa de recompenses
 My Nintendo"
 "option.msbt.msbt/OptCntOnlineBackup_NoRightToUse","No se n'ha fet una còpia de seguretat"
 "option.msbt.msbt/OptNav_Info","Informació del programa"
-"option.msbt.msbt/OptCntUpdate_BtnInternetRe","Torna a descarregar el programa"
+"option.msbt.msbt/OptCntUpdate_BtnInternetRe","Torna a baixar el programa"
 "option.msbt.msbt/OptCntDelete_BtnSaveMove","Transfereix les partides desades"
 "option.msbt.msbt/OptCntOnlineBackup_Incompatible","La còpia de seguretat de partides desades al núvol no està suportada per a aquest programa."
 "option.msbt.msbt/OptCntDelete_DlgBodyWaitCut","S'està arxivant..."
-"option.msbt.msbt/OptCntPoint_Guide_EU","Es pot registrar un cartutx de joc durant els dos anys següents a la data de llançament oficial del joc. Rebreu punts automàticament per les compres de programes a la Nintendo eShop i pel bescanvi de codis de descàrrega."
+"option.msbt.msbt/OptCntPoint_Guide_EU","Es pot registrar un cartutx de joc durant els dos anys següents a la data de llançament oficial del joc. Rebreu punts automàticament per les compres de programes a la Nintendo eShop i pel bescanvi de codis de baixada."
 "option.msbt.msbt/OptCntOnlineBackup_TextSystemUpdate","Cal instal·lar una actualització del sistema per a fer servir aquesta funcionalitat."
 "option.msbt.msbt/OptCntOther_BtnProperty","Avisos de propietat intel·lectual"
-"option.msbt.msbt/OptCntPoint_BtnPointCheck","Obtén punts (només per a la versió en cartutx de joc)"
+"option.msbt.msbt/OptCntPoint_BtnPointCheck","Obtén punts d'or (només per a la versió en cartutx de joc)"
 "option.msbt.msbt/OptCntPointConfirm_BtnOkFlatNin1","Obtén punts per aquest cartutx de joc"
 "option.msbt.msbt/OptCntUpdate_BtnInternet","Mitjançant Internet"
 "option.msbt.msbt/OptOnlineBackup_DlgHelp","""Se n'ha fet una còpia de seguretat"" significa que les partides desades de la consola s'han copiat correctament al servidor.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 ""Còpia de seguretat pendent"" significa que les partides desades es copiaran automàticament quan la consola es connecti a Internet, incloent-hi mentre estigui en mode d'espera.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
-Seleccioneu un usuari per a veure'n més informació o per a fer còpies de seguretat o descàrregues manuals de les partides desades."
-"option.msbt.msbt/OptCntOnlineBackup_DownloadNow","S'està descarregant: {bytes:0E|00|02|00|02|00|04|00|00|00|00|00}"
+Seleccioneu un usuari per a veure'n més informació o per a fer còpies de seguretat de les partides desades o baixar-les automàticament."
+"option.msbt.msbt/OptCntOnlineBackup_DownloadNow","S'està baixant: {bytes:0E|00|02|00|02|00|04|00|00|00|00|00}"
 "option.msbt.msbt/OptMain_Version","Ver. {bytes:0E|00|02|00|07|00|04|00|00|00|00|00}"
 "option.msbt.msbt/OptCntUpdate_BtnNear","Iguala la versió amb usuaris locals"
 "option.msbt.msbt/OptCntUpdate_DlgBodyLatest","Teniu la darrera versió d'aquest programa."
@@ -2641,21 +2643,21 @@ Seleccioneu un usuari per a veure'n més informació o per a fer còpies de segu
 "option.msbt.msbt/OptCntUpdate_AsideNear","Us podeu comunicar amb els usuaris locals per a unificar la vostra versió del programa."
 "option.msbt.msbt/OptCntDelete_DlgBodyCutCardOnly","S'arxivarà el programa.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Només en romandran les partides desades i la icona del programa al menú HOME.
-{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Les dades d'actualització i el contingut descarregable es poden tornar a descarregar més tard.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Les dades d'actualització i el contingut descarregable es poden tornar a baixar més tard.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "option.msbt.msbt/OptNav_Update","Actualització del programa"
 "option.msbt.msbt/OptCntDelete_DlgBodyDelete","Se suprimirà aquest programa.
-Si el voleu tornar a fer servir, l'haureu de tornar a descarregar de la Nintendo eShop."
-"option.msbt.msbt/OptCntUpdate_Download","S'està descarregant...{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
-Podeu veure l'estat de la descàrrega al menú HOME.
-{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}La descàrrega es pausarà si el programa a què jugueu fa servir
-les funcions de comunicació o si es descarrega un altre programa.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+Si el voleu tornar a fer servir, l'haureu de tornar a baixar de la Nintendo eShop."
+"option.msbt.msbt/OptCntUpdate_Download","S'està baixant...{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Podeu veure l'estat de la baixada al menú HOME.
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}La baixada es pausarà si el programa a què jugueu fa servir
+les funcionalitats de comunicació o si es baixa un altre programa.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "option.msbt.msbt/OptCntDelete_BtnDelete","Suprimeix el programa"
 "option.msbt.msbt/OptCntDelete_DlgBodyDeleteDone","S'ha suprimit el programa correctament."
 "option.msbt.msbt/OptCntUpdate_DlgBodyWaitCommit","Ara no es poden instal·lar actualitzacions.
 Tanqueu el programa suspès i torneu-ho a provar."
 "option.msbt.msbt/OptCntPointConfirm_BtnOk","Obtén punts per aquest programa"
 "option.msbt.msbt/OptNav_OnlineBackup","Partides desades al núvol"
-"option.msbt.msbt/OptCntOnlineBackup_Downloaded","S'ha descarregat correctament."
+"option.msbt.msbt/OptCntOnlineBackup_Downloaded","S'ha baixat correctament."
 "option.msbt.msbt/OptCntDelete_AsideDelete","No se'n suprimiran les partides desades."
 "option.msbt.msbt/OptCntOther_BtnInformation","Informació important"
 "option.msbt.msbt/OptCntPoint_DlgBodyRegisteredFlatNin1","Heu obtingut tots els punts disponibles per a aquest cartutx de joc.
@@ -2666,12 +2668,12 @@ Podeu veure l'estat de l'actualització al menú HOME.
 {bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}L'actualització es pausarà si es juga al programa o
 si s'actualitza un altre programa.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "option.msbt.msbt/OptCntPoint_TextPoint","Podeu rebre punts d'or de My Nintendo per les vostres compres de programes."
-"option.msbt.msbt/OptCntPoint_Guide_US","Només podeu obtenir punts d'or per a programes físics de la Nintendo Switch durant l'any posterior a la data original de llançament del joc. Obtindreu punts d'or automàticament per algunes compres digitals i en bescanviar alguns codis de descàrrega."
-"option.msbt.msbt/OptCntPoint_Guide_JP","Només podeu obtenir punts d'or per a programes físics de la Nintendo Switch durant l'any posterior a la data original de llançament del joc. Obtindreu punts d'or automàticament per algunes compres digitals i en bescanviar alguns codis de descàrrega."
+"option.msbt.msbt/OptCntPoint_Guide_US","Només podeu obtenir punts d'or per a programes físics de la Nintendo Switch durant l'any posterior a la data original de llançament del joc. Obtindreu punts d'or automàticament per algunes compres digitals i en bescanviar alguns codis de baixada."
+"option.msbt.msbt/OptCntPoint_Guide_JP","Només podeu obtenir punts d'or per a programes físics de la Nintendo Switch durant l'any posterior a la data original de llançament del joc. Obtindreu punts d'or automàticament per algunes compres digitals i en bescanviar alguns codis de baixada."
 "option.msbt.msbt/OptCntDelete_DlgBodyCut","S'arxivarà el programa.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
-Només en romandran les partides desades i la icona del programa al menú HOME. Caldrà que torneu a descarregar el programa per a tornar-lo a fer servir."
+Només en romandran les partides desades i la icona del programa al menú HOME. Caldrà que torneu a baixar el programa per a tornar-lo a fer servir."
 "option.msbt.msbt/OptCntOther_BtnReference","Informació d'assistència"
-"option.msbt.msbt/OptCntOnlineBackup_Collision","No se n'ha fet una còpia de seguretat"
+"option.msbt.msbt/OptCntOnlineBackup_Collision","S'ha produït un error"
 "option.msbt.msbt/OptCntPoint_DlgBodyNoCard","Inseriu el cartutx de joc d'aquest programa i torneu-ho a provar."
 "option.msbt.msbt/OptCntOnlineBackup_BackupWait","Còpia de seguretat pendent"
 "option.msbt.msbt/OptCntDelete_DlgBodyEjectCard","Suprimiu dades després d'extreure el cartutx de joc."
@@ -2681,18 +2683,18 @@ Només en romandran les partides desades i la icona del programa al menú HOME. 
 "option.msbt.msbt/OptCntOnlineBackup_NoSaveData","No hi ha partides desades"
 "option.msbt.msbt/OptCntPointConfirm_HeaderSubFlatNin1","Inclou els punts de {bytes:0E|00|02|00|0E|00|04|00|00|00|00|00} programes del cartutx de joc"
 "option.msbt.msbt/OptNav_Delete","Gestió de dades"
-"option.msbt.msbt/OptCntOther_Nothing","Per a mostrar la informació d'assistència, la informació important i els avisos de propietat intel·lectual, inseriu el cartutx de joc o descarregueu el programa."
+"option.msbt.msbt/OptCntOther_Nothing","Per a mostrar la informació d'assistència, la informació important i els avisos de propietat intel·lectual, inseriu el cartutx de joc o baixeu el programa."
 "option.msbt.msbt/OptCntPoint_Url","my.nintendo.com"
 "option.msbt.msbt/OptCntPointConfirm_PointRule","Per a més informació del programa de recompenses My Nintendo i per a consultar les condicions del servei, visiteu my.nintendo.com."
 "option.msbt.msbt/OptCntOnlineBackup_NewSeries","Hi ha partides desades noves al servidor."
 "option.msbt.msbt/OptCntUpdate_DlgBodyCheckUpdate","S'estan comprovant les actualitzacions disponibles..."
 "option.msbt.msbt/OptCntDelete_DlgBodyDeleteCardOnly","Se suprimiran les dades relacionades amb aquest programa.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
-Les dades suprimides es poden tornar a descarregar més tard."
-"option.msbt.msbt/OptCntOnlineBackup_DownloadWait","Descàrrega pendent"
+Les dades suprimides es poden tornar a baixar més tard."
+"option.msbt.msbt/OptCntOnlineBackup_DownloadWait","Baixada pausada"
 "option.msbt.msbt/OptCntUpdate_DlgBodyCheck","S'està comprovant..."
 "option.msbt.msbt/OptCntDelete_AsideCut","S'arxivarà aquest programa per a estalviar espai d'emmagatzematge. Després d'això, només en romandran les partides desades i la icona al menú HOME."
 "option.msbt.msbt/OptCntDelete_DlgBodyWaitDelete","S'està suprimint..."
-"option.msbt.msbt/OptCntPoint_Guide_AU","Només podeu obtenir punts d'or per a programes físics de la Nintendo Switch durant l'any posterior a la data original de llançament del joc. Obtindreu punts d'or automàticament per algunes compres digitals i en bescanviar alguns codis de descàrrega."
+"option.msbt.msbt/OptCntPoint_Guide_AU","Només podeu obtenir punts d'or per a programes físics de la Nintendo Switch durant l'any posterior a la data original de llançament del joc. Obtindreu punts d'or automàticament per algunes compres digitals i en bescanviar alguns codis de baixada."
 "option.msbt.msbt/OptCntDelete_DlgBodyCutDone","S'ha arxivat el programa correctament."
 "option.msbt.msbt/OptCntOnlineBackup_BackupOff","No se n'ha fet una còpia de seguretat"
 "overlayDisp.msbt.msbt/OvlBattery","Bateria de la consola ({bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}%)"
@@ -2706,7 +2708,8 @@ Les dades suprimides es poden tornar a descarregar més tard."
 "overlayDisp.msbt.msbt/OvlFriendInvitation","Invitacions a jugar en línia: {bytes:0E|00|00|00|02|00|02|00|5B|00}{bytes:0E|00|02|00|01|00|04|00|00|00|00|00}{bytes:0E|00|00|00|02|00|02|00|64|00}"
 "overlayDisp.msbt.msbt/Min_BtnWireless","Mode d'avió"
 "overlayDisp.msbt.msbt/OvlZoomGuide_Key_HOME",""
-"overlayDisp.msbt.msbt/OvlDownloadFinishPatch_Merge","{bytes:0E|00|00|00|02|00|02|00|5B|00}S'han descarregat dades d'actualització (i {bytes:0E|00|02|00|01|00|04|00|00|00|00|00} més).{bytes:0E|00|00|00|02|00|02|00|64|00}"
+"overlayDisp.msbt.msbt/OvlDownloadFinishPatch_Merge","{bytes:0E|00|00|00|02|00|02|00|5B|00}S'han baixat dades
+d'actualització (i {bytes:0E|00|02|00|01|00|04|00|00|00|00|00} més).{bytes:0E|00|00|00|02|00|02|00|64|00}"
 "overlayDisp.msbt.msbt/OvlZoomGuide_Key_HOME2",""
 "overlayDisp.msbt.msbt/OvlPhotoError_Unknown","{bytes:0E|00|00|00|02|00|02|00|5B|00}No s'ha pogut fer la captura.{bytes:0E|00|00|00|02|00|02|00|64|00}"
 "overlayDisp.msbt.msbt/OvlFriendRequest_New","Heu rebut una petició d'amistat."
@@ -2717,11 +2720,12 @@ servir els controladors sense fils.{bytes:0E|00|00|00|02|00|02|00|64|00}"
 "overlayDisp.msbt.msbt/OvlPlayTimer_Limit1","S'ha acabat el temps per avui."
 "overlayDisp.msbt.msbt/OvlParentalControlChange_Unlink","{bytes:0E|00|00|00|02|00|02|00|5B|00}S'ha desenllaçat l'aplicació de control parental.{bytes:0E|00|00|00|02|00|02|00|64|00}"
 "overlayDisp.msbt.msbt/OvlParentalControlChange_AlarmOff","{bytes:0E|00|00|00|02|00|02|00|5B|00}Les alarmes s'han desactivat només per a avui.{bytes:0E|00|00|00|02|00|02|00|64|00}"
-"overlayDisp.msbt.msbt/OvlDownloadFinishSoft","{bytes:0E|00|00|00|02|00|02|00|5B|00}S'ha descarregat el programa.{bytes:0E|00|00|00|02|00|02|00|64|00}"
+"overlayDisp.msbt.msbt/OvlDownloadFinishSoft","{bytes:0E|00|00|00|02|00|02|00|5B|00}S'ha baixat el programa.{bytes:0E|00|00|00|02|00|02|00|64|00}"
 "overlayDisp.msbt.msbt/OvlZoomGuide_Adjustment","Desbloca"
 "overlayDisp.msbt.msbt/OvlMovieError_Unknown","{bytes:0E|00|00|00|02|00|02|00|5B|00}No s'ha pogut fer la captura de vídeo.{bytes:0E|00|00|00|02|00|02|00|64|00}"
 "overlayDisp.msbt.msbt/OvlParentalControlChange_AlarmOffCancel","{bytes:0E|00|00|00|02|00|02|00|5B|00}La configuració d'alarmes ha tornat a la normalitat.{bytes:0E|00|00|00|02|00|02|00|64|00}"
-"overlayDisp.msbt.msbt/OvlDownloadFinishSoft_Merge","{bytes:0E|00|00|00|02|00|02|00|5B|00}S'han descarregat els programes (i {bytes:0E|00|02|00|01|00|04|00|00|00|00|00} més).{bytes:0E|00|00|00|02|00|02|00|64|00}"
+"overlayDisp.msbt.msbt/OvlDownloadFinishSoft_Merge","{bytes:0E|00|00|00|02|00|02|00|5B|00}S'han baixat els programes
+(i {bytes:0E|00|02|00|01|00|04|00|00|00|00|00} més).{bytes:0E|00|00|00|02|00|02|00|64|00}"
 "overlayDisp.msbt.msbt/Ctn_ResumeApp"," Torna al programa"
 "overlayDisp.msbt.msbt/OvlParentalControlChange_PlayTime","{bytes:0E|00|00|00|02|00|02|00|5B|00}S'ha canviat el límit de joc diari.{bytes:0E|00|00|00|02|00|02|00|64|00}"
 "overlayDisp.msbt.msbt/OvlParentalControlChange_Reflect","{bytes:0E|00|00|00|02|00|02|00|5B|00}S'ha sincronitzat la configuració.{bytes:0E|00|00|00|02|00|02|00|64|00}"
@@ -2737,7 +2741,8 @@ servir els controladors sense fils.{bytes:0E|00|00|00|02|00|02|00|64|00}"
 "overlayDisp.msbt.msbt/OvlControllerLowBattery","Bateria baixa"
 "overlayDisp.msbt.msbt/Ctn_HighTemperature","La consola s'està sobreescalfant. Entrarà en mode d'espera."
 "overlayDisp.msbt.msbt/OvlBatteryChargeError","No es pot carregar"
-"overlayDisp.msbt.msbt/OvlDownloadFinishAOC","{bytes:0E|00|00|00|02|00|02|00|5B|00}S'ha descarregat el contingut descarregable.{bytes:0E|00|00|00|02|00|02|00|64|00}"
+"overlayDisp.msbt.msbt/OvlDownloadFinishAOC","{bytes:0E|00|00|00|02|00|02|00|5B|00}S'ha baixat el contingut
+descarregable.{bytes:0E|00|00|00|02|00|02|00|64|00}"
 "overlayDisp.msbt.msbt/OvlBattery_Low5","Bateria de la consola baixa"
 "overlayDisp.msbt.msbt/OvlHomeNg","{bytes:0E|00|00|00|02|00|02|00|5B|00}Ara no es pot mostrar el menú HOME.{bytes:0E|00|00|00|02|00|02|00|64|00}"
 "overlayDisp.msbt.msbt/OvlPhotoError_FullPhoto","{bytes:0E|00|00|00|02|00|02|00|5B|00}No hi ha prou espai per a la captura de pantalla.{bytes:0E|00|00|00|02|00|02|00|64|00}"
@@ -2756,7 +2761,8 @@ Traieu la consola de les ulleres de RV {bytes:0E|00|01|00|04|00|00|00}Toy-Con{by
 "overlayDisp.msbt.msbt/OvlMovieError_Save","No s'ha pogut desar."
 "overlayDisp.msbt.msbt/Ctn_BtnClose","Tanca"
 "overlayDisp.msbt.msbt/OvlMovieNg","{bytes:0E|00|00|00|02|00|02|00|5B|00}Ara no es poden fer captures de vídeo.{bytes:0E|00|00|00|02|00|02|00|64|00}"
-"overlayDisp.msbt.msbt/OvlDownloadFinishAOC_Merge","{bytes:0E|00|00|00|02|00|02|00|5B|00}S'ha descarregat el DLC (i {bytes:0E|00|02|00|01|00|04|00|00|00|00|00} més).{bytes:0E|00|00|00|02|00|02|00|64|00}"
+"overlayDisp.msbt.msbt/OvlDownloadFinishAOC_Merge","{bytes:0E|00|00|00|02|00|02|00|5B|00}S'ha baixat el DLC
+(i {bytes:0E|00|02|00|01|00|04|00|00|00|00|00} més).{bytes:0E|00|00|00|02|00|02|00|64|00}"
 "overlayDisp.msbt.msbt/OvlFriendRequest","Peticions d'amistat: {bytes:0E|00|02|00|01|00|04|00|00|00|00|00}"
 "overlayDisp.msbt.msbt/OvlSoftRights_30min","{bytes:0E|00|00|00|02|00|02|00|5B|00}Perdreu l'opció de jugar a aquest programa.{bytes:0E|00|00|00|02|00|02|00|64|00}"
 "overlayDisp.msbt.msbt/OvlZoomGuide_Exit","Cancel·la"
@@ -2787,7 +2793,8 @@ a Internet.{bytes:0E|00|00|00|02|00|02|00|64|00}"
 "overlayDisp.msbt.msbt/OvlMovieIncompatible","{bytes:0E|00|00|00|02|00|02|00|5B|00}En aquest programa no es poden capturar vídeos.{bytes:0E|00|00|00|02|00|02|00|64|00}"
 "overlayDisp.msbt.msbt/OvlPromotion_10min","{bytes:0E|00|00|00|02|00|02|00|5B|00}Aviat perdreu l'opció de jugar a aquest programa.{bytes:0E|00|00|00|02|00|02|00|64|00}"
 "overlayDisp.msbt.msbt/OvlMovieOK","S'ha desat correctament."
-"overlayDisp.msbt.msbt/OvlDownloadFinishPatch","{bytes:0E|00|00|00|02|00|02|00|5B|00}S'han descarregat les dades de l'actualització.{bytes:0E|00|00|00|02|00|02|00|64|00}"
+"overlayDisp.msbt.msbt/OvlDownloadFinishPatch","{bytes:0E|00|00|00|02|00|02|00|5B|00}S'han baixat les dades
+de l'actualització.{bytes:0E|00|00|00|02|00|02|00|64|00}"
 "overlayDisp.msbt.msbt/OvlFriendOnline_Now","{bytes:0E|00|02|00|04|00|04|00|00|00|00|00}"
 "overlayDisp.msbt.msbt/Min_BtnWirelessSub_WhileTvOuput","{bytes:0E|00|00|00|02|00|02|00|64|00}No es pot configurar mentre la consola
 està connectada al televisor.{bytes:0E|00|00|00|02|00|02|00|64|00}"
@@ -2915,7 +2922,7 @@ Abans de crear o editar captures de pantalla o vídeos, feu espai suprimint dade
 "photoViewer.msbt.msbt/PvrDetailMenu_BtnCopy","Copia"
 "photoViewer.msbt.msbt/PvrFiltering_BtnAll","Totes les captures de pantalla i tots els vídeos "
 "photoViewer.msbt.msbt/PvrEditMovie_BtnNext","Següent"
-"photoViewer.msbt.msbt/PvrDetail_FooterText_Menu_A","Edita i publica"
+"photoViewer.msbt.msbt/PvrDetail_FooterText_Menu_A","Publicació i edició"
 "photoViewer.msbt.msbt/PvrPostScript_BodyMessage_Empty_T","No hi ha cap captura de pantalla ni cap vídeo desat en aquest lloc.
 Proveu de fer moltes captures de pantalla i molts vídeos diferents per a construir una col·lecció dels vostres records jugant a la Nintendo Switch!{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Podeu fer servir el botó Captura per a fer captures de pantalla i vídeos. Si premeu el botó breument, fareu una captura de pantalla de la pantalla actual, mentre que si el manteniu premut, capturareu un vídeo dels 30 segons anteriors.
@@ -3034,7 +3041,7 @@ Visiteu el lloc web d'assistència de Nintendo per a més informació.
 "playerSelect.msbt.msbt/PselAdd_Navi03_HeaderTxt_00","Enllaceu el mateix compte de Nintendo que feu servir a l'altra consola."
 "playerSelect.msbt.msbt/PselAdd_Navi03_Btn_03","Mostra'n els detalls"
 "playerSelect.msbt.msbt/PselAdd_NALinkGuide2_DlgBody","Si enllaceu el mateix compte de Nintendo que fèieu servir a la consola original, podeu importar la vostra llista d'amics i la informació d'usuari, incloent-hi la icona i el sobrenom.
-També podreu descarregar els programes i DLC que hàgiu comprat a la consola original i fer-los servir en aquesta consola."
+També podreu baixar els programes i DLC que hàgiu comprat a la consola original i fer-los servir en aquesta consola."
 "playerSelect.msbt.msbt/PselNAlink_Complete_content01","Funcionalitats d'amistat"
 "playerSelect.msbt.msbt/PselAdd_Commit_Btn_01","D'acord"
 "playerSelect.msbt.msbt/PselErr_EulaUpdate_DlgBody","S'han actualitzat l'Acord del compte de Nintendo i la Política de privacitat del compte de Nintendo.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
@@ -3053,7 +3060,7 @@ Torneu a iniciar la sessió al vostre compte de Nintendo i reviseu la informaci�
 "playerSelect.msbt.msbt/PselAdd_NoLinkFromNavi03_HeaderTxt_00","Si voleu continuar sense enllaçar un compte de Nintendo, haureu de crear un usuari nou.
 {bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Podreu enllaçar un compte de Nintendo al nou usuari més tard.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "playerSelect.msbt.msbt/PselCreateUAbyNA_Commit_HeaderTxt","S'afegirà aquest usuari a la consola."
-"playerSelect.msbt.msbt/PselStarter_MigIntro2_Txt_01","Els programes descarregables comprats per l'usuari transferit ja no seran jugables a la consola original, però s'hi podrà jugar a la consola de destinació tornant-los a descarregar de la Nintendo eShop."
+"playerSelect.msbt.msbt/PselStarter_MigIntro2_Txt_01","Els programes descarregables comprats per l'usuari transferit ja no seran jugables a la consola original, però s'hi podrà jugar a la consola de destinació tornant-los a baixar de la Nintendo eShop."
 "playerSelect.msbt.msbt/PselStarter_MigIntro2Info_Dlgbody_Au","Les captures de pantalla i els vídeos fets amb la consola original no es transferiran.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Visiteu el lloc web d'assistència de Nintendo per a més informació.
 support.nintendo.com"
@@ -3118,23 +3125,23 @@ Executeu una comprovació de dades corruptes."
 "qlaunch.msbt.msbt/Rdt_FooterText_Close","Tanca el programa"
 "qlaunch.msbt.msbt/QlcCard_DlgBodySystemUpdate","Cal instal·lar una actualització del sistema per a utilitzar el cartutx de joc inserit.
 {bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}La icona d'aquest programa no apareixerà al menú HOME fins que s'hagi completat l'actualització.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
-"qlaunch.msbt.msbt/QlcLaunchCheck_DlgBtnLaunch","Inicia igualment"
+"qlaunch.msbt.msbt/QlcLaunchCheck_DlgBtnLaunch","Inicia el programa"
 "qlaunch.msbt.msbt/RdtSleep_DlgBodySleep","La consola entrarà en mode d'espera.
 Premeu  per a activar-la.
 {bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}També podeu activar el mode d'espera a la configuració ràpida (mantingueu premut ).{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "qlaunch.msbt.msbt/Rdt_FooterText_Option_Promotion","Opcions/Compra"
 "qlaunch.msbt.msbt/RdtSystemTitle_Set","Configuració del sistema"
-"qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyDownloadRequired","Les dades del programa no s'han descarregat.
-Es descarregaran ara."
-"qlaunch.msbt.msbt/QlcDl_DlgBodySystemUpdate2","No s'han pogut descarregar algunes dades perquè la versió del sistema no està actualitzada.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+"qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyDownloadRequired","Les dades del programa no s'han baixat.
+Es baixaran ara."
+"qlaunch.msbt.msbt/QlcDl_DlgBodySystemUpdate2","No s'han pogut baixar algunes dades perquè la versió del sistema no està actualitzada.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Executeu una actualització del sistema."
 "qlaunch.msbt.msbt/EntMain_BtmNtfJumpUpdate","Notícies destacades"
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyPctlRating","No podeu jugar a aquest programa."
 "qlaunch.msbt.msbt/QlcSd_DlgBodyNotReady","La targeta microSD no està a punt per a ser utilitzada.
 Per a utilitzar-la, reinicieu la consola.
 {bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Per a reiniciar la consola més tard, obriu el menú d'alimentació (mantingueu premut el botó POWER durant tres segons) i seleccioneu Opcions d'alimentació ⇒ Reinicia.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
-"qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyUndeliveredTryLater","Encara no podeu jugar a aquest programa o contingut descarregable.
-Torneu-ho a provar més tard."
+"qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyUndeliveredTryLater","Encara no podeu jugar a aquest programa o contingut descarregable. Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Encara que reinicieu la consola o torneu a obrir la Nintendo eShop, no podreu jugar al programa o contingut descarregable abans."
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyRightsNoRights3","Aquest usuari no pot jugar a aquest programa.
 Si no heu comprat el programa, podeu fer-ho a la Nintendo eShop.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Visiteu el lloc web d'assistència de Nintendo per a més informació.
@@ -3151,11 +3158,11 @@ Arxiveu programes per a fer espai."
 "qlaunch.msbt.msbt/QlcChildLock_DlgBodyLocked","El control parental s'ha tornat a activar."
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyRightsPromotionEnded","L'esdeveniment Game Trials d'aquest programa s'ha acabat.
 Podreu continuar jugant on ho vau deixar si compreu el programa."
-"qlaunch.msbt.msbt/QlcDl_DlgBodyFull","No hi ha prou espai lliure per a descarregar les dades.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+"qlaunch.msbt.msbt/QlcDl_DlgBodyFull","No hi ha prou espai lliure per a baixar les dades.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Necessitareu {bytes:0E|00|02|00|02|00|04|00|00|00|00|00} {bytes:0E|00|02|00|00|00|04|00|01|00|00|00} d'espai lliure a la memòria del sistema de la consola o a la targeta microSD.
 Arxiveu programes per a fer espai."
 "qlaunch.msbt.msbt/QlcResume_DlgBodyUpdateDataSystemUpdateRequired","Hi ha disponibles dades d'actualització del programa, però per a instal·lar-les abans cal que instal·leu una actualització del sistema."
-"qlaunch.msbt.msbt/QlcDl_DlgBodyDlErrorNoRightsAll_NAError","No es poden descarregar programes ni contingut descarregable perquè el compte de Nintendo que els va comprar no es pot utilitzar.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+"qlaunch.msbt.msbt/QlcDl_DlgBodyDlErrorNoRightsAll_NAError","No es poden baixar programes ni contingut descarregable perquè el compte de Nintendo que els va comprar no es pot utilitzar.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Accediu a la pàgina d'usuari corresponent al menú HOME i comproveu l'estat actual del compte de Nintendo.
 {bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Si un compte de Nintendo no es pot utilitzar, s'hi mostrarà  a la icona d'usuari del menú HOME.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}"
 "qlaunch.msbt.msbt/Qlc_DlgBodySaveDataFull2","No es poden crear les partides desades perquè no hi ha prou espai lliure.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
@@ -3166,13 +3173,13 @@ Arxiveu programes per a fer espai."
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyNoRightsAoc","S'ha trobat contingut o dades d'actualització no utilitzables.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Caldrà que us connecteu a Internet i n'obtingueu més informació."
 "qlaunch.msbt.msbt/QlcChildLock_StateAlarmDisabled","Alarmes: Desactivades per a avui"
-"qlaunch.msbt.msbt/Rdt_Empty","Per a jugar a un joc podeu inserir un cartutx de joc o descarregar programes a la Nintendo eShop."
+"qlaunch.msbt.msbt/Rdt_Empty","Per a jugar a un joc podeu inserir un cartutx de joc o baixar programes de la Nintendo eShop."
 "qlaunch.msbt.msbt/Rdt_FooterText_Continue","Continua"
-"qlaunch.msbt.msbt/QlcDl_DlgBodyDlErrorNoRightsPartially","Alguns programes o contingut descarregable no es poden descarregar perquè l'usuari que els va comprar ja no existeix en aquesta consola.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
-La descàrrega continuarà amb les dades accessibles."
+"qlaunch.msbt.msbt/QlcDl_DlgBodyDlErrorNoRightsPartially","Alguns programes o contingut descarregable no es poden baixar perquè l'usuari que els va comprar ja no existeix en aquesta consola.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+La baixada continuarà amb les dades accessibles."
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyDownloadRequired2","No s'han trobat dades necessàries.
-Es descarregaran ara."
-"qlaunch.msbt.msbt/QlcDl_DlgBodyDlErrorNoRightsPartially_NAError","Alguns programes o contingut descarregable no es poden descarregar perquè el compte de Nintendo que els va comprar no es pot fer servir.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Es baixaran ara."
+"qlaunch.msbt.msbt/QlcDl_DlgBodyDlErrorNoRightsPartially_NAError","Alguns programes o contingut descarregable no es poden baixar perquè el compte de Nintendo que els va comprar no es pot fer servir.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Accediu a la pàgina d'usuari corresponent al menú HOME i reviseu l'estat actual del compte de Nintendo.
 {bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Si un compte de Nintendo no es pot fer servir, es mostrarà  a la seva icona d'usuari al menú HOME.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}"
 "qlaunch.msbt.msbt/Qlc_FooterText_ChildOn","Activa"
@@ -3182,7 +3189,7 @@ L'actualització durarà poc temps. Voleu actualitzar ara?
 {bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Quan acabi l'actualització es reiniciarà la consola.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyNoRightsAocTop","Algun contingut descarregable no és jugable."
 "qlaunch.msbt.msbt/QlcDl_DlgBodyStopInstall","Es cancel·larà l'actualització del programa.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
-Caldrà que torneu a descarregar les dades d'actualització."
+Caldrà que torneu a baixar les dades d'actualització."
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodySystemUpdate2","Hi ha dades disponibles dades d'actualització del programa, però per a instal·lar-les abans cal que executeu una actualització del sistema."
 "qlaunch.msbt.msbt/QlcCloseApp_DlgBodyConfirm","Voleu tancar el programa que esteu fent servir?"
 "qlaunch.msbt.msbt/QlcChildLock_Timeover","S'ha acabat el temps."
@@ -3193,8 +3200,8 @@ L'actualització durarà poc temps. Voleu actualitzar ara?
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyUndelivered","Encara no podeu jugar a aquest programa.
 Voleu veure'n més informació detallada a la Nintendo eShop?"
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyUpdateRecommendedAoC","{empty}"
-"qlaunch.msbt.msbt/QlcDl_DlgBodyDownloading2","S'estan descarregant dades...
-{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}La descàrrega es pausarà si el programa a què jugueu fa servir les funcionalitats de comunicació o si es descarrega un altre programa.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+"qlaunch.msbt.msbt/QlcDl_DlgBodyDownloading2","S'estan baixant les dades...
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}La baixada es pausarà si el programa a què jugueu fa servir les funcionalitats de comunicació o si es baixa un altre programa.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "qlaunch.msbt.msbt/QlcCloseApp_DlgBodyConfirmCaution","Voleu tancar el programa que esteu fent servir?
 {bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Es perdran les dades que no hàgiu desat.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyPreInstalled","Aquest programa esdevindrà jugable si el registreu a la Nintendo eShop.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
@@ -3206,7 +3213,7 @@ Només {bytes:0E|00|01|00|03|00|02|00|05|CD}un{bytes:0F|00|01|00|03|00} usuari p
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyPctlUnlockNoWL","Podeu desactivar temporalment el control parental al menú HOME."
 "qlaunch.msbt.msbt/RdtSystemTitle_Ctrl","Controladors"
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyAocDeleted","S'ha suprimit correctament.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
-El contingut descarregable suprimit es pot tornar a descarregar de la Nintendo eShop."
+El contingut descarregable suprimit es pot tornar a baixar de la Nintendo eShop."
 "qlaunch.msbt.msbt/EntAlarm_BodyTime","{bytes:0E|00|02|00|07|00|04|00|00|00|00|00} {bytes:0E|00|02|00|07|00|04|00|01|00|00|00}"
 "qlaunch.msbt.msbt/QlcResume_DlgBodyNewData","S'ha trobat nou contingut descarregable.
 Voleu instal·lar-lo ara?"
@@ -3218,15 +3225,15 @@ cal tancar aquest programa."
 "qlaunch.msbt.msbt/QlcDl_MeterSuspended","{empty}"
 "qlaunch.msbt.msbt/EntIcon_Promotion_d","L'esdeveniment s'acaba d'aquí a {bytes:0E|00|02|00|0C|00|04|00|00|00|00|00} d {bytes:0E|00|02|00|0C|00|04|00|01|00|00|00} h"
 "qlaunch.msbt.msbt/EntLock_BtnIntro","Premeu el mateix botó tres vegades."
-"qlaunch.msbt.msbt/QlcDl_DlgBodyDlCancelled","S'ha cancel·lat la descàrrega.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
-El contingut es pot tornar a descarregar de la Nintendo eShop.
+"qlaunch.msbt.msbt/QlcDl_DlgBodyDlCancelled","S'ha cancel·lat la baixada.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+El contingut es pot tornar a baixar de la Nintendo eShop.
 {bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Si teniu algun problema, proveu d'actualitzar el programa anant al menú HOME, obrint el menú d'opcions del programa i seleccionant Actualització del programa.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodySystemUpdateRequiredToCheckRightsAoC","Cal instal·lar una actualització del sistema per a comprovar si es pot jugar al contingut descarregable."
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyPctlUgc","La comunicació lliure amb altres usuaris està restringida en aquest programa."
 "qlaunch.msbt.msbt/QlcDl_DlgBtnIgnoreAndRetry","Ignora i continua"
 "qlaunch.msbt.msbt/Rdt_FooterText_PlayerSelect","Canvia d'usuari"
 "qlaunch.msbt.msbt/EntAlarm_Btn_L",""
-"qlaunch.msbt.msbt/QlcRebootApp_DlgBodyConfirm","El programa que esteu fent servir es tancarà i la consola es reiniciarà."
+"qlaunch.msbt.msbt/QlcRebootApp_DlgBodyConfirm","El programa que esteu fent servir es tancarà i es reiniciarà."
 "qlaunch.msbt.msbt/QlcDl_DlgBodyFullSd","No hi ha prou espai lliure per a actualitzar el programa.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Necessitareu {bytes:0E|00|02|00|02|00|04|00|00|00|00|00} {bytes:0E|00|02|00|00|00|04|00|01|00|00|00} d'espai lliure a la targeta microSD.
 Arxiveu programes per a fer espai."
@@ -3234,7 +3241,7 @@ Arxiveu programes per a fer espai."
 {bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Connecteu a Internet una altra consola Nintendo Switch enllaçada a aquest compte de Nintendo i torneu-ho a provar.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "qlaunch.msbt.msbt/EntIcon_Promotion_h","L'esdeveniment s'acaba d'aquí a {bytes:0E|00|02|00|0C|00|04|00|00|00|00|00} h {bytes:0E|00|02|00|0C|00|04|00|01|00|00|00} min"
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyUpdateRequired","Cal instal·lar una actualització del programa.
-Ara es descarregaran les dades d'actualització."
+Ara es baixaran les dades d'actualització."
 "qlaunch.msbt.msbt/Qlc_DlgBodyCacheStorageFullSd","El programa no es pot iniciar perquè no hi ha prou espai lliure.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Per a jugar a aquest programa, necessitareu {bytes:0E|00|02|00|02|00|04|00|00|00|00|00} {bytes:0E|00|02|00|00|00|04|00|01|00|00|00} d'espai lliure a la targeta microSD.
 Arxiveu programes per a fer espai."
@@ -3249,27 +3256,27 @@ Voleu suprimir el contingut descarregable no jugable i iniciar el programa?"
 "qlaunch.msbt.msbt/RdtQuest_DlgBody","Esteu segur que voleu tancar aquest programa?
 {bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Feu servir la palanca de control per a seleccionar una opció i premeu {bytes:0E|00|02|00|14|00|06|00|00|00|00|00|00|CD} per a confirmar.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "qlaunch.msbt.msbt/EntAlarm_Btn_R",""
-"qlaunch.msbt.msbt/QlcDl_DlgBodyFatal","Es cancel·larà la descàrrega perquè s'ha produït un error.
-Torneu a iniciar la descàrrega des del començament."
+"qlaunch.msbt.msbt/QlcDl_DlgBodyFatal","Es cancel·larà la baixada perquè s'ha produït un error.
+Torneu a iniciar la baixada de nou."
 "qlaunch.msbt.msbt/EntIcon_Promotion_m","L'esdeveniment s'acaba d'aquí a {bytes:0E|00|02|00|0C|00|04|00|00|00|00|00} min"
 "qlaunch.msbt.msbt/QlcDl_DlgBtnStopInstall","Cancel·la l'actualització del programa"
 "qlaunch.msbt.msbt/RdtIcon_Promotion","Programes de Game Trials"
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodySystemUpdateRequiredToCheckRights","Cal instal·lar una actualització del sistema per a comprovar si aquest programa és usable."
-"qlaunch.msbt.msbt/QlcDl_DlgBodyDlReqSystemUpdate","Cal instal·lar una actualització del sistema per a descarregar dades."
+"qlaunch.msbt.msbt/QlcDl_DlgBodyDlReqSystemUpdate","Cal instal·lar una actualització del sistema per a baixar dades."
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyPrePurchased","La consola utilitzarà Internet per a comprovar si es pot jugar a aquest programa."
 "qlaunch.msbt.msbt/QlcDl_DlgBodyFatal2","S'ha cancel·lat l'actualització del programa perquè s'ha produït un error.
-Torneu a descarregar les dades d'actualització."
+Torneu a baixar les dades d'actualització."
 "qlaunch.msbt.msbt/RdtSystemTitle_News","Notícies"
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyPctl2","Voleu afegir {bytes:0E|00|02|00|08|00|04|00|00|00|00|00} a la llista blanca?
 {bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Afegir un programa a la llista blanca elimina les restriccions de joc i comunicació lliure amb altres per a aquell programa.
 
 La llista blanca es pot modificar més tard.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
-"qlaunch.msbt.msbt/QlcDl_DlgBodyFullNandDl","No hi ha prou espai lliure per a descarregar les dades.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+"qlaunch.msbt.msbt/QlcDl_DlgBodyFullNandDl","No hi ha prou espai lliure per a baixar les dades.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Necessitareu {bytes:0E|00|02|00|02|00|04|00|00|00|00|00} {bytes:0E|00|02|00|00|00|04|00|01|00|00|00} d'espai lliure a la memòria del sistema de la consola.
 Arxiveu programes per a fer espai."
 "qlaunch.msbt.msbt/QlcChildLock_Timer","Temps restant"
-"qlaunch.msbt.msbt/QlcDl_DlgBodyDlErrorContinuedDlPartially","La descàrrega continuarà amb les dades accessibles.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
-La resta de dades es podran tornar a descarregar de la Nintendo eShop quan el compte de Nintendo que les va comprar es pugui tornar a fer servir."
+"qlaunch.msbt.msbt/QlcDl_DlgBodyDlErrorContinuedDlPartially","La baixada continuarà amb les dades accessibles.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+La resta de dades es podran tornar a baixar de la Nintendo eShop quan el compte de Nintendo que les va comprar es pugui tornar a fer servir."
 "qlaunch.msbt.msbt/Qlc_DlgBodyCacheStorageFullNand","El programa no es pot iniciar perquè no hi ha prou espai lliure.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Per a jugar a aquest programa, necessitareu {bytes:0E|00|02|00|02|00|04|00|00|00|00|00} {bytes:0E|00|02|00|00|00|04|00|01|00|00|00} d'espai lliure a la memòria del sistema de la consola.
 Arxiveu programes per a fer espai."
@@ -3281,9 +3288,9 @@ Visiteu el lloc web d'assistència de Nintendo per a més informació.
 Necessitareu {bytes:0E|00|02|00|02|00|04|00|00|00|00|00} {bytes:0E|00|02|00|00|00|04|00|01|00|00|00} d'espai lliure a la memòria del sistema de la consola.
 Arxiveu programes per a fer espai."
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyDownloadAoc","{empty}"
-"qlaunch.msbt.msbt/QlcDl_DlgBodyCancelDownload","Es cancel·larà la descàrrega."
+"qlaunch.msbt.msbt/QlcDl_DlgBodyCancelDownload","Es cancel·larà la baixada."
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyNewData","Hi ha una nova actualització disponible.
-Es descarregarà ara."
+Es baixarà ara."
 "qlaunch.msbt.msbt/RdtSystemTitle_FullLauncher","Tots els programes"
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodySystemUpdate","Cal instal·lar una actualització del
 sistema per a fer servir aquest programa."
@@ -3291,34 +3298,34 @@ sistema per a fer servir aquest programa."
 {bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}L'actualització s'aturarà si el programa a què jugueu fa servir la comunicació sense fins o si s'actualitza un altre programa.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "qlaunch.msbt.msbt/QlcDl_DlgBodyFull2","{empty}"
 "qlaunch.msbt.msbt/Qlc_FooterText_ChildOff","Desactiva temporalment el control parental"
-"qlaunch.msbt.msbt/QlcDl_DlgBodyDownloading","S'estan descarregant dades...
-{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}La descàrrega es pausarà si el programa a què jugueu fa servir les funcionalitats de comunicació o si es descarrega un altre programa.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+"qlaunch.msbt.msbt/QlcDl_DlgBodyDownloading","S'estan baixant les dades...
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}La baixada es pausarà si el programa a què jugueu fa servir les funcionalitats de comunicació o si es baixa un altre programa.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "qlaunch.msbt.msbt/QlcPctl_DlgBodySettingsDeleted","S'ha suprimit la configuració del control parental perquè s'ha desregistrat l'aplicació de Control parental de la Nintendo Switch d'aquesta consola."
-"qlaunch.msbt.msbt/QlcDl_DlgBtnStopDownload","Cancel·la la descàrrega"
+"qlaunch.msbt.msbt/QlcDl_DlgBtnStopDownload","Cancel·la la baixada"
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyNoMain","Cal que tingueu el programa per a jugar-hi."
 "qlaunch.msbt.msbt/RdtSystemTitle_Pow","Mode d'espera"
 "qlaunch.msbt.msbt/QlcCard_DlgBodyMismatched","Inseriu el cartutx de joc."
 "qlaunch.msbt.msbt/QlcCloseApp_DlgBodyClosing","S'està tancant el programa..."
 "qlaunch.msbt.msbt/EntAlarm_BtnStart","Inicia"
-"qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyCBBlockError_DL","No ha finalitzat la descàrrega de les partides desades.
+"qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyCBBlockError_DL","No ha finalitzat la baixada de les partides desades.
 Per a més informació, aneu al menú HOME i obriu el menú d'opcions del programa. A continuació, seleccioneu Partides desades al núvol.
-{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Connecteu-vos a Internet per a continuar la descàrrega.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
-"qlaunch.msbt.msbt/QlcDl_DlgBodyDlErrorReqSystemUpdate","Cal instal·lar una actualització del sistema per a descarregar dades."
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Connecteu-vos a Internet per a continuar la baixada.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+"qlaunch.msbt.msbt/QlcDl_DlgBodyDlErrorReqSystemUpdate","Cal instal·lar una actualització del sistema per a baixar dades."
 "qlaunch.msbt.msbt/EntMain_BtmHomeJump","Canvia d'usuari/programa"
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBtnDeleteAoc","Suprimeix i inicia"
 "qlaunch.msbt.msbt/QlcDl_MeterMinute","{empty}"
 "qlaunch.msbt.msbt/EntAlarm_BtnSetting","Configuració d'alarmes"
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyRightsLimitExceeded","Aquest programa no és jugable ara mateix.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 {bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Connecteu a Internet una altra consola Nintendo Switch enllaçada a aquest compte de Nintendo i torneu-ho a provar.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
-"qlaunch.msbt.msbt/QlcDl_DlgBodyRetry","S'ha aturat la descàrrega perquè s'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
-Continueu descarregant quan s'hagi solucionat el problema."
-"qlaunch.msbt.msbt/QlcDl_DlgBodyDlErrorNoRightsAll","El programa i el contingut descarregable no es poden descarregar perquè l'usuari que el va comprar ja no existeix en aquesta consola."
+"qlaunch.msbt.msbt/QlcDl_DlgBodyRetry","S'ha aturat la baixada perquè s'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Continueu baixant quan s'hagi solucionat el problema."
+"qlaunch.msbt.msbt/QlcDl_DlgBodyDlErrorNoRightsAll","El programa i el contingut descarregable no es poden baixar perquè l'usuari que el va comprar ja no existeix en aquesta consola."
 "qlaunch.msbt.msbt/QlcResume_DlgBodyUpdateData","S'han trobat dades d'actualització noves.
 Voleu instal·lar-les ara?"
 "qlaunch.msbt.msbt/EntLock_BtnCancel","Endarrere"
 "qlaunch.msbt.msbt/Qlc_DlgBodySaveDataCreating","S'està preparant el programa..."
 "qlaunch.msbt.msbt/RdtIcon_Promotion_d","L'esdeveniment s'acaba d'aquí a {bytes:0E|00|02|00|0C|00|04|00|00|00|00|00} d {bytes:0E|00|02|00|0C|00|04|00|01|00|00|00} h"
-"qlaunch.msbt.msbt/QlcRebootApp_DlgBodyConfirmCaution","El programa que esteu fent servir es tancarà i la consola es reiniciarà.
+"qlaunch.msbt.msbt/QlcRebootApp_DlgBodyConfirmCaution","El programa que esteu fent servir es tancarà i es reiniciarà.
 {bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Es perdran les dades que no hàgiu desat.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "qlaunch.msbt.msbt/QlcSd_DlgBodyNotReadyExFat","S'ha inserit una targeta de memòria microSDXC.
 Per a fer servir aquesta targeta SD, executeu una actualització del sistema."
@@ -3346,10 +3353,10 @@ Podreu continuar jugant des d'on ho vau deixar si compreu el programa."
 {bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Es perdran les dades que no hàgiu desat.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "qlaunch.msbt.msbt/QlcChildLock_AlarmDisabled","Alarmes desactivades"
 "qlaunch.msbt.msbt/QlcChildLock_DlgBodyConfirm","Cal tancar el program que esteu fent servir per a activar les restriccions del control parental."
-"qlaunch.msbt.msbt/QlcDl_DlgBodyFullSdDl","No hi ha prou espai lliure per a descarregar les dades.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+"qlaunch.msbt.msbt/QlcDl_DlgBodyFullSdDl","No hi ha prou espai lliure per a baixar les dades.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Necessitareu {bytes:0E|00|02|00|02|00|04|00|00|00|00|00} {bytes:0E|00|02|00|00|00|04|00|01|00|00|00} d'espai lliure a la targeta microSD.
 Arxiveu programes per a fer espai."
-"qlaunch.msbt.msbt/QlcDl_DlgBodyDlErrorNetCheckRequired","S'ha aturat la descàrrega perquè s'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+"qlaunch.msbt.msbt/QlcDl_DlgBodyDlErrorNetCheckRequired","S'ha aturat la baixada perquè s'ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Connecteu-vos a Internet i comproveu si hi ha més informació."
 "qlaunch.msbt.msbt/QlcPctl_DlgBodySVSettingChanged","S'ha afegit una nova opció ""Mode RV (gràfics en 3D)"" a la configuració del control parental. Per a coincidir amb el nivell de restricció d'aquesta consola, que s'ha definit com a ""Infant petit"", la nova opció s'ha definit automàticament a ""Restringit"".{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Visiteu el lloc web d'assistència de Nintendo per a més informació del mode RV.
@@ -3357,12 +3364,12 @@ Visiteu el lloc web d'assistència de Nintendo per a més informació del mode R
 "qlaunch.msbt.msbt/RdtSystemTitle_Shop","Nintendo eShop"
 "qlaunch.msbt.msbt/EntMain_BtmHome","Inicia"
 "qlaunch.msbt.msbt/QlcDl_DlgBodySearchAp","No esteu connectat a Internet.
-Connecteu-vos a Internet per a continuar la descàrrega."
+Connecteu-vos a Internet per a continuar la baixada."
 "qlaunch.msbt.msbt/QlcChildLock_Off","{empty}"
 "setting.msbt.msbt/SetCntPlayerNA_BtnFriendRange","Qui voleu que vegi el vostre estat de connexió?"
 "setting.msbt.msbt/SetCntPlayerNA_DlgBtnAboutCheckInQR","Quant a la inscripció en esdeveniments"
 "setting.msbt.msbt/SetStory_BackupWait","Còpia de seguretat pendent"
-"setting.msbt.msbt/SetStory_BtnDownload","Descarrega les partides desades"
+"setting.msbt.msbt/SetStory_BtnDownload","Baixa les partides desades"
 "setting.msbt.msbt/SetStory_DlgBtnDownloadYes","{empty}"
 "setting.msbt.msbt/SetCntNtfAlarm_BtnSleep","Notificacions en mode d'espera"
 "setting.msbt.msbt/SetFullDelImportant_BtnConfirm_Savedata","Suprimeix les partides desades"
@@ -3389,7 +3396,7 @@ Per a més informació sobre les valoracions d'edat concretes de cada sistema de
 "setting.msbt.msbt/SetCntSysFormatAgree_DlgBodyWaitNetworkCheck","S'està connectant a Internet..."
 "setting.msbt.msbt/SetCntPlayerNA_BodyQrAddress","https://accounts.nintendo.com/"
 "setting.msbt.msbt/SetCntHardware_BodyHeadPhoneOutputLimit","Defineix un volum màxim per als auriculars o altaveus connectats al connector d'àudio de la consola."
-"setting.msbt.msbt/SetStory_NaviSetting","Configuració de les còpies de seguretat"
+"setting.msbt.msbt/SetStory_NaviSetting","Configuració"
 "setting.msbt.msbt/SetRepair_DlgBodyNoPermission","Actualment no es pot fer servir aquesta funcionalitat."
 "setting.msbt.msbt/SetFullDelImportant_BodyProgress_User","S'està suprimint l'usuari..."
 "setting.msbt.msbt/SetCntChild_MovieURL","https://parentalcontrols-movie-%.cdn.nintendo.net/default/switchpc_uk.mp4"
@@ -3437,8 +3444,8 @@ Alguns controladors no es poden actualitzar."
 "setting.msbt.msbt/SetCntChildUnlink_BtnConfirm","Desenllaça"
 "setting.msbt.msbt/SetCntChildFunctionCommu_BodyHeadSoftLock","Configuració de programes individuals"
 "setting.msbt.msbt/SetCntNet_BodyAccessStateLabel","Estat de la connexió"
-"setting.msbt.msbt/SetCntDataMngScan_BodyInfoGood","Si continueu tenint el mateix problema, proveu de tornar a descarregar el programa."
-"setting.msbt.msbt/SetCntDataMngScan_BodyInfoSoft","És possible que no pugueu recuperar les dades en tornar-lo a descarregar."
+"setting.msbt.msbt/SetCntDataMngScan_BodyInfoGood","Si continueu tenint el mateix problema, proveu de tornar a baixar el programa."
+"setting.msbt.msbt/SetCntDataMngScan_BodyInfoSoft","És possible que pugueu recuperar les dades en tornar-lo a baixar."
 "setting.msbt.msbt/SetCntAmiibo_DlgBodyNfcJoint","Connecteu un controlador que pugui llegir amiibo.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 {bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Si voleu fer servir un Controlador Pro de la Nintendo Switch que estigui connectat actualment a la consola mitjançant un cable, caldrà que desconnecteu el cable de càrrega USB i que ho torneu a provar.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "setting.msbt.msbt/SetCntSysFormatAgree_TitleHeader","Restaura la configuració de fàbrica"
@@ -3457,10 +3464,9 @@ Control parental de la Nintendo Switch"
 "setting.msbt.msbt/SetCntDataMngSoftList_TitleHeader","Programes"
 "setting.msbt.msbt/SetCntSupportErrInfo_LblSerialNum","Número de sèrie de la consola"
 "setting.msbt.msbt/SetCntSupportErrDetailA_Title","Informació de la consola - Xarxa"
-"setting.msbt.msbt/SetCntPlayerNA_DlgBodyUpdateSoftDownload_Done","S'ha actualitzat el progrés de les descàrregues."
-"setting.msbt.msbt/SetStory_DlgBodyManageConflictTask","La còpia de seguretat automàtica no és possible actualment.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
-Hauria de tornar a ser possible si unifiqueu les partides desades de la consola amb les dades del servidor seleccionant ""Fes una còpia de seguretat de les partides desades"" or ""Descarrega les partides desades"".
-{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Desactiveu la còpia de seguretat automàtica en aquesta consola si no és la consola que feu servir normalment per a fer còpies de seguretat de les vostres partides desades.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+"setting.msbt.msbt/SetCntPlayerNA_DlgBodyUpdateSoftDownload_Done","S'ha actualitzat el progrés de les baixades."
+"setting.msbt.msbt/SetStory_DlgBodyManageConflictTask","La còpia de seguretat i la baixada automàtica no són possibles actualment.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Haurien de tornar a ser possibles si unifiqueu les partides desades de la consola amb les dades del servidor seleccionant ""Fes una còpia de seguretat de les partides desades"" o ""Baixa les partides desades""."
 "setting.msbt.msbt/SetStory_DlgBtnDownloadNo","{empty}"
 "setting.msbt.msbt/SetStory_NoSavedata","{empty}"
 "setting.msbt.msbt/SetCntNtfAlarm_DlgBtmBtnRange_All","Led de notificació i vibració"
@@ -3490,10 +3496,10 @@ https://www.nintendo.co.jp/support/switch/"
 "setting.msbt.msbt/SetCntPlayerMigIntro2_DlgBodyHelp_HTK","Les captures de pantalla i els vídeos fets amb la consola original no es transferiran.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Visiteu el lloc web d'assistència de Nintendo per a més informació.
 support.nintendo.com"
-"setting.msbt.msbt/SetStory_Downloaded_Detail","S'ha descarregat correctament."
+"setting.msbt.msbt/SetStory_Downloaded_Detail","S'ha baixat correctament."
 "setting.msbt.msbt/SetFullDelImportant_BtnFinish","D'acord"
 "setting.msbt.msbt/SetCntChildFunction_BodyAsideSafeLevel_CommuOk","No restringit"
-"setting.msbt.msbt/SetCntChildMoonTop_DlgBodyInfo","L'aplicació Control parental de la Nintendo Switch us permet fer servir el vostre dispositiu intel·ligent per a definir restriccions de joc per al vostre infant. Es pot descarregar de manera gratuïta."
+"setting.msbt.msbt/SetCntChildMoonTop_DlgBodyInfo","L'aplicació Control parental de la Nintendo Switch us permet fer servir el vostre dispositiu intel·ligent per a definir restriccions de joc per al vostre infant. Es pot baixar de manera gratuïta."
 "setting.msbt.msbt/SetCntPlayerNA_BtnNSOInfo","Comprova l'estat de la subscripció a la Nintendo eShop"
 "setting.msbt.msbt/SetCntNet_BtnWifi","Configuració d'Internet"
 "setting.msbt.msbt/SetCntPlayerNA_DlgBtmFriendRangeHeader_Sub","Aquesta informació serà visible per al grup d'usuaris seleccionat i per als altres usuaris de la mateixa consola."
@@ -3510,7 +3516,7 @@ Podeu fer-ho a la configuració ràpida (mantingueu premut )."
 No és possible sobreescriure les partides desades només per a usuaris concrets.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "setting.msbt.msbt/SetCntDataMngPhotoDevice_DlgBodySizeOver","La destinació de la còpia és plena.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Copieu les captures de pantalla i els vídeos un a un mitjançant Gestiona imatges i vídeos individuals o torneu endarrere i reduïu el nombre d'elements que voleu copiar."
-"setting.msbt.msbt/SetCntPlayerNA_TitleAccountWithScreenName","Compte de Nintendo{bytes:0E|00|01|00|03|00|02|00|00|CD} ({bytes:0E|00|00|00|02|00|02|00|50|00}{bytes:0E|00|02|00|08|00|04|00|00|00|00|00}{bytes:0E|00|00|00|02|00|02|00|64|00}){bytes:0F|00|01|00|03|00}"
+"setting.msbt.msbt/SetCntPlayerNA_TitleAccountWithScreenName","Compte de Nintendo{bytes:0E|00|01|00|03|00|02|00|00|CD} {bytes:0E|00|00|00|02|00|02|00|50|00}({bytes:0E|00|02|00|08|00|04|00|00|00|00|00}){bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "setting.msbt.msbt/SetCntControllerGyro_DlgBodyJointed","Desacobleu els Joy-Con de la consola."
 "setting.msbt.msbt/SetCntControllerGyro_DlgBodyDisconnected","S'ha perdut la connexió amb el controlador."
 "setting.msbt.msbt/SetStory_WarningBtnCancel","Cancel·la"
@@ -3538,7 +3544,7 @@ Copieu les captures de pantalla i els vídeos un a un mitjançant Gestiona imatg
 "setting.msbt.msbt/SetCntPlayerNA_DlgBtmBtnRange_Private","Ningú"
 "setting.msbt.msbt/SetStory_NaviAll","Totes les partides desades"
 "setting.msbt.msbt/SetCntDataMngSoft_BodyDel","S'arxivarà aquest programa per a estalviar espai d'emmagatzematge.
-Després d'això, només en romandran les partides desades i la icona al menú HOME. Haureu de tornar a descarregar el programa per a tornar-lo a fer servir."
+Després d'això, només en romandran les partides desades i la icona al menú HOME. Haureu de tornar a baixar el programa per a tornar-lo a fer servir."
 "setting.msbt.msbt/SetCntDisplay_BtnCheckBrightAuto","Brillantor automàtica"
 "setting.msbt.msbt/SetCntPlayerNA_BtnNickname_Title","Sobrenom"
 "setting.msbt.msbt/SetCntDataMngScan_DlgBodyDeletedSavedata","S'han suprimit les partides desades."
@@ -3548,14 +3554,14 @@ Després d'això, només en romandran les partides desades i la icona al menú H
 "setting.msbt.msbt/SetCntPlayerNAFrdSnsUnlink_DlgBodyUnlinking","S'està desenllaçant..."
 "setting.msbt.msbt/SetStory_Branch","No se n'ha fet una còpia de seguretat"
 "setting.msbt.msbt/SetCntDataMngSoft_DlgBodyDelete","S'arxivarà aquest programa.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
-Només en romandran les partides desades i la icona al menú HOME. Haureu de tornar a descarregar el programa per a tornar-lo a fer servir."
+Només en romandran les partides desades i la icona al menú HOME. Haureu de tornar a baixar el programa per a tornar-lo a fer servir."
 "setting.msbt.msbt/SetCntChildFunction_BtnSelSafeLevel_Value_Kids","Infant petit"
 "setting.msbt.msbt/SetCntChildMoonComplete_BodyMain","S'ha enllaçat correctament amb l'aplicació Control parental de la Nintendo Switch.
 Utilitzeu l'aplicació per a acabar de seleccionar la configuració."
 "setting.msbt.msbt/SetCntChildFunction_TitleHeader","Defineix el control parental"
 "setting.msbt.msbt/SetCntNtfFriend_BodyInfo","Només rebreu notificacions d'amics mentre estigueu en línia."
 "setting.msbt.msbt/SetCntSup_BtnSafe","Informació de salut i seguretat"
-"setting.msbt.msbt/SetCntDataMngScan_BtnDlGood","Torna a descarregar"
+"setting.msbt.msbt/SetCntDataMngScan_BtnDlGood","Torna a baixar"
 "setting.msbt.msbt/SetGyroTop_BtnController","Calibra els controladors"
 "setting.msbt.msbt/SetCntTv_BodyAsideDim","Redueix la brillantor de la pantalla després de 5 minuts d'inactivitat."
 "setting.msbt.msbt/SetCntTv_BtnSelDpi_Value_480p","480p"
@@ -3585,7 +3591,7 @@ consola"
 "setting.msbt.msbt/SetCntNtfFriend_DlgBtmBtnRange_NoOne","Ningú"
 "setting.msbt.msbt/SetCntPlayerNA_BtnSnsPost","Configuració de la publicació a xarxes socials"
 "setting.msbt.msbt/SetCntNetTest_BodyUlSpeedLabel","Velocitat de pujada"
-"setting.msbt.msbt/SetCntPlayerNA_DlgBodyUpdateSoftDownload","S'està comprovant el progrés de les descàrregues..."
+"setting.msbt.msbt/SetCntPlayerNA_DlgBodyUpdateSoftDownload","S'està comprovant el progrés de les baixades..."
 "setting.msbt.msbt/SetNetTest_TitleHeader","Prova de connexió"
 "setting.msbt.msbt/SetCntPlayerNA_BtnNsaSupport","Número d'assistència"
 "setting.msbt.msbt/SetCntHardware_BtnVisualSupport_Grayscale","Escala de grisos"
@@ -3607,11 +3613,11 @@ Notificacions ⇒ Configuració de les notificacions de les alarmes."
 "setting.msbt.msbt/SetCntSysUpdate_DlgBodyReadyLocalUpdate","S'ha completat l'actualització.
 La consola es reiniciarà d'aquí a {bytes:0E|00|02|00|07|00|04|00|00|00|00|00}."
 "setting.msbt.msbt/SetCntSysUpdate_DlgBodyWait","Espereu."
-"setting.msbt.msbt/SetStory_DownloadWait","Descàrrega pendent"
+"setting.msbt.msbt/SetStory_DownloadWait","Baixada pausada"
 "setting.msbt.msbt/SetCntChildFunction_ESRBHelp_EarlyIndex","Primera infància"
 "setting.msbt.msbt/SetCntDataMngPhotoDevice_TitleHeader_Sd","Targeta microSD"
-"setting.msbt.msbt/SetCntPlayerNA_BodyShop","Aquí podeu veure informació com ara els vostres mètodes de pagament, la configuració de la consola primària i quins programes hi ha disponibles per a tornar a descarregar."
-"setting.msbt.msbt/SetCntDataMngScan_DlgBodyDownloading","S'està preparant per a tornar a descarregar..."
+"setting.msbt.msbt/SetCntPlayerNA_BodyShop","Aquí podeu veure informació com ara els vostres mètodes de pagament, la configuració de la consola primària i quins programes hi ha disponibles per a tornar a baixar."
+"setting.msbt.msbt/SetCntDataMngScan_DlgBodyDownloading","S'està preparant per a tornar a baixar..."
 "setting.msbt.msbt/SetCntSupportErrDetail_ValProxyUse","Sí"
 "setting.msbt.msbt/SetDateTime_Month","Mes"
 "setting.msbt.msbt/SetCntTerms_TitleHeader_EuAuNz","Informació important"
@@ -3634,7 +3640,7 @@ L'usuari i les partides desades transferides se suprimiran de la consola origina
 "setting.msbt.msbt/SetStory_BackupOff","No se n'ha fet una còpia de seguretat"
 "setting.msbt.msbt/SetCntTv_BtnSelRgbRange_Value_Auto","Automàtica"
 "setting.msbt.msbt/SetCntDataMngSoft_DlgBodyDeleteAll","Se suprimirà aquest programa.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
-Caldrà que torneu a descarregar el programa i el
+Caldrà que torneu a baixar el programa i el
 contingut descarregable de la Nintendo eShop."
 "setting.msbt.msbt/SetFullDelImportant_BtnConfirm_User","Suprimeix aquest usuari"
 "setting.msbt.msbt/SetCntChildNext_DlgBodyDeleting","S'està suprimint la configuració..."
@@ -3741,14 +3747,15 @@ Connecteu l'adaptador de corrent."
 "setting.msbt.msbt/SetArea_HeaderStr","Regió"
 "setting.msbt.msbt/SetCntLock_BodyLock","Després de sortir del mode d'espera, premeu el mateix botó tres vegades per a poder fer servir la consola.
 (Aquesta funció es desactiva quan la consola està connectada a un televisor.)"
-"setting.msbt.msbt/SetStory_SettingOffCaution","Si desactiveu la còpia de seguretat automàtica, es cancel·laran les còpies de seguretat de les partides desades afectades."
+"setting.msbt.msbt/SetStory_SettingOffCaution","Podeu canviar la configuració de cada partida desada.
+La còpia de seguretat i la baixada automàtica no es farà per als fitxers que estiguin definits com a ""Desactivat""."
 "setting.msbt.msbt/SetCntTv_BtnTvSound_Value_Stereo","Estèreo"
 "setting.msbt.msbt/SetCntChildNext_FooterDelete","Suprimeix la configuració"
 "setting.msbt.msbt/SetCntChildFunction_BodyAsideSafeLevel_SoftOver12","Programes valorats per a majors de 12 anys"
 "setting.msbt.msbt/SetCntChildFunction_ESRBHelp_EveryoneDescription","El contingut és generalment adequat per a totes les edats. Pot contenir violència suau, fantàstica o de dibuixos animats i/o un ús infreqüent de llenguatge ofensiu."
 "setting.msbt.msbt/SetCntChildFunction_BtnSelRatingOrg_Value_Gsrr","GSRMR (Taiwan)"
 "setting.msbt.msbt/SetCntAmiibo_BtnDelete","Suprimeix les dades de joc"
-"setting.msbt.msbt/SetCntDataMngScan_DlgBodyDownloaded","Seleccioneu la icona del programa al menú HOME per a començar a tornar a descarregar les dades d'aquell programa."
+"setting.msbt.msbt/SetCntDataMngScan_DlgBodyDownloaded","Seleccioneu la icona del programa al menú HOME per a començar a tornar a baixar les dades d'aquell programa."
 "setting.msbt.msbt/SetArea_NorthAmerica","Amèrica"
 "setting.msbt.msbt/SetCntFlightMode_BodyDisableSetWhileTvOuput","No es pot definir mentre la consola està connectada a un televisor."
 "setting.msbt.msbt/SetCntController_BtnTouchMode","Sensibilitat de la pantalla tàctil"
@@ -3780,7 +3787,7 @@ l'adaptador de corrent"
 "setting.msbt.msbt/SetCntTv_DlgBodyTvSize","Connecteu la consola a un televisor."
 "setting.msbt.msbt/SetCntDataMngList_BodyNoData_Savedata","No hi ha partides desades."
 "setting.msbt.msbt/SetCntChildFunction_BodyAsideSafeLevel_SoftOver15","Programes valorats per a majors de 15 anys"
-"setting.msbt.msbt/SetCntChildFirst_MoonInfo","L'aplicació Control parental de la Nintendo Switch™ us permet fer servir el vostre dispositiu intel·ligent per a definir restriccions de joc per al vostre infant. Es pot descarregar de manera gratuïta."
+"setting.msbt.msbt/SetCntChildFirst_MoonInfo","L'aplicació Control parental de la Nintendo Switch™ us permet fer servir el vostre dispositiu intel·ligent per a definir restriccions de joc per al vostre infant. Es pot baixar de manera gratuïta."
 "setting.msbt.msbt/SetCntSup_BodyController3","⑥ {bytes:0E|00|02|00|07|00|04|00|00|00|00|00}/{bytes:0E|00|02|00|07|00|04|00|01|00|00|00}/{bytes:0E|00|02|00|07|00|04|00|02|00|00|00}"
 "setting.msbt.msbt/SetCntDataMngScan_DlgBodyDeletingSavedata","S'estan suprimint les partides desades..."
 "setting.msbt.msbt/SetCntPlayerNA_DlgBtmBtnRangePlayedSoft_Friend","Amics"
@@ -3823,7 +3830,7 @@ ha solucionat el problema"
 {bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Apagueu sempre la consola abans d'inserir o extreure la targeta microSD.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "setting.msbt.msbt/SetKeytop_ChineseSimplified","Xinès simplificat (Pinyin)"
 "setting.msbt.msbt/SetStory_BtnAutoBackup","Fes una còpia de seguretat de les partides desades automàticament"
-"setting.msbt.msbt/SetStory_DownloadWait_Detail","Descàrrega pendent..."
+"setting.msbt.msbt/SetStory_DownloadWait_Detail","Baixada pausada."
 "setting.msbt.msbt/SetRepair_PermitDownload","Es pot rebre"
 "setting.msbt.msbt/SetRepair_DlgBtnSend_AU","Envia"
 "setting.msbt.msbt/SetCntChildFunction_BodyAsideSafeLevel_SoftOver18","Programes valorats per a majors de 18 anys"
@@ -3839,8 +3846,8 @@ ha solucionat el problema"
 "setting.msbt.msbt/SetCntControllerStickCheck_BodyConfirmExplain","Comproveu que:"
 "setting.msbt.msbt/SetDateTime_Minute","Minut"
 "setting.msbt.msbt/SetCntSysUpdate_BodyHomeBack","Podeu tornar al menú HOME prement .{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
-◆{bytes:0E|00|01|00|06|00|00|00} La descàrrega continuarà. Caldrà que actualitzeu el sistema quan acabi la descàrrega.{bytes:0F|00|01|00|06|00}"
-"setting.msbt.msbt/SetStory_Collision","No se n'ha fet una còpia de seguretat"
+◆{bytes:0E|00|01|00|06|00|00|00} La baixada continuarà. Caldrà que actualitzeu el sistema quan acabi la baixada.{bytes:0F|00|01|00|06|00}"
+"setting.msbt.msbt/SetStory_Collision","S'ha produït un error"
 "setting.msbt.msbt/SetStory_ServerDataExist","Hi ha partides desades al servidor."
 "setting.msbt.msbt/SetRepair_DlgBodyUpload_EU","Envieu partides desades a Nintendo perquè investigui les dades i el rendiment d'aquest servei.
 Per a proveir-vos el servei sol·licitat, cal que s'enviïn les partides desades i la informació associada a Nintendo i que es processin com es descriu amb detall a la política de privacitat."
@@ -3861,7 +3868,7 @@ La consola es reiniciarà quan finalitzi l'actualització."
 "setting.msbt.msbt/SetCntSupportErrList_BodyNoData","No s'ha produït cap error."
 "setting.msbt.msbt/SetCntControllerStickTop_BodySubExplain","◆ {bytes:0E|00|01|00|06|00|00|00}Premeu {bytes:0E|00|02|00|14|00|06|00|00|00|00|00|00|CD} per a calibrar un altre controlador.{bytes:0F|00|01|00|06|00}"
 "setting.msbt.msbt/SetCntControllerStick_TitleHeader","Calibra les palanques de control"
-"setting.msbt.msbt/SetStory_DownloadNow","S'està descarregant: {bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}%"
+"setting.msbt.msbt/SetStory_DownloadNow","S'està baixant: {bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}%"
 "setting.msbt.msbt/SetCntChildFunction_BodyFunctionLabel_Soft","Programes restringits"
 "setting.msbt.msbt/SetFullControllerBtn_BodyExplain","Aquí apareixeran els símbols del que premeu."
 "setting.msbt.msbt/SetCntSupportErrInfo_HeaderDetail","Informació de la consola"
@@ -3922,7 +3929,7 @@ majors de 13 anys"
 majors de 6 anys"
 "setting.msbt.msbt/SetCntControllerStick_DlgBody_Reset","Es restablirà la calibració a la configuració de fàbrica."
 "setting.msbt.msbt/SetCntPlayerNA_BtnUserDelete","Suprimeix l'usuari"
-"setting.msbt.msbt/SetCntDataMngScan_BtnSupSd","Si tornar-lo a descarregar no
+"setting.msbt.msbt/SetCntDataMngScan_BtnSupSd","Si tornar-lo a baixar no
 ha solucionat el problema"
 "setting.msbt.msbt/SetCntControllerDel_BodyExplain","Es desconnectaran tots els controladors i se suprimiran tots els emparellaments de controladors.
 Acobleu els controladors Joy-Con a la consola i mantingueu premut .{bytes:0E|00|01|00|00|00|04|00|CD|CC|CC|3E}
@@ -3985,8 +3992,8 @@ majors de 17 anys"
 "setting.msbt.msbt/SetCntNetTest_TitleTesting","S'està provant la connexió...
 Espereu."
 "setting.msbt.msbt/SetKeytop_USSpanish","Espanyol (Amèrica Llatina)"
-"setting.msbt.msbt/SetStory_DlgBodyLastErrorCheck_DL","L'anterior intent de descarregar ha fallat.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
-Vegeu els detalls de l'error i seleccioneu Descarrega les partides desades per a tornar-ho a provar."
+"setting.msbt.msbt/SetStory_DlgBodyLastErrorCheck_DL","L'anterior intent de baixada ha fallat.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Vegeu els detalls de l'error i seleccioneu Baixa les partides desades per a tornar-ho a provar."
 "setting.msbt.msbt/SetRepair_DlgBodyDownloadOriginal","Voleu sobreescriure les partides desades d'aquesta consola amb les partides desades enviades a Nintendo?
 {bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Se suprimiran les partides desades d'aquesta consola.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "setting.msbt.msbt/SetSideData_BodyUnitSum_MB","MB"
@@ -4035,7 +4042,7 @@ No se suprimiran les dades desades per usuaris individuals."
 "setting.msbt.msbt/SetCntDate_BodyNetTimeMoon","No es pot desactivar mentre hi hagi enllaçada l'aplicació Control parental de la Nintendo Switch."
 "setting.msbt.msbt/SetCntDate_BodyTimeLabel","Data i hora actuals"
 "setting.msbt.msbt/SetCntChildMoonConfirm_TitleHeader","Enllaça a l'aplicació Control parental de la Nintendo Switch"
-"setting.msbt.msbt/SetCntChildFirst_BtnNext","Si ja he descarregat l'aplicació"
+"setting.msbt.msbt/SetCntChildFirst_BtnNext","Si ja he baixat l'aplicació"
 "setting.msbt.msbt/SetCntSleep_BtnSelTimerHh_05","Mai"
 "setting.msbt.msbt/SetCntSup_BodySsid2","{empty}"
 "setting.msbt.msbt/SetCntSupportErrDetail_LblNetTime","Sincronitza el rellotge mitjançant Internet"
@@ -4052,7 +4059,7 @@ La consola es reiniciarà d'aquí a {bytes:0E|00|02|00|07|00|04|00|00|00|00|00}.
 {bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Connecteu-vos a Internet i comproveu l'estat actual del vostre compte.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "setting.msbt.msbt/SetCntPlayerNA_TitleNSO","Nintendo Switch Online"
 "setting.msbt.msbt/SetCntHardware_BtnErrorReport","Comparteix la informació d'errors"
-"setting.msbt.msbt/SetStory_Collision_Detail","No se n'ha fet una còpia de seguretat"
+"setting.msbt.msbt/SetStory_Collision_Detail","Ara no es poden fer còpies de seguretat ni baixar dades."
 "setting.msbt.msbt/SetNav_BtnChild","Control parental"
 "setting.msbt.msbt/SetNav_BtnLock","Blocatge de la pantalla"
 "setting.msbt.msbt/SetCntDataMngPhoto_BtnOneByOne","Gestiona imatges i vídeos individuals"
@@ -4080,7 +4087,7 @@ support.nintendo.com/switch/help"
 "setting.msbt.msbt/SetCntMii_BtnMiiEdit","Crea o edita un Mii"
 "setting.msbt.msbt/SetCntPlayerNA_DlgBodyNsaSupportNumber","{bytes:0E|00|02|00|09|00|04|00|00|00|00|00}
 {bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}És possible que us demanem aquest número de referència.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
-"setting.msbt.msbt/SetCntPlayerMigIntro2_BodyExplain","Els programes descarregables comprats per l'usuari transferit ja no seran jugables a la consola original, però s'hi podrà jugar a la consola de destinació tornant-los a descarregar de la Nintendo eShop."
+"setting.msbt.msbt/SetCntPlayerMigIntro2_BodyExplain","Els programes descarregables comprats per l'usuari transferit ja no seran jugables a la consola original, però s'hi podrà jugar a la consola de destinació tornant-los a baixar de la Nintendo eShop."
 "setting.msbt.msbt/SetStory_Sync","Se n'ha fet una còpia de seguretat"
 "setting.msbt.msbt/SetRepair_DlgBodyDownload","Voleu sobreescriure les partides desades d'aquesta consola amb les partides desades restaurades?
 {bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Se suprimiran les partides desades d'aquesta consola.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
@@ -4091,7 +4098,7 @@ support.nintendo.com/switch/help"
 "setting.msbt.msbt/SetCntChildFunction_BtnOk","Següent"
 "setting.msbt.msbt/SetCntSleep_BodyMedia","Si desactiveu aquesta opció, el mode d'espera automàtic s'activarà després de quatre hores de reproducció."
 "setting.msbt.msbt/SetCntControllerSelf_BtnTouch","Prova la pantalla tàctil"
-"setting.msbt.msbt/SetCntDataMngScan_BtnSupSoft","Si tornar-lo a descarregar no
+"setting.msbt.msbt/SetCntDataMngScan_BtnSupSoft","Si tornar-lo a baixar no
 ha solucionat el problema"
 "setting.msbt.msbt/SetCntSupportErrList_BtnErrTime","{bytes:0E|00|02|00|11|00|04|00|00|00|00|00}"
 "setting.msbt.msbt/SetArea_Japan","Japó"
@@ -4140,7 +4147,7 @@ Recordeu el vostre PIN. Us caldrà per a ajustar la configuració, i també per 
 "setting.msbt.msbt/SetCntSupportErrSending_DlgBody","S'està enviant..."
 "setting.msbt.msbt/SetCntPlayerNA_DlgBtmBtnRangePlayedSoft_AllUser","Tots els usuaris"
 "setting.msbt.msbt/SetCntPlayerNAFrdSnsUnlink_BodyTw","Twitter"
-"setting.msbt.msbt/SetStory_BackupSettingHeader","Configuració de còpia de seguretat automàtica per a cadascuna de les partides desades"
+"setting.msbt.msbt/SetStory_BackupSettingHeader","Configuració per a cada partida desada"
 "setting.msbt.msbt/SetStory_WarningBodyDel","Les dades suprimides no es poden recuperar.
 Esteu segur que voleu suprimir les dades?"
 "setting.msbt.msbt/SetCntNtfAlarmDetail_DlgBodyAlarmNothing","Aquesta alarma ja s'ha suprimit."
@@ -4148,7 +4155,7 @@ Esteu segur que voleu suprimir les dades?"
 "setting.msbt.msbt/SetCntChildFunction_BtnSelRatingOrg_Value_Grb","GRAC/GCRB (Corea)"
 "setting.msbt.msbt/SetCntDataMngPhotoDevice_TitleHeader_Nand","Memòria del sistema"
 "setting.msbt.msbt/SetCntSerial_BodyController_Left","Joy-Con (esquerre)"
-"setting.msbt.msbt/SetCntPlayerNA_BtnUpdateSoftDownload","Actualitza el progrés de les descàrregues"
+"setting.msbt.msbt/SetCntPlayerNA_BtnUpdateSoftDownload","Actualitza el progrés de les baixades"
 "setting.msbt.msbt/SetCntController_BodySelf","Comproveu si hi ha problemes als controladors o a la pantalla tàctil."
 "setting.msbt.msbt/SetCntHardware_BtnCheckAutoUpdate","Actualitzacions automàtiques de programes"
 "setting.msbt.msbt/SetCntDataMngSavedata_BtnDel","Suprimeix totes les partides desades d'aquest programa"
@@ -4222,7 +4229,7 @@ Traieu qualsevol corretja o accessori acoblat al controlador abans d'iniciar la 
 "setting.msbt.msbt/SetRepair_DlgBtnPrivacyPolicy","{empty}"
 "setting.msbt.msbt/SetCntNtfAlarmList_BodyWeek","{bytes:0E|00|02|00|07|00|04|00|04|00|00|00}{bytes:0E|00|02|00|07|00|04|00|05|00|00|00}{bytes:0E|00|02|00|07|00|04|00|06|00|00|00}{bytes:0E|00|02|00|07|00|04|00|07|00|00|00}{bytes:0E|00|02|00|07|00|04|00|08|00|00|00}{bytes:0E|00|02|00|07|00|04|00|09|00|00|00}{bytes:0E|00|02|00|07|00|04|00|0A|00|00|00}{bytes:0E|00|02|00|07|00|04|00|0B|00|00|00}{bytes:0E|00|02|00|07|00|04|00|0C|00|00|00}{bytes:0E|00|02|00|07|00|04|00|0D|00|00|00}{bytes:0E|00|02|00|07|00|04|00|0E|00|00|00}{bytes:0E|00|02|00|07|00|04|00|0F|00|00|00}{bytes:0E|00|02|00|07|00|04|00|10|00|00|00}{bytes:0E|00|02|00|07|00|04|00|11|00|00|00}{bytes:0E|00|02|00|07|00|04|00|12|00|00|00}{bytes:0E|00|02|00|07|00|04|00|13|00|00|00}{bytes:0E|00|02|00|07|00|04|00|14|00|00|00}{bytes:0E|00|02|00|07|00|04|00|15|00|00|00}{bytes:0E|00|02|00|07|00|04|00|16|00|00|00}{bytes:0E|00|02|00|07|00|04|00|17|00|00|00}{bytes:0E|00|02|00|07|00|04|00|18|00|00|00}{bytes:0E|00|02|00|07|00|04|00|19|00|00|00}{bytes:0E|00|02|00|07|00|04|00|1A|00|00|00}{bytes:0E|00|02|00|07|00|04|00|1B|00|00|00}{bytes:0E|00|02|00|07|00|04|00|00|00|00|00}{bytes:0E|00|02|00|07|00|04|00|01|00|00|00}{bytes:0E|00|02|00|07|00|04|00|02|00|00|00}{bytes:0E|00|02|00|07|00|04|00|03|00|00|00}"
 "setting.msbt.msbt/SetCntDataMngPhoto_BtnDestination_Value_Nand","Memòria del sistema"
-"setting.msbt.msbt/SetCntSysUpdate_BodyUpdating","S'estan descarregant les dades de l'actualització..."
+"setting.msbt.msbt/SetCntSysUpdate_BodyUpdating","S'estan baixant les dades de l'actualització..."
 "setting.msbt.msbt/SetCntDataMngSoft_BtnCheckLower","Evita'n l'arxivament automàtic"
 "setting.msbt.msbt/SetCntDataMngSoft_BtnDel","Arxiva el programa"
 "setting.msbt.msbt/SetCntChildUnlink_DlgBodyDelete","Heu desenllaçat l'aplicació Control parental de la Nintendo Switch."
@@ -4236,7 +4243,7 @@ Traieu qualsevol corretja o accessori acoblat al controlador abans d'iniciar la 
 "setting.msbt.msbt/SetStory_ListCntNoSaveDataServerOnly2","No hi ha dades per a mostrar.
 {bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}De totes les partides desades de què s'ha fet còpia de seguretat, aquí
 sols es mostraran les que no siguin encara en aquesta consola.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
-"setting.msbt.msbt/SetStory_BtnAutoBackupEachApp","Configuració de còpia de seguretat automàtica per a cadascuna de les partides desades"
+"setting.msbt.msbt/SetStory_BtnAutoBackupEachApp","Configuració per a cada partida desada"
 "setting.msbt.msbt/SetStory_BtnDelete","Suprimeix les partides desades del servidor"
 "setting.msbt.msbt/SetRepair_DlgBtnPrivacyPolicy_US","Política de privacitat"
 "setting.msbt.msbt/SetNav_BtnDisplay","Brillantor de la pantalla"
@@ -4248,7 +4255,7 @@ sols es mostraran les que no siguin encara en aquesta consola.{bytes:0E|00|00|00
 ・{bytes:0E|00|01|00|06|00|00|00}Totes les dades de programes desades a la targeta microSD, excepte les captures de pantalla i els vídeos, esdevindran inusables. Les dades no se suprimiran.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 ・{bytes:0E|00|01|00|06|00|00|00}La versió del sistema no canviarà.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 ・{bytes:0E|00|01|00|06|00|00|00}Els comptes de Nintendo enllaçats a aquesta consola no se suprimiran, però se'n desenllaçaran.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
-{bytes:0E|00|00|00|02|00|02|00|50|00}{bytes:0E|00|01|00|03|00|02|00|00|CD}◆{bytes:0E|00|01|00|06|00|00|00} El vostre compte de Nintendo conté el vostre historial de compres i el saldo actual de la Nintendo eShop. Si voleu fer servir els programes o DLC comprats fent servir el vostre compte de Nintendo després de restaurar la consola a la configuració de fàbrica, caldrà que torneu a enllaçar el vostre compte i torneu a descarregar els programes o DLC. (Els programes discontinuats és possible que no estiguin disponibles per a tornar-los a descarregar en alguns casos.){bytes:0F|00|01|00|06|00}{bytes:0F|00|01|00|03|00}{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+{bytes:0E|00|00|00|02|00|02|00|50|00}{bytes:0E|00|01|00|03|00|02|00|00|CD}◆{bytes:0E|00|01|00|06|00|00|00} El vostre compte de Nintendo conté el vostre historial de compres i el saldo actual de la Nintendo eShop. Si voleu fer servir els programes o DLC comprats fent servir el vostre compte de Nintendo després de restaurar la consola a la configuració de fàbrica, caldrà que torneu a enllaçar el vostre compte i torneu a baixar els programes o DLC. (Els programes discontinuats és possible que no estiguin disponibles per a tornar-los a baixar en alguns casos.){bytes:0F|00|01|00|06|00}{bytes:0F|00|01|00|03|00}{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 ■ Si feu servir aquesta opció a causa d'un problema amb la vostra consola...{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Al mode de recuperació, és possible restaurar la consola a la configuració de fàbrica sense suprimir-ne les partides desades ni la informació dels usuaris. Si voleu provar això, cancel·leu el procés de formatació i feu el següent:{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 ① {bytes:0E|00|01|00|06|00|00|00}Apagueu la consola.{bytes:0F|00|01|00|06|00}
@@ -4312,8 +4319,7 @@ Depenent del programa, es restringiran les següents activitats:{bytes:0E|00|01|
 "setting.msbt.msbt/SetCntDataMngImportant_TitleHeader","{empty}"
 "setting.msbt.msbt/SetCntDataMngScanSd_BtnSupSd","Lloc web d'assistència de Nintendo"
 "setting.msbt.msbt/SetCntControllerStickCheck_BodyNumber01","2."
-"setting.msbt.msbt/SetStory_BodyAutoBackup","Es farà una còpia de seguretat al servidor automàticament de les partides desades actualitzades d'aquesta consola, incloent-hi quan la consola estigui en mode d'espera.
-Podeu desactivar o activar aquesta opció per a partides desades específiques."
+"setting.msbt.msbt/SetStory_BodyAutoBackup","Es farà una còpia de seguretat al servidor automàticament de les partides desades quan la consola estigui en mode d'espera i després que tanqueu un joc."
 "setting.msbt.msbt/SetCntNtfNoAlarmDetail_BodyInfo","Per a canviar les dates i hores d'aquesta alarma, feu servir el programa amb el qual s'ha definit."
 "setting.msbt.msbt/SetNav_BtnSup","Assistència"
 "setting.msbt.msbt/SetCntChildMoonCode_DlgBodyPasscodeSetNetClock","Aquesta consola s'enllaçarà a l'aplicació Control parental de la Nintendo Switch.
@@ -4368,7 +4374,7 @@ Les dades se suprimiran i no es podran recuperar. Segur que les voleu sobreescri
 "setting.msbt.msbt/SetCntTv_BtnTvSound","So del televisor"
 "setting.msbt.msbt/SetCntChildFunction_BtnSelRatingOrg_Value_Usk","USK (Alemanya)"
 "setting.msbt.msbt/SetCntPlayerNA_BodyFrdRangeSoft_0","La informació de quan heu començat a jugar a un programa o quant de temps hi heu jugat serà visible a les consoles de la gent amb qui hàgiu compartit aquesta informació."
-"setting.msbt.msbt/SetCntDataMngScan_BodyInfoSd","És possible que pugueu recuperar les dades tornant-les a descarregar."
+"setting.msbt.msbt/SetCntDataMngScan_BodyInfoSd","És possible que pugueu recuperar les dades tornant-les a baixar."
 "setting.msbt.msbt/SetCntNetTest_BodyNatLabel","Tipus de NAT"
 "setting.msbt.msbt/SetCntSupportErrDetail_LblBluetooth","Connexió amb els controladors (Bluetooth)"
 "setting.msbt.msbt/SetCntControllerStickCorrect_BodyTurnExplain","Gireu la palanca de control formant un gran cercle dues o tres vegades."
@@ -4396,7 +4402,7 @@ El vostre compte de Nintendo es desenllaçarà de l'usuari, i no podreu jugar al
 "setting.msbt.msbt/SetCntPlayerNA_TitleFriend","Configuració d'amistat"
 "setting.msbt.msbt/SetCntControllerStickCorrect_BodyReleaseExplain","Empenyeu la palanca de control cap a {bytes:0E|00|01|00|03|00|02|00|02|CD}△{bytes:0F|00|01|00|03|00}. Deixeu-la anar quan {bytes:0E|00|01|00|03|00|02|00|02|CD}△{bytes:0F|00|01|00|03|00} canviï de color."
 "setting.msbt.msbt/SetCntSysFormat_BodyFormatSystem","Suprimeix totes les dades de la memòria del sistema."
-"setting.msbt.msbt/SetCntSysUpdate_BodyBgDownload","◆ {bytes:0E|00|01|00|06|00|00|00}La descàrrega continuarà encara que sortiu d'aquesta pantalla. Caldrà que reinicieu la consola quan acabi la descàrrega.{bytes:0F|00|01|00|06|00}"
+"setting.msbt.msbt/SetCntSysUpdate_BodyBgDownload","◆ {bytes:0E|00|01|00|06|00|00|00}La baixada continuarà encara que sortiu d'aquesta pantalla. Caldrà que reinicieu la consola quan acabi la baixada.{bytes:0F|00|01|00|06|00}"
 "setting.msbt.msbt/SetCntHardware_DlgBodyErrorReport","Voleu permetre a Nintendo que comparteixi la informació d'errors d'aquesta consola amb desenvolupadors de tercers, el programari dels quals ha tingut un error, perquè l'analitzin i el millorin?
 {bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Podeu canviar aquesta configuració en qualsevol moment.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "setting.msbt.msbt/SetGyroConsole_BodySetConsole","Col·loqueu la consola amb la pantalla mirant cap amunt en una superfície plana i estable."
@@ -4415,7 +4421,7 @@ El vostre compte de Nintendo es desenllaçarà de l'usuari, i no podreu jugar al
 "setting.msbt.msbt/SetCntTv_BtnCheckDim","Protecció contra cremades a la pantalla"
 "setting.msbt.msbt/SetCntChild_BodyNameParent","{bytes:0E|00|02|00|07|00|04|00|00|00|00|00}"
 "setting.msbt.msbt/SetCntChildMoonTop_BtnOwn","Sí"
-"setting.msbt.msbt/SetCntDataMngScan_BtnDlSoft","Torna a descarregar"
+"setting.msbt.msbt/SetCntDataMngScan_BtnDlSoft","Torna a baixar"
 "setting.msbt.msbt/SetCntSupportErrDetailB_Title","Informació de la consola - Programa"
 "setting.msbt.msbt/SetCntSupportErrDetail_LblDnsSet","Configuració dels DNS"
 "setting.msbt.msbt/SetCntControllerDel_BodyExplain_H","Es desconnectaran tots els controladors i se suprimiran tots els emparellaments de controladors.
@@ -4425,7 +4431,7 @@ Mantingueu premut  a la consola.{bytes:0E|00|01|00|00|00|04|00|CD|CC|CC|3E}
 Si és un Joy-Con, abans assegureu-vos que està desacoblat de la consola."
 "setting.msbt.msbt/SetCntHardware_BtnSelRegion","Regió"
 "setting.msbt.msbt/SetKeytop_EUSpanish","Espanyol (Espanya)"
-"setting.msbt.msbt/SetStory_Downloaded","S'ha descarregat correctament."
+"setting.msbt.msbt/SetStory_Downloaded","S'ha baixat correctament."
 "setting.msbt.msbt/SetStory_WarningDLNoSeries","Se sobreescriuran les partides desades de la consola.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Les dades se suprimiran i no es podran recuperar. Segur que les voleu sobreescriure?
 {bytes:0E|00|01|00|03|00|02|00|06|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Podríeu perdre el progrés al joc, incloent-hi les compres dins del joc que hàgiu fet.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
@@ -4435,7 +4441,7 @@ Les dades se suprimiran i no es podran recuperar. Segur que les voleu sobreescri
 "setting.msbt.msbt/SetCntChild_BtnParent","Configuració del control parental"
 "setting.msbt.msbt/SetCntChildFunction_BtnCommu","Comunicació lliure amb altres usuaris"
 "setting.msbt.msbt/SetCntChildFunctionCommu_BodyTextCommuNoData","No teniu cap programa amb aquesta funcionalitat."
-"setting.msbt.msbt/SetCntNtf_BtnCheckDl","Notificacions de descàrregues finalitzades"
+"setting.msbt.msbt/SetCntNtf_BtnCheckDl","Notificacions de baixades finalitzades"
 "setting.msbt.msbt/SetCntNet_BtnNetTest","Prova la connexió"
 "setting.msbt.msbt/SetArea_Asia","Hong Kong/Taiwan/Corea del Sud"
 "setting.msbt.msbt/SetKeytop_ChineseTraditional_Cangjie","Xinès tradicional (Cangjie)"
@@ -4488,17 +4494,17 @@ support.nintendo.com"
 "setting.msbt.msbt/SetRepair_SelectTitleHeader","Enviament i recepció de partides desades"
 "setting.msbt.msbt/SetCntDataMngPhotoDevice_DlgBodyCopyFinished","S'ha copiat correctament."
 "setting.msbt.msbt/SetFullDelImportant_BodyProgress_Savedata","S'estan suprimint les partides desades..."
-"setting.msbt.msbt/SetCntDataMngScan_BtnSupGood","Si tornar-lo a descarregar no
+"setting.msbt.msbt/SetCntDataMngScan_BtnSupGood","Si tornar-lo a baixar no
 ha solucionat el problema"
 "setting.msbt.msbt/SetFullDelImportant_BodyFormatSd_Failure","No s'ha pogut formatar la targeta microSD.
 La consola es reiniciarà d'aquí a {bytes:0E|00|02|00|07|00|04|00|00|00|00|00}."
 "setting.msbt.msbt/SetCntHardware_BtnProperty","Avisos de propietat intel·lectual"
 "setting.msbt.msbt/SetCntChildMoonComplete_TitleHeader","Enllaça a l'aplicació Control parental de la Nintendo Switch"
-"setting.msbt.msbt/SetCntSysUpdate_BodyDownloaded","S'han acabat de descarregar les dades de l'actualització."
+"setting.msbt.msbt/SetCntSysUpdate_BodyDownloaded","S'han acabat de baixar les dades de l'actualització."
 "setting.msbt.msbt/SetCntSysFormat_BtnFormatSystem","Restaura la configuració de fàbrica"
 "setting.msbt.msbt/SetCntPlayerOrder_TitleHeader","Canvia l'ordre"
 "setting.msbt.msbt/SetCntPlayerNAFrdSnsUnlink_DlgBodyUnlink","Es desenllaçarà el vostre compte de {bytes:0E|00|02|00|07|00|04|00|00|00|00|00}."
-"setting.msbt.msbt/SetStory_DownloadNow_Detail","S'està descarregant..."
+"setting.msbt.msbt/SetStory_DownloadNow_Detail","S'està baixant..."
 "setting.msbt.msbt/SetRepair_DlgBtnCancel_AU","Cancel·la"
 "setting.msbt.msbt/SetCntDataMngPhotoDevice_BtnAll_Sd","Suprimeix totes les captures de pantalla i tots els vídeos de la targeta microSD"
 "setting.msbt.msbt/SetCntChildFunction_BtnSelSafeLevel","Nivell de restricció"
@@ -4552,7 +4558,7 @@ Recordeu el vostre PIN. Us caldrà per a ajustar la configuració, i també per 
 "setting.msbt.msbt/SetCntChildFirst_TitleHeader","Control parental"
 "setting.msbt.msbt/SetCntPlayerNA_BtnFriendRequestReceive","Rep peticions d'amistat"
 "setting.msbt.msbt/SetCntNet_BodySecurityWEP","WEP"
-"setting.msbt.msbt/SetCntNetTest_BodySpeed_Kbps","kbps"
+"setting.msbt.msbt/SetCntNetTest_BodySpeed_Kbps","Kbps"
 "setting.msbt.msbt/SetCntSupportErrDetail_LblRouterMAC","Adreça MAC de la xarxa"
 "setting.msbt.msbt/SetCntSysUpdate_MeterUpdating_Percentage","{bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}%"
 "setting.msbt.msbt/SetStory_Incompatible_Detail","La còpia de seguretat de partides desades al núvol no està suportada per a aquest programa."
@@ -4666,7 +4672,7 @@ l'adaptador de corrent a la
 consola, desconnecteu-lo."
 "starter.msbt.msbt/StrStyleCharge_Btn","Com carregar els controladors Joy-Con"
 "starter.msbt.msbt/StrLongRun_Description","Nintendo Switch Online és un servei de pagament que millora la vostra experiència amb la Nintendo Switch donant-vos accés al joc en línia, a partides desades al núvol i més.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
-Visiteu la Nintendo eShop per a més informació."
+Visiteu Nintendo Switch Online al menú HOME per a més informació."
 "starter.msbt.msbt/Str_Decide_TwTradChinese","確定"
 "starter.msbt.msbt/Str_BtnClose","Tanca"
 "starter.msbt.msbt/StrSetTime_Header","Data i hora"
@@ -4776,7 +4782,7 @@ aquest programa!{bytes:0E|00|00|00|02|00|02|00|64|00}"
 "overlayDisp.msbt.msbt/OvlReservedAoCPlayable","El DLC està llest per a jugar-hi!"
 "overlayDisp.msbt.msbt/OvlDownloadFinishReserveAoC_P2","{bytes:0E|00|00|00|02|00|02|00|5B|00}Llest per a jugar-hi
 el dia del llançament.{bytes:0E|00|00|00|02|00|02|00|64|00}"
-"option.msbt.msbt/OptCntUpdate_AsideInternet","Si el contingut descarregable no és utilitzable fins i tot després d'actualitzar, torneu-lo a descarregar a la Nintendo eShop."
+"option.msbt.msbt/OptCntUpdate_AsideInternet","Si el contingut descarregable no és utilitzable fins i tot després d'actualitzar, torneu-lo a baixar de la Nintendo eShop."
 "notification.msbt.msbt/Ntf_DlgBody_BookmarkFull","No podeu afegir més articles a preferits."
 "notification.msbt.msbt/NtfBookmark_NoRegistration","Si afegiu articles a preferits, es mostraran aquí."
 "notification.msbt.msbt/NtfViewer_BtnBookmark","Preferit"
@@ -4788,7 +4794,7 @@ Algunes dades no se suprimiran."
 "maintenance.msbt.msbt/MntFullDelImportant_DlgBodyFormatWithoutSaveComplete_NC","S'ha restaurat la configuració de fàbrica.
 La consola es reiniciarà d'aquí a uns segons."
 "interrupt.msbt.msbt/ItpAoCNotFoundOnLaunch_Body","No s'ha pogut trobar el contingut descarregable necessari.
-Torneu a baixar el contingut a la Nintendo eShop."
+Torneu a baixar el contingut de la Nintendo eShop."
 "gift.msbt.msbt/Gft_DlgBodyReboot_NC","S'ha completat l'actualització.
 La consola es reiniciarà d'aquí a uns segons."
 "dataErase.msbt.msbt/Dem_DlgBodyDataCorrupted","S'han detectat dades corruptes.
@@ -4802,16 +4808,16 @@ Executeu una comprovació de dades corruptes."
 "dataErase.msbt.msbt/Dem_TitleManual","Es mouran els següents programes.
 {bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Les partides desades i algunes dades d'actualitzacions no es poden moure.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "dataErase.msbt.msbt/Dem_DlgBodyNoMovableSoft","No hi ha cap programa que es pugui moure.
-{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}No podeu moure programes als quals estigueu jugant o que estigueu descarregant. Les partides desades i algunes dades d'actualitzacions no es poden moure.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}No podeu moure programes als quals estigueu jugant o que estigueu baixant. Les partides desades i algunes dades d'actualitzacions no es poden moure.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "dataErase.msbt.msbt/Dem_BtnAutoMove","Mou"
-"dataErase.msbt.msbt/Dem_TextWarning","No podeu moure programes als quals estigueu jugant o que estigueu descarregant.
+"dataErase.msbt.msbt/Dem_TextWarning","No podeu moure programes als quals estigueu jugant o que estigueu baixant.
 Les partides desades i algunes dades d'actualitzacions no es poden moure.
 Quan els programes s'actualitzen, és possible que les dades es desin en una ubicació diferent de la destinació on les mogueu."
 "dataErase.msbt.msbt/Dem_BtnToNAND","Mou a la memòria del sistema"
 "dataErase.msbt.msbt/Dem_DlgBodyMoveComplete","S'ha mogut."
 "dataErase.msbt.msbt/Dem_DlgBodyDeleteDownloadTask","S'estan baixant dades del programa.
-Si moveu les partides desades, es cancel·larà la descàrrega.
-Per a tornar a descarregar les dades del programa, obriu el menú Opcions seleccionant la icona del programa al menú HOME i prement , i a continuació seleccioneu Actualització del programa."
+Si moveu les dades, es cancel·larà la baixada.
+Per a tornar a baixar les dades del programa, obriu el menú Opcions seleccionant la icona del programa al menú HOME i prement , i a continuació seleccioneu Actualització del programa."
 "dataErase.msbt.msbt/Dem_BtnToSD","Mou a la targeta microSD"
 "dataErase.msbt.msbt/Dem_NoMovableData","No hi ha dades que es puguin moure."
 "dataErase.msbt.msbt/Dem_TextNoMovableSoft","No hi ha cap programa que es pugui moure."
@@ -4819,14 +4825,14 @@ Per a tornar a descarregar les dades del programa, obriu el menú Opcions selecc
 "dataErase.msbt.msbt/Dem_TextFullStorageSD","No hi ha prou espai lliure."
 "dataErase.msbt.msbt/Dem_HeaderTextSelect2Nand","Seleccioneu els programes que voleu moure a la memòria del sistema."
 "dataErase.msbt.msbt/Dem_HeaderTextSelectStorage","Mou dades entre la consola i la targeta microSD"
-"dataErase.msbt.msbt/Dem_ExistDownloadTask","S'està descarregant..."
+"dataErase.msbt.msbt/Dem_ExistDownloadTask","S'està baixant..."
 "dataErase.msbt.msbt/Dem_TextNoSoftSD","No hi ha cap programa."
 "dataErase.msbt.msbt/Dem_TextNoSoftNAND","No hi ha cap programa."
 "dataErase.msbt.msbt/Dem_DlgBodyNoStorage","No hi ha prou espai lliure per a moure el programa.
 Caldrà que allibereu espai arxivant dades."
 "dataErase.msbt.msbt/Dem_SoftPlaying","No podeu moure programes que esteu fent servir."
 "controller.msbt.msbt/Ctrl_Remap_Edit_Btn_Finish","Fet"
-"controller.msbt.msbt/Ctrl_Remap_Load_Header","Seleccioneu la configuració predefinida que voleu carregar."
+"controller.msbt.msbt/Ctrl_Remap_Load_Header","Seleccioneu la configuració d'assignació de botons que voleu carregar."
 "controller.msbt.msbt/Ctrl_Remap_Preview_StickVectorChange","S'ha canviat l'orientació"
 "controller.msbt.msbt/Ctrl_Remap_DlgBody_NoController","No s'ha trobat cap controlador.
 Connecteu un o més controladors i torneu-ho a provar."
@@ -4845,7 +4851,7 @@ Si hi ha altres persones que fan servir aquest controlador, assegureu-vos d'info
 "controller.msbt.msbt/Ctrl_Remap_Save_BodyEmpty","Si deseu la configuració de l'assignació de botons a un espai de configuració predefinida, podeu seleccionar ""Carrega una configuració predefinida"" per a canviar la configuració fàcilment."
 "controller.msbt.msbt/Ctrl_Remap_Select_Body_Out","No es pot canviar"
 "controller.msbt.msbt/Ctrl_Remap_DlgBtn_Overwrite","Sobreescriu"
-"controller.msbt.msbt/Ctrl_Remap_Load_BodyEmpty","No hi ha cap configuració predefinida."
+"controller.msbt.msbt/Ctrl_Remap_Load_BodyEmpty","No hi ha cap configuració d'assignació de botons desada."
 "controller.msbt.msbt/Ctrl_Remap_Button_List_Body_ForJoyCon","Si voleu assignar el botó seleccionat a una de les següents opcions,
 feu servir la subjecció amb dos comandaments."
 "controller.msbt.msbt/Ctrl_Remap_Button_List_Header","Seleccioneu quina opció voleu assignar a {bytes:0E|00|02|00|08|00|04|00|00|00|00|00}."
@@ -4854,8 +4860,8 @@ feu servir la subjecció amb dos comandaments."
 "controller.msbt.msbt/Ctrl_Remap_Select_Body_NoChange","No es pot canviar l'assignació de botons en aquest controlador."
 "controller.msbt.msbt/Ctrl_Remap_LoadSave_Delete_DlgBtn","Suprimeix"
 "controller.msbt.msbt/Ctrl_Remap_Select_Btn_Save","Desa com a configuració predefinida"
-"controller.msbt.msbt/Ctrl_Remap_LoadSave_Delete_DlgBody","Se suprimirà aquesta configuració."
-"controller.msbt.msbt/Ctrl_Remap_DlgBody_CheckOverwrite","Se sobreescriurà aquesta configuració."
+"controller.msbt.msbt/Ctrl_Remap_LoadSave_Delete_DlgBody","Se suprimirà aquesta configuració d'assignació de botons."
+"controller.msbt.msbt/Ctrl_Remap_DlgBody_CheckOverwrite","Aquesta configuració d'assignació de botons sobreescriurà la configuració predefinida actual."
 "controller.msbt.msbt/Ctrl_Remap_DlgBody_CheckBack","Voleu tornar endarrere sense fer cap canvi?"
 "controller.msbt.msbt/Ctrl_Remap_Detail_Comment_Rotate","Opció per als programes dissenyats perquè el Joy-Con s'agafi en horitzontal. Si s'activa l'opció, fa més fàcil fer servir el controlador en vertical."
 "controller.msbt.msbt/Ctrl_Remap_Detail_Btn_Rotate","Canvia l'orientació"
@@ -4865,7 +4871,7 @@ Assegureu-vos que el controlador estigui connectat i torneu-ho a provar."
 "controller.msbt.msbt/Ctrl_Remap_Select_Body_SwitchLite","Sistema"
 "controller.msbt.msbt/Ctrl_Remap_DlgBody_Finish","S'ha canviat l'assignació dels botons.
 Si hi ha altres persones que fan servir aquest controlador, assegureu-vos d'informar-los dels canvis."
-"controller.msbt.msbt/Ctrl_Remap_DlgBody_SaveFinish","S'ha desat la configuració."
+"controller.msbt.msbt/Ctrl_Remap_DlgBody_SaveFinish","S'ha desat la configuració de l'assignació de botons com a configuració predefinida."
 "controller.msbt.msbt/Ctrl_Remap_Select_Body_ProCon","Controlador Pro"
 "controller.msbt.msbt/Ctrl_Remap_Select_Header","Assignació de botons"
 "controller.msbt.msbt/Ctrl_Remap_Edit_Btn_ViewV","Mostra en vertical"
@@ -4952,3 +4958,219 @@ premuda"
 "myPage.msbt.msbt/FrdDetail_SubInfoWCFriend","{empty}"
 "myPage.msbt.msbt/FrdReqReceived_SubInfo_WC","{empty}"
 "myPage.msbt.msbt/FrdFrdRec_WCFrd_Empty_Body","{empty}"
+"auth.msbt.msbt/AuthNumChk_Help_Moon_T","{empty}"
+"auth.msbt.msbt/AuthNumSet_Input_BtnBS",""
+"common.msbt.msbt/Cmn_DlgBtnToggleOn","Activa"
+"common.msbt.msbt/Cmn_Other","Altres"
+"common.msbt.msbt/Cmn_DlgBtnContinue","Continua"
+"controller.msbt.msbt/Ctrl_Remap_Swkbd_SaveName","Definiu un nom per a aquesta configuració predefinida."
+"controller.msbt.msbt/Ctrl_Remap_Swkbd_SaveName_sub","Si definiu un nom per a aquesta configuració predefinida, us serà més fàcil triar entre diferents configuracions més endavant."
+"error.msbt.msbt/ErrCmn_LblErrCode_USpt","Código de erro: {bytes:0E|00|02|00|05|00|04|00|00|00|00|00}"
+"myPage.msbt.msbt/FrdTrendDetail_PlayLogSoftInfoFailure","No s'ha pogut carregar."
+"myPage.msbt.msbt/FrdTrend_Body_InfoNoConnection","Connecteu-vos a Internet per a veure aquesta informació."
+"myPage.msbt.msbt/FrdTrendDetail_Header_PlayedTimeLess30","Amics que han jugat a aquest joc durant el darrer mes ({bytes:0E|00|02|00|0D|00|04|00|00|00|00|00})"
+"myPage.msbt.msbt/FrdTrendDetail_Btn_MoreInfo","Detalls"
+"myPage.msbt.msbt/FrdTrendDetail_Header_StartedTimeLess30","Amics que han començat a jugar a aquest joc durant el darrer mes ({bytes:0E|00|02|00|0D|00|04|00|00|00|00|00})"
+"myPage.msbt.msbt/FrdTrendDetail_Btn_Start","Inicia"
+"myPage.msbt.msbt/FrdTrend_Body_RecentlyStarted","{bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}{plurals: amic hi ha| amics hi han} començat
+a jugar fa poc!"
+"myPage.msbt.msbt/MypNav_BtnTrend","Tendències entre els amics"
+"myPage.msbt.msbt/FrdTrend_Title_Top"," Aquí hi ha els programes populars entre els amics!"
+"myPage.msbt.msbt/FrdTrend_Body_Empty"," Es mostraran tendències de programes basant-se en quins jocs juguen els vostres amics."
+"myPage.msbt.msbt/FrdTrend_Body_StartedTimeLess30","{bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}{plurals: amic hi ha| amics hi han} començat a jugar durant el darrer mes"
+"myPage.msbt.msbt/FrdTrendDetail_PlayLogTime","Hi ha jugat {bytes:0E|00|02|00|0E|00|04|00|00|00|00|00}{plurals: hora| hores} o més"
+"myPage.msbt.msbt/FrdTrend_Body_Played","{bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}{plurals: amic hi ha| amics hi han} jugat"
+"myPage.msbt.msbt/FrdTrend_Body_PlayedTimeLess30","{bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}{plurals: amic hi ha| amics hi han}
+jugat durant el darrer mes"
+"myPage.msbt.msbt/FrdTrendDetail_Header_RecentlyPlayed","Amics que han jugat a aquest joc durant els darrers 10 dies ({bytes:0E|00|02|00|0D|00|04|00|00|00|00|00})"
+"myPage.msbt.msbt/FrdTrend_Body_NoNA","Si enllaceu un compte de Nintendo al vostre usuari, es mostraran els programes que marquen tendència entre els vostres amics."
+"photoViewer.msbt.msbt/PvrTransMulti_BtnTrans","Envia"
+"photoViewer.msbt.msbt/PvrTransMulti_BodySelectNum","{bytes:0E|00|02|00|0F|00|04|00|00|00|00|00}/{bytes:0E|00|02|00|0F|00|04|00|01|00|00|00}"
+"photoViewer.msbt.msbt/PvrTransAp_StepNum","①"
+"photoViewer.msbt.msbt/PvrTransAp_Body","Escanegeu el codi QR fent servir la càmera del dispositiu intel·ligent.
+{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}El dispositiu intel·ligent es connectarà a la vostra consola Nintendo Switch.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+"photoViewer.msbt.msbt/PvrTransAp_DlgBody","・{bytes:0E|00|01|00|06|00|00|00}Si no podeu llegir el codi QR, introduïu la següent informació a la configuració d'Internet del vostre dispositiu intel·ligent.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+    {bytes:0E|00|01|00|06|00|00|00}SSID: {bytes:0E|00|02|00|08|00|04|00|00|00|00|00}
+Seguretat: WPA2-PSK (AES)
+Contrasenya: {bytes:0E|00|02|00|07|00|04|00|01|00|00|00}
+{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}La contrasenya serà diferent cada vegada que n'hàgiu d'introduir la configuració manualment.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+・{bytes:0E|00|01|00|06|00|00|00}Si el punt d'accés no canvia a la vostra consola Nintendo Switch, proveu de desactivar temporalment les dades mòbils al vostre dispositiu intel·ligent.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+・{bytes:0E|00|01|00|06|00|00|00}Visiteu el lloc web d'assistència de Nintendo per a més informació.
+{bytes:0E|00|02|00|09|00|04|00|02|00|00|00}{bytes:0F|00|01|00|06|00}"
+"photoViewer.msbt.msbt/PvrTransSelect_DlgBtnOne","Envia individualment"
+"photoViewer.msbt.msbt/PvrTransHtml_BodyMovie","Podeu desar un vídeo seleccionant-ne l'enllaç de baixada, o al menú que es mostra quan manteniu premut el vídeo.
+Nota: Els passos concrets poden variar depenent del model del dispositiu intel·ligent i del navegador que feu servir."
+"photoViewer.msbt.msbt/PvrTransSelect_DlgBtnMulti","Envia'n múltiples"
+"photoViewer.msbt.msbt/PvrTransMulti_Header","Seleccioneu les captures de pantalla que voleu enviar."
+"photoViewer.msbt.msbt/PvrTransUrl_Body","Torneu a escanejar el codi QR.
+{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Les captures de pantalla i vídeos s'enviaran al vostre dispositiu intel·ligent.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+"photoViewer.msbt.msbt/PvrTransUrl_DlgBody","・{bytes:0E|00|01|00|06|00|00|00}Si no podeu llegir el codi QR, introduïu la següent URL al navegador del vostre dispositiu intel·ligent.
+{bytes:0E|00|02|00|09|00|04|00|00|00|00|00}{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+・{bytes:0E|00|01|00|06|00|00|00}Si el punt d'accés no canvia a la vostra consola Nintendo Switch, proveu de desactivar temporalment les dades mòbils al vostre dispositiu intel·ligent.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+・{bytes:0E|00|01|00|06|00|00|00}Visiteu el lloc web d'assistència de Nintendo per a més informació.
+{bytes:0E|00|02|00|09|00|04|00|01|00|00|00}{bytes:0F|00|01|00|06|00}"
+"setting.msbt.msbt/SetStory_DlgBodyAutoDLInfo02_Tips1","És possible que, de vegades, les partides desades tardin una mica a baixar-se automàticament.
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Si voleu jugar en una altra consola immediatament, feu una còpia de seguretat de les partides desades manualment, i llavors baixeu-la manualment a l'altra consola.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+"playerSelect.msbt.msbt/PselStory_DlgBodyAutoDLInfo02_Tips1","És possible que, de vegades, les partides desades tardin una mica a baixar-se automàticament.
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Si voleu jugar en una altra consola immediatament, feu una còpia de seguretat de les partides desades manualment, i llavors baixeu-la manualment a l'altra consola.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+"playerSelect.msbt.msbt/PselStory_DlgBodyAutoDLInfo02_Tips2","La configuració de la baixada automàtica és diferent per a cada consola.
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Si voleu activar la baixada automàtica en una consola diferent, cal que canvieu la configuració en aquella consola. Podeu fer-ho a  (Configuració del sistema) ⇒ Gestió de dades ⇒ Partides desades al núvol al menu HOME.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+"playerSelect.msbt.msbt/PselStory_DlgBodyAutoDLPromotionOn","S'ha activat la baixada automàtica de partides desades.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+・{bytes:0E|00|01|00|06|00|00|00}Caldrà que baixeu les partides desades manualment el primer cop.{bytes:0F|00|01|00|06|00}
+・{bytes:0E|00|01|00|06|00|00|00}Si voleu activar aquesta funcionalitat en altres consoles, haureu de fer-ho per separat a la configuració de cada consola.{bytes:0F|00|01|00|06|00}
+　{bytes:0E|00|01|00|06|00|00|00}{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Podeu fer-ho a  (Configuració del sistema) ⇒ Gestió de dades ⇒ Partides desades al núvol al menú HOME.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}{bytes:0F|00|01|00|06|00}"
+"playerSelect.msbt.msbt/PselStory_DlgBodyAutoDLInfo01","Si activeu la baixada automàtica, podreu continuar jugant allà on ho hàgiu deixat en altres consoles.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+{bytes:0E|00|01|00|03|00|02|00|05|CD}Caldrà que baixeu les partides desades manualment el primer cop.{bytes:0F|00|01|00|03|00}"
+"playerSelect.msbt.msbt/PselStory_DlgAutoDLInfoPictON","Activada"
+"playerSelect.msbt.msbt/PselStory_DlgBodyAutoDLPromotion","Si activeu la baixada automàtica en aquesta consola, podreu continuar jugant allà on ho hàgiu deixat en altres consoles."
+"playerSelect.msbt.msbt/PselStory_DlgHeaderAutoDLPromotion","Voleu activar la baixada automàtica de partides desades?"
+"playerSelect.msbt.msbt/PselStory_DlgImageAutoDLInfo_SaveData","Partides desades"
+"qlaunch.msbt.msbt/QlcLaunchCheck_DlgCBList_Collision","S'ha produït un error"
+"qlaunch.msbt.msbt/QlcLaunchCheck_DlgCBList_Downloaded","S'ha baixat correctament."
+"qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyCBHasNewSaveDL","S'han baixat les partides desades. Voleu utilitzar-les?"
+"qlaunch.msbt.msbt/QlcDl_DlgBtnDLFirstNow"," Baixa primer aquest programa"
+"qlaunch.msbt.msbt/QlcDl_DlgBodyDownloading_first","S'estan baixant les dades...
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}La baixada es pausarà si el programa a què jugueu fa servir les funcionalitats de comunicació.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+"qlaunch.msbt.msbt/QlcDl_DlgBodyDownloading2_first","S'estan baixant les dades...
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}La baixada es pausarà si el programa a què jugueu fa servir les funcionalitats de comunicació.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+"qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyCBGetPolicyFailure","No s'ha pogut comprovar si aquest programa és compatible amb les partides desades al núvol.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}És possible que no pugueu fer una còpia de seguretat de les dades o baixar-les.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+"qlaunch.msbt.msbt/QlcLaunchCheck_DlgCBList_DownloadError","S'ha produït un error de baixada."
+"qlaunch.msbt.msbt/QlcDl_DlgBodyExitAppForUpdate","Hi ha dades d'actualització disponibles, així que es tancarà el programa."
+"qlaunch.msbt.msbt/QlcLaunchCheck_DlgCBList_DownloadNow","S'està baixant: {bytes:0E|00|02|00|02|00|04|00|00|00|00|00}"
+"qlaunch.msbt.msbt/QlcDl_DlgBodyDownloadOption","Opcions de baixada"
+"setting.msbt.msbt/SetStory_DlgBodyApplyLoadedData","S'han baixat partides desades.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Voleu utilitzar-les?"
+"setting.msbt.msbt/SetCntChildUnlink_BodyMain_T","{empty}"
+"setting.msbt.msbt/SetStory_DlgHeaderAutoDLInfo00_SetDetail","Fes una còpia de seguretat de les partides desades automàticament"
+"setting.msbt.msbt/SetCntChildMoonCode_DlgBodySetNetClock_T","{empty}"
+"setting.msbt.msbt/SetCntChildMoonCode_DlgBodyPasscode_T","{empty}"
+"setting.msbt.msbt/SetCntChildMoonComplete_TitleHeader_T","{empty}"
+"setting.msbt.msbt/SetStory_DlgBodyAutoDLInfo00_SetDetail","Si activeu la còpia de seguretat automàtica, es farà una còpia de seguretat al servidor automàticament de les partides desades quan la consola estigui en mode d'espera i després que tanqueu un joc.
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Alguns programes no estan suportats.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+"setting.msbt.msbt/SetCntDataMngUSBTransfer_DlgBodyUSBConnected","La vostra consola s'ha connectat a l'ordinador.
+{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}La consola ha estat reconeguda per l'ordinador. Ara podeu fer servir l'ordinador per a seleccionar i copiar captures de pantalla i vídeos.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+"setting.msbt.msbt/SetCntChildFunction_BtnSelRatingOrg_Value_ClassInd","ClassInd (Brasil)"
+"setting.msbt.msbt/SetStory_WaitToApplyLoadedData","S'ha baixat correctament."
+"setting.msbt.msbt/SetStory_DlgBodyAutoDLInfo01_SetDetail","Si activeu la baixada automàtica, quan les partides desades al servidor s'actualitzin fent servir una altra consola, les partides desades en aquesta consola se sobreescriuran amb les dades noves del servidor.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+{bytes:0E|00|01|00|03|00|02|00|05|CD}Caldrà que baixeu les partides desades manualment el primer cop.{bytes:0F|00|01|00|03|00}"
+"setting.msbt.msbt/SetStory_DlgBodyAutoDLInfo02_Tips2","La configuració de la baixada automàtica és diferent per a cada consola.
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Si voleu activar la baixada automàtica en una consola diferent, cal que canvieu la configuració en aquella consola. Podeu fer-ho a  (Configuració del sistema) ⇒ Gestió de dades ⇒ Partides desades al núvol al menu HOME.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+"setting.msbt.msbt/SetStory_DlgAutoDLInfoPictON","Activada"
+"setting.msbt.msbt/SetCntDataMngUSBTransfer_DlgBodyUSBDisconnectedReason","・{bytes:0E|00|01|00|06|00|00|00}Assegureu-vos que feu servir un cable USB capaç de transferir dades.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+・{bytes:0E|00|01|00|06|00|00|00}Connecteu el port USB de la consola Nintendo Switch directament a l'ordinador. La funcionalitat de transferència de dades no funcionarà si connecteu el port USB de l'acoblador de la Nintendo Switch a l'ordinador.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+・{bytes:0E|00|01|00|06|00|00|00}Visiteu el lloc web d'assistència de Nintendo per a més informació.
+{bytes:0E|00|02|00|09|00|04|00|00|00|00|00}{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+"
+"setting.msbt.msbt/SetCntDataMngUSBTransfer_DlgBodyLowBattery","La bateria de la consola és baixa.
+Carregueu la consola."
+"setting.msbt.msbt/SetCntDataMngUSBTransfer_DlgBodyUSBTransferErrorReason","Aquesta funcionalitat pot ser que no estigui disponible depenent de l'ordinador que feu servir.
+Visiteu el lloc web d'assistència de Nintendo per a més informació.
+{bytes:0E|00|02|00|09|00|04|00|00|00|00|00}"
+"setting.msbt.msbt/SetCntDataMngUSBTransfer_DlgBodyMiddleBattery","La bateria de la consola és baixa.
+{bytes:0E|00|01|00|03|00|02|00|00|CD}Si la consola s'apaga, es desconnectarà de l'ordinador.{bytes:0F|00|01|00|03|00}"
+"setting.msbt.msbt/SetStory_BtnAutoDownload","Baixa les partides desades automàticament"
+"setting.msbt.msbt/SetStory_DlgImageAutoDLInfo_Device02","Consola 2"
+"setting.msbt.msbt/SetCntDataMngUSBTransfer_DlgBodyUSBMaxStorage","Es poden mostrar fins a 11.000 captures de pantalla o 1.100 vídeos a l'ordinador."
+"setting.msbt.msbt/SetStory_DlgBodyAutoDLInfo01","Si activeu la baixada automàtica, podreu continuar jugant allà on ho hàgiu deixat en altres consoles.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+{bytes:0E|00|01|00|03|00|02|00|05|CD}Caldrà que baixeu les partides desades manualment el primer cop.{bytes:0F|00|01|00|03|00}"
+"setting.msbt.msbt/SetCntTv_DlgBodyConfirmSurround","Cal un dispositiu compatible amb PCM linear de 5.1 canals per a fer servir el so envoltant.
+Si la consola no està connectada a un dispositiu compatible, és possible que alguns sons no es reprodueixin.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Voleu activar el so envoltant?"
+"setting.msbt.msbt/SetCntChildFirst_BtnNext_T","{empty}"
+"setting.msbt.msbt/SetCntChildMoonComplete_BodyMain_T","{empty}"
+"setting.msbt.msbt/SetStory_DlgImageAutoDLInfo_Device01","Consola 1"
+"setting.msbt.msbt/SetCntChildMoonConfirm_TitleHeader_T","{empty}"
+"setting.msbt.msbt/SetStory_DlgHeaderAutoDLPromotion","Voleu activar la baixada automàtica de partides desades?"
+"setting.msbt.msbt/SetStory_DlgHeaderAutoDLInfo00","Es farà una còpia de seguretat automàtica de les partides desades."
+"setting.msbt.msbt/SetStory_DlgHeaderAutoDLInfo02","Informació addicional"
+"setting.msbt.msbt/SetStory_DlgBodyAutoDLPromotionOn","S'ha activat la baixada automàtica de partides desades.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+・{bytes:0E|00|01|00|06|00|00|00}Caldrà que baixeu les partides desades manualment el primer cop.{bytes:0F|00|01|00|06|00}
+・{bytes:0E|00|01|00|06|00|00|00}Si voleu activar aquesta funcionalitat en altres consoles, haureu de fer-ho per separat a la configuració de cada consola.{bytes:0F|00|01|00|06|00}
+　{bytes:0E|00|01|00|06|00|00|00}{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Podeu fer-ho a  (Configuració del sistema) ⇒ Gestió de dades ⇒ Partides desades al núvol al menú HOME.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}{bytes:0F|00|01|00|06|00}"
+"setting.msbt.msbt/SetStory_BodyAutoDownload","Sempre que les partides desades al servidor siguin més recents que les de la consola, les dades noves es baixaran i se sobreescriuran les dades antigues de la consola. Les partides desades no es baixaran automàticament si no hi ha cap partida desada d'aquell programa a la consola."
+"auth.msbt.msbt/AuthNumChk_Main_MonoEntered","●"
+"common.msbt.msbt/Cmn_DlgBtnDetailInfo","Mostra'n els detalls"
+"common.msbt.msbt/Cmn_DlgBtnConnectFinish","Desconnecta"
+"myPage.msbt.msbt/FrdTrend_Header_PickUp","Destacats"
+"myPage.msbt.msbt/FrdTrendDetail_Header_Played","Amics que han jugat a aquest joc ({bytes:0E|00|02|00|0D|00|04|00|00|00|00|00})"
+"myPage.msbt.msbt/FrdTrend_Header_FrdPlayedSoft","Jugats per amics"
+"myPage.msbt.msbt/FrdTrendDetail_Header_RecentlyStarted","Amics que han començat a jugar a aquest joc durant els darrers 10 dies ({bytes:0E|00|02|00|0D|00|04|00|00|00|00|00})"
+"myPage.msbt.msbt/FrdTrend_BtnLogin_NoNA","Enllaça a un compte de Nintendo"
+"myPage.msbt.msbt/FrdTrend_InfoNoConnection","La consola no està connectada a Internet."
+"myPage.msbt.msbt/FrdTrendDetail_PlayLogTimeLess5","Hi ha jugat una mica"
+"myPage.msbt.msbt/FrdTrend_Body_RecentlyPlayed","{bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}{plurals: amic hi ha| amics hi han}
+jugat fa poc!"
+"overlayDisp.msbt.msbt/OvlParentalControlChange_Unlink_T","{empty}"
+"option.msbt.msbt/OptCntOnlineBackup_WaitToApplyLoadedData","S'ha baixat correctament."
+"photoViewer.msbt.msbt/PvrPostSelect_DlgBtnOne","Publica individualment"
+"photoViewer.msbt.msbt/PvrPostSelect_DlgBtnMulti","Publica'n múltiples"
+"photoViewer.msbt.msbt/PvrTransAp_Header","Envia a un dispositiu intel·ligent"
+"photoViewer.msbt.msbt/PvrTransAp_BodyWait","S'està esperant la connexió del dispositiu intel·ligent..."
+"photoViewer.msbt.msbt/PvrTransUrl_BtnFinish","Finalitza"
+"photoViewer.msbt.msbt/PvrTransHtml_BodyNotFound","No s'ha trobat"
+"photoViewer.msbt.msbt/PvrTransUrl_Header","Envia a un dispositiu intel·ligent"
+"photoViewer.msbt.msbt/PvrPostSelect_DlgHeader","Publica"
+"photoViewer.msbt.msbt/PvrDetailMenu_BtnTrans","Envia a un dispositiu
+intel·ligent"
+"photoViewer.msbt.msbt/PvrTransHtml_BodyScreenshot","Podeu desar una captura de pantalla al menú que es mostra quan manteniu premuda la imatge.
+Nota: Els passos concrets poden variar depenent del model del dispositiu intel·ligent i del navegador que feu servir."
+"photoViewer.msbt.msbt/PvrTransSelect_DlgBtnBack","Endarrere"
+"photoViewer.msbt.msbt/PvrTransSelect_DlgHeader","Envia a un dispositiu intel·ligent"
+"photoViewer.msbt.msbt/PvrTransUrl_StepNum","②"
+"photoViewer.msbt.msbt/Pvr_FooterText_ConnectHelp","Problemes de connexió?"
+"photoViewer.msbt.msbt/PvrPostSelect_DlgBtnBack","Endarrere"
+"photoViewer.msbt.msbt/PvrTransHtml_LinkDownload","Baixa"
+"playerSelect.msbt.msbt/PselStory_DlgBodyAutoDLInfo00","La funcionalitat de partides desades al núvol de Nintendo Switch Online us permet fer còpies de seguretat automàticament de les partides desades quan jugueu.
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Alguns programes no estan suportats.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+"playerSelect.msbt.msbt/PselStory_DlgImageAutoDLInfo_Device01","Consola 1"
+"playerSelect.msbt.msbt/PselStory_DlgImageAutoDLInfo_Device02","Consola 2"
+"playerSelect.msbt.msbt/PselStory_DlgHeaderAutoDLInfo00","Es farà una còpia de seguretat automàtica de les partides desades."
+"playerSelect.msbt.msbt/PselStory_DlgHeaderAutoDLInfo01","Continueu jugant allà on ho heu deixat!"
+"playerSelect.msbt.msbt/PselStory_DlgHeaderAutoDLInfo02","Informació addicional"
+"qlaunch.msbt.msbt/QlcLaunchCheck_DlgCBList_NewSeries","Hi ha partides desades no baixades al servidor."
+"qlaunch.msbt.msbt/QlcLaunchCheck_DlgBtnUse","Utilitza"
+"qlaunch.msbt.msbt/QlcLaunchCheck_DlgButtonIgnoreAndStart","Inicia el programa"
+"qlaunch.msbt.msbt/QlcPctl_DlgBodySettingsDeleted_T","{empty}"
+"setting.msbt.msbt/SetCntChildMoonCode_TitleHeader_T","{empty}"
+"qlaunch.msbt.msbt/QlcDl_DlgBtnDLFirst","Baixa primer aquest programa"
+"qlaunch.msbt.msbt/QlcDl_DlgBtnDownloadOption","Opcions de baixada"
+"qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyCBGetPolicyDisconnect","La consola es connectarà a Internet per a comprovar si aquest programa és compatible amb les partides desades al núvol.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Us desconnectareu de la comunicació local."
+"qlaunch.msbt.msbt/QlcLaunchCheck_DlgCBList_StatusUndefined","No s'ha pogut comprovar l'estat"
+"qlaunch.msbt.msbt/QlcLaunchCheck_DlgCBList_SystemUpdate","Cal una actualització del sistema."
+"qlaunch.msbt.msbt/QlcLaunchCheck_DlgCBList_ServerDataExist","Hi ha partides desades no baixades al servidor."
+"qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyCBStatusList","L'estat de la còpia de seguretat i de la baixada de les vostres partides desades es mostra aquí.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Per a més informació, aneu al menú HOME i obriu el menú d'Opcions del programa, i a continuació seleccioneu Partides desades al núvol."
+"qlaunch.msbt.msbt/RdtSystemTitle_Lhub","Nintendo Switch Online"
+"setting.msbt.msbt/SetCntChild_BodyConnected_T","{empty}"
+"setting.msbt.msbt/SetCntTv_BtnSurround","Activa el so envoltant"
+"qlaunch.msbt.msbt/QlcLaunchCheck_DlgCBList_DownloadWait","Baixada pausada"
+"setting.msbt.msbt/SetStory_DlgBtnDontUse","No utilitzis"
+"setting.msbt.msbt/SetCntChild_BtnCancel_T","{empty}"
+"setting.msbt.msbt/SetCntChildUnlink_TitleHeader_T","{empty}"
+"setting.msbt.msbt/SetCntChildFirst_MoonInfo_T","{empty}"
+"setting.msbt.msbt/SetStory_DlgBtnUse","Utilitza"
+"setting.msbt.msbt/SetCntChild_DlgBodyUpdateDataExist_T","{empty}"
+"setting.msbt.msbt/SetCntChildMoonCode_DlgBodySetNetClockHeadPhone_T","{empty}"
+"setting.msbt.msbt/SetCntDate_BodyNetTimeMoon_T","{empty}"
+"setting.msbt.msbt/SetCntDataMngUSBTransfer_DlgBodyUSBLostConnection","La vostra consola Nintendo Switch s'ha desconnectat de l'ordinador."
+"setting.msbt.msbt/SetStory_DlgBodyAutoDLPromotion","Si activeu la baixada automàtica en aquesta consola, podreu continuar jugant allà on ho hàgiu deixat en altres consoles."
+"setting.msbt.msbt/SetCntDataMngUSBTransfer_BtnUSBDisconnected","Solució de problemes"
+"setting.msbt.msbt/SetCntDataMngPhoto_BtnUSBTransfer","Copia a un ordinador amb una connexió USB"
+"setting.msbt.msbt/SetCntChildMoonConfirm_BodyMain_T","{empty}"
+"setting.msbt.msbt/SetCntChildMoonCode_DlgBodyPasscodeSetNetClock_T","{empty}"
+"setting.msbt.msbt/SetCntChildMoonCode_BodyMain_T","{empty}"
+"setting.msbt.msbt/SetStory_SetHeader","Configuració de les partides desades al núvol"
+"setting.msbt.msbt/SetStory_DlgBodyAutoDLOn","S'ha activat la baixada automàtica de partides desades en aquesta consola.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+La configuració d'altres consoles no canviarà. Si voleu actualitzar la configuració d'altres consoles, caldrà que ho feu separadament per a cada consola."
+"setting.msbt.msbt/SetStory_DlgBodyAutoDLInfo00","La funcionalitat de partides desades al núvol de Nintendo Switch Online us permet fer còpies de seguretat automàticament de les partides desades quan jugueu.
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Alguns programes no estan suportats.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+"setting.msbt.msbt/SetCntChild_DlgBodyUpdateDataNone_T","{empty}"
+"setting.msbt.msbt/SetCntChildFirst_DlgBodyNoSmartPhone_T","{empty}"
+"setting.msbt.msbt/SetCntChild_BodyMain_T","{empty}"
+"setting.msbt.msbt/SetStory_DlgButtonManualDL","Baixa manualment"
+"setting.msbt.msbt/SetCntChild_BodyAsideParent_T","{empty}"
+"setting.msbt.msbt/SetCntDataMngUSBTransfer_DlgBodyUSBDisconnected","Connecteu la vostra consola Nintendo Switch a l'ordinador fent servir un cable USB."
+"setting.msbt.msbt/SetStory_DlgImageAutoDLInfo_SaveData","Partides desades"
+"setting.msbt.msbt/SetStory_DlgHeaderAutoDLInfo01","Continueu jugant allà on ho heu deixat!"
