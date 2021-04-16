@@ -84,7 +84,7 @@ Torneu-ho a provar més tard."
 Tanca"
 "error_codes/2110/1100/lang_DlgMsg","No s'ha pogut connectar a Internet.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Reviseu la configuració.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
-Si feu servir una connexió a Internet per cable, assegureu-vos que l'adaptador LAN estigui ben connectat."
+Si feu servir una connexió a Internet per cable, assegureu-vos que l'adaptador i el cable LAN estiguin ben connectats."
 "error_codes/2110/1111/lang_DlgBtn","D'acord"
 "error_codes/2110/1111/lang_DlgMsg","No s'ha pogut connectar a Internet perquè està activat el mode d'avió.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Podeu desactivar el mode d'avió a la configuració ràpida (mantingueu premut )."
@@ -97,7 +97,9 @@ Comproveu que l'adaptador LAN estigui ben connectat."
 "error_codes/2110/2000/lang_DlgBtn","D'acord"
 "error_codes/2110/2000/lang_DlgMsg","No s'ha pogut connectar a Internet.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Reviseu la configuració.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
-Si feu servir una connexió a Internet per cable, assegureu-vos que l'adaptador LAN estigui ben connectat."
+Si feu servir una connexió a Internet per cable, reviseu el següent:
+・{bytes:0E|00|01|00|06|00|00|00}Que el cable LAN estigui ben connectat.{bytes:0F|00|01|00|06|00}
+・{bytes:0E|00|01|00|06|00|00|00}Que el dispositiu de xarxa al qual us connecteu estigui engegat.{bytes:0F|00|01|00|06|00}"
 "error_codes/2110/2001/lang_DlgBtn","Detalls
 Tanca"
 "error_codes/2110/2001/lang_DlgMsg","No s'ha pogut connectar amb el dispositiu de xarxa.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
@@ -107,10 +109,10 @@ Tanca"
 "error_codes/2110/2002/lang_DlgMsg","No s'ha pogut connectar amb el dispositiu de xarxa.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 La configuració de seguretat del dispositiu de xarxa no és compatible amb aquesta consola."
 "error_codes/2110/2091/lang_DlgBtn","D'acord"
-"error_codes/2110/2091/lang_DlgMsg","No s'ha pogut connectar a Internet mitjançant la connexió per cable.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
-Reviseu el següent:
-・{bytes:0E|00|01|00|06|00|00|00}Que el cable LAN estigui ben connectat.{bytes:0F|00|01|00|06|00}
-・{bytes:0E|00|01|00|06|00|00|00}Que el dispositiu de xarxa al qual esteu connectat estigui engegat.{bytes:0F|00|01|00|06|00}"
+"error_codes/2110/2091/lang_DlgMsg","No s'ha pogut connectar a Internet.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Reviseu la vostra configuració.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el mode d'avió està activat, desactiveu-lo. Podeu fer-ho a la Configuració ràpida (mantingueu premut ).{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si feu servir una connexió amb cables, reviseu que el cable LAN estigui ben connectat."
 "error_codes/2110/2101/lang_DlgBtn","Detalls
 Tanca"
 "error_codes/2110/2101/lang_DlgMsg","No s'ha pogut connectar al dispositiu de xarxa. {bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
@@ -549,8 +551,7 @@ Torneu-ho a provar més tard."
 "error_codes/2155/8006/lang_DlgBtn","D'acord"
 "error_codes/2155/8006/lang_DlgMsg","No s'ha pogut connectar a Internet.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 És possible que no hàgiu introduït correctament la configuració dels DNS.
-Reviseu la configuració.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
-Si el problema continua, reinicieu la consola a les Opcions d'alimentació del menú d'alimentació (mantingueu premut el botó POWER durant tres segons)."
+Reviseu la configuració."
 "error_codes/2160/0103/lang_DlgBtn","Detalls
 Tanca"
 "error_codes/2160/0103/lang_DlgMsg","No s'ha pogut iniciar una connexió.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
@@ -1163,7 +1164,7 @@ S'ha desenllaçat el compte.
 Seleccioneu un altre lloc on vulgueu publicar."
 "error_codes/2801/7002/lang_DlgBtn","D'acord"
 "error_codes/2801/7002/lang_DlgMsg","No s'ha pogut publicar.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
-Torneu-ho a provar."
+Torneu-ho a provar més tard."
 "error_codes/2801/7080/lang_DlgBtn","Detalls
 Tanca"
 "error_codes/2801/7080/lang_DlgMsg","No podeu publicar captures de pantalla a aquesta xarxa social en aquest moment.
@@ -1379,7 +1380,6 @@ support.nintendo.com/switch/error"
 Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Si ho torneu a provar i encara no us podeu connectar, és possible que no hàgiu introduït correctament la configuració dels DNS o del servidor intermediari.
 Reviseu la configuració mitjançant el menú HOME ⇒  (Configuració del sistema) ⇒ Internet.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
-Si la configuració és correcta, proveu de reiniciar la consola a les Opcions d'alimentació del menú d'alimentació (mantingueu premut el botó POWER durant tres segons).{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Si feu servir una connexió sense fils, és possible que la intensitat del senyal sense fils sigui feble.
 Proveu les següents solucions:
 ・{bytes:0E|00|01|00|06|00|00|00}Acosteu la consola al dispositiu de xarxa.{bytes:0F|00|01|00|06|00}
@@ -1440,7 +1440,6 @@ Si el problema continua fins i tot amb el mode d'avió desactivat, reinicieu la 
 Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Si ho torneu a provar i encara no us podeu connectar, és possible que no hàgiu introduït correctament la configuració dels DNS o del servidor intermediari.
 Reviseu la configuració mitjançant el menú HOME ⇒  (Configuració del sistema) ⇒ Internet.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
-Si la configuració és correcta, proveu de reiniciar la consola a les Opcions d'alimentació del menú d'alimentació (mantingueu premut el botó POWER durant tres segons).{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Si feu servir una connexió sense fils, és possible que la intensitat del senyal sense fils sigui feble.
 Proveu les següents solucions:
 ・{bytes:0E|00|01|00|06|00|00|00}Acosteu la consola al dispositiu de xarxa.{bytes:0F|00|01|00|06|00}
@@ -1493,7 +1492,6 @@ support.nintendo.com/switch/error"
 "error_codes/2306/0520/lang_FlvMsg","No s'ha pogut connectar a Internet.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 És possible que no hàgiu introduït correctament la configuració dels DNS o del servidor intermediari.
 Reviseu la configuració anant al menú HOME ⇒  (Configuració del sistema) ⇒ Internet.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
-Si la configuració és correcta, proveu de reiniciar la consola a les Opcions d'alimentació del menú d'alimentació (mantingueu premut el botó POWER durant tres segons).{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Si feu servir una connexió sense fils, és possible que la intensitat del senyal sense fils sigui feble.
 Proveu les següents solucions:
 ・{bytes:0E|00|01|00|06|00|00|00}Acosteu la consola al dispositiu de xarxa.{bytes:0F|00|01|00|06|00}
@@ -1697,8 +1695,7 @@ No s'ha pogut executar la resolució de noms del DNS.{bytes:0E|00|01|00|00|00|04
 És possible que la xarxa estigui ocupada. Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Si encara no us podeu connectar, proveu el següent:
 ・{bytes:0E|00|01|00|06|00|00|00}Comproveu si altres dispositius, com ara un ordinador, es poden connectar a Internet.{bytes:0F|00|01|00|06|00}
-・{bytes:0E|00|01|00|06|00|00|00}Assegureu-vos que tingueu la configuració correcta dels DNS.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
-Si el problema continua, reinicieu la consola a les Opcions d'alimentació del menú d'alimentació (mantingueu premut el botó POWER durant tres segons)."
+・{bytes:0E|00|01|00|06|00|00|00}Assegureu-vos que tingueu la configuració correcta dels DNS.{bytes:0F|00|01|00|06|00}"
 "error_codes/2122/0008/lang_FlvMsg","S'ha produït un error de comunicació.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Si el problema continua, consulteu el lloc web d'assistència de Nintendo.
@@ -1818,7 +1815,7 @@ Llegiu el manual del dispositiu de xarxa per a més informació.{bytes:0E|00|01|
 ・{bytes:0E|00|01|00|06|00|00|00}Elimineu els obstacles que hi pugui haver entre el dispositiu de xarxa i la consola.{bytes:0F|00|01|00|06|00}"
 "error_codes/2110/1100/lang_FlvMsg","No s'ha pogut connectar a Internet.
 Reviseu la configuració.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
-Si feu servir una connexió a Internet per cable, assegureu-vos que l'adaptador LAN estigui ben connectat.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si feu servir una connexió a Internet per cable, assegureu-vos que l'adaptador i el cable LAN estiguin ben connectats.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Si el problema continua, reinicieu la consola a les Opcions d'alimentació del menú d'alimentació (mantingueu premut el botó POWER durant tres segons).
 "
 "error_codes/2110/1000/lang_FlvMsg","No s'ha pogut connectar amb el dispositiu de xarxa.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
@@ -1964,8 +1961,7 @@ support.nintendo.com/switch/error"
 "error_codes/2179/2802/lang_DlgMsg","Cal una actualització del programa.
 Per a executar una actualització del programa, obriu el menú Opcions seleccionant la icona del programa al menú HOME, premeu  i després seleccioneu Actualització del programa."
 "error_codes/2179/2802/lang_DlgBtn","D'acord"
-"error_codes/2179/2801/lang_DlgMsg","S'ha interromput la connexió.
-Torneu-ho a provar."
+"error_codes/2179/2801/lang_DlgMsg","S'ha interromput la connexió."
 "error_codes/2179/2801/lang_DlgBtn","D'acord"
 "error_codes/2121/2671/lang_DlgBtn","D'acord"
 "error_codes/2121/2634/lang_DlgBtn","D'acord"
@@ -2062,3 +2058,21 @@ Si no podeu fer servir els productes que heu comprat, proveu de reiniciar el pro
 Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Si el problema continua, consulteu el lloc web d'assistència de Nintendo.
 support.nintendo.com/switch/error"
+"error_codes/2116/2000/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2116/2000/lang_FlvBtn","D'acord"
+"error_codes/2801/7210/lang_DlgBtn","D'acord"
+"error_codes/2801/7220/lang_DlgBtn","D'acord"
+"error_codes/2801/7221/lang_DlgBtn","D'acord"
+"error_codes/2801/7222/lang_DlgBtn","D'acord"
+"error_codes/2801/7223/lang_DlgBtn","D'acord"
+"error_codes/2116/2000/lang_DlgMsg","S'ha produït un error de comunicació.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"error_codes/2116/2000/lang_FlvMsg","S'ha produït un error de comunicació.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+És possible que la xarxa estigui ocupada o que la intensitat del senyal sense fils sigui feble.
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, reinicieu la consola a les Opcions d'alimentació del menu d'alimentació (mantingueu premut el botó POWER durant tres segons).{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si fins i tot així no se soluciona el problema, consulteu el lloc web d'assistència de Nintendo.
+support.nintendo.com/switch/error"
+"error_codes/2899/1001/lang_DlgBtn","D'acord"
+"error_codes/2899/1001/lang_DlgMsg","Aquesta aplicació no es pot mostrar en aquesta llengua a la regió/país definits actualment al vostre compte de Nintendo. Es mostrarà en una llengua suportada."
