@@ -33,7 +33,7 @@ Status for OS version: 9.1.0
 	controller 100% (107)
 0100000000001004 "dataErase" applet
 	-
-0100000000001005 "error" applet
+0100000000001005 "error" applet <- No longer in 13.0.0???
 	error 100% (31)
 0100000000001006 "netConnect" applet
 	netConnect 100% (119)

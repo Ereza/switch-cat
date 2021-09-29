@@ -6,7 +6,7 @@ Standard procedure for exporting:
 4. Rename the .nca files to the titleId (the bigger one, not the .cnmt one).
 5. Run hactool -k prod.keys --romfsdir=<TITLEID> <NCAFILE>
 6. Copy all files for special title ids manually (remove all errors except en-GB, use for each language code: find . -type f -name 'de*' -exec rm {} + && find . -type f -name 'fr*' -exec rm {} + && find . -type f -name 'es*' -exec rm {} + && find . -type f -name 'it*' -exec rm {} + && find . -type f -name 'ja*' -exec rm {} + && find . -type f -name 'ko*' -exec rm {} + && find . -type f -name 'nl*' -exec rm {} + && find . -type f -name 'pt*' -exec rm {} + && find . -type f -name 'ru*' -exec rm {} + && find . -type f -name 'zh*' -exec rm {} + && find . -type f -name 'en-US*' -exec rm {} + && find . -type f -name 'common' -exec rm {} +)
-7. Copy all szs (there are repeated files: ignore them) to a folder.
+7. Copy all szs inside message folders (there are repeated files: ignore them) to a folder.
 8. wine sarc_tool.exe -o <FILE.szs>, copy exported .msbt files to correct dir.
 9. Export translations:
 	switch-translation-tool export switchsystemmenu msbt/ nintendo-switch-menu-del-sistema-en.csv
@@ -34,6 +34,5 @@ IMPORTANT:
 
 When any change occurs in common, notification or starter, rebuild all languages by changing these strings:
 	common.msbt.msbt/Cmn_Lang_EUes / EUfr / EUit / USen -> Català
-	error.msbt.msbt/ErrCmn_LblErrCode_EUes / EUfr / EUit / EUen -> Codi d'error
-	notification.msbt.msbt/NtfViewerR_UnmatchedLanguage -> ...català ni <language>.
+	#error.msbt.msbt/ErrCmn_LblErrCode_EUes / EUfr / EUit / EUen -> Codi d'error
 	starter.msbt.msbt/Str_Decide_Spanish / French / Italian / English -> D'acord

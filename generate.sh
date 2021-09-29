@@ -42,7 +42,7 @@ mkdir -p $DSTDIR/0100000000001000/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/fla
 mkdir -p $DSTDIR/0100000000001000/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/gift.msbt.szs "$_"
 mkdir -p $DSTDIR/0100000000001000/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/interrupt.msbt.szs "$_"
 mkdir -p $DSTDIR/0100000000001000/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/migration.msbt.szs "$_"
-mkdir -p $DSTDIR/0100000000001000/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/notification_$LANGFULL.msbt.szs $DSTDIR/0100000000001000/romfs/message/$LANGFULL/notification.msbt.szs
+mkdir -p $DSTDIR/0100000000001000/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/notification.msbt.szs "$_"
 mkdir -p $DSTDIR/0100000000001000/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/option.msbt.szs "$_"
 mkdir -p $DSTDIR/0100000000001000/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/qlaunch.msbt.szs "$_"
 mkdir -p $DSTDIR/0100000000001000/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/setting.msbt.szs "$_"
@@ -64,9 +64,9 @@ mkdir -p $DSTDIR/0100000000001003/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/con
 mkdir -p $DSTDIR/0100000000001004/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/common_$LANGFULL.msbt.szs $DSTDIR/0100000000001004/romfs/message/$LANGFULL/common.msbt.szs
 mkdir -p $DSTDIR/0100000000001004/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/dataErase.msbt.szs "$_"
 
-#0100000000001005 "error" applet
-mkdir -p $DSTDIR/0100000000001005/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/common_$LANGFULL.msbt.szs $DSTDIR/0100000000001005/romfs/message/$LANGFULL/common.msbt.szs
-mkdir -p $DSTDIR/0100000000001005/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/error_$LANGFULL.msbt.szs $DSTDIR/0100000000001005/romfs/message/$LANGFULL/error.msbt.szs
+#0100000000001005 "error" applet - Missing in 13.0.0?
+#mkdir -p $DSTDIR/0100000000001005/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/common_$LANGFULL.msbt.szs $DSTDIR/0100000000001005/romfs/message/$LANGFULL/common.msbt.szs
+#mkdir -p $DSTDIR/0100000000001005/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/error_$LANGFULL.msbt.szs $DSTDIR/0100000000001005/romfs/message/$LANGFULL/error.msbt.szs
 
 #0100000000001006 "netConnect" applet
 mkdir -p $DSTDIR/0100000000001006/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/common_$LANGFULL.msbt.szs $DSTDIR/0100000000001006/romfs/message/$LANGFULL/common.msbt.szs

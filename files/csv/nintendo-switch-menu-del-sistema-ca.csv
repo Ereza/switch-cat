@@ -504,9 +504,9 @@ Totes les funcionalitats que podrien estar restringides pel control parental est
 "auth.msbt.msbt/AuthNumChk_ForgetPass_Header","{empty}"
 "auth.msbt.msbt/AuthCommon_FooterClose","Tanca"
 "auth.msbt.msbt/AuthNumChk_Master_HeaderTop","Introduïu la clau mestra."
-"auth.msbt.msbt/AuthNumChk_Main_TxtNumErrRetry","Si introduïu un PIN incorrecte {bytes:0E|00|02|00|0C|00|04|00|00|00|00|00}{plurals: vegada més| vegades més} haureu d'esperar una estona abans de poder tornar a introduir-lo."
+"auth.msbt.msbt/AuthNumChk_Main_TxtNumErrRetry","Si introduïu un PIN incorrecte {bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}{plurals: vegada més| vegades més} haureu d'esperar una estona abans de poder tornar a introduir-lo."
 "auth.msbt.msbt/AuthNumChk_Main_LockErr","En aquests moments no podeu introduir un PIN. Cal que espereu
-{bytes:0E|00|02|00|0C|00|04|00|00|00|00|00}{plurals: minut| minuts} abans de tornar-ho a provar."
+{bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}{plurals: minut| minuts} abans de tornar-ho a provar."
 "auth.msbt.msbt/AuthNumSet_Success","S'ha completat la configuració."
 "auth.msbt.msbt/AuthNumChk_Main_TxtDlgBtmHeader","Inclineu una palanca de control per a introduir el PIN."
 "auth.msbt.msbt/AuthNumChk_Main_HeaderTxtSafe_NotMoon","{empty}"
@@ -809,7 +809,7 @@ La llista blanca es pot modificar més tard.{bytes:0E|00|00|00|02|00|02|00|64|00
 "common.msbt.msbt/Cmn_Unit_MB","MB"
 "common.msbt.msbt/Cmn_DlgBtnCancel2","Cancel·la"
 "common.msbt.msbt/Cmn_FooterText_DisconnectControllers","Desconnecta els controladors"
-"common.msbt.msbt/Cmn_MeterMinute","Resta: {bytes:0E|00|02|00|0C|00|04|00|00|00|00|00}{plurals: minut| minuts}"
+"common.msbt.msbt/Cmn_MeterMinute","Resta: {bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}{plurals: minut| minuts}"
 "common.msbt.msbt/Cmn_DlgBtnCancel3","Desbloca"
 "common.msbt.msbt/Cmn_FooterKeyCross_DOWN",""
 "common.msbt.msbt/Cmn_SupportUrl_US_Datacheck","support.nintendo.com/switch/datacheck"
@@ -870,7 +870,7 @@ Nintendo Switch Online"
 "common.msbt.msbt/Cmn_DlgBtnDelete","Suprimeix"
 "common.msbt.msbt/Cmn_FooterText_Cancel","Cancel·la"
 "common.msbt.msbt/Cmn_LongRun_Service03","Partides desades al núvol"
-"common.msbt.msbt/Cmn_Percent","{bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}%"
+"common.msbt.msbt/Cmn_Percent","{bytes:0E|00|02|00|0E|00|04|00|00|00|00|00}%"
 "common.msbt.msbt/Cmn_LongRun_Service04","Aplicació per a dispositius intel·ligents"
 "common.msbt.msbt/Cmn_DlgBtnNext","Següent"
 "common.msbt.msbt/Cmn_DlgBtnLogin","Inicia la sessió"
@@ -894,14 +894,14 @@ per a membres"
 "common.msbt.msbt/Cmn_Wednesday_Short","dc"
 "common.msbt.msbt/Cmn_DlgBody_NotNetConnect","No s'ha pogut connectar a Internet.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Comproveu-ne la configuració.
-{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Si feu servir una connexió per cable, assegureu-vos que l'adaptador LAN estigui ben connectat.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Si feu servir una connexió per cable, assegureu-vos que el cable o l'adaptador LAN estiguin ben connectats.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "common.msbt.msbt/Cmn_DlgBtnOk","D'acord"
 "common.msbt.msbt/Cmn_DlgBtnDelete2","Suprimeix"
 "common.msbt.msbt/Cmn_DlgBody_NameCntNumErr","No podeu fer servir més de cinc dígits al sobrenom."
 "common.msbt.msbt/Cmn_DlgBtnCancel_TwTradChinese","取消"
 "common.msbt.msbt/Cmn_DlgBtnToParents","Informació per a pares i tutors"
 "common.msbt.msbt/Cmn_FooterKeyCross_UP",""
-"common.msbt.msbt/Cmn_MeterHour","Resta: {bytes:0E|00|02|00|0C|00|04|00|00|00|00|00}{plurals: hora| hores} {bytes:0E|00|02|00|0C|00|04|00|01|00|00|00}{plurals: minut| minuts}"
+"common.msbt.msbt/Cmn_MeterHour","Resta: {bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}{plurals: hora| hores} {bytes:0E|00|02|00|0D|00|04|00|01|00|00|00}{plurals: minut| minuts}"
 "common.msbt.msbt/Cmn_LongRun_TagLine","Milloreu la vostra experiència de joc!"
 "common.msbt.msbt/Cmn_DlgBtnCancel_CnSimpChinese","取消"
 "common.msbt.msbt/Cmn_DlgBtnRefresh","Actualitza"
@@ -917,7 +917,7 @@ Torneu-ho a provar."
 "controller.msbt.msbt/Ctrl_InAdvance_Dlg_PicMany_H","Per a connectar controladors sense fils:"
 "controller.msbt.msbt/Ctrl_Update_DlgBodyConfirmUpdate2","Hi ha disponible una actualització per al controlador.
 Voleu actualitzar-lo ara?"
-"controller.msbt.msbt/Ctrl_Update_DlgBodyUpdatingNum","Actualització {bytes:0E|00|02|00|0C|00|04|00|01|00|00|00} de {bytes:0E|00|02|00|0C|00|04|00|00|00|00|00}"
+"controller.msbt.msbt/Ctrl_Update_DlgBodyUpdatingNum","Actualització {bytes:0E|00|02|00|0D|00|04|00|01|00|00|00} de {bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}"
 "controller.msbt.msbt/Ctrl_Strap_BtnClose","Tanca"
 "controller.msbt.msbt/Ctrl_Help_DlgBodyAddSync_Ng","Podeu emparellar controladors mantenint premut el botó SYNC mentre sou a la pantalla de preparació de controladors.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
  Ara mateix no podeu fer servir aquest mètode perquè hi ha activa la comunicació local."
@@ -970,7 +970,7 @@ caldrà que desactiveu el mode d'avió.
 "controller.msbt.msbt/Ctrl_Main_GuideJoycon_DualOrSingle","El joc amb un sol Joy-Con
 també està suportat."
 "controller.msbt.msbt/Ctrl_Help_DlgHeaderAddJointSub","Com emparellar controladors Joy-Con"
-"controller.msbt.msbt/Ctrl_Main_Error_MinPlayer"," Connecteu prou controladors per a un mínim de {bytes:0E|00|02|00|0C|00|04|00|00|00|00|00}{plurals: jugador| jugadors}."
+"controller.msbt.msbt/Ctrl_Main_Error_MinPlayer"," Connecteu prou controladors per a un mínim de {bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}{plurals: jugador| jugadors}."
 "controller.msbt.msbt/Ctrl_Help_PicChargeProCon_H","Utilitzeu l'adaptador de corrent"
 "controller.msbt.msbt/Ctrl_Strap_Header","Avís"
 "controller.msbt.msbt/Ctrl_Info_DlgRegistMainButtonOther","Mostra altres mètodes d'emparellament"
@@ -1010,10 +1010,9 @@ al vostre voltant. Tingueu el compte el que us envolta."
 Voleu actualitzar-lo ara?"
 "controller.msbt.msbt/Ctrl_InAdvance_Dlg_PicHomeMenu_H","Seleccioneu Controladors, i després
 Canvia l'ordre o la subjecció."
-"controller.msbt.msbt/Ctrl_Main_Error_Player"," Connecteu prou controladors per a {bytes:0E|00|02|00|0C|00|04|00|00|00|00|00}{plurals: jugador| jugadors}."
+"controller.msbt.msbt/Ctrl_Main_Error_Player"," Connecteu prou controladors per a {bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}{plurals: jugador| jugadors}."
 "controller.msbt.msbt/Ctrl_Update_DlgBodyBatteryError","La bateria del controlador és baixa. Carregueu-lo.
-{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Quan l'hàgiu carregat, podeu actualitzar el controlador a
-  (Configuració del sistema) ⇒ Controladors i sensors, a través del menú HOME.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Quan l'hàgiu carregat, podeu actualitzar -lo a  (Configuració del sistema) ⇒ Controladors i sensors, a través del menú HOME.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "controller.msbt.msbt/Ctrl_Update_DlgBodyUnconnectedUSB","S'ha perdut la connexió amb el controlador per cable.
 És possible que el controlador no funcioni de manera normal. Torneu-lo a connectar amb una connexió per cable i torneu-ho a provar."
 "controller.msbt.msbt/Ctrl_Main_FooterFind","Cerca"
@@ -1071,7 +1070,7 @@ Arxiveu programes per a fer espai."
 "dataErase.msbt.msbt/Der_DlgBtn1UseAuto","Cancel·la"
 "dataErase.msbt.msbt/Der_MeterUnit_KB","{empty}"
 "dataErase.msbt.msbt/Der_MeterDetail_Aoc","Contingut descarregable"
-"dataErase.msbt.msbt/Der_MeterDetail_Picture","Captures de pantalla: {bytes:0E|00|02|00|0E|00|04|00|00|00|00|00}"
+"dataErase.msbt.msbt/Der_MeterDetail_Picture","Captures de pantalla: {bytes:0E|00|02|00|0F|00|04|00|00|00|00|00}"
 "dataErase.msbt.msbt/Der_FooterText_Scoop","Suprimeix captures de pantalla i vídeos"
 "dataErase.msbt.msbt/Der_MeterTitle_Nand","Memòria del sistema"
 "dataErase.msbt.msbt/Der_MeterSizeDetail","{bytes:0E|00|02|00|04|00|04|00|00|00|00|00}"
@@ -1101,7 +1100,7 @@ Quan ja no resti espai lliure, els programes que no hàgiu fet servir recentment
 "dataErase.msbt.msbt/Der_BtnDataDate_1Year","Hi vau jugar per darrer cop fa més d'un any"
 "dataErase.msbt.msbt/Der_BtnDataNand_GB","{bytes:0E|00|02|00|04|00|04|00|00|00|00|00} GB"
 "dataErase.msbt.msbt/Der_ListInfoAuto","{bytes:0E|00|02|00|01|00|04|00|00|00|00|00}"
-"dataErase.msbt.msbt/Der_MeterDetail_Movie","Vídeos: {bytes:0E|00|02|00|0E|00|04|00|00|00|00|00}"
+"dataErase.msbt.msbt/Der_MeterDetail_Movie","Vídeos: {bytes:0E|00|02|00|0F|00|04|00|00|00|00|00}"
 "dataErase.msbt.msbt/Der_MeterAside_Open","Espai disponible"
 "dataErase.msbt.msbt/Der_BtnDataUnit_GB","GB"
 "dataErase.msbt.msbt/Der_SideOr","{empty}"
@@ -1233,7 +1232,7 @@ Arxiveu o suprimiu dades i torneu-ho a provar."
 "gift.msbt.msbt/Gftp_SelectGroup","Seleccioneu un grup."
 "gift.msbt.msbt/Gftp_CreateGroup","Crea un grup"
 "gift.msbt.msbt/Gft_WaitParent","S'està esperant que els membres acabin d'unir-s'hi..."
-"gift.msbt.msbt/Gft_TotalProgress","Membres restants per actualitzar: {bytes:0E|00|02|00|0C|00|04|00|00|00|00|00}"
+"gift.msbt.msbt/Gft_TotalProgress","Membres restants per actualitzar: {bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}"
 "gift.msbt.msbt/Gft_UpdateSend","S'estan enviant les dades de l'actualització del sistema..."
 "gift.msbt.msbt/Gft_UpdateRecv","S'està actualitzant el sistema..."
 "gift.msbt.msbt/Gft_WaitReserveSpace","S'està esperant les altres consoles..."
@@ -1264,7 +1263,7 @@ amb usuaris locals"
 "gift.msbt.msbt/Gft_DlgBodyLowBattery","La bateria de la consola és baixa.
 Connecteu l'adaptador de corrent."
 "gift.msbt.msbt/Gftp_Invite","Feu que {bytes:0E|00|01|00|03|00|02|00|02|CD}tots els jugadors{bytes:0F|00|01|00|03|00} arribin a aquesta pantalla."
-"gift.msbt.msbt/Gft_NumMember","Membres: {bytes:0E|00|02|00|0C|00|04|00|00|00|00|00}/{bytes:0E|00|02|00|0C|00|04|00|01|00|00|00}"
+"gift.msbt.msbt/Gft_NumMember","Membres: {bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}/{bytes:0E|00|02|00|0D|00|04|00|01|00|00|00}"
 "gift.msbt.msbt/Gftp_Guide","Heu de formar un grup que inclogui totes les persones amb qui vulgueu jugar."
 "gift.msbt.msbt/Gftp_BtnHelp","Com puc fer que tots els jugadors
 arribin a aquesta pantalla?"
@@ -1549,7 +1548,7 @@ Deixa que te'l presenti: el lloc web d'assistència de Nintendo!
 Però és veritat que pots trobar tota mena d'informació útil al lloc web d'assistència de Nintendo per a obtenir més rendiment de la teva consola Nintendo Switch!
 
 Hi pots donar un cop d'ull en qualsevol moment en un ordinador o un dispositiu intel·ligent. Per què no ho proves?"
-"localNews.msbt.msbt/LnTvIntro_Body","Has jugat a la teva consola Nintendo Switch fent servir només la pantalla LCD?
+"localNews.msbt.msbt/LnTvIntro_Body","Has jugat a la teva consola Nintendo Switch fent servir només la pantalla?
 
 Bé, dóna un cop d'ull a la imatge de dalt.
 
@@ -1711,7 +1710,7 @@ Continua gaudint de la Nintendo Switch!"
 "localNews.msbt.msbt/LnMoonIntro_BtnMore","Defineix el control parental"
 "localNews.msbt.msbt/LnSdAdvice_Body","...és que se t'acaba l'espai a la memòria del sistema.
 
-Gràcies per fer servir tant la Nintendo Switch!
+Gràcies per fer servir tant la consola Nintendo Switch!
 
 Pots ampliar l'espai disponible fent servir una targeta microSD normal.
 
@@ -1830,7 +1829,7 @@ Però per si de cas, mira d'evitar fer-lo malbé recordant tancar el cavallet ab
 
 ―――――――――――――――――――――――――――――――――――――― 
 
-Per cert, la consola hauria de tardar unes 3 hores i 10 minuts a carregar-se del tot. Pel que fa als controladors Joy-Con, són més aviat 3 hores i mitja. Això és si la consola està en mode d'espera, compte!
+Per cert, la consola hauria de tardar unes 3 hores a carregar-se del tot. Pel que fa als controladors Joy-Con, són més aviat 3 hores i mitja. Això és si la consola està en mode d'espera, compte!
 
 
 Gaudeix jugant!
@@ -2063,12 +2062,12 @@ https://www.nintendo.co.jp/support/switch/{bytes:0E|00|00|00|02|00|02|00|64|00}{
 "migration.msbt.msbt/Mig_Server_MigrationDetail_AsideSet","Si no apareix l'opció ""Transfereix l'usuari"", executeu una actualització del sistema a
  (Configuració del sistema) ⇒ Sistema."
 "migration.msbt.msbt/Mig_Server_MigrationDetail_AsideStarter","Si no apareix l'opció ""Importa un usuari d'una altra consola Nintendo Switch"", acabeu de configurar la consola i a continuació executeu una actualització del sistema anant al menú HOME i seleccionant  (Configuració del sistema) ⇒ Sistema."
-"myPage.msbt.msbt/MypMyStatus_PlayLogStartMinute","Hi heu jugat per primer cop fa {bytes:0E|00|02|00|0C|00|04|00|00|00|00|00}{plurals: minut| minuts}"
+"myPage.msbt.msbt/MypMyStatus_PlayLogStartMinute","Hi heu jugat per primer cop fa {bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}{plurals: minut| minuts}"
 "myPage.msbt.msbt/FrdDetail_HeaderSoftPlayTogether","Programes a què heu jugat junts:"
 "myPage.msbt.msbt/FrdCmn_DeleteBlock_DlgBody_Confirm","Se suprimirà aquest usuari de la vostra llista d'usuaris blocats."
 "myPage.msbt.msbt/FrdFrdRec_FBFrd_LoadingFailure","No s'ha pogut carregar."
 "myPage.msbt.msbt/FrdUserSet_InfoNoConnection","La consola no està connectada a Internet."
-"myPage.msbt.msbt/FrdDetail_PlayLogStartHour","Hi ha jugat per primer cop fa {bytes:0E|00|02|00|0C|00|04|00|00|00|00|00}{plurals: hora| hores}"
+"myPage.msbt.msbt/FrdDetail_PlayLogStartHour","Hi ha jugat per primer cop fa {bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}{plurals: hora| hores}"
 "myPage.msbt.msbt/FrdInvSel_DlgBtnInvite","Convida"
 "myPage.msbt.msbt/FrdCmn_DlgBodyTargetNotFound","No s'ha pogut trobar l'usuari.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Pot ser que es mostri informació desactualitzada, o pot ser que s'hagi suprimit el seu compte de Nintendo."
@@ -2090,7 +2089,7 @@ Si suprimiu les peticions d'amistat enviades marcades amb el símbol anterior, p
 "myPage.msbt.msbt/FrdPlayHistory_Title","Llista d'usuaris amb qui heu jugat"
 "myPage.msbt.msbt/FrdDetail_Req_HeaderHistory","Origen de la petició d'amistat:"
 "myPage.msbt.msbt/FrdLocal_DlgBody_Reserving","S'està esperant que l'usuari us seleccioni..."
-"myPage.msbt.msbt/FrdCard_PresenceOffMinute","fa {bytes:0E|00|02|00|0C|00|04|00|00|00|00|00}{plurals: minut| minuts}"
+"myPage.msbt.msbt/FrdCard_PresenceOffMinute","fa {bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}{plurals: minut| minuts}"
 "myPage.msbt.msbt/FrdAddFrd_BtnReqSent","Peticions d'amistat enviades"
 "myPage.msbt.msbt/FrdDetail_ReqSent_SubInfoFrdCode","Heu enviat aquesta petició mitjançant un codi d'amic."
 "myPage.msbt.msbt/FrdDetail_InvNew","Nova"
@@ -2132,10 +2131,10 @@ Actualment, aquesta activitat està restringida pel control parental. Podeu desa
 "myPage.msbt.msbt/FrdLocal_MyInfo","Vós"
 "myPage.msbt.msbt/FrdBlocklist_DlgBodyToPlayHistory","Podeu seleccionar usuaris per a blocar-los a la llista d'usuaris amb qui heu jugat."
 "myPage.msbt.msbt/FrdDetail_DlgBtnClose","Tanca"
-"myPage.msbt.msbt/FrdDetail_Frd_PresenceOffMinute","Desconnectat fa {bytes:0E|00|02|00|0C|00|04|00|00|00|00|00}{plurals: minut| minuts}"
-"myPage.msbt.msbt/FrdDetail_Frd_PresenceOffHour","Desconnectat fa {bytes:0E|00|02|00|0C|00|04|00|00|00|00|00}{plurals: hora| hores}"
+"myPage.msbt.msbt/FrdDetail_Frd_PresenceOffMinute","Desconnectat fa {bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}{plurals: minut| minuts}"
+"myPage.msbt.msbt/FrdDetail_Frd_PresenceOffHour","Desconnectat fa {bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}{plurals: hora| hores}"
 "myPage.msbt.msbt/FrdCmn_DlgBodyStartSoft","S'iniciarà aquest programa.
-{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Si hi estàveu jugant, es reprendrà des d'on ho hàgiu deixat.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Si l'estàveu utilitzant, es reprendrà des d'on ho hàgiu deixat.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "myPage.msbt.msbt/FrdAddFrd_BodyMyCode_Failed","No s'ha pogut obtenir el vostre codi d'amic.
 ◆ {bytes:0E|00|01|00|06|00|00|00}Podeu veure'l a Configuració de l'usuari ⇒ Configuració d'amistat.{bytes:0F|00|01|00|06|00}"
 "myPage.msbt.msbt/FrdAddFrd_BtnSearchByCode","Cerca amb un codi d'amic"
@@ -2146,7 +2145,7 @@ Si el bloqueu, se suprimirà automàticament de la vostra llista d'amics."
 "myPage.msbt.msbt/FrdDetail_ReqReceived_SubInfoFrdCode","Aquesta petició d'amistat s'ha enviat mitjançant el vostre codi d'amic."
 "myPage.msbt.msbt/FrdCmn_DlgBodyDataMissedError","No s'han pogut carregar les dades."
 "myPage.msbt.msbt/FrdCmn_DlgBtnBlock","Bloca"
-"myPage.msbt.msbt/FrdCard_PresenceOffDay","fa {bytes:0E|00|02|00|0C|00|04|00|00|00|00|00}{plurals: dia| dies}"
+"myPage.msbt.msbt/FrdCard_PresenceOffDay","fa {bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}{plurals: dia| dies}"
 "myPage.msbt.msbt/FrdAddFrd_NoNA_BtnNext","Enllaça un compte de Nintendo"
 "myPage.msbt.msbt/FrdDetail_BtnAlreadyFriend"," Amics  "
 "myPage.msbt.msbt/FrdDetail_DlgBodyOption","Opcions"
@@ -2156,11 +2155,11 @@ Si el bloqueu, se suprimirà automàticament de la vostra llista d'amics."
 "myPage.msbt.msbt/FrdDetail_SubInfoCtrFriend","Nintendo 3DS"
 "myPage.msbt.msbt/FrdDetail_DlgBtnDeleteFriend","Suprimeix l'amic"
 "myPage.msbt.msbt/FrdCmn_DeleteReq_DlgBody_Success","S'ha suprimit la petició d'amistat."
-"myPage.msbt.msbt/MypMyStatus_PlayLogTime","Hi heu jugat {bytes:0E|00|02|00|0E|00|04|00|00|00|00|00}{plurals: hora| hores} o més"
+"myPage.msbt.msbt/MypMyStatus_PlayLogTime","Hi heu jugat {bytes:0E|00|02|00|0F|00|04|00|00|00|00|00}{plurals: hora| hores} o més"
 "myPage.msbt.msbt/FrdReqReceived_SubInfo_FB","Facebook"
-"myPage.msbt.msbt/FrdFrdInv_InvitedTimeHour","fa {bytes:0E|00|02|00|0C|00|04|00|00|00|00|00}{plurals: hora| hores}"
+"myPage.msbt.msbt/FrdFrdInv_InvitedTimeHour","fa {bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}{plurals: hora| hores}"
 "myPage.msbt.msbt/FrdDetail_Frd_PresenceOff","Desconnectat"
-"myPage.msbt.msbt/FrdDetail_PlayLogStartMinute","Hi ha jugat per primer cop fa {bytes:0E|00|02|00|0C|00|04|00|00|00|00|00}{plurals: minut| minuts}"
+"myPage.msbt.msbt/FrdDetail_PlayLogStartMinute","Hi ha jugat per primer cop fa {bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}{plurals: minut| minuts}"
 "myPage.msbt.msbt/MypNav_BtnMyStatus","Perfil"
 "myPage.msbt.msbt/MypNav_BtnFrdInvitation","Invitacions a jugar
 en línia"
@@ -2170,7 +2169,7 @@ en línia"
 "myPage.msbt.msbt/FrdCmn_DeleteBlock_DlgBody_Success","S'ha desblocat aquest usuari."
 "myPage.msbt.msbt/FrdFrdInv_BtnInvitationTitle","Invitació de {bytes:0E|00|02|00|04|00|04|00|00|00|00|00}"
 "myPage.msbt.msbt/FrdFrdRec_CtrFrd_NNIDNotLinked_Body","Els vostres amics () de la {bytes:0E|00|01|00|04|00|00|00}Nintendo 3DS{bytes:0F|00|01|00|04|00} també poden ser amics vostres a la Nintendo Switch."
-"myPage.msbt.msbt/FrdDetail_InvPresenceOffHour","Desconnectat fa {bytes:0E|00|02|00|0C|00|04|00|00|00|00|00}{plurals: hora| hores}"
+"myPage.msbt.msbt/FrdDetail_InvPresenceOffHour","Desconnectat fa {bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}{plurals: hora| hores}"
 "myPage.msbt.msbt/FrdReqReceived_SubInfo_NNID","Wii U"
 "myPage.msbt.msbt/FrdFrdInv_BodyEmpty","Si hi ha amics que us conviden a jugar en línia amb ells en certs programes compatibles, aquestes invitacions es mostraran aquí."
 "myPage.msbt.msbt/FrdDetail_InvHeaderSender","Us hi ha convidat:"
@@ -2209,7 +2208,7 @@ Establireu amistat quan l'altre usuari accepti la vostra petició."
 "myPage.msbt.msbt/FrdDetail_Frd_HeaderPlayLog","Activitat de joc"
 "myPage.msbt.msbt/FrdDetail_PlayTogetherSoftInfoFailure","No s'ha pogut carregar."
 "myPage.msbt.msbt/FrdCmn_Block_DlgBody_DelReqConfirm","Se suprimirà la petició d'amistat que heu enviat a aquest usuari."
-"myPage.msbt.msbt/MypMyStatus_PresenceOffMinute","Desconnectat fa {bytes:0E|00|02|00|0C|00|04|00|00|00|00|00}{plurals: minut| minuts}"
+"myPage.msbt.msbt/MypMyStatus_PresenceOffMinute","Desconnectat fa {bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}{plurals: minut| minuts}"
 "myPage.msbt.msbt/MypMyStatus_HeaderPlayLog","Activitat de joc"
 "myPage.msbt.msbt/FrdCard_PresenceOn","En línia"
 "myPage.msbt.msbt/FrdDetail_Frd_PresenceSoftInfoFailure","No s'ha pogut carregar."
@@ -2218,7 +2217,7 @@ Establireu amistat quan l'altre usuari accepti la vostra petició."
 Seleccioneu el mateix símbol que l'usuari amb
 qui voleu establir amistat."
 "myPage.msbt.msbt/FrdFrdList_FooterText_Reload","Actualitza"
-"myPage.msbt.msbt/FrdFrdInv_InvitedTimeMinute","fa {bytes:0E|00|02|00|0C|00|04|00|00|00|00|00}{plurals: minut| minuts}"
+"myPage.msbt.msbt/FrdFrdInv_InvitedTimeMinute","fa {bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}{plurals: minut| minuts}"
 "myPage.msbt.msbt/FrdLocal_DlgBody_FailedReserving","Torneu-ho a provar."
 "myPage.msbt.msbt/FrdFrdInv_InfoNoConnection","La consola no està connectada a Internet."
 "myPage.msbt.msbt/FrdFrdRec_TWFrd_LoadingFailure","No s'ha pogut carregar."
@@ -2243,7 +2242,7 @@ La llista d'amics de l'usuari és plena."
 "myPage.msbt.msbt/FrdInvSel_Footerdetail","Mostra'n els detalls"
 "myPage.msbt.msbt/FrdDetail_InvHeaderTop","Heu rebut una invitació!"
 "myPage.msbt.msbt/FrdInvSel_DlgBodyMaxSelect","No en podeu seleccionar més."
-"myPage.msbt.msbt/FrdDetail_PlayLogStartDay","Hi va jugar per primer cop fa {bytes:0E|00|02|00|0C|00|04|00|00|00|00|00}{plurals: dia| dies}"
+"myPage.msbt.msbt/FrdDetail_PlayLogStartDay","Hi va jugar per primer cop fa {bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}{plurals: dia| dies}"
 "myPage.msbt.msbt/FrdFrdList_Empty_DlgBodyHelpAboutFrd_T","{empty}"
 "myPage.msbt.msbt/FrdFrdRec_CtrFrd_Empty_Body","Si alguns dels vostres amics () de la {bytes:0E|00|01|00|04|00|00|00}Nintendo 3DS{bytes:0F|00|01|00|04|00} també fan servir la Nintendo Switch, es mostraran aquí.
 {bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Els vostres amics també han de poder veure suggeriments d'amistat de la {bytes:0E|00|01|00|04|00|00|00}Nintendo 3DS{bytes:0F|00|01|00|04|00} a la seva pàgina d'usuari de la Nintendo Switch perquè sigui així.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
@@ -2259,7 +2258,7 @@ Gestioneu la vostra llista d'amics i/o peticions d'amistat enviades."
 "myPage.msbt.msbt/FrdDetail_New","Nova"
 "myPage.msbt.msbt/FrdCmn_DlgBtnArrange","Gestiona"
 "myPage.msbt.msbt/FrdDetail_SubInfoNNIDFriend","Wii U"
-"myPage.msbt.msbt/FrdDetail_InvPresenceOffMinute","Desconnectat fa {bytes:0E|00|02|00|0C|00|04|00|00|00|00|00}{plurals: minut| minuts}"
+"myPage.msbt.msbt/FrdDetail_InvPresenceOffMinute","Desconnectat fa {bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}{plurals: minut| minuts}"
 "myPage.msbt.msbt/MypMyStatus_PlayLogTimeLess5","Hi heu jugat una mica"
 "myPage.msbt.msbt/FrdStartFacedUserSeq_DlgBody_ExplainHowToArrangeSendReq","Les peticions d'amistat marcades amb aquest símbol estan desades a la consola. Si suprimiu alguna d'aquestes peticions, podreu desar-ne una de nova."
 "myPage.msbt.msbt/FrdDetail_FrdCode_Body","SW-{bytes:0E|00|02|00|06|00|04|00|00|00|00|00}"
@@ -2282,8 +2281,8 @@ L'usuari ha configurat la seva consola per a no rebre peticions d'amistat."
 "myPage.msbt.msbt/FrdReqSent_Empty_Body","Ara mateix no teniu cap petició d'amistat enviada."
 "myPage.msbt.msbt/FrdDetail_ReqSent_SubInfoFacedSaved","Aquesta petició d'amistat s'ha desat mitjançant una cerca d'usuaris locals."
 "myPage.msbt.msbt/FrdReqReceived_Title","Peticions d'amistat rebudes"
-"myPage.msbt.msbt/MypNav_BtnFrdList_OnlineNum","En línia: {bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}"
-"myPage.msbt.msbt/FrdFrdInv_InvitedTimeDay","fa {bytes:0E|00|02|00|0C|00|04|00|00|00|00|00}{plurals: dia| dies}"
+"myPage.msbt.msbt/MypNav_BtnFrdList_OnlineNum","En línia: {bytes:0E|00|02|00|0E|00|04|00|00|00|00|00}"
+"myPage.msbt.msbt/FrdFrdInv_InvitedTimeDay","fa {bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}{plurals: dia| dies}"
 "myPage.msbt.msbt/FrdCard_New","Nova"
 "myPage.msbt.msbt/FrdCmn_SendReq_DlgBody_AlreadyReqSent","Ja heu enviat una petició d'amistat a aquest usuari.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Espereu que respongui a la vostra petició."
@@ -2297,7 +2296,7 @@ Se li enviarà una petició d'amistat."
 "myPage.msbt.msbt/FrdDetail_BtnRejectRequest","No vull
 ser-ne amic"
 "myPage.msbt.msbt/FrdInvSel_DlgBodyPreview","S'enviarà una invitació a {bytes:0E|00|02|00|00|00|04|00|00|00|00|00}{plurals: persona| persones}."
-"myPage.msbt.msbt/MypMyStatus_PlayLogStartHour","Hi heu jugat per primer cop fa {bytes:0E|00|02|00|0C|00|04|00|00|00|00|00}{plurals: hora| hores}"
+"myPage.msbt.msbt/MypMyStatus_PlayLogStartHour","Hi heu jugat per primer cop fa {bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}{plurals: hora| hores}"
 "myPage.msbt.msbt/FrdFrdInv_NoNA_BtnNext","Enllaça un compte de Nintendo"
 "myPage.msbt.msbt/FrdFrdInv_NoConnection","Connecteu-vos a Internet per a veure aquesta informació."
 "myPage.msbt.msbt/FrdFrdRec_CtrFrd_CtrNotLinked_Body","Perquè es mostrin els amics () de la {bytes:0E|00|01|00|04|00|00|00}Nintendo 3DS{bytes:0F|00|01|00|04|00}, el vostre sistema {bytes:0E|00|01|00|04|00|00|00}Nintendo 3DS{bytes:0F|00|01|00|04|00} ha d'estar enllaçat a un Nintendo Network ID.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
@@ -2314,7 +2313,7 @@ Podeu enllaçar-lo a la Configuració del sistema del vostre sistema {bytes:0E|0
 "myPage.msbt.msbt/FrdStartFacedUserSeq_DlgBody_NotFound","No s'ha pogut trobar cap usuari amb qui comunicar-se."
 "myPage.msbt.msbt/FrdStartReqSentSeq_DlgBody_ConfirmDisableConnection","La consola no està connectada a Internet.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Només es mostraran les peticions d'amistat desades a la consola."
-"myPage.msbt.msbt/FrdDetail_Frd_PresenceOffDay","Desconnectat fa {bytes:0E|00|02|00|0C|00|04|00|00|00|00|00}{plurals: dia| dies}"
+"myPage.msbt.msbt/FrdDetail_Frd_PresenceOffDay","Desconnectat fa {bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}{plurals: dia| dies}"
 "myPage.msbt.msbt/FrdFrdInv_LoadingFailure","No s'ha pogut carregar."
 "myPage.msbt.msbt/FrdStartReqSentSeq_DlgBtn_MoreInfo","Mostra l'error"
 "myPage.msbt.msbt/MypNav_BtnAddFrd","Afegeix un amic"
@@ -2329,7 +2328,7 @@ Establireu amistat {bytes:0E|00|01|00|03|00|02|00|05|CD}quan tots dos us hàgiu 
 {bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}És possible que tardeu una estona a establir amistat.
 No cal que tots dos usuaris estiguin en línia simultàniament.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "myPage.msbt.msbt/MypMyStatus_DlgBodyPresence","Si no s'ha seleccionat aquest usuari en un joc, es mostrarà com a desconnectat encara que la consola estigui connectada a Internet."
-"myPage.msbt.msbt/MypMyStatus_PlayLogStartDay","Hi vau jugar per primer cop fa {bytes:0E|00|02|00|0C|00|04|00|00|00|00|00}{plurals: dia| dies}"
+"myPage.msbt.msbt/MypMyStatus_PlayLogStartDay","Hi vau jugar per primer cop fa {bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}{plurals: dia| dies}"
 "myPage.msbt.msbt/FrdFrdRec_CtrFrd_NNIDNotLinked_BtnNext","Següent"
 "myPage.msbt.msbt/FrdDetail_SubInfoNameInGame","Nom al joc:"
 "myPage.msbt.msbt/FrdCmn_SendReq_DlgBody_ConfirmAbandonBlocking","Actualment, aquest usuari està blocat.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
@@ -2337,7 +2336,7 @@ Si li envieu una petició d'amistat, se'l desblocarà."
 "myPage.msbt.msbt/FrdAddFrd_BtnReqReceived","Peticions d'amistat rebudes"
 "myPage.msbt.msbt/FrdInvSel_Header","Seleccioneu amics per a convidar-los ({bytes:0E|00|02|00|00|00|04|00|00|00|00|00}/{bytes:0E|00|02|00|00|00|04|00|01|00|00|00})"
 "myPage.msbt.msbt/FrdDetail_ReqSent_SubInfoFaced","Aquesta petició d'amistat s'ha enviat mitjançant una cerca d'usuaris locals."
-"myPage.msbt.msbt/MypMyStatus_PresenceOffHour","Desconnectat fa {bytes:0E|00|02|00|0C|00|04|00|00|00|00|00}{plurals: hora| hores}"
+"myPage.msbt.msbt/MypMyStatus_PresenceOffHour","Desconnectat fa {bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}{plurals: hora| hores}"
 "myPage.msbt.msbt/FrdFrdRec_NAFrd_Optout_Body","Actualment, els suggeriments d'amistat estan desactivats al vostre compte de Nintendo. Si voleu rebre'n, canvieu la configuració del vostre compte de Nintendo mitjançant un dispositiu intel·ligent o un ordinador."
 "myPage.msbt.msbt/MypMyStatus_PlayLogSoftInfoFailure","No s'ha pogut carregar."
 "myPage.msbt.msbt/FrdDetail_BtnInvJoin","Accepta i juga-hi"
@@ -2347,14 +2346,14 @@ Si li envieu una petició d'amistat, se'l desblocarà."
 "myPage.msbt.msbt/FrdInvSel_BodyEmpty","Podeu afegir amics a la vostra pàgina d'usuari de la part superior esquerra del menú HOME."
 "myPage.msbt.msbt/FrdDetail_BtnRequested","Petició enviada"
 "myPage.msbt.msbt/FrdDetail_SubInfoNameInGameNoSoftIcon","Nom al joc:"
-"myPage.msbt.msbt/FrdDetail_PlayLogTime","Hi ha jugat {bytes:0E|00|02|00|0E|00|04|00|00|00|00|00}{plurals: hora| hores} o més"
-"myPage.msbt.msbt/MypMyStatus_PresenceOffDay","Desconnectat fa {bytes:0E|00|02|00|0C|00|04|00|00|00|00|00}{plurals: dia| dies}"
+"myPage.msbt.msbt/FrdDetail_PlayLogTime","Hi ha jugat {bytes:0E|00|02|00|0F|00|04|00|00|00|00|00}{plurals: hora| hores} o més"
+"myPage.msbt.msbt/MypMyStatus_PresenceOffDay","Desconnectat fa {bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}{plurals: dia| dies}"
 "myPage.msbt.msbt/FrdAddRec_NAFrd_NoConnection","Connecteu-vos a Internet per a veure aquesta informació."
 "myPage.msbt.msbt/FrdFrdRec_NNIDFrd_NNIDNotLinked_BtnNext","Següent"
 "myPage.msbt.msbt/FrdDetail_ReqReceived_SubInfoFaced","Aquesta petició d'amistat s'ha rebut mitjançant una cerca d'usuaris locals."
 "myPage.msbt.msbt/MypNav_BtnNavSet","Configuració de l'usuari"
 "myPage.msbt.msbt/FrdDetail_DlgBodyBlock","Bloca"
-"myPage.msbt.msbt/FrdCard_PresenceOffHour","fa {bytes:0E|00|02|00|0C|00|04|00|00|00|00|00}{plurals: hora| hores}"
+"myPage.msbt.msbt/FrdCard_PresenceOffHour","fa {bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}{plurals: hora| hores}"
 "myPage.msbt.msbt/FrdAddRec_TWFrd_NoConnection","Connecteu-vos a Internet per a veure aquesta informació."
 "myPage.msbt.msbt/FrdFrdRec_NAFrd_Empty_Body","Si alguns dels vostres amics d'aplicacions per a dispositius intel·ligents com ara Super Mario Run també fan servir la Nintendo Switch, apareixeran com a suggeriments d'amistat aquí.
 {bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Les vostres aplicacions per a dispositius intel·ligents han d'estar enllaçades al vostre compte de Nintendo perquè sigui així.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
@@ -2370,7 +2369,7 @@ Les invitacions es poden enviar en certs programes compatibles."
 "myPage.msbt.msbt/FrdFrdInv_DlgBodyRefreshTooSoon","Espereu mentre es torna a provar d'actualitzar aquesta informació."
 "myPage.msbt.msbt/FrdCodeInput_SwkbdGuide","Exemple: 0123 4567 8900"
 "myPage.msbt.msbt/FrdDetail_Frd_PresenceOn","En línia"
-"myPage.msbt.msbt/FrdDetail_InvPresenceOffDay","Desconnectat fa {bytes:0E|00|02|00|0C|00|04|00|00|00|00|00}{plurals: dia| dies}"
+"myPage.msbt.msbt/FrdDetail_InvPresenceOffDay","Desconnectat fa {bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}{plurals: dia| dies}"
 "myPage.msbt.msbt/FrdCmn_ApproveReq_DlgBody_Success","Ara sou amics."
 "myPage.msbt.msbt/FrdCmn_DeleteReq_DlgBody_Confirm","Se suprimirà aquesta petició d'amistat."
 "myPage.msbt.msbt/FrdCmn_DlgBodySelectSoft","A quin programa voleu jugar?"
@@ -2400,7 +2399,7 @@ Gestioneu la vostra llista d'amics i/o peticions d'amistat enviades."
 "netConnect.msbt.msbt/Net_Detail_ChkBtnConnect_Off","No"
 "netConnect.msbt.msbt/Net_Connect_DlgBtnSecurPass","Mostra la configuració de la xarxa"
 "netConnect.msbt.msbt/Net_Set_BtnDetail","Canvia la configuració"
-"netConnect.msbt.msbt/Net_Set_WiredMac","Adreça MAC de l'adaptador LAN: {bytes:0E|00|02|00|08|00|04|00|00|00|00|00}"
+"netConnect.msbt.msbt/Net_Set_WiredMac","Adreça MAC de la LAN: {bytes:0E|00|02|00|08|00|04|00|00|00|00|00}"
 "netConnect.msbt.msbt/Net_Wifi_HeaderFound","Xarxes trobades"
 "netConnect.msbt.msbt/Net_Detail_ChkBtnProxy_No","No"
 "netConnect.msbt.msbt/Net_Detail_InputBtnSsid","SSID"
@@ -2432,7 +2431,7 @@ support.nintendo.com"
 "netConnect.msbt.msbt/Net_Detail_SelBtnWepOpen","WEP (oberta)"
 "netConnect.msbt.msbt/Net_Detail_InputBtnDns1Value","{bytes:0E|00|02|00|07|00|04|00|00|00|00|00}"
 "netConnect.msbt.msbt/Net_Detail_Search","S'estan cercant xarxes..."
-"netConnect.msbt.msbt/Net_Wifi_AsideStr","Podeu configurar la connexió més tard prement {bytes:0E|00|02|00|14|00|06|00|00|00|00|00|02|CD}."
+"netConnect.msbt.msbt/Net_Wifi_AsideStr","Podeu configurar la connexió més tard prement {bytes:0E|00|02|00|15|00|06|00|00|00|00|00|02|CD}."
 "netConnect.msbt.msbt/NetConnect_Swkbd_HeaderIp","Introduïu l'adreça IP."
 "netConnect.msbt.msbt/Net_Connect_Failure","No s'ha pogut connectar a la xarxa.
 A continuació es mostraran els detalls de l'error."
@@ -2544,7 +2543,7 @@ Executeu una actualització del sistema anant al menú HOME i seleccionant  (
 "notification.msbt.msbt/NtfChDetail_NoNews","No hi ha cap article per a mostrar."
 "notification.msbt.msbt/NtfList_NAError","No podeu rebre notícies en aquest moment.
 Obriu la vostra pàgina d'usuari al menú HOME i torneu a iniciar la sessió amb el vostre compte de Nintendo."
-"notification.msbt.msbt/NtfViewerR_UnmatchedLanguage","◆ {bytes:0E|00|01|00|06|00|00|00}Aquesta funcionalitat de les notícies no està disponible ni en català ni en espanyol.{bytes:0F|00|01|00|06|00}"
+"notification.msbt.msbt/NtfViewerR_UnmatchedLanguage","◆ {bytes:0E|00|01|00|06|00|00|00}Aquesta funcionalitat de les notícies no està disponible en la llengua de la consola.{bytes:0F|00|01|00|06|00}"
 "notification.msbt.msbt/NtfChannelList_FinishChannel","Seguint"
 "notification.msbt.msbt/NtfViewer_BtnOtherNews","Mostra altres articles"
 "notification.msbt.msbt/NtfChDetail_PublisherNxNotice","Nintendo"
@@ -2681,7 +2680,7 @@ Només en romandran les partides desades i la icona del programa al menú HOME. 
 "option.msbt.msbt/OptCntOnlineBackup_Branch","No se n'ha fet una còpia de seguretat"
 "option.msbt.msbt/OptCntPoint_DlgBodyCheck","S'està comprovant..."
 "option.msbt.msbt/OptCntOnlineBackup_NoSaveData","No hi ha partides desades"
-"option.msbt.msbt/OptCntPointConfirm_HeaderSubFlatNin1","Inclou els punts de {bytes:0E|00|02|00|0E|00|04|00|00|00|00|00} programes del cartutx de joc"
+"option.msbt.msbt/OptCntPointConfirm_HeaderSubFlatNin1","Inclou els punts de {bytes:0E|00|02|00|0F|00|04|00|00|00|00|00} programes del cartutx de joc"
 "option.msbt.msbt/OptNav_Delete","Gestió de dades"
 "option.msbt.msbt/OptCntOther_Nothing","Per a mostrar la informació d'assistència, la informació important i els avisos de propietat intel·lectual, inseriu el cartutx de joc o baixeu el programa."
 "option.msbt.msbt/OptCntPoint_Url","my.nintendo.com"
@@ -2697,10 +2696,10 @@ Les dades suprimides es poden tornar a baixar més tard."
 "option.msbt.msbt/OptCntPoint_Guide_AU","Només podeu obtenir punts d'or per a programes físics de la Nintendo Switch durant l'any posterior a la data original de llançament del joc. Obtindreu punts d'or automàticament per algunes compres digitals i en bescanviar alguns codis de baixada."
 "option.msbt.msbt/OptCntDelete_DlgBodyCutDone","S'ha arxivat el programa correctament."
 "option.msbt.msbt/OptCntOnlineBackup_BackupOff","No se n'ha fet una còpia de seguretat"
-"overlayDisp.msbt.msbt/OvlBattery","Bateria de la consola ({bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}%)"
+"overlayDisp.msbt.msbt/OvlBattery","Bateria de la consola ({bytes:0E|00|02|00|0E|00|04|00|00|00|00|00}%)"
 "overlayDisp.msbt.msbt/OvlHeadPhoneVol_Notice","{bytes:0E|00|00|00|02|00|02|00|5B|00}No mantingueu el volum massa fort durant períodes de temps llargs.{bytes:0E|00|00|00|02|00|02|00|64|00}"
-"overlayDisp.msbt.msbt/OvlCoral_ReportVoiceChat","Membres del xat de veu: {bytes:0E|00|02|00|0C|00|04|00|00|00|00|00}"
-"overlayDisp.msbt.msbt/OvlPlayTimer_Over","S'acabarà d'aquí a {bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}{plurals: minut| minuts}."
+"overlayDisp.msbt.msbt/OvlCoral_ReportVoiceChat","Membres del xat de veu: {bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}"
+"overlayDisp.msbt.msbt/OvlPlayTimer_Over","S'acabarà d'aquí a {bytes:0E|00|02|00|0E|00|04|00|00|00|00|00}{plurals: minut| minuts}."
 "overlayDisp.msbt.msbt/OvlParentalControlChange_Pass","{bytes:0E|00|00|00|02|00|02|00|5B|00}S'ha canviat el PIN del control parental.{bytes:0E|00|00|00|02|00|02|00|64|00}"
 "overlayDisp.msbt.msbt/OvlAlarm_alarm","Alarma de {bytes:0E|00|02|00|04|00|04|00|00|00|00|00}"
 "overlayDisp.msbt.msbt/OvlPhotoError_Full","No hi ha prou espai."
@@ -2734,7 +2733,7 @@ servir els controladors sense fils.{bytes:0E|00|00|00|02|00|02|00|64|00}"
 "overlayDisp.msbt.msbt/OvlMovieError_FullMovie","No hi ha prou espai per al vídeo."
 "overlayDisp.msbt.msbt/OvlFriendInvitation_Now","Invitació de {bytes:0E|00|02|00|04|00|04|00|00|00|00|00}"
 "overlayDisp.msbt.msbt/OvlPromotion_30min","{bytes:0E|00|00|00|02|00|02|00|5B|00}Aviat perdreu l'opció de jugar a aquest programa.{bytes:0E|00|00|00|02|00|02|00|64|00}"
-"overlayDisp.msbt.msbt/OvlPlayTimer_Over120","{bytes:0E|00|00|00|02|00|02|00|5B|00}S'acabarà d'aquí a {bytes:0E|00|02|00|0D|00|04|00|00|00|00|00} minuts o més.{bytes:0E|00|00|00|02|00|02|00|64|00}"
+"overlayDisp.msbt.msbt/OvlPlayTimer_Over120","{bytes:0E|00|00|00|02|00|02|00|5B|00}S'acabarà d'aquí a {bytes:0E|00|02|00|0E|00|04|00|00|00|00|00} minuts o més.{bytes:0E|00|00|00|02|00|02|00|64|00}"
 "overlayDisp.msbt.msbt/OvlBattery_Low1","{bytes:0E|00|00|00|02|00|02|00|5B|00}Carregueu la consola. Entrarà en mode d'espera.{bytes:0E|00|00|00|02|00|02|00|64|00}"
 "overlayDisp.msbt.msbt/OvlDownloadFinish_Merge","{bytes:0E|00|00|00|02|00|02|00|5B|00}S'ha descarregat correctament (i {bytes:0E|00|02|00|01|00|04|00|00|00|00|00} més).{bytes:0E|00|00|00|02|00|02|00|64|00}"
 "overlayDisp.msbt.msbt/OvlSoftRights_10min","{bytes:0E|00|00|00|02|00|02|00|5B|00}Aviat perdreu l'opció de jugar a aquest programa.{bytes:0E|00|00|00|02|00|02|00|64|00}"
@@ -2767,10 +2766,10 @@ Traieu la consola de les ulleres de RV {bytes:0E|00|01|00|04|00|00|00}Toy-Con{by
 "overlayDisp.msbt.msbt/OvlSoftRights_30min","{bytes:0E|00|00|00|02|00|02|00|5B|00}Perdreu l'opció de jugar a aquest programa.{bytes:0E|00|00|00|02|00|02|00|64|00}"
 "overlayDisp.msbt.msbt/OvlZoomGuide_Exit","Cancel·la"
 "overlayDisp.msbt.msbt/OvlControllerPairing","Emparellat"
-"overlayDisp.msbt.msbt/OvlPlayTimer_Limit","{bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}{plurals: minut restant| minuts restants}."
+"overlayDisp.msbt.msbt/OvlPlayTimer_Limit","{bytes:0E|00|02|00|0E|00|04|00|00|00|00|00}{plurals: minut restant| minuts restants}."
 "overlayDisp.msbt.msbt/OvlMinNg","{bytes:0E|00|00|00|02|00|02|00|5B|00}Ara no es pot mostrar la configuració ràpida.{bytes:0E|00|00|00|02|00|02|00|64|00}"
-"overlayDisp.msbt.msbt/OvlServerMaintenance_Note","{bytes:0E|00|00|00|02|00|02|00|58|00}Manteniment del servidor programat a {bytes:0E|00|02|00|12|00|04|00|00|00|00|00}.{bytes:0E|00|00|00|02|00|02|00|64|00}"
-"overlayDisp.msbt.msbt/OvlPlayTimer_HourLimit","{bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}{plurals: hora restant| hores restants}."
+"overlayDisp.msbt.msbt/OvlServerMaintenance_Note","{bytes:0E|00|00|00|02|00|02|00|58|00}Manteniment del servidor programat a {bytes:0E|00|02|00|13|00|04|00|00|00|00|00}.{bytes:0E|00|00|00|02|00|02|00|64|00}"
+"overlayDisp.msbt.msbt/OvlPlayTimer_HourLimit","{bytes:0E|00|02|00|0E|00|04|00|00|00|00|00}{plurals: hora restant| hores restants}."
 "overlayDisp.msbt.msbt/Slp_BtnCancel","Tanca"
 "overlayDisp.msbt.msbt/Ctn_ExitSVMode","Ara s'acabarà {bytes:0E|00|02|00|07|00|04|00|00|00|00|00}.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Traieu la consola de {bytes:0E|00|02|00|07|00|04|00|01|00|00|00}, i després seleccioneu Tanca."
@@ -2814,7 +2813,7 @@ Abans d'inserir una targeta microSD, assegureu-vos que apagueu la consola anant 
 "photoViewer.msbt.msbt/PvrEditMovie_BodyEnd","On voleu que acabi el vídeo?"
 "photoViewer.msbt.msbt/PvrCopy_BodyMessageToSd","{empty}"
 "photoViewer.msbt.msbt/PvrCopy_DlgBodyComplete","S'ha copiat correctament."
-"photoViewer.msbt.msbt/PvrEditMovie_MovieTime","{bytes:0E|00|02|00|0C|00|04|00|00|00|00|00} s"
+"photoViewer.msbt.msbt/PvrEditMovie_MovieTime","{bytes:0E|00|02|00|0D|00|04|00|00|00|00|00} s"
 "photoViewer.msbt.msbt/PvrCopy_DlgBodyToSd","Voleu copiar-ho de la memòria del sistema a la targeta microSD?"
 "photoViewer.msbt.msbt/PvrDetailMenu_DlgBodyPostNg","No podeu publicar mentre s'estan arxivant o suprimint dades."
 "photoViewer.msbt.msbt/PvrCopy_BodyComplete","{empty}"
@@ -2841,7 +2840,7 @@ Abans de crear o editar vídeos, feu espai suprimint dades innecessàries o canv
 "photoViewer.msbt.msbt/PvrDetailMenu_BtnEditMovie","Retalla"
 "photoViewer.msbt.msbt/PvrDelete_DlgBodyConfirm","Se suprimirà el fitxer."
 "photoViewer.msbt.msbt/PvrList_BodyTitleNand","Memòria del sistema "
-"photoViewer.msbt.msbt/PvrList_MovieTime","{bytes:0E|00|02|00|0C|00|04|00|00|00|00|00} s"
+"photoViewer.msbt.msbt/PvrList_MovieTime","{bytes:0E|00|02|00|0D|00|04|00|00|00|00|00} s"
 "photoViewer.msbt.msbt/PvrEditText_BodyTitlePos","Seleccioneu la posició i l'angle del text."
 "photoViewer.msbt.msbt/PvrEditText_PartsPos","Posició i angle"
 "photoViewer.msbt.msbt/PvrMultiDelete_BodyDelete","Seleccioneu les captures de pantalla i/o els vídeos que vulgueu suprimir."
@@ -2862,7 +2861,7 @@ Abans de crear o editar captures de pantalla, feu espai suprimint dades innecess
 {bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}La memòria del sistema pot emmagatzemar fins a 1000 captures de pantalla, mentre que la targeta microSD en pot emmagatzemar fins a 10000.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "photoViewer.msbt.msbt/PvrEditText_GuideMessage","Introduïu el text."
 "photoViewer.msbt.msbt/PvrList_BodyTitleOther","Altres "
-"photoViewer.msbt.msbt/PvrFiltering_BtnNum","({bytes:0E|00|02|00|0F|00|04|00|00|00|00|00})"
+"photoViewer.msbt.msbt/PvrFiltering_BtnNum","({bytes:0E|00|02|00|10|00|04|00|00|00|00|00})"
 "photoViewer.msbt.msbt/PvrDetailMenu_BtnShare","Publica"
 "photoViewer.msbt.msbt/PvrList_BodyTitleScreenshot","Només captures de pantalla "
 "photoViewer.msbt.msbt/PvrEditMovie_BodyCheck","El vídeo es desarà com està."
@@ -2883,7 +2882,7 @@ servir i torneu-ho a provar."
 "photoViewer.msbt.msbt/PvrCopy_DlgBodyWait","S'està copiant..."
 "photoViewer.msbt.msbt/PvrEditMovie_DlgBodyDataMax","La destinació on voleu desar no pot emmagatzemar més vídeos.
 {bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}La memòria del sistema pot emmagatzemar fins a 100 vídeos, mentre que la targeta microSD en pot emmagatzemar fins a 1000.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
-"photoViewer.msbt.msbt/PvrMultiDelete_DlgBodyDelete","Se suprimirà: {bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}{plurals: fitxer| fitxers}."
+"photoViewer.msbt.msbt/PvrMultiDelete_DlgBodyDelete","Se suprimirà: {bytes:0E|00|02|00|0E|00|04|00|00|00|00|00}{plurals: fitxer| fitxers}."
 "photoViewer.msbt.msbt/PvrEditText_DlgBodyDataMax","La destinació on voleu desar no pot emmagatzemar més captures de pantalla.
 {bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}La memòria del sistema pot emmagatzemar fins a 1000 captures de pantalla, mentre que la targeta microSD en pot emmagatzemar fins a 10000.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "photoViewer.msbt.msbt/PvrDelete_DlgBodyWait","S'està suprimint..."
@@ -2934,7 +2933,7 @@ Abans de crear o editar captures de pantalla, feu espai suprimint dades innecess
 Abans d'inserir una targeta microSD, assegureu-vos que apagueu la consola anant a Opcions d'alimentació al menú d'alimentació (mantingueu premut el botó POWER durant tres segons).{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "photoViewer.msbt.msbt/PvrDetailMenu_Date","{bytes:0E|00|02|00|07|00|04|00|00|00|00|00}"
 "photoViewer.msbt.msbt/PvrEditSave_DlgBodyWait","S'està desant..."
-"photoViewer.msbt.msbt/PvrList_BodyTitleNum","({bytes:0E|00|02|00|0F|00|04|00|00|00|00|00})"
+"photoViewer.msbt.msbt/PvrList_BodyTitleNum","({bytes:0E|00|02|00|10|00|04|00|00|00|00|00})"
 "photoViewer.msbt.msbt/PvrMultiDelete_BtnDelete","Suprimeix"
 "photoViewer.msbt.msbt/PvrFiltering_Header","Filtra"
 "playerSelect.msbt.msbt/PselSelGame_CannotSelect_DlgBody","No podeu continuar perquè no podeu seleccionar un altre usuari.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
@@ -3223,7 +3222,7 @@ Voleu instal·lar-lo ara?"
 cal tancar aquest programa."
 "qlaunch.msbt.msbt/QlcDl_MeterHour","{empty}"
 "qlaunch.msbt.msbt/QlcDl_MeterSuspended","{empty}"
-"qlaunch.msbt.msbt/EntIcon_Promotion_d","L'esdeveniment s'acaba d'aquí a {bytes:0E|00|02|00|0C|00|04|00|00|00|00|00} d {bytes:0E|00|02|00|0C|00|04|00|01|00|00|00} h"
+"qlaunch.msbt.msbt/EntIcon_Promotion_d","L'esdeveniment s'acaba d'aquí a {bytes:0E|00|02|00|0D|00|04|00|00|00|00|00} d {bytes:0E|00|02|00|0D|00|04|00|01|00|00|00} h"
 "qlaunch.msbt.msbt/EntLock_BtnIntro","Premeu el mateix botó tres vegades."
 "qlaunch.msbt.msbt/QlcDl_DlgBodyDlCancelled","S'ha cancel·lat la baixada.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 El contingut es pot tornar a baixar de la Nintendo eShop.
@@ -3239,7 +3238,7 @@ Necessitareu {bytes:0E|00|02|00|02|00|04|00|00|00|00|00} {bytes:0E|00|02|00|00|0
 Arxiveu programes per a fer espai."
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyRightsLimitExceededAoC","Algun contingut descarregable no és jugable ara mateix.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 {bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Connecteu a Internet una altra consola Nintendo Switch enllaçada a aquest compte de Nintendo i torneu-ho a provar.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
-"qlaunch.msbt.msbt/EntIcon_Promotion_h","L'esdeveniment s'acaba d'aquí a {bytes:0E|00|02|00|0C|00|04|00|00|00|00|00} h {bytes:0E|00|02|00|0C|00|04|00|01|00|00|00} min"
+"qlaunch.msbt.msbt/EntIcon_Promotion_h","L'esdeveniment s'acaba d'aquí a {bytes:0E|00|02|00|0D|00|04|00|00|00|00|00} h {bytes:0E|00|02|00|0D|00|04|00|01|00|00|00} min"
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyUpdateRequired","Cal instal·lar una actualització del programa.
 Ara es baixaran les dades d'actualització."
 "qlaunch.msbt.msbt/Qlc_DlgBodyCacheStorageFullSd","El programa no es pot iniciar perquè no hi ha prou espai lliure.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
@@ -3254,11 +3253,11 @@ Voleu suprimir el contingut descarregable no jugable i iniciar el programa?"
 {bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Es pot canviar després a Configuració ⇒ Llista blanca a l'aplicació Control parental de la Nintendo Switch.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyDownloadMeta","S'està comprovant la informació del programa..."
 "qlaunch.msbt.msbt/RdtQuest_DlgBody","Esteu segur que voleu tancar aquest programa?
-{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Feu servir la palanca de control per a seleccionar una opció i premeu {bytes:0E|00|02|00|14|00|06|00|00|00|00|00|00|CD} per a confirmar.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Feu servir la palanca de control per a seleccionar una opció i premeu {bytes:0E|00|02|00|15|00|06|00|00|00|00|00|00|CD} per a confirmar.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "qlaunch.msbt.msbt/EntAlarm_Btn_R",""
 "qlaunch.msbt.msbt/QlcDl_DlgBodyFatal","Es cancel·larà la baixada perquè s'ha produït un error.
 Torneu a iniciar la baixada de nou."
-"qlaunch.msbt.msbt/EntIcon_Promotion_m","L'esdeveniment s'acaba d'aquí a {bytes:0E|00|02|00|0C|00|04|00|00|00|00|00} min"
+"qlaunch.msbt.msbt/EntIcon_Promotion_m","L'esdeveniment s'acaba d'aquí a {bytes:0E|00|02|00|0D|00|04|00|00|00|00|00} min"
 "qlaunch.msbt.msbt/QlcDl_DlgBtnStopInstall","Cancel·la l'actualització del programa"
 "qlaunch.msbt.msbt/RdtIcon_Promotion","Programes de Game Trials"
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodySystemUpdateRequiredToCheckRights","Cal instal·lar una actualització del sistema per a comprovar si aquest programa és usable."
@@ -3324,7 +3323,7 @@ Continueu baixant quan s'hagi solucionat el problema."
 Voleu instal·lar-les ara?"
 "qlaunch.msbt.msbt/EntLock_BtnCancel","Endarrere"
 "qlaunch.msbt.msbt/Qlc_DlgBodySaveDataCreating","S'està preparant el programa..."
-"qlaunch.msbt.msbt/RdtIcon_Promotion_d","L'esdeveniment s'acaba d'aquí a {bytes:0E|00|02|00|0C|00|04|00|00|00|00|00} d {bytes:0E|00|02|00|0C|00|04|00|01|00|00|00} h"
+"qlaunch.msbt.msbt/RdtIcon_Promotion_d","L'esdeveniment s'acaba d'aquí a {bytes:0E|00|02|00|0D|00|04|00|00|00|00|00} d {bytes:0E|00|02|00|0D|00|04|00|01|00|00|00} h"
 "qlaunch.msbt.msbt/QlcRebootApp_DlgBodyConfirmCaution","El programa que esteu fent servir es tancarà i es reiniciarà.
 {bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Es perdran les dades que no hàgiu desat.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "qlaunch.msbt.msbt/QlcSd_DlgBodyNotReadyExFat","S'ha inserit una targeta de memòria microSDXC.
@@ -3333,16 +3332,16 @@ Per a fer servir aquesta targeta SD, executeu una actualització del sistema."
 "qlaunch.msbt.msbt/EntAlarm_BtnCancel","Tanca"
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyCheckRights","S'està comprovant si es pot jugar a aquest programa..."
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyRightsD1Only","Només es pot jugar a aquest programa a la vostra consola primària."
-"qlaunch.msbt.msbt/RdtIcon_Promotion_h","L'esdeveniment s'acaba d'aquí a {bytes:0E|00|02|00|0C|00|04|00|00|00|00|00} h {bytes:0E|00|02|00|0C|00|04|00|01|00|00|00} min"
+"qlaunch.msbt.msbt/RdtIcon_Promotion_h","L'esdeveniment s'acaba d'aquí a {bytes:0E|00|02|00|0D|00|04|00|00|00|00|00} h {bytes:0E|00|02|00|0D|00|04|00|01|00|00|00} min"
 "qlaunch.msbt.msbt/QlcPctlCheck_DlgBtnAllowAlways","Afegeix a la llista blanca"
 "qlaunch.msbt.msbt/QlcDl_DlgBodySystemUpdate","{empty}"
 "qlaunch.msbt.msbt/QlcChangeUser_DlgBodyConfirmCaution","Per a canviar d'usuari, cal tancar aquest programa.
 {bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Es perdran les dades que no hàgiu desat.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "qlaunch.msbt.msbt/Rdt_FooterText_Option","Opcions"
-"qlaunch.msbt.msbt/RdtIcon_Promotion_m","L'esdeveniment s'acaba d'aquí a {bytes:0E|00|02|00|0C|00|04|00|00|00|00|00} min"
+"qlaunch.msbt.msbt/RdtIcon_Promotion_m","L'esdeveniment s'acaba d'aquí a {bytes:0E|00|02|00|0D|00|04|00|00|00|00|00} min"
 "qlaunch.msbt.msbt/RdtIcon_UserChange","Canvia d'usuari"
 "qlaunch.msbt.msbt/EntAlarm_Btn_Home",""
-"qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyPromotion","No es pot jugar a aquest programa fins a {bytes:0E|00|02|00|11|00|04|00|00|00|00|00}.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+"qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyPromotion","No es pot jugar a aquest programa fins a {bytes:0E|00|02|00|12|00|04|00|00|00|00|00}.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Podreu continuar jugant des d'on ho vau deixar si compreu el programa."
 "qlaunch.msbt.msbt/RdtSystemTitle_MyPage","Pàgina d'usuari: {bytes:0E|00|02|00|04|00|04|00|00|00|00|00}"
 "qlaunch.msbt.msbt/EntMain_BtmNtfJump","Notícies destacades"
@@ -3404,8 +3403,8 @@ Per a més informació sobre les valoracions d'edat concretes de cada sistema de
 "setting.msbt.msbt/SetCntChildFunction_ESRBHelp_Everyone10Index","Tothom +10"
 "setting.msbt.msbt/SetCntChildFunction_BtnSv","Mode RV (gràfics en 3D)"
 "setting.msbt.msbt/SetCntHardware_DlgBtnDoNotShareErrorReport","No comparteixis"
-"setting.msbt.msbt/SetCntController_DlgBodyDeviceControllerOff","Només és possible prémer botons fent servir un controlador sense fils.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
-{bytes:0E|00|01|00|03|00|02|00|00|CD}Si reinicieu la consola o entra en mode d'espera, aquesta opció es tornarà a activar automàticament.{bytes:0F|00|01|00|03|00}"
+"setting.msbt.msbt/SetCntController_DlgBodyDeviceControllerOff","Només és possible prémer botons fent servir un controlador sense fils.
+{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Si reinicieu la consola o entra en mode d'espera, aquesta opció es tornarà a activar automàticament.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "setting.msbt.msbt/SetCntChildFunction_BtnSelRatingOrg","Sistema de valoració de continguts"
 "setting.msbt.msbt/SetCntPlayerNA_BodyFriendCode","El vostre codi d'amic: SW-{bytes:0E|00|02|00|06|00|04|00|00|00|00|00}"
 "setting.msbt.msbt/SetCntNet_BodySecurityWPA_PSK_AES","WPA-PSK (AES)"
@@ -3421,7 +3420,7 @@ Alguns controladors no es poden actualitzar."
 "setting.msbt.msbt/SetNav_BtnAmiibo","amiibo"
 "setting.msbt.msbt/SetCntHardware_BtnSysUpdate","Actualització del sistema"
 "setting.msbt.msbt/SetCntDataMngSavedata_BtnDelSaveUser_Title","Suprimeix les partides desades de {bytes:0E|00|02|00|07|00|04|00|00|00|00|00}"
-"setting.msbt.msbt/SetCntPlayerNA_BtnFrdNtf","Notificacions d'amics"
+"setting.msbt.msbt/SetCntPlayerNA_BtnFrdNtf","Configuració de les notificacions d'amics"
 "setting.msbt.msbt/SetKeytop_EUFrench","Francès"
 "setting.msbt.msbt/SetKeytop_USFrench","Francès (Canadà)"
 "setting.msbt.msbt/SetCntHardware_Lang_CnSimpChinese","简体中文"
@@ -3581,7 +3580,7 @@ Esteu segur que voleu continuar?"
 "setting.msbt.msbt/SetKeytop_USEnglish","Anglès (Estats Units)"
 "setting.msbt.msbt/SetKeytop_EUPortuguese","Portuguès"
 "setting.msbt.msbt/SetCntPlayerNAFrdSnsUnlink_BtnUnlinkInvalid","No enllaçat"
-"setting.msbt.msbt/SetStory_BackupNow","S'està fent una còpia de seguretat: {bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}%"
+"setting.msbt.msbt/SetStory_BackupNow","S'està fent una còpia de seguretat: {bytes:0E|00|02|00|0E|00|04|00|00|00|00|00}%"
 "setting.msbt.msbt/SetStory_TopClient","Aquesta
 consola"
 "setting.msbt.msbt/SetCntPlayerDeleteConfirm_BtnAgree","Següent"
@@ -3651,7 +3650,7 @@ contingut descarregable de la Nintendo eShop."
 "setting.msbt.msbt/SetCntChildMoonConfirm_BodyMain","Es configurarà el control parental fent servir aquest compte de Nintendo.
 Voleu enllaçar l'aplicació Control parental de la Nintendo Switch?"
 "setting.msbt.msbt/SetCntPlayerNA_BodyFriendRange","Podeu definir si voleu que els vostres amics vegin el vostre estat de connexió. No obstant això, és possible que no pugueu jugar en línia amb amics que no puguin veure el vostre estat de connexió."
-"setting.msbt.msbt/SetCntControllerDel_BodyRegisteredControllerNum","Controladors emparellats amb aquesta consola: {bytes:0E|00|02|00|0C|00|04|00|00|00|00|00}"
+"setting.msbt.msbt/SetCntControllerDel_BodyRegisteredControllerNum","Controladors emparellats amb aquesta consola: {bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}"
 "setting.msbt.msbt/SetCntPlayerMigIntro2_DlgBodyHelp_Eu","Les captures de pantalla i els vídeos fets amb la consola original no es transferiran.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Visiteu el lloc web d'assistència de Nintendo per a més informació.
 support.nintendo.com"
@@ -3719,7 +3718,7 @@ Seleccioneu la configuració adequada per a tots els usuaris de la consola."
 "setting.msbt.msbt/SetCntChildFunction_DlgBodySave_T","{empty}"
 "setting.msbt.msbt/SetCntPlayerNA_BtnIconEdit","Edita la icona"
 "setting.msbt.msbt/SetCntSupportErrDetail_LblSDCardSpace","Espai lliure a la targeta microSD"
-"setting.msbt.msbt/SetCntControllerStickCheck_BodyAttention","Premeu {bytes:0E|00|02|00|14|00|06|00|00|00|00|00|02|CD} per a tornar a calibrar la palanca de control si no funciona correctament."
+"setting.msbt.msbt/SetCntControllerStickCheck_BodyAttention","Premeu {bytes:0E|00|02|00|15|00|06|00|00|00|00|00|02|CD} per a tornar a calibrar la palanca de control si no funciona correctament."
 "setting.msbt.msbt/SetCntSysUpdate_DlgBodyBatteryWarning","La bateria és baixa.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Connecteu l'adaptador de corrent."
 "setting.msbt.msbt/SetCntTv_BtnTvSize","Ajusta la mida de la pantalla"
@@ -3734,7 +3733,7 @@ Connecteu l'adaptador de corrent."
 "setting.msbt.msbt/SetCntSleep_BtnSelTimerTv","Mode d'espera automàtic
 (jugant a la pantalla del televisor)"
 "setting.msbt.msbt/SetCntPlayerNA_TitleProfileSetting","Configuració del perfil"
-"setting.msbt.msbt/SetCntNet_BodyLanAdapterMacLabel","Adreça MAC de l'adaptador LAN"
+"setting.msbt.msbt/SetCntNet_BodyLanAdapterMacLabel","Adreça MAC de la LAN"
 "setting.msbt.msbt/SetReboot_CountDown_Three","tres segons"
 "setting.msbt.msbt/SetCntHardware_BodyDate","Data i hora actuals: {bytes:0E|00|02|00|08|00|04|00|00|00|00|00}"
 "setting.msbt.msbt/SetCntDate_BtnSelTimezone","Zona horària"
@@ -3770,7 +3769,7 @@ l'adaptador de corrent"
 "setting.msbt.msbt/SetStory_BtnLastError","Mostra'n els detalls"
 "setting.msbt.msbt/SetGyroTop_BodySelectDevice","Seleccioneu si voleu calibrar la consola o els controladors."
 "setting.msbt.msbt/SetDlgTvFit_BodyTop","Alineeu les fletxes amb les cantonades de la pantalla.
-{bytes:0E|00|01|00|03|00|02|00|00|CD}També podeu ajustar la mida de la pantalla fent servir la configuració del vostre televisor.{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}També podeu ajustar la mida de la pantalla fent servir la configuració del vostre televisor.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "setting.msbt.msbt/SetCntHardware_BtnSerial","Números de sèrie"
 "setting.msbt.msbt/SetCntDataMngSoft_BodyVersion","Ver. {bytes:0E|00|02|00|07|00|04|00|00|00|00|00}"
 "setting.msbt.msbt/SetCntChildNext_BodyFunctionMoon","・Restringiu el joc"
@@ -3846,7 +3845,7 @@ ha solucionat el problema"
 "setting.msbt.msbt/SetCntControllerStickCheck_BodyConfirmExplain","Comproveu que:"
 "setting.msbt.msbt/SetDateTime_Minute","Minut"
 "setting.msbt.msbt/SetCntSysUpdate_BodyHomeBack","Podeu tornar al menú HOME prement .{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
-◆{bytes:0E|00|01|00|06|00|00|00} La baixada continuarà. Caldrà que actualitzeu el sistema quan acabi la baixada.{bytes:0F|00|01|00|06|00}"
+◆ {bytes:0E|00|01|00|06|00|00|00}La baixada continuarà. Caldrà que actualitzeu el sistema quan acabi la baixada.{bytes:0F|00|01|00|06|00}"
 "setting.msbt.msbt/SetStory_Collision","S'ha produït un error"
 "setting.msbt.msbt/SetStory_ServerDataExist","Hi ha partides desades al servidor."
 "setting.msbt.msbt/SetRepair_DlgBodyUpload_EU","Envieu partides desades a Nintendo perquè investigui les dades i el rendiment d'aquest servei.
@@ -3866,9 +3865,9 @@ Es mostrarà a la part inferior de la llista quan seleccioneu manualment program
 "setting.msbt.msbt/SetCntNtf_DlgBodyRefreshResources","S'actualitzarà la configuració de les notificacions.
 La consola es reiniciarà quan finalitzi l'actualització."
 "setting.msbt.msbt/SetCntSupportErrList_BodyNoData","No s'ha produït cap error."
-"setting.msbt.msbt/SetCntControllerStickTop_BodySubExplain","◆ {bytes:0E|00|01|00|06|00|00|00}Premeu {bytes:0E|00|02|00|14|00|06|00|00|00|00|00|00|CD} per a calibrar un altre controlador.{bytes:0F|00|01|00|06|00}"
+"setting.msbt.msbt/SetCntControllerStickTop_BodySubExplain","◆ {bytes:0E|00|01|00|06|00|00|00}Premeu {bytes:0E|00|02|00|15|00|06|00|00|00|00|00|00|CD} per a calibrar un altre controlador.{bytes:0F|00|01|00|06|00}"
 "setting.msbt.msbt/SetCntControllerStick_TitleHeader","Calibra les palanques de control"
-"setting.msbt.msbt/SetStory_DownloadNow","S'està baixant: {bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}%"
+"setting.msbt.msbt/SetStory_DownloadNow","S'està baixant: {bytes:0E|00|02|00|0E|00|04|00|00|00|00|00}%"
 "setting.msbt.msbt/SetCntChildFunction_BodyFunctionLabel_Soft","Programes restringits"
 "setting.msbt.msbt/SetFullControllerBtn_BodyExplain","Aquí apareixeran els símbols del que premeu."
 "setting.msbt.msbt/SetCntSupportErrInfo_HeaderDetail","Informació de la consola"
@@ -3888,7 +3887,7 @@ majors de 3 anys"
 "setting.msbt.msbt/SetCntSupportErrDetail_LblAppTitle","Nom del programa"
 "setting.msbt.msbt/SetCntPlayerNA_DlgBodyReissueConfirm","Es regenerarà el vostre codi d'amic.
 No podreu rebre'n un altre durant 30 dies."
-"setting.msbt.msbt/SetFullControllerTouch_BodyQuit","{bytes:0E|00|02|00|14|00|06|00|00|00|00|00|01|CD} Finalitza"
+"setting.msbt.msbt/SetFullControllerTouch_BodyQuit","{bytes:0E|00|02|00|15|00|06|00|00|00|00|00|01|CD} Finalitza"
 "setting.msbt.msbt/SetCntTerms_BtnRead_UnAgreeable","Informació important"
 "setting.msbt.msbt/SetCntHardware_BodyUpdateExist"," L'actualització del sistema està preparada."
 "setting.msbt.msbt/SetCntController_DlgBodyUsbConnection","L'NFC del controlador no es pot fer servir durant la comunicació per cable.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
@@ -3906,7 +3905,7 @@ majors d'11 anys"
 majors de 4 anys"
 "setting.msbt.msbt/SetCntSup_BodySsid","① {bytes:0E|00|02|00|07|00|04|00|00|00|00|00}"
 "setting.msbt.msbt/SetCntAmiibo_BtnRegist","Registra un propietari i un sobrenom"
-"setting.msbt.msbt/SetCntSupportErrDetail_LblLanAdapterMAC","Adreça MAC de l'adaptador LAN"
+"setting.msbt.msbt/SetCntSupportErrDetail_LblLanAdapterMAC","Adreça MAC de la LAN"
 "setting.msbt.msbt/SetCntNet_BodyAccessNone","No connectat"
 "setting.msbt.msbt/SetRepair_DlgBodyUploadAll","{empty}"
 "setting.msbt.msbt/SetCntController_BtnSelf","Prova els dispositius d'entrada"
@@ -3964,7 +3963,7 @@ Visiteu el lloc web d'assistència de Nintendo per a més informació del mode R
 "setting.msbt.msbt/SetCntSleep_BtnSelTimerHh_H","Mode d'espera automàtic"
 "setting.msbt.msbt/SetCntControllerGyro_TitleHeader","Calibra els controls per moviment"
 "setting.msbt.msbt/SetCntSupportErrList_Title","Historial d'errors"
-"setting.msbt.msbt/SetCntSupportErrInfo_Title","Error produït el {bytes:0E|00|02|00|11|00|04|00|00|00|00|00}"
+"setting.msbt.msbt/SetCntSupportErrInfo_Title","Error produït el {bytes:0E|00|02|00|12|00|04|00|00|00|00|00}"
 "setting.msbt.msbt/SetCntControllerGyro_BodyNotJointed_01","Col·loqueu el controlador amb la palanca de control mirant cap amunt en una superfície plana i estable."
 "setting.msbt.msbt/SetNav_BtnInternet","Internet"
 "setting.msbt.msbt/SetNav_BtnController","Controladors i sensors"
@@ -4009,7 +4008,7 @@ No obstant això, no podreu:{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 ・{bytes:0E|00|01|00|06|00|00|00}Revisar el temps de joc i els jocs a què s'ha jugat{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 {bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Cal l'aplicació Control parental de la Nintendo Switch per a fer servir aquestes funcionalitats.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "setting.msbt.msbt/SetCntSleep_BtnSelTimerHh_02","5 min"
-"setting.msbt.msbt/SetCntNtf_BtnFrd","Notificacions d'amics"
+"setting.msbt.msbt/SetCntNtf_BtnFrd","Configuració de les notificacions d'amics"
 "setting.msbt.msbt/SetCntNetTest_BodyFailure","Ha fallat"
 "setting.msbt.msbt/SetCntTerms_BodyExplain_UnAgreeable_SysUp","Llegiu la Informació important i seleccioneu Següent."
 "setting.msbt.msbt/SetCntController_BtnVib","Vibració dels controladors"
@@ -4100,7 +4099,7 @@ support.nintendo.com/switch/help"
 "setting.msbt.msbt/SetCntControllerSelf_BtnTouch","Prova la pantalla tàctil"
 "setting.msbt.msbt/SetCntDataMngScan_BtnSupSoft","Si tornar-lo a baixar no
 ha solucionat el problema"
-"setting.msbt.msbt/SetCntSupportErrList_BtnErrTime","{bytes:0E|00|02|00|11|00|04|00|00|00|00|00}"
+"setting.msbt.msbt/SetCntSupportErrList_BtnErrTime","{bytes:0E|00|02|00|12|00|04|00|00|00|00|00}"
 "setting.msbt.msbt/SetArea_Japan","Japó"
 "setting.msbt.msbt/SetCntFlightMode_BtnToggle_Use","Sí"
 "setting.msbt.msbt/SetCntNet_DlgBodyIncludSsidList","No es pot executar la prova de connexió a la xarxa actual."
@@ -4166,7 +4165,7 @@ Esteu segur que voleu suprimir les dades?"
 "setting.msbt.msbt/SetCntSysFormat_DlgBodyFormatingBrowser","S'està restablint..."
 "setting.msbt.msbt/SetGyroConsole_DlgBodyDockOut","Extraieu la consola de l'acoblador."
 "setting.msbt.msbt/SetCntNtfAlarm_TitleHeader","Configuració de les notificacions de les alarmes"
-"setting.msbt.msbt/SetDlgTvFit_Percent","{bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}%"
+"setting.msbt.msbt/SetDlgTvFit_Percent","{bytes:0E|00|02|00|0E|00|04|00|00|00|00|00}%"
 "setting.msbt.msbt/SetCntFlightMode_DlgBodyOffHandheld_H","Es desactivarà la connexió sense fils amb els controladors.
 Feu servir els botons del sistema."
 "setting.msbt.msbt/SetCntDataMngSaveDataList_TitleHeader","Suprimeix les partides desades"
@@ -4218,7 +4217,7 @@ Reviseu la data i hora actuals i torneu-ho a provar."
 ・{bytes:0E|00|01|00|06|00|00|00}Nintendo pot identificar el vostre compte de Nintendo mitjançant aquest codi QR.{bytes:0F|00|01|00|06|00}
 ・{bytes:0E|00|01|00|06|00|00|00}En inscriure-us, podeu participar en promocions específiques, i és possible que rebeu correus electrònics relacionats amb aquestes promocions a les quals us heu inscrit. Reviseu la informació disponible a la ubicació.{bytes:0F|00|01|00|06|00}
 ・{bytes:0E|00|01|00|06|00|00|00}S'apliquen l'Acord del compte de Nintendo i la Política de privacitat.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
-{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Codi QR generat el: {bytes:0E|00|02|00|11|00|04|00|00|00|00|00}{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Codi QR generat el: {bytes:0E|00|02|00|12|00|04|00|00|00|00|00}{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "setting.msbt.msbt/SetCntSupportErrDetail_LblListVer","Versió de la llista de SSID"
 "setting.msbt.msbt/SetCntControllerGyro_DlgBodyErrorLevel","La calibració ha fallat.
 Assegureu-vos que el controlador estigui en una superfície estable.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
@@ -4255,7 +4254,7 @@ sols es mostraran les que no siguin encara en aquesta consola.{bytes:0E|00|00|00
 ・{bytes:0E|00|01|00|06|00|00|00}Totes les dades de programes desades a la targeta microSD, excepte les captures de pantalla i els vídeos, esdevindran inusables. Les dades no se suprimiran.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 ・{bytes:0E|00|01|00|06|00|00|00}La versió del sistema no canviarà.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 ・{bytes:0E|00|01|00|06|00|00|00}Els comptes de Nintendo enllaçats a aquesta consola no se suprimiran, però se'n desenllaçaran.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
-{bytes:0E|00|00|00|02|00|02|00|50|00}{bytes:0E|00|01|00|03|00|02|00|00|CD}◆{bytes:0E|00|01|00|06|00|00|00} El vostre compte de Nintendo conté el vostre historial de compres i el saldo actual de la Nintendo eShop. Si voleu fer servir els programes o DLC comprats fent servir el vostre compte de Nintendo després de restaurar la consola a la configuració de fàbrica, caldrà que torneu a enllaçar el vostre compte i torneu a baixar els programes o DLC. (Els programes discontinuats és possible que no estiguin disponibles per a tornar-los a baixar en alguns casos.){bytes:0F|00|01|00|06|00}{bytes:0F|00|01|00|03|00}{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+{bytes:0E|00|00|00|02|00|02|00|50|00}{bytes:0E|00|01|00|03|00|02|00|00|CD}◆ {bytes:0E|00|01|00|06|00|00|00}El vostre compte de Nintendo conté el vostre historial de compres i el saldo actual de la Nintendo eShop. Si voleu fer servir els programes o DLC comprats fent servir el vostre compte de Nintendo després de restaurar la consola a la configuració de fàbrica, caldrà que torneu a enllaçar el vostre compte i torneu a baixar els programes o DLC. (Els programes discontinuats és possible que no estiguin disponibles per a tornar-los a baixar en alguns casos.){bytes:0F|00|01|00|06|00}{bytes:0F|00|01|00|03|00}{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 ■ Si feu servir aquesta opció a causa d'un problema amb la vostra consola...{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Al mode de recuperació, és possible restaurar la consola a la configuració de fàbrica sense suprimir-ne les partides desades ni la informació dels usuaris. Si voleu provar això, cancel·leu el procés de formatació i feu el següent:{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 ① {bytes:0E|00|01|00|06|00|00|00}Apagueu la consola.{bytes:0F|00|01|00|06|00}
@@ -4279,7 +4278,7 @@ Esteu segur que voleu continuar?"
 "setting.msbt.msbt/SetCntChild_BodyMain","Feu servir l'aplicació Control parental de la Nintendo Switch per a revisar i modificar la configuració del control parental de la consola."
 "setting.msbt.msbt/SetCntChildMoonConfirm_BodyCodeParent","Codi de registre: {bytes:0E|00|02|00|07|00|04|00|00|00|00|00}"
 "setting.msbt.msbt/SetCntChildMoonComplete_BtnOk","Continua la configuració al dispositiu intel·ligent"
-"setting.msbt.msbt/SetCntNtfFriend_BodyCoral","Rebeu una notificació quan us convidin a un xat de veu amb l'aplicació Nintendo Switch Online per a telèfons intel·ligents, o si algú amb qui jugueu en línia vol iniciar un xat de veu."
+"setting.msbt.msbt/SetCntNtfFriend_BodyCoral","Rebeu una notificació quan algú amb qui jugueu en línia comenci un xat de veu amb l'aplicació Nintendo Switch Online per a telèfons intel·ligents."
 "setting.msbt.msbt/SetCntPlayerNA_BtnNACheckIn","Mostra el codi QR per a inscriure'm"
 "setting.msbt.msbt/SetCntSup_BodyNonRebootNup","⑦ {bytes:0E|00|02|00|07|00|04|00|00|00|00|00}"
 "setting.msbt.msbt/SetCntSupportErrDetail_ValAccessStateNone","La consola no estava connectada"
@@ -4560,7 +4559,7 @@ Recordeu el vostre PIN. Us caldrà per a ajustar la configuració, i també per 
 "setting.msbt.msbt/SetCntNet_BodySecurityWEP","WEP"
 "setting.msbt.msbt/SetCntNetTest_BodySpeed_Kbps","Kbps"
 "setting.msbt.msbt/SetCntSupportErrDetail_LblRouterMAC","Adreça MAC de la xarxa"
-"setting.msbt.msbt/SetCntSysUpdate_MeterUpdating_Percentage","{bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}%"
+"setting.msbt.msbt/SetCntSysUpdate_MeterUpdating_Percentage","{bytes:0E|00|02|00|0E|00|04|00|00|00|00|00}%"
 "setting.msbt.msbt/SetStory_Incompatible_Detail","La còpia de seguretat de partides desades al núvol no està suportada per a aquest programa."
 "setting.msbt.msbt/SetCntChildUnlink_BodyError","No s'ha pogut obtenir la informació."
 "setting.msbt.msbt/SetCntChildFunction_ESRBHelp_MatureDescription","El contingut és generalment adequat per a persones de 17 anys o més. Pot contenir violència intensa, sang abundant, contingut sexual i/o llenguatge ofensiu."
@@ -4659,7 +4658,7 @@ Jugueu a una biblioteca creixent de jocs clàssics amb modes en línia addiciona
 Feu còpies de seguretat al núvol de les vostres partides desades i més.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 ● {bytes:0E|00|01|00|06|00|00|00}Aplicació Nintendo Switch Online{bytes:0F|00|01|00|06|00}
 Connecteu-vos amb amics mitjançant una aplicació específica al vostre telèfon o tauleta intel·ligent."
-"starter.msbt.msbt/StrStyleRemoved_Head","Feu servir la palanca esquerra per a seleccionar Següent, i premeu {bytes:0E|00|02|00|14|00|06|00|00|00|00|00|00|CD} al controlador de la dreta."
+"starter.msbt.msbt/StrStyleRemoved_Head","Feu servir la palanca esquerra per a seleccionar Següent, i premeu {bytes:0E|00|02|00|15|00|06|00|00|00|00|00|00|CD} al controlador de la dreta."
 "starter.msbt.msbt/StrStyleTvConnect_Head","Connecteu els elements com s'indica a sota.
 {bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Engegueu el televisor i assegureu-vos que el canal seleccionat és el correcte.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "starter.msbt.msbt/StrStyleTvConnect_Adapter","Adaptador de corrent"
@@ -4775,7 +4774,7 @@ La consola es reiniciarà d'aquí a uns segons."
 {bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Podeu retornar l'assignació de botons a la configuració per defecte seleccionant ""Restableix l'assignació de botons"". Si no podeu fer servir un controlador per a seleccionar aquesta opció, proveu de fer servir la pantalla tàctil. {bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyPrePurchasedAoC","La consola farà servir Internet per a comprovar si es pot jugar al contingut descarregable."
 "qlaunch.msbt.msbt/QlcKeyRemap_DlgBtnUseAsIs","Mantén la configuració actual"
-"qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyPromotionPreload","L'esdeveniment Game Trials d'aquest programa començarà el {bytes:0E|00|02|00|11|00|04|00|00|00|00|00}.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+"qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyPromotionPreload","L'esdeveniment Game Trials d'aquest programa començarà el {bytes:0E|00|02|00|12|00|04|00|00|00|00|00}.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 En voleu veure més informació detallada a la Nintendo eShop?"
 "overlayDisp.msbt.msbt/OvlPromotion_Start","{bytes:0E|00|00|00|02|00|02|00|5B|00}Ara podeu jugar a
 aquest programa!{bytes:0E|00|00|00|02|00|02|00|64|00}"
@@ -4968,24 +4967,24 @@ premuda"
 "error.msbt.msbt/ErrCmn_LblErrCode_USpt","Código de erro: {bytes:0E|00|02|00|05|00|04|00|00|00|00|00}"
 "myPage.msbt.msbt/FrdTrendDetail_PlayLogSoftInfoFailure","No s'ha pogut carregar."
 "myPage.msbt.msbt/FrdTrend_Body_InfoNoConnection","Connecteu-vos a Internet per a veure aquesta informació."
-"myPage.msbt.msbt/FrdTrendDetail_Header_PlayedTimeLess30","Amics que han jugat a aquest joc durant el darrer mes ({bytes:0E|00|02|00|0D|00|04|00|00|00|00|00})"
+"myPage.msbt.msbt/FrdTrendDetail_Header_PlayedTimeLess30","Amics que han jugat a aquest joc durant el darrer mes ({bytes:0E|00|02|00|0E|00|04|00|00|00|00|00})"
 "myPage.msbt.msbt/FrdTrendDetail_Btn_MoreInfo","Detalls"
-"myPage.msbt.msbt/FrdTrendDetail_Header_StartedTimeLess30","Amics que han començat a jugar a aquest joc durant el darrer mes ({bytes:0E|00|02|00|0D|00|04|00|00|00|00|00})"
+"myPage.msbt.msbt/FrdTrendDetail_Header_StartedTimeLess30","Amics que han començat a jugar a aquest joc durant el darrer mes ({bytes:0E|00|02|00|0E|00|04|00|00|00|00|00})"
 "myPage.msbt.msbt/FrdTrendDetail_Btn_Start","Inicia"
-"myPage.msbt.msbt/FrdTrend_Body_RecentlyStarted","{bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}{plurals: amic hi ha| amics hi han} començat
+"myPage.msbt.msbt/FrdTrend_Body_RecentlyStarted","{bytes:0E|00|02|00|0E|00|04|00|00|00|00|00}{plurals: amic hi ha| amics hi han} començat
 a jugar fa poc!"
 "myPage.msbt.msbt/MypNav_BtnTrend","Tendències entre els amics"
 "myPage.msbt.msbt/FrdTrend_Title_Top"," Aquí hi ha els programes populars entre els amics!"
 "myPage.msbt.msbt/FrdTrend_Body_Empty"," Es mostraran tendències de programes basant-se en quins jocs juguen els vostres amics."
-"myPage.msbt.msbt/FrdTrend_Body_StartedTimeLess30","{bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}{plurals: amic hi ha| amics hi han} començat a jugar durant el darrer mes"
-"myPage.msbt.msbt/FrdTrendDetail_PlayLogTime","Hi ha jugat {bytes:0E|00|02|00|0E|00|04|00|00|00|00|00}{plurals: hora| hores} o més"
-"myPage.msbt.msbt/FrdTrend_Body_Played","{bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}{plurals: amic hi ha| amics hi han} jugat"
-"myPage.msbt.msbt/FrdTrend_Body_PlayedTimeLess30","{bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}{plurals: amic hi ha| amics hi han}
+"myPage.msbt.msbt/FrdTrend_Body_StartedTimeLess30","{bytes:0E|00|02|00|0E|00|04|00|00|00|00|00}{plurals: amic hi ha| amics hi han} començat a jugar durant el darrer mes"
+"myPage.msbt.msbt/FrdTrendDetail_PlayLogTime","Hi ha jugat {bytes:0E|00|02|00|0F|00|04|00|00|00|00|00}{plurals: hora| hores} o més"
+"myPage.msbt.msbt/FrdTrend_Body_Played","{bytes:0E|00|02|00|0E|00|04|00|00|00|00|00}{plurals: amic hi ha| amics hi han} jugat"
+"myPage.msbt.msbt/FrdTrend_Body_PlayedTimeLess30","{bytes:0E|00|02|00|0E|00|04|00|00|00|00|00}{plurals: amic hi ha| amics hi han}
 jugat durant el darrer mes"
-"myPage.msbt.msbt/FrdTrendDetail_Header_RecentlyPlayed","Amics que han jugat a aquest joc durant els darrers 10 dies ({bytes:0E|00|02|00|0D|00|04|00|00|00|00|00})"
+"myPage.msbt.msbt/FrdTrendDetail_Header_RecentlyPlayed","Amics que han jugat a aquest joc durant els darrers 10 dies ({bytes:0E|00|02|00|0E|00|04|00|00|00|00|00})"
 "myPage.msbt.msbt/FrdTrend_Body_NoNA","Si enllaceu un compte de Nintendo al vostre usuari, es mostraran els programes que marquen tendència entre els vostres amics."
 "photoViewer.msbt.msbt/PvrTransMulti_BtnTrans","Envia"
-"photoViewer.msbt.msbt/PvrTransMulti_BodySelectNum","{bytes:0E|00|02|00|0F|00|04|00|00|00|00|00}/{bytes:0E|00|02|00|0F|00|04|00|01|00|00|00}"
+"photoViewer.msbt.msbt/PvrTransMulti_BodySelectNum","{bytes:0E|00|02|00|10|00|04|00|00|00|00|00}/{bytes:0E|00|02|00|10|00|04|00|01|00|00|00}"
 "photoViewer.msbt.msbt/PvrTransAp_StepNum","①"
 "photoViewer.msbt.msbt/PvrTransAp_Body","Escanegeu el codi QR fent servir la càmera del dispositiu intel·ligent.
 {bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}El dispositiu intel·ligent es connectarà a la vostra consola Nintendo Switch.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
@@ -5006,7 +5005,7 @@ Nota: Els passos concrets poden variar depenent del model del dispositiu intel·
 {bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Les captures de pantalla i vídeos s'enviaran al vostre dispositiu intel·ligent.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "photoViewer.msbt.msbt/PvrTransUrl_DlgBody","・{bytes:0E|00|01|00|06|00|00|00}Si no podeu llegir el codi QR, introduïu la següent URL al navegador del vostre dispositiu intel·ligent.
 {bytes:0E|00|02|00|09|00|04|00|00|00|00|00}{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
-・{bytes:0E|00|01|00|06|00|00|00}Si el punt d'accés no canvia a la vostra consola Nintendo Switch, proveu de desactivar temporalment les dades mòbils al vostre dispositiu intel·ligent.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+・{bytes:0E|00|01|00|06|00|00|00}Si el punt d'accés no canvia a la vostra consola Nintendo Switch i les captures de pantalla o vídeos no es mostren, proveu de desactivar temporalment les dades mòbils al vostre dispositiu intel·ligent.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 ・{bytes:0E|00|01|00|06|00|00|00}Visiteu el lloc web d'assistència de Nintendo per a més informació.
 {bytes:0E|00|02|00|09|00|04|00|01|00|00|00}{bytes:0F|00|01|00|06|00}"
 "setting.msbt.msbt/SetStory_DlgBodyAutoDLInfo02_Tips1","És possible que, de vegades, les partides desades tardin una mica a baixar-se automàticament.
@@ -5068,7 +5067,7 @@ Carregueu la consola."
 Visiteu el lloc web d'assistència de Nintendo per a més informació.
 {bytes:0E|00|02|00|09|00|04|00|00|00|00|00}"
 "setting.msbt.msbt/SetCntDataMngUSBTransfer_DlgBodyMiddleBattery","La bateria de la consola és baixa.
-{bytes:0E|00|01|00|03|00|02|00|00|CD}Si la consola s'apaga, es desconnectarà de l'ordinador.{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Si la consola s'apaga, es desconnectarà de l'ordinador.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "setting.msbt.msbt/SetStory_BtnAutoDownload","Baixa les partides desades automàticament"
 "setting.msbt.msbt/SetStory_DlgImageAutoDLInfo_Device02","Consola 2"
 "setting.msbt.msbt/SetCntDataMngUSBTransfer_DlgBodyUSBMaxStorage","Es poden mostrar fins a 11.000 captures de pantalla o 1.100 vídeos a l'ordinador."
@@ -5093,13 +5092,13 @@ Voleu activar el so envoltant?"
 "common.msbt.msbt/Cmn_DlgBtnDetailInfo","Mostra'n els detalls"
 "common.msbt.msbt/Cmn_DlgBtnConnectFinish","Desconnecta"
 "myPage.msbt.msbt/FrdTrend_Header_PickUp","Destacats"
-"myPage.msbt.msbt/FrdTrendDetail_Header_Played","Amics que han jugat a aquest joc ({bytes:0E|00|02|00|0D|00|04|00|00|00|00|00})"
+"myPage.msbt.msbt/FrdTrendDetail_Header_Played","Amics que han jugat a aquest joc ({bytes:0E|00|02|00|0E|00|04|00|00|00|00|00})"
 "myPage.msbt.msbt/FrdTrend_Header_FrdPlayedSoft","Jugats per amics"
-"myPage.msbt.msbt/FrdTrendDetail_Header_RecentlyStarted","Amics que han començat a jugar a aquest joc durant els darrers 10 dies ({bytes:0E|00|02|00|0D|00|04|00|00|00|00|00})"
+"myPage.msbt.msbt/FrdTrendDetail_Header_RecentlyStarted","Amics que han començat a jugar a aquest joc durant els darrers 10 dies ({bytes:0E|00|02|00|0E|00|04|00|00|00|00|00})"
 "myPage.msbt.msbt/FrdTrend_BtnLogin_NoNA","Enllaça a un compte de Nintendo"
 "myPage.msbt.msbt/FrdTrend_InfoNoConnection","La consola no està connectada a Internet."
 "myPage.msbt.msbt/FrdTrendDetail_PlayLogTimeLess5","Hi ha jugat una mica"
-"myPage.msbt.msbt/FrdTrend_Body_RecentlyPlayed","{bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}{plurals: amic hi ha| amics hi han}
+"myPage.msbt.msbt/FrdTrend_Body_RecentlyPlayed","{bytes:0E|00|02|00|0E|00|04|00|00|00|00|00}{plurals: amic hi ha| amics hi han}
 jugat fa poc!"
 "overlayDisp.msbt.msbt/OvlParentalControlChange_Unlink_T","{empty}"
 "option.msbt.msbt/OptCntOnlineBackup_WaitToApplyLoadedData","S'ha baixat correctament."
@@ -5174,3 +5173,132 @@ La configuració d'altres consoles no canviarà. Si voleu actualitzar la configu
 "setting.msbt.msbt/SetCntDataMngUSBTransfer_DlgBodyUSBDisconnected","Connecteu la vostra consola Nintendo Switch a l'ordinador fent servir un cable USB."
 "setting.msbt.msbt/SetStory_DlgImageAutoDLInfo_SaveData","Partides desades"
 "setting.msbt.msbt/SetStory_DlgHeaderAutoDLInfo01","Continueu jugant allà on ho heu deixat!"
+"Cruiser.msbt/CrsCmn_AutomaticterminationDlgBody","A continuació es tancarà aquesta pantalla."
+"common.msbt.msbt/Cmn_DlgBtnDelete3","Suprimeix el dispositiu"
+"controller.msbt.msbt/Ctrl_Info_DlgBtAudioConnect","Aquesta funcionalitat no està disponible mentre utilitzeu l'àudio Bluetooth.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Voleu desconnectar-vos de l'àudio Bluetooth?"
+"controller.msbt.msbt/Ctrl_Help_DlgHeaderBtAudio","Esteu utilitzant l'àudio Bluetooth{bytes:0E|00|01|00|01|00|00|00}®{bytes:0F|00|01|00|01|00}?"
+"controller.msbt.msbt/Ctrl_Help_DlgBodyBtAudio","Es poden connectar fins a dos controladors sense fils mentre s'utilitza l'àudio Bluetooth."
+"controller.msbt.msbt/Ctrl_Main_BodyGuideCenter_OR","o"
+"controller.msbt.msbt/Ctrl_Find_DlgBodyBtAudioConnect","Aquesta funcionalitat no està disponible mentre utilitzeu l'àudio Bluetooth.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Voleu desconnectar-vos de l'àudio Bluetooth?"
+"localNews.msbt.msbt/LnSdAdvice_Body_Aula","...és que se t'acaba l'espai a la memòria del sistema.
+
+Gràcies per fer servir tant la consola Nintendo Switch!
+
+Pots ampliar l'espai disponible fent servir una targeta microSD normal.
+
+Però... Un moment... No hi ha cap lloc on inserir-la, oi que no...?
+Doncs bé, resulta que sí!
+
+Dóna un cop d'ull a la part del darrere de la consola.
+Veus el cavallet de la part inferior esquerra, que serveix per a mantenir dreta la consola en una taula?
+Doncs bé, si l'aixeques...
+
+Hi ha una ranura! I de la mida exacta per a una targeta microSD!
+
+No és pas que la volguéssim amagar, eh!?
+Continua gaudint de la Nintendo Switch!"
+"netConnect.msbt.msbt/Net_Set_WiredInfo_NewDock","Si l'acoblador de la Nintendo Switch té un port LAN, connecteu-hi un cable LAN directament."
+"overlayDisp.msbt.msbt/OvlBtAudioCut_ByLocalComm","{bytes:0E|00|00|00|02|00|02|00|5B|00}L'àudio Bluetooth es desactiva
+durant la comunicació local.{bytes:0E|00|00|00|02|00|02|00|64|00}"
+"overlayDisp.msbt.msbt/OvlControllerBtaudioOver","{bytes:0E|00|00|00|02|00|02|00|4D|00}Es poden utilitzar fins a dos controladors sense fils
+mentre s'utilitza l'àudio Bluetooth{bytes:0E|00|00|00|02|00|02|00|64|00}"
+"photoViewer.msbt.msbt/PvrDetail_Body_MuteMovie","S'ha suprimit una part o tot el so d'aquest vídeo."
+"qlaunch.msbt.msbt/QlcDl_DlgBodyWaitCheckPatchSize","S'estan comprovant les dades..."
+"setting.msbt.msbt/SetCntHardware_DlgBodyDockLatest","L'acoblador ja està actualitzat."
+"setting.msbt.msbt/SetCntHardware_BodyDockUpdate","S'actualitzarà el programari de l'acoblador de la Nintendo Switch."
+"setting.msbt.msbt/SetCntBtAudio_DlgBtnReconnect","Canvia"
+"setting.msbt.msbt/SetCntBtAudio_BtnDelete","Suprimeix el dispositiu"
+"setting.msbt.msbt/SetCntHardware_DlgBodyRegionRestartConfirm_UnAgreeableToOff","Cal que la consola es reiniciï per a canviar la regió. Llegiu la informació important de la pantalla següent.
+Addicionalment, es desactivarà l'opció ""Mantén la connexió per cable en mode d'espera"".
+{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|46|00}La podeu canviar després a  (Configuració del sistema) ⇒ Mode d'espera al menú HOME.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+"setting.msbt.msbt/SetCntBtAudio_BtnDisconnect","Desconnecta't d'aquest dispositiu"
+"setting.msbt.msbt/SetCntBtAudio_BodyPairingSelect","Seleccioneu el dispositiu d'àudio Bluetooth que vulgueu fer servir."
+"setting.msbt.msbt/SetCntNet_BodyBand_5GHz","5 GHz"
+"setting.msbt.msbt/SetCntBtAudio_DlgDisconnectCheck","Cal que desconnecteu l'àudio Bluetooth abans de continuar."
+"setting.msbt.msbt/SetCntBtAudio_DlgDisconnectFailure","No s'ha pogut desconnectar.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Apagueu el vostre dispositiu d'àudio Bluetooth."
+"setting.msbt.msbt/SetCntBtAudio_HeaderPairing","Afegeix un dispositiu d'àudio Bluetooth"
+"setting.msbt.msbt/SetCntHardware_BtnDockUpdate","Actualitza l'acoblador"
+"setting.msbt.msbt/SetCntSleep_BtnLanWakeSettings","Mantén la connexió per cable en mode d'espera"
+"setting.msbt.msbt/SetCntHardware_DlgBodyDockUpdated","S'ha completat l'actualització."
+"setting.msbt.msbt/SetCntBtAudio_BtnConnect","Connecta't a aquest dispositiu"
+"setting.msbt.msbt/SetCntSupportErrDetail_LblBluetooth_13_0_0","Bluetooth"
+"setting.msbt.msbt/SetCntSound_BtnBtAudioAdd","Afegeix un dispositiu"
+"setting.msbt.msbt/SetCntDock_TitleHeader","Actualitza l'acoblador"
+"setting.msbt.msbt/SetCntHardware_BtnCRCEnable","Intensitat del color de la pantalla de la consola"
+"setting.msbt.msbt/SetCntHardware_BodyHeadPhoneOutputLimit_13_0_0","Definiu un volum màxim per als auriculars o altaveus connectats a la consola."
+"setting.msbt.msbt/SetCntBtAudio_BodySearching","S'estan cercant dispositius d'àudio Bluetooth...
+◆ {bytes:0E|00|01|00|06|00|00|00}Assegureu-vos que el dispositiu Bluetooth que vulgueu fer servir sigui visible.{bytes:0F|00|01|00|06|00}"
+"setting.msbt.msbt/SetCntChildFunction_DlgBodySnsHelp_T","{empty}"
+"setting.msbt.msbt/SetCntDock_BtnUpdate","Inicia l'actualització"
+"setting.msbt.msbt/SetCntBtAudio_DlgUsbAudio","Per a utilitzar aquesta funcionalitat, cal que desconnecteu qualsevol dispositiu d'àudio connectat per USB."
+"setting.msbt.msbt/SetCntHardware_DlgBodySetDock","Col·loqueu la consola a l'acoblador."
+"setting.msbt.msbt/SetCntBtAudio_DlgDelete","Se suprimirà aquest dispositiu."
+"setting.msbt.msbt/SetCntBtAudio_DlgHeadphone","Per a utilitzar aquesta funcionalitat, cal que desconnecteu els auriculars o altaveus connectats al connector d'àudio de la consola."
+"setting.msbt.msbt/SetCntHardware_BtnCRCEnable_On","Alta"
+"setting.msbt.msbt/SetCntControllerStickTop_BodyExplain_13_0_0","Mantingueu inclinada la palanca de control que vulgueu calibrar."
+"localNews.msbt.msbt/LnSdIntro_Body_Aula","Dóna un cop d'ull a la part del darrere de la consola i mira d'obrir el cavallet.
+
+Vet aquí! Fins i tot té escrit ""microSD"" a la ranura.
+Per a inserir-hi la targeta, prem-la cap endins fins que sentis un clic.
+
+No és pas que la volguéssim amagar, eh...
+És que volíem que totes les coses de la consola fossin tan petites com fos possible! 
+
+Recorda aquesta ranura quan vulguis incrementar la quantitat de dades que pots emmagatzemar!"
+"netConnect.msbt.msbt/Net_Set_WiredInfo_OldDock","Si l'acoblador no té un port LAN, és necessari un adaptador LAN amb suport per a USB."
+"qlaunch.msbt.msbt/QlcDl_DlgBodyFullDlDeleteOldPatch","S'han trobat dades antigues per a aquest programa.
+Voleu suprimir-les per a alliberar espai?{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Si decidiu suprimir-ne les dades antigues, no podreu tornar a fer servir aquest programa fins que es completi la baixada. Si voleu fer-lo servir ara, considereu arxivar o suprimir les dades d'altres programes.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+"qlaunch.msbt.msbt/QlcDl_DlgBtnFullDlGoToDataErase","Gestiona les dades d'altres programes"
+"setting.msbt.msbt/SetNav_BtnSound","Àudio Bluetooth{bytes:0E|00|01|00|01|00|00|00}®{bytes:0F|00|01|00|01|00}"
+"setting.msbt.msbt/SetCntNet_BodyBandLabel","Banda de freqüència"
+"setting.msbt.msbt/SetCntBtAudio_DlgConnectFailure","No s'ha pogut connectar.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Assegureu-vos que el dispositiu Bluetooth que vulgueu fer servir sigui visible, col·loqueu-lo prop de la consola i torneu-ho a provar."
+"setting.msbt.msbt/SetCntHardware_DlgBodyRegionRestartConfirm_UnAgreeableToOn","Cal que la consola es reiniciï per a canviar la regió. Llegiu la informació important de la pantalla següent.
+Addicionalment, s'activarà l'opció ""Mantén la connexió per cable en mode d'espera"".
+{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|46|00}La podeu canviar després a  (Configuració del sistema) ⇒ Mode d'espera al menú HOME.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+"photoViewer.msbt.msbt/PvrPostScript_BodyMessage_Empty_12_1_0","No hi ha cap captura de pantalla ni cap vídeo desat en aquest lloc.
+Proveu de fer moltes captures de pantalla i molts vídeos diferents per a construir una col·lecció dels vostres records jugant a la Nintendo Switch!{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Podeu fer servir el botó Captura per a fer captures de pantalla i vídeos. Si premeu el botó breument, fareu una captura de pantalla de la pantalla actual, mentre que si el manteniu premut, capturareu un vídeo dels 30 segons anteriors.
+Les captures de pantalla i els vídeos que feu es poden publicar després a les xarxes socials."
+"qlaunch.msbt.msbt/QlcDl_DlgBtnFullDlDeleteOldPatch","Suprimeix"
+"setting.msbt.msbt/SetCntFlightMode_BtnCheckBluetooth_13_0_0","Bluetooth{bytes:0E|00|01|00|01|00|00|00}®{bytes:0F|00|01|00|01|00}"
+"setting.msbt.msbt/SetCntHardware_DlgBodyRegionRestartConfirmToOn","Per a canviar la regió, cal que accepteu els termes de l'Acord de llicència de l'usuari final de la regió seleccionada i reinicieu la consola. Si no n'accepteu els termes, no canvieu la configuració de regió d'aquesta manera.
+Addicionalment, s'activarà l'opció ""Mantén la connexió per cable en mode d'espera"".
+{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|46|00}La podeu canviar després a  (Configuració del sistema) ⇒ Mode d'espera al menú HOME.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+"setting.msbt.msbt/SetCntFlightMode_BodyBluetooth_13_0_0","Activa l'ús dels controladors sense fils i de l'àudio Bluetooth. S'activa automàticament quan es connecta a un televisor."
+"setting.msbt.msbt/SetCntDock_Update","S'iniciarà l'actualització de l'acoblador.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+{bytes:0E|00|01|00|03|00|02|00|00|CD}Després d'actualitzar-lo, l'acoblador es reiniciarà. No toqueu l'acoblador ni la consola fins que no es completi el procés d'actualització.{bytes:0F|00|01|00|03|00}"
+"setting.msbt.msbt/SetCntHardware_BtnCRCEnable_Off","Estàndard"
+"setting.msbt.msbt/SetCntBtAudio_DlgConnecting","S'està connectant a l'àudio Bluetooth..."
+"qlaunch.msbt.msbt/QlcDock_DlgBodyUpdate","Hi ha disponible una actualització per a l'acoblador de la Nintendo Switch.
+El voleu actualitzar ara?"
+"setting.msbt.msbt/SetCntBtAudio_DlgSearchFailure","No s'ha pogut trobar cap dispositiu d'àudio Bluetooth.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Assegureu-vos que el dispositiu Bluetooth que vulgueu fer servir sigui visible, col·loqueu-lo prop de la consola i torneu-ho a provar."
+"setting.msbt.msbt/SetCntBtAudio_DlgDisconnect","S'ha desconnectat.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el vostre dispositiu d'àudio Bluetooth es torna a connectar, assegureu-vos que estigui apagat."
+"setting.msbt.msbt/SetCntHardware_DlgBodyDockFailure","Voleu tornar-ho a provar?"
+"setting.msbt.msbt/SetCntSound_BodyBtAudio","Cal tornar a connectar els dispositius per a poder fer servir l'àudio Bluetooth.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+◆ {bytes:0E|00|01|00|06|00|00|00}Es poden connectar fins a dos controladors sense fils mentre s'utilitza l'àudio Bluetooth.{bytes:0F|00|01|00|06|00}
+◆ {bytes:0E|00|01|00|06|00|00|00}L'àudio Bluetooth es desconnectarà mentre s'utilitzi la comunicació local.{bytes:0F|00|01|00|06|00}
+◆ {bytes:0E|00|01|00|06|00|00|00}No es poden utilitzar micròfons Bluetooth.{bytes:0F|00|01|00|06|00}
+◆ {bytes:0E|00|01|00|06|00|00|00}Podeu experimentar un retard depenent del dispositiu Bluetooth que feu servir.{bytes:0F|00|01|00|06|00}"
+"setting.msbt.msbt/SetCntBtAudio_DlgFlightMode","Per a utilitzar aquesta funcionalitat, cap que desactiveu el mode d'avió.
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Podeu fer-ho a la Configuració ràpida (mantingueu premut ).{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+"setting.msbt.msbt/SetCntSleep_BodyLanWakeSettings","Si activeu aquesta opció i la consola fa servir una connexió a Internet amb cable, les baixades començaran immediatament, fins i tot si la consola està en mode d'espera.
+Si desactiveu aquesta opció, la consola consumirà menys energia en mode d'espera quan feu servir una connexió a Internet amb cable."
+"setting.msbt.msbt/SetCntDock_DlgBodyUpdating","S'està actualitzant l'acoblador...{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+{bytes:0E|00|01|00|03|00|02|00|00|CD}Després d'actualitzar-lo, l'acoblador es reiniciarà. No toqueu l'acoblador ni la consola fins que no es completi el procés d'actualització.{bytes:0F|00|01|00|03|00}"
+"setting.msbt.msbt/SetCntBtAudio_DlgPairingOver","No podeu afegir més dispositius d'àudio Bluetooth.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Per a fer espai, podeu suprimir un dispositiu que no utilitzeu seleccionant-lo a la llista de dispositius, i a continuació, seleccionant ""Suprimeix el dispositiu""."
+"setting.msbt.msbt/SetCntHardware_BodyCRCEnable","◆ Això no afectarà la intensitat del color de la pantalla del televisor quan jugueu en mode televisor."
+"setting.msbt.msbt/SetCntFlightMode_BodyBluetooth_13_0_0_H","Activa l'ús de controladors sense fils i àudio Bluetooth."
+"setting.msbt.msbt/SetCntBtAudio_DlgConnectSuccess","S'ha connectat a l'àudio Bluetooth.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+・{bytes:0E|00|01|00|06|00|00|00}FEs poden connectar fins a dos controladors sense fils mentre s'utilitza l'àudio Bluetooth.{bytes:0F|00|01|00|06|00}
+・{bytes:0E|00|01|00|06|00|00|00}L'àudio Bluetooth es desconnectarà mentre s'utilitzi la comunicació local.{bytes:0F|00|01|00|06|00}"
+"setting.msbt.msbt/SetCntNet_BodyBand_2_4GHz","2,4 GHz"
+"setting.msbt.msbt/SetCntBtAudio_DlgControllerOver","Aquesta funcionalitat no es pot fer servir perquè hi ha tres o més controladors sense fils connectats.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Voleu canviar les connexions de controladors?"
