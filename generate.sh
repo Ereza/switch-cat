@@ -10,9 +10,9 @@ rm -rf $DSTDIR
 
 #0100000000000801 Message strings for Support Error Codes.
 #Special case: directories with uncompressed text files
-mkdir -p $DSTDIR/0100000000000801/romfs/ && cp -R $SRCDIR/error_codes/* "$_"
+mkdir -p $DSTDIR/0100000000000801_desactivat/romfs/ && cp -R $SRCDIR/error_codes/* "$_"
 
-cd $DSTDIR/0100000000000801/romfs
+cd $DSTDIR/0100000000000801_desactivat/romfs
 find . -iname "*" | rename -v "s/es_/$LANGSHORT\_/g"
 cd ../../../
 
@@ -38,6 +38,7 @@ mkdir -p $DSTDIR/010000000000081D/romfs/$LANGSHORT/ && cp -R $SRCDIR/error_displ
 mkdir -p $DSTDIR/0100000000001000/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/cldr.msbt.szs "$_"
 mkdir -p $DSTDIR/0100000000001000/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/common_$LANGFULL.msbt.szs $DSTDIR/0100000000001000/romfs/message/$LANGFULL/common.msbt.szs
 mkdir -p $DSTDIR/0100000000001000/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/dataErase.msbt.szs "$_"
+mkdir -p $DSTDIR/0100000000001000/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/dataTransfer.msbt.szs "$_"
 mkdir -p $DSTDIR/0100000000001000/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/flaunch.msbt.szs "$_"
 mkdir -p $DSTDIR/0100000000001000/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/gift.msbt.szs "$_"
 mkdir -p $DSTDIR/0100000000001000/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/interrupt.msbt.szs "$_"
@@ -46,6 +47,8 @@ mkdir -p $DSTDIR/0100000000001000/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/not
 mkdir -p $DSTDIR/0100000000001000/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/option.msbt.szs "$_"
 mkdir -p $DSTDIR/0100000000001000/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/qlaunch.msbt.szs "$_"
 mkdir -p $DSTDIR/0100000000001000/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/setting.msbt.szs "$_"
+mkdir -p $DSTDIR/0100000000001000/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/splay.msbt.szs "$_"
+mkdir -p $DSTDIR/0100000000001000/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/vgc.msbt.szs "$_"
 
 #0100000000001001 "auth" applet
 mkdir -p $DSTDIR/0100000000001001/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/auth.msbt.szs "$_"
@@ -64,9 +67,9 @@ mkdir -p $DSTDIR/0100000000001003/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/con
 mkdir -p $DSTDIR/0100000000001004/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/common_$LANGFULL.msbt.szs $DSTDIR/0100000000001004/romfs/message/$LANGFULL/common.msbt.szs
 mkdir -p $DSTDIR/0100000000001004/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/dataErase.msbt.szs "$_"
 
-#0100000000001005 "error" applet - Missing in 13.0.0?
-#mkdir -p $DSTDIR/0100000000001005/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/common_$LANGFULL.msbt.szs $DSTDIR/0100000000001005/romfs/message/$LANGFULL/common.msbt.szs
-#mkdir -p $DSTDIR/0100000000001005/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/error_$LANGFULL.msbt.szs $DSTDIR/0100000000001005/romfs/message/$LANGFULL/error.msbt.szs
+#0100000000001005 "error" applet
+mkdir -p $DSTDIR/0100000000001005/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/common_$LANGFULL.msbt.szs $DSTDIR/0100000000001005/romfs/message/$LANGFULL/common.msbt.szs
+mkdir -p $DSTDIR/0100000000001005/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/error_$LANGFULL.msbt.szs $DSTDIR/0100000000001005/romfs/message/$LANGFULL/error.msbt.szs
 
 #0100000000001006 "netConnect" applet
 mkdir -p $DSTDIR/0100000000001006/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/common_$LANGFULL.msbt.szs $DSTDIR/0100000000001006/romfs/message/$LANGFULL/common.msbt.szs
@@ -107,6 +110,10 @@ mkdir -p $DSTDIR/0100000000001013/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/set
 mkdir -p $DSTDIR/0100000000001015/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/common_$LANGFULL.msbt.szs $DSTDIR/0100000000001015/romfs/message/$LANGFULL/common.msbt.szs
 mkdir -p $DSTDIR/0100000000001015/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/maintenance.msbt.szs "$_"
 mkdir -p $DSTDIR/0100000000001015/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/setting.msbt.szs "$_"
+
+#0100000000001048 "splay" sysapplet
+mkdir -p $DSTDIR/0100000000001048/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/common_$LANGFULL.msbt.szs $DSTDIR/0100000000001048/romfs/message/$LANGFULL/common.msbt.szs
+mkdir -p $DSTDIR/0100000000001048/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/splay.msbt.szs "$_"
 
 echo "Done!"
 

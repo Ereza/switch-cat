@@ -1,5 +1,21 @@
 # Registre de canvis
 
+## 21.0.1 - 2025-12-07
+### Versió del sistema
+- **Versió 21.0.1. Altres versions no estan suportades.**
+### Canvis
+- Actualització a la darrera versió del sistema i traducció dels components nous.
+- Correcció d'alguns termes i errors tipogràfics.
+- Reactivació de la traducció del component «overlayDisp» per la correcció de l’error a Atmosphère.
+- Desactivació de la traducció dels errors perquè provoquen lentitud quan se’n produeix un (es pot reactivar a mà).
+
+## 17.0.1 - 2024-01-31
+### Versió del sistema
+- **Versió 17.0.1. Altres versions no estan suportades.**
+### Canvis
+- Actualització a la darrera versió del sistema i traducció dels components nous.
+- Desactivació de la traducció del component «overlayDisp» per un error a Atmosphère.
+
 ## 13.0.0 - 2021-09-29
 ### Versió del sistema
 - **Versió 13.0.0. Altres versions no estan suportades.**
