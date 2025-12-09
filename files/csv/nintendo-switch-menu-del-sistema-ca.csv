@@ -1,5 +1,5 @@
 "auth.msbt.msbt/AuthCommon_FooterBack","{empty}"
-"auth.msbt.msbt/AuthCommon_FooterChangeStick","{bytes:0E|00|00|00|02|00|02|00|4B|00}(Mantingueu){bytes:0E|00|00|00|02|00|02|00|64|00} Canvia a l’entrada amb palanques de control"
+"auth.msbt.msbt/AuthCommon_FooterChangeStick","{bytes:0E|00|00|00|02|00|02|00|4B|00}(Mantingueu){bytes:0E|00|00|00|02|00|02|00|64|00} Canvia a l’entrada amb les palanques"
 "auth.msbt.msbt/AuthCommon_FooterChangeTenKey","{bytes:0E|00|00|00|02|00|02|00|4B|00}(Mantingueu){bytes:0E|00|00|00|02|00|02|00|64|00} Canvia a l’entrada numèrica"
 "auth.msbt.msbt/AuthCommon_FooterClose","Tanca"
 "auth.msbt.msbt/AuthCommon_FooterDecide","Introdueix"
@@ -57,7 +57,7 @@ Contacteu amb Nintendo mitjançant la informació del lloc web d’assistència 
 "auth.msbt.msbt/AuthNumChk_Main_HeaderTxtSafeTmp_first","{empty}"
 "auth.msbt.msbt/AuthNumChk_Main_HeaderTxtVisible","{empty}"
 "auth.msbt.msbt/AuthNumChk_Main_LockedErr","Heu introduït un PIN incorrecte massa vegades.
-Cal que espereu {bytes:0E|00|02|00|0C|00|04|00|00|00|00|00}{plurals: minut| minuts} abans de tornar-ho a provar."
+Cal que espereu {bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}{plurals: minut| minuts} abans de tornar-ho a provar."
 "auth.msbt.msbt/AuthNumChk_Main_LockErr","En aquests moments no podeu introduir un PIN. Cal que espereu
 {bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}{plurals: minut| minuts} abans de tornar-ho a provar."
 "auth.msbt.msbt/AuthNumChk_Main_MonoEntered","●"
@@ -2916,8 +2916,7 @@ Obriu la vostra pàgina d’usuari al menú HOME i torneu a iniciar la sessió a
 "notification.msbt.msbt/NtfList_UnreadNews","Articles no llegits"
 "notification.msbt.msbt/NtfList_UnreadNewsZero","No hi ha cap article que no hàgiu llegit."
 "notification.msbt.msbt/NtfList_Update","  Rebreu articles nous després d’una actualització del sistema."
-"notification.msbt.msbt/NtfViewer_BtnBad","No
-m’agrada"
+"notification.msbt.msbt/NtfViewer_BtnBad","{bytes:0E|00|00|00|02|00|02|00|5B|00}No m’agrada{bytes:0E|00|00|00|02|00|02|00|64|00}"
 "notification.msbt.msbt/NtfViewer_BtnBookmark","Preferit"
 "notification.msbt.msbt/NtfViewer_BtnGood","M’agrada"
 "notification.msbt.msbt/NtfViewer_BtnOtherNews","Mostra altres articles"
@@ -4353,7 +4352,7 @@ Carregueu la consola."
 "setting.msbt.msbt/SetCntDataMngUSBTransfer_DlgBodyMiddleBattery","La bateria de la consola és baixa.
 {bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Si la consola s’apaga, es desconnectarà de l’ordinador.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "setting.msbt.msbt/SetCntDataMngUSBTransfer_DlgBodyUSBConnected","La vostra consola s’ha connectat a l’ordinador.
-{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}La consola ha estat reconeguda per l’ordinador. Ara podeu fer servir l’ordinador per a seleccionar i copiar captures de pantalla i vídeos.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}L’ordinador ha reconegut la consola. Feu servir l’ordinador per a seleccionar i copiar captures de pantalla i vídeos.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "setting.msbt.msbt/SetCntDataMngUSBTransfer_DlgBodyUSBDisconnected","Connecteu la vostra consola Nintendo Switch a l’ordinador fent servir un cable USB."
 "setting.msbt.msbt/SetCntDataMngUSBTransfer_DlgBodyUSBDisconnectedReason","・{bytes:0E|00|01|00|06|00|00|00}Assegureu-vos que feu servir un cable USB capaç de transferir dades.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 ・{bytes:0E|00|01|00|06|00|00|00}Connecteu el port USB de la consola Nintendo Switch directament a l’ordinador. La funcionalitat de transferència de dades no funcionarà si connecteu el port USB de l’acoblador de la Nintendo Switch a l’ordinador.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
@@ -5139,21 +5138,21 @@ https://www.nintendo.co.jp/privacy/crossborder/
 Si desactiveu aquesta opció, ja no se’n farà una còpia de seguretat automàticament."
 "setting.msbt.msbt/SetStory_Branch","No se n’ha fet una còpia de seguretat"
 "setting.msbt.msbt/SetStory_Branch_Detail","No se n’ha fet cap còpia de seguretat"
-"setting.msbt.msbt/SetStory_BtnAutoBackup","Fes una còpia de seguretat de les partides desades automàticament"
+"setting.msbt.msbt/SetStory_BtnAutoBackup","Còpia de seguretat automàtica de les partides desades"
 "setting.msbt.msbt/SetStory_BtnAutoBackupEachApp","Configuració per a cada partida desada"
 "setting.msbt.msbt/SetStory_BtnAutoDownload","Baixa les partides desades automàticament"
 "setting.msbt.msbt/SetStory_BtnDelete","Suprimeix les partides desades del servidor"
 "setting.msbt.msbt/SetStory_BtnDownload","Baixa les partides desades"
 "setting.msbt.msbt/SetStory_BtnLastError","Mostra’n els detalls"
 "setting.msbt.msbt/SetStory_BtnToggleSetting","Fes una còpia de seguretat de les partides desades automàticament"
-"setting.msbt.msbt/SetStory_BtnUpload","Fes una còpia de seguretat de les partides desades"
+"setting.msbt.msbt/SetStory_BtnUpload","Fes còpia de seguretat de les partides desades"
 "setting.msbt.msbt/SetStory_BUSettingIncompatible","{empty}"
 "setting.msbt.msbt/SetStory_Collision","S’ha produït un error"
 "setting.msbt.msbt/SetStory_Collision_Detail","Ara no es poden fer còpies de seguretat ni baixar dades."
 "setting.msbt.msbt/SetStory_DeleteServerDataList_Header","Suprimeix les partides desades del servidor"
 "setting.msbt.msbt/SetStory_DeleteServerDataList_LabelDeleted","{empty}"
 "setting.msbt.msbt/SetStory_DeleteServerDataListCaution","Se suprimiran les partides desades del servidor."
-"setting.msbt.msbt/SetStory_DlgAutoDLInfoPictON","Activada"
+"setting.msbt.msbt/SetStory_DlgAutoDLInfoPictON","Sí"
 "setting.msbt.msbt/SetStory_DlgBodyApplyLoadedData","S’han baixat partides desades.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Voleu utilitzar-les?"
 "setting.msbt.msbt/SetStory_DlgBodyAutoDLInfo00","La funcionalitat de partides desades al núvol de Nintendo Switch Online us permet fer còpies de seguretat automàticament de les partides desades quan jugueu.
@@ -5166,8 +5165,8 @@ Voleu utilitzar-les?"
 {bytes:0E|00|01|00|03|00|02|00|05|CD}Caldrà que baixeu les partides desades manualment el primer cop.{bytes:0F|00|01|00|03|00}"
 "setting.msbt.msbt/SetStory_DlgBodyAutoDLInfo02_Tips1","És possible que, de vegades, les partides desades tardin una mica a baixar-se automàticament.
 {bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Si voleu jugar en una altra consola immediatament, feu una còpia de seguretat de les partides desades manualment, i llavors baixeu-la manualment a l’altra consola.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
-"setting.msbt.msbt/SetStory_DlgBodyAutoDLInfo02_Tips2","La configuració de la baixada automàtica és diferent per a cada consola.
-{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Si voleu activar la baixada automàtica en una consola diferent, cal que canvieu la configuració en aquella consola. Podeu fer-ho a  (Configuració del sistema) ⇒ Gestió de dades ⇒ Partides desades al núvol al menu HOME.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+"setting.msbt.msbt/SetStory_DlgBodyAutoDLInfo02_Tips2","La configuració de baixada automàtica és diferent a cada consola.
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Si voleu activar la baixada automàtica en una consola diferent, cal que canvieu la configuració en aquella consola. Podeu fer-ho a  (Configuració del sistema) ⇒ Gestió de dades ⇒ Partides desades al núvol al menú HOME.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "setting.msbt.msbt/SetStory_DlgBodyAutoDLOn","S’ha activat la baixada automàtica de partides desades en aquesta consola.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 La configuració d’altres consoles no canviarà. Si voleu actualitzar la configuració d’altres consoles, caldrà que ho feu separadament per a cada consola."
 "setting.msbt.msbt/SetStory_DlgBodyAutoDLPromotion","A més a més d’actualitzar les partides desades automàticament, podeu configurar-ho perquè les partides desades noves es baixin automàticament del servidor.
@@ -5181,7 +5180,7 @@ La configuració d’altres consoles no canviarà. Si voleu actualitzar la confi
 "setting.msbt.msbt/SetStory_DlgBodyLastErrorCheck_DL","L’anterior intent de baixada ha fallat.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Vegeu els detalls de l’error i seleccioneu Baixa les partides desades per a tornar-ho a provar."
 "setting.msbt.msbt/SetStory_DlgBodyLastErrorCheck_UL","L’anterior intent de fer una còpia de seguretat ha fallat.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
-Vegeu els detalls de l’error i seleccioneu Fes una còpia de seguretat de les partides desades per a tornar-ho a provar."
+Vegeu els detalls de l’error i seleccioneu Fes còpia de seguretat de les partides desades per a tornar-ho a provar."
 "setting.msbt.msbt/SetStory_DlgBodyManageConflictTask","La còpia de seguretat i la baixada automàtica no són possibles actualment.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Haurien de tornar a ser possibles si unifiqueu les partides desades de la consola amb les dades del servidor seleccionant «Fes una còpia de seguretat de les partides desades» o «Baixa les partides desades»."
 "setting.msbt.msbt/SetStory_DlgBodyNoSaveData","No hi ha partides desades."
@@ -5192,7 +5191,7 @@ Haurien de tornar a ser possibles si unifiqueu les partides desades de la consol
 "setting.msbt.msbt/SetStory_DlgBtnUse","Utilitza"
 "setting.msbt.msbt/SetStory_DlgButtonManualDL","No ho activis ara mateix"
 "setting.msbt.msbt/SetStory_DlgHeaderAutoDLInfo00","Es farà una còpia de seguretat automàtica de les partides desades."
-"setting.msbt.msbt/SetStory_DlgHeaderAutoDLInfo00_SetDetail","Fes una còpia de seguretat de les partides desades automàticament"
+"setting.msbt.msbt/SetStory_DlgHeaderAutoDLInfo00_SetDetail","Còpia de seguretat automàtica de les partides desades"
 "setting.msbt.msbt/SetStory_DlgHeaderAutoDLInfo01","Continueu jugant allà on ho heu deixat!"
 "setting.msbt.msbt/SetStory_DlgHeaderAutoDLInfo02","Informació addicional"
 "setting.msbt.msbt/SetStory_DlgHeaderAutoDLPromotion","Voleu activar la baixada automàtica de partides desades?"
@@ -5233,8 +5232,7 @@ La còpia de seguretat i la baixada automàtica no es farà per als fitxers que 
 "setting.msbt.msbt/SetStory_Sync_Detail","Se n’ha fet una còpia de seguretat"
 "setting.msbt.msbt/SetStory_Title_TimeStamp_NoSavedata","No hi ha partides desades"
 "setting.msbt.msbt/SetStory_Title_TimeStamp_NoTimeStamp","S’han trobat partides desades"
-"setting.msbt.msbt/SetStory_TopClient","Aquesta
-consola"
+"setting.msbt.msbt/SetStory_TopClient","Aquesta consola"
 "setting.msbt.msbt/SetStory_TopHeader","Partides desades al núvol"
 "setting.msbt.msbt/SetStory_TopServer","Servidor"
 "setting.msbt.msbt/SetStory_WaitToApplyLoadedData","S’ha baixat correctament."
@@ -6164,7 +6162,7 @@ Podeu veure els vostres cartutxos virtuals a
  (Cartutxos virtuals) al menú HOME."
 "overlayDisp.msbt.msbt/Ovl_NtfPtclCancelPlayableTimeExtension","{bytes:0E|00|00|00|02|00|02|00|5B|00}El límit de temps de joc ha
 tornat a la normalitat.{bytes:0E|00|00|00|02|00|02|00|64|00}"
-"playerSelect.msbt.msbt/PselLockCommon_FooterChangeStick","{bytes:0E|00|00|00|02|00|02|00|4B|00}(Mantingueu){bytes:0E|00|00|00|02|00|02|00|64|00} Canvia a l’entrada amb palanques de control"
+"playerSelect.msbt.msbt/PselLockCommon_FooterChangeStick","{bytes:0E|00|00|00|02|00|02|00|4B|00}(Mantingueu){bytes:0E|00|00|00|02|00|02|00|64|00} Canvia a l’entrada amb les palanques"
 "qlaunch.msbt.msbt/QlcVgcSelect_SubAppUpg","Programa (edició Nintendo {bytes:0E|00|01|00|04|00|00|00}Switch 2{bytes:0F|00|01|00|04|00})"
 "qlaunch.msbt.msbt/VgcInsert_DlgBody_PartialIncompatible","Aquest cartutx virtual conté contingut que només està disponible en una Nintendo {bytes:0E|00|01|00|04|00|00|00}Switch 2{bytes:0F|00|01|00|04|00}, de manera que part del contingut pot no ser jugable.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Voleu carregar-lo igualment en aquesta consola?"
@@ -6172,7 +6170,7 @@ Voleu carregar-lo igualment en aquesta consola?"
 {bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Només és possible emparellar una consola amb una altra consola per a cada compte de Nintendo.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "qlaunch.msbt.msbt/VgcUnregister_DlgBody_Start","Seleccioneu una consola per a desemparellar-la.
 {bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Si desemparelleu una consola, se n’extrauran tots els cartutxos virtuals.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
-"setting.msbt.msbt/SetCntPlayerNA_DlgBodyAccountInfoMain","Podeu comprovar la informació del vostre compte de Nintendo mitjançant el lloc web del compte de Nintendo.{bytes:0E|00|00|00|02|00|02|00|50|00}
+"setting.msbt.msbt/SetCntPlayerNA_DlgBodyAccountInfoMain","Podeu comprovar la informació del vostre compte de Nintendo al lloc web del compte de Nintendo.{bytes:0E|00|00|00|02|00|02|00|50|00}
 {bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Per a fer-ho, accediu a l’URL anterior fent servir un ordinador o un dispositiu intel·ligent.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "setting.msbt.msbt/SetCntPlayerNA_DlgBtnShowOnDevice","Comprova fent servir aquesta consola"
 "splay.msbt.msbt/Splay_DlgBody_ParentalControlRating","No podeu jugar a aquest programa."
@@ -6505,7 +6503,7 @@ Torneu a calibrar la pantalla tàctil si no funciona amb normalitat."
 "setting.msbt.msbt/SetStory_DlgBtnDownload","Baixa partides desades del servidor"
 "setting.msbt.msbt/SetStory_DlgBodyManageConflictTaskAutoDL","Les baixades automàtiques de les partides desades estan pausades.
 Seleccioneu una de les opcions a continuació per a tornar a activar les baixades automàtiques."
-"setting.msbt.msbt/SetStory_DlgBtnUpload","Fes una còpia de seguretat de les partides desades a la consola"
+"setting.msbt.msbt/SetStory_DlgBtnUpload","Còpia de seguretat de les partides desades a la consola"
 "setting.msbt.msbt/SetStory_DlgBtnTimeStamp","Data de desat: {bytes:0E|00|02|00|12|00|04|00|00|00|00|00}"
 "playerSelect.msbt.msbt/PselUserData_DlgBody","Nintendo vol recopilar informació sobre l’ús de la vostra consola per a millorar els jocs, proporcionar-vos avantatges individuals i més.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Llegiu la informació a continuació i confirmeu-ho."

@@ -8,7 +8,7 @@ Ara ja podeu posar la interfície de la vostra Nintendo Switch en català!
 
 Modificar la consola i instal·lar-hi pedaços que la modifiquin pot fer que Nintendo us prohibeixi l’accés als serveis en línia (incloent-hi el joc en línia, la Nintendo eShop i les funcionalitats d’amistat). Si bé és cert que normalment no passa si us manteniu dintre de la legalitat, no es pot descartar del tot. Si instal·leu aquesta traducció, assumiu aquesta possibilitat.
 
-**La traducció només s’ha provat amb la versió del sistema 21.0.1.**
+**La traducció només s’ha provat amb la versió del sistema 21.1.0.**
 
 Si la proveu amb qualsevol altra versió, no en garantim el correcte funcionament, i poden aparèixer errors que facin inutilitzable la consola. És possible que la traducció funcioni amb versions anteriors o posteriors del sistema operatiu, però probablement no funcionarà correctament amb versions diferents de la 21.x. Si hi ha una nova actualització del sistema, espereu a la publicació de l’actualització de la traducció o desinstal·leu-la abans d’actualitzar el sistema.
 
@@ -26,6 +26,7 @@ Si la proveu amb qualsevol altra versió, no en garantim el correcte funcionamen
 * Si voleu tornar a veure la interfície de la consola en la llengua original, caldrà que esborreu els fitxers que heu copiat a la targeta microSD.
 
 ### Problemes coneguts
+* A causa d’un [problema a Atmosphère](https://github.com/Atmosphere-NX/Atmosphere/issues/2263), si es tanca i s’obre el teclat ràpidament, es produeix un error fatal que fa que calgui reiniciar la consola. Podeu evitar-ho eliminant la carpeta «0100000000001008», però perdreu la traducció de les funcions del teclat, que apareixeran en la llengua original de la consola.
 * En accedir a l’apartat «Assistència» de la configuració, o en mostrar detalls de qualsevol error, la consola es congela durant aproximadament un minut. Això passa a causa del retard en llegir els fitxers modificats de la targeta microSD. Depèn de la implementació de LayeredFS, i no creiem que sigui solucionable. Per tal d’eliminar el retard, hem canviat el nom de la carpeta «0100000000000801» a «0100000000000801_desactivat», de manera que els missatges d’error es mostraran en la llengua original. Si voleu que apareguin traduïts (però causant el retard), canvieu el nom de la carpeta a «0100000000000801».
 * En general, és possible que el sistema funcioni amb una mica més de lentitud, causada per aquest mateix motiu: l’accés a la targeta microSD en lloc de la memòria interna.
 
