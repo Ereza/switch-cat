@@ -2,7 +2,7 @@
 
 ## 21.1.0 - 2025-12-09
 ### Versió del sistema
-- **Versió 21.1.0. Altres versions no estan suportades.**
+- **Versió 21.1.0 o 21.2.0. Altres versions no estan suportades.**
 ### Canvis
 - Correcció d’un error en una variable que causava un error fatal a la pantalla de desactivació del control parental.
 - Correccions menors de textos que eren massa llargs o saltaven de línia erròniament.
