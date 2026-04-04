@@ -158,9 +158,9 @@ Si és possible, canvieu la configuració de seguretat i torneu-ho a provar.
 Llegiu el manual del dispositiu de xarxa per a més informació."
 "error_codes/2110/2091/lang_DlgBtn","D’acord"
 "error_codes/2110/2091/lang_DlgMsg","No s’ha pogut connectar a Internet.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
-Reviseu la vostra configuració.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Reviseu la configuració.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Si el mode d’avió està activat, desactiveu-lo. Podeu fer-ho a la Configuració ràpida (mantingueu premut ).{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
-Si feu servir una connexió amb cables, reviseu que el cable LAN estigui ben connectat."
+Si feu servir una connexió a Internet per cable, reviseu que el cable LAN estigui ben connectat."
 "error_codes/2110/2101/lang_DlgBtn","Detalls
 Tanca"
 "error_codes/2110/2101/lang_DlgMsg","No s’ha pogut connectar al dispositiu de xarxa. {bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
@@ -2325,3 +2325,23 @@ De manera alternativa, podeu jugar al programa en aquesta consola sense tancar-l
 ◆{bytes:0E|00|01|00|06|00|00|00}Alguns continguts descarregables no estaran disponibles.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 1. {bytes:0E|00|01|00|06|00|00|00}Premeu  al menú HOME per a tancar el programa.{bytes:0F|00|01|00|06|00}
 2. {bytes:0E|00|01|00|06|00|00|00}Mentre premeu , premeu  per a iniciar el programa.{bytes:0F|00|01|00|06|00}"
+"error_codes/2179/2101/lang_DlgBtn","D’acord"
+"error_codes/2321/6016/lang_DlgBtn","D’acord"
+"error_codes/2321/6016/lang_DlgMsg","No s’ha pogut connectar amb l’altre jugador o els altres jugadors.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, és possible que l’altre jugador o els altres jugadors estiguin fent servir una versió desactualitzada del programa."
+"error_codes/2179/2101/lang_DlgMsg","La còpia de seguretat o la baixada de partides desades s’ha cancel·lat perquè s’han actualitzat les partides desades al servidor."
+"error_codes/2110/2015/lang_FlvBtn","D’acord"
+"error_codes/2110/2015/lang_DlgBtn","Detalls
+Tanca"
+"error_codes/2110/2015/lang_DlgMsg","No s’ha pogut connectar a Internet.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Reviseu la configuració.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si feu servir una connexió a Internet per cable, reviseu el següent:
+・{bytes:0E|00|01|00|06|00|00|00}Que el cable LAN estigui ben connectat.{bytes:0F|00|01|00|06|00}
+・{bytes:0E|00|01|00|06|00|00|00}Que el dispositiu de xarxa al qual us connecteu estigui engegat.{bytes:0F|00|01|00|06|00}"
+"error_codes/2110/2015/lang_FlvMsg","No s’ha pogut connectar a Internet.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Reviseu la configuració.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si feu servir una connexió a Internet per cable, reviseu el següent:
+・{bytes:0E|00|01|00|06|00|00|00}Que el cable LAN estigui ben connectat.{bytes:0F|00|01|00|06|00}
+・{bytes:0E|00|01|00|06|00|00|00}Que el dispositiu de xarxa al qual us connecteu estigui engegat.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si el problema continua, reinicieu la consola a les Opcions d’alimentació del menú d’alimentació (mantingueu premut el botó POWER durant tres segons)."

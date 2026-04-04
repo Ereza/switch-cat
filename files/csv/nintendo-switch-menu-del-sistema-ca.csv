@@ -192,7 +192,7 @@ Una vegada s’hagin suprimit, no es podran recuperar."
 "cabinet.msbt.msbt/MakeMii","Crea un Mii"
 "cabinet.msbt.msbt/MakeMiiPlease","Creeu un Mii per al propietari d’aquest amiibo."
 "cabinet.msbt.msbt/MakeMiiZero","Crea un Mii"
-"cabinet.msbt.msbt/NX","Nintendo Switch"
+"cabinet.msbt.msbt/NX","Nintendo Switch 2/Nintendo Switch"
 "cabinet.msbt.msbt/OwnerConfirm_ChangeNickname","Canvia"
 "cabinet.msbt.msbt/OwnerConfirm_ChangeOwner","Canvia"
 "cabinet.msbt.msbt/OwnerConfirm_InputNickname","Introdueix"
@@ -3768,8 +3768,8 @@ sistema per a fer servir aquest programa."
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodySystemUpdateRequiredToCheckRightsAoC","Cal instal·lar una actualització del sistema per a comprovar si es pot jugar al contingut descarregable."
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyUndelivered","Encara no podeu jugar a aquest programa.
 Voleu veure’n més informació detallada a la Nintendo eShop?"
-"qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyUndeliveredTryLater","Encara no podeu jugar a aquest programa o contingut descarregable. Torneu-ho a provar més tard.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
-Encara que reinicieu la consola o torneu a obrir la Nintendo eShop, no podreu jugar al programa o contingut descarregable abans."
+"qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyUndeliveredTryLater","Encara no podeu jugar a això.
+Torneu-ho a provar més tard."
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyUpdateRecommendedAoC","{empty}"
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyUpdateRequired","Cal instal·lar una actualització del programa.
 Ara es baixaran les dades d’actualització."
@@ -3792,7 +3792,7 @@ Ara es baixaran les dades d’actualització."
 Visiteu el lloc web d’assistència de Nintendo per a més informació del mode RV.
 {bytes:0E|00|02|00|09|00|04|00|00|00|00|00}"
 "qlaunch.msbt.msbt/QlcPctlCheck_DlgBodyFinishWhiteListReg","S’ha afegit a la llista segura.
-{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Es pot canviar després a Configuració ⇒ Funcionalitats restringides ⇒ Llista segura a l’aplicació Control parental de la {bytes:0E|00|01|00|04|00|00|00}Nintendo Switch{bytes:0F|00|01|00|04|00}.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Es pot canviar més tard a Configuració ⇒ Funcionalitats restringides ⇒ Llista segura a l’aplicació Control parental de la {bytes:0E|00|01|00|04|00|00|00}Nintendo Switch{bytes:0F|00|01|00|04|00}.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "qlaunch.msbt.msbt/QlcPctlCheck_DlgBtnAllowAlways","Afegeix a la llista segura"
 "qlaunch.msbt.msbt/QlcRebootApp_DlgBodyConfirm","El programa que esteu fent servir es tancarà i es reiniciarà."
 "qlaunch.msbt.msbt/QlcRebootApp_DlgBodyConfirmCaution","El programa que esteu fent servir es tancarà i es reiniciarà.
@@ -5461,7 +5461,7 @@ d’aquest programa.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|0
 "cldr.msbt.msbt/Europe/Sarajevo,Europe/Warsaw","Sarajevo, Varsòvia"
 "common.msbt.msbt/Cmn_AccountUrl_Family_Full","https://accounts.nintendo.com/family"
 "common.msbt.msbt/Cmn_AccountUrl_Family_Short","accounts.nintendo.com/family"
-"common.msbt.msbt/Cmn_AccountUrl_Top_Full","https://accounts.nintendo.com/portal"
+"common.msbt.msbt/Cmn_AccountUrl_Top_Full","https://accounts.nintendo.com/portal?utm_source=00010000"
 "common.msbt.msbt/Cmn_AccountUrl_Top_Short","accounts.nintendo.com/portal"
 "common.msbt.msbt/Cmn_AccountUrl_Vgc_Full","https://accounts.nintendo.com/portal/vgcs"
 "common.msbt.msbt/Cmn_AccountUrl_Vgc_Short","accounts.nintendo.com/portal/vgcs"
@@ -5962,7 +5962,7 @@ Reviseu la configuració de connexió i torneu-ho a provar."
 "qlaunch.msbt.msbt/VgcCheck_DlgBtnOK","D’acord"
 "qlaunch.msbt.msbt/VgcCheck_DlgInfo_BringDevice","Acosteu les consoles."
 "qlaunch.msbt.msbt/VgcCheck_DlgInfo_BringDevice_ToBorrow","Acosteu les consoles."
-"qlaunch.msbt.msbt/VgcCheck_DlgText_Help","No podeu acostar les consoles?"
+"qlaunch.msbt.msbt/VgcCheck_DlgText_Help","Si l’altra consola no està disponible"
 "qlaunch.msbt.msbt/VgcCheck_DlgTitle_Connect","Feu el següent a l’altra consola."
 "qlaunch.msbt.msbt/VgcD1Disable_DlgBody_Confirm","Podeu continuar endavant fent servir aquesta consola.
 No obstant això, tingueu en compte que els programes digitals i els continguts descarregables que hàgiu comprat esdevindran temporalment injugables a l’altra consola.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
@@ -6022,7 +6022,10 @@ Addicionalment, l’opció «Mode d’espera automàtic (connectat al televisor)
 "setting.msbt.msbt/SetCntPlayerNALicense_DlgBodyUpdate","Cal una actualització del sistema per a canviar la configuració."
 "setting.msbt.msbt/SetCntPlayerNALicense_TitleHeader","Configuració de les llicències en línia"
 "setting.msbt.msbt/SetCntPlayerNALock_BodyCheckBy","Podeu definir un PIN i fer-lo servir en lloc d’iniciar la sessió al vostre compte de Nintendo."
-"setting.msbt.msbt/SetCntPlayerNALock_BodySection","Si desactiveu aquesta funcionalitat, ja no serà necessària l’autenticació, i altres usuaris d’aquesta consola podran fer canvis i veure informació a les pàgines relacionades."
+"setting.msbt.msbt/SetCntPlayerNALock_BodySection","Si es desactiva aquesta funcionalitat en qualsevol de les situacions llistades, ja no serà necessària l’autenticació en aquella situació, i altres usuaris d’aquesta consola podran accedir-hi.
+Per exemple:{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+・{bytes:0E|00|01|00|06|00|00|00}A la Nintendo eShop, els altres usuaris d’aquesta consola podran fer servir els vostres fons i veure informació com ara el vostre mètode de pagament definit.{bytes:0F|00|01|00|06|00}
+・{bytes:0E|00|01|00|06|00|00|00}Al menú de cartutxos virtuals, els altres usuaris d’aquesta consola podran veure els vostres programes digitals comprats i fer accions com ara carregar o deixar en préstec cartutxos virtuals.{bytes:0F|00|01|00|06|00}"
 "setting.msbt.msbt/SetCntPlayerNALock_BtnChangePin","Canvia el PIN"
 "setting.msbt.msbt/SetCntPlayerNALock_BtnCheckBy","Mètode d’autenticació"
 "setting.msbt.msbt/SetCntPlayerNALock_BtnCheckBy_NA","Inici de sessió al compte de Nintendo"
@@ -6221,9 +6224,9 @@ Visiteu el lloc web d’assistència de Nintendo per a més informació.
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyAoCRightsNoOnlineLicense","No es pot jugar a alguns continguts descarregables.
 {bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Si teniu el cartutx virtual d’aquest programa, podreu jugar-hi si carregueu el cartutx virtual en aquesta consola a {bytes:0E|00|01|00|04|00|00|00} (Cartutxos virtuals){bytes:0F|00|01|00|04|00} al menú HOME.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyAoCRightsNoOnlineLicenseDetail","No es pot jugar a aquest joc si el cartutx virtual no es carrega en aquesta consola perquè algun contingut descarregable ha estat comprat per un altre usuari.
-{bytes:0E|00|01|00|03|00|02|00|00|CD}Només l’usuari que ha comprat aquest contingut pot jugar-hi fent servir la llicència en línia.{bytes:0F|00|01|00|03|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Només l’usuari que ha comprat aquest contingut pot jugar-hi fent servir la llicència en línia.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Podeu elegir suprimir el contingut descarregable al qual no podeu jugar i iniciar el programa.
-{bytes:0E|00|01|00|03|00|02|00|00|CD}Tingueu en compte que si suprimiu el contingut descarregable, altres usuaris d’aquesta consola ja no podran fer-lo servir.{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Tingueu en compte que si suprimiu el contingut descarregable, altres usuaris d’aquesta consola ja no podran fer-lo servir.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyRightsNoOnlineLicense","No es pot jugar a aquest programa fent servir una llicència en línia.
 {bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Si teniu el cartutx virtual d’aquest programa, podreu jugar-hi si carregueu el cartutx virtual en aquesta consola a {bytes:0E|00|01|00|04|00|00|00} (Cartutxos virtuals){bytes:0F|00|01|00|04|00} al menú HOME.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "qlaunch.msbt.msbt/QlcVgcSelect_SubAoCUpg","Paquet de millora i contingut descarregable"
@@ -6540,12 +6543,12 @@ Comproveu-ne els detalls per a més informació."
 "qlaunch.msbt.msbt/QlcCBSelect_FooterText_Cancel","Cancel·la"
 "qlaunch.msbt.msbt/QlcVgcSelect_DlgBodyAppSkipped","Per a jugar a aquest programa, primer cal que en carregueu el cartutx virtual en aquesta consola."
 "qlaunch.msbt.msbt/QlcCB_DlgBtnConfirm","Comprova"
-"Cruiser.msbt/CrsWindowOpenLimitErr_DlgBody","{empty}"
+"Cruiser.msbt/CrsWindowOpenLimitErr_DlgBody","Aquesta pàgina ja no es pot mostrar."
 "dataTransfer.msbt.msbt/Dtt_LocalDataSelect_DlgDeviceMedia","Envia captures de pantalla i vídeos"
 "dataTransfer.msbt.msbt/Dtt_LocalDataSelect_Download","{bytes:0E|00|00|00|02|00|02|00|50|00}◆ Els programes es baixaran quan s’hagi completat la transferència del sistema.{bytes:0E|00|00|00|02|00|02|00|64|00}"
 "dataTransfer.msbt.msbt/Dtt_LocalDataSelect_Data2","Usuaris/Partides desades/Configuració del sistema"
-"dataTransfer.msbt.msbt/Dtt_LocalDataSelect_BodyMain","Es transferiran les següents dades a una consola Nintendo {bytes:0E|00|01|00|04|00|00|00}Switch 2{bytes:0F|00|01|00|04|00}."
-"dataTransfer.msbt.msbt/Dtt_LocalDataSelect_BodyOption","{bytes:0E|00|00|00|02|00|02|00|50|00}Podeu utilitzar / per a canviar les dades que es transferiran.{bytes:0E|00|00|00|02|00|02|00|64|00}"
+"dataTransfer.msbt.msbt/Dtt_LocalDataSelect_BodyMain","Es copiaran les següents dades a una consola Nintendo {bytes:0E|00|01|00|04|00|00|00}Switch 2{bytes:0F|00|01|00|04|00}."
+"dataTransfer.msbt.msbt/Dtt_LocalDataSelect_BodyOption","{bytes:0E|00|00|00|02|00|02|00|50|00}Podeu utilitzar / per a canviar les dades que es copiaran.{bytes:0E|00|00|00|02|00|02|00|64|00}"
 "dataTransfer.msbt.msbt/Dtt_LocalDataSelect_FooterText_Option","Opcions"
 "dataTransfer.msbt.msbt/Dtt_LocalDataSelect_DlgDownload","Baixa automàticament les dades dels programes
 {bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Si desactiveu aquesta opció, les dades es poden baixar més tard.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
@@ -6623,3 +6626,98 @@ De manera alternativa, podeu jugar al programa en aquesta consola sense tancar-l
 Se suspendrà la partida.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Visiteu el lloc web d’assistència de Nintendo per a més informació.
 {bytes:0E|00|02|00|0A|00|04|00|01|00|00|00}"
+"splay.msbt.msbt/Splay_DlgBtnAllowAlways","Afegeix a la llista segura"
+"splay.msbt.msbt/Splay_DlgBody_ParentalControlUgc","La comunicació lliure amb altres usuaris està restringida en aquest programa, de manera que no hi podeu jugar."
+"splay.msbt.msbt/Splay_DlgBody_LaunchCheckPctl2","Voleu afegir {bytes:0E|00|02|00|08|00|04|00|00|00|00|00} a la llista segura?
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Afegir un programa a la llista segura elimina les restriccions de joc i comunicació lliure amb altres per a aquell programa.
+
+La llista segura es pot modificar més tard.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+"dataTransfer.msbt.msbt/Dtt_LocalUserConfirm_BodyTitle","Usuaris que es transferiran i que ja no romandran en aquesta consola:"
+"dataTransfer.msbt.msbt/Dtt_LocalSaveDataLoadConfirm_BodyLoading","S’estan comprovant les partides desades en aquesta consola...
+{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Pot tardar una estona.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+"dataTransfer.msbt.msbt/Dtt_LocalSaveDataConfirm_DlgDataBroken","S’ha cancel·lat la transferència perquè les partides desades del programa següent són corruptes.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+　{bytes:0E|00|01|00|06|00|00|00}Programa: {bytes:0E|00|01|00|06|00|00|00}{bytes:0E|00|02|00|0A|00|04|00|00|00|00|00}{bytes:0F|00|01|00|06|00}
+Usuari: {bytes:0E|00|02|00|05|00|04|00|01|00|00|00}{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}"
+"dataTransfer.msbt.msbt/Dtt_LocalMovedData_BodyMain1","Alguns usuaris no es poden copiar. Es transferiran a la consola nova i no romandran en aquesta consola."
+"dataTransfer.msbt.msbt/Dtt_LocalMovedData_BodyMain2","Algunes partides desades no es poden copiar. Es transferiran a la consola nova i no romandran en aquesta consola."
+"dataTransfer.msbt.msbt/Dtt_LocalMovedData_BodyMain3","Alguns usuaris i algunes partides desades no es poden copiar. Es transferiran a la consola nova i no romandran en aquesta consola."
+"setting.msbt.msbt/SetStory_DlgBodyNoServerSaveData","La baixada ha fallat.
+S’han suprimit les partides desades del servidor."
+"setting.msbt.msbt/SetCntPlayerNALock_BtnShopTop"," En fer servir la Nintendo eShop"
+"qlaunch.msbt.msbt/QlcAlcVGC_DlgBodyEjectRemotely","El cartutx virtual es carregarà en aquesta consola."
+"qlaunch.msbt.msbt/VgcUnregister_DlgBtn_NoDevice","Si no teniu aquella consola"
+"qlaunch.msbt.msbt/QlcAlcVGC_DlgBodyWait","Espereu..."
+"qlaunch.msbt.msbt/QlcAlcVGC_DlgBtnOfflineHelp","Com jugar-hi sense carregar"
+"qlaunch.msbt.msbt/Vgc_SupportUrl_Top_Short","support.nintendo.com"
+"qlaunch.msbt.msbt/QlcAlcVGC_DeviceModelEmpty"," "
+"qlaunch.msbt.msbt/QlcAlcVGC_DlgBodyInsert","El cartutx virtual es carregarà en aquesta consola."
+"qlaunch.msbt.msbt/QlcAlcVGC_DlgBodyEjectErrorOffline","No s’ha pogut extreure el cartutx virtual.
+Connecteu la consola següent a Internet i torneu-ho a provar."
+"qlaunch.msbt.msbt/QlcChildLock_TimeOver","S’ha acabat el temps."
+"qlaunch.msbt.msbt/QlcAlcVGC_DeviceModel01","Nintendo Switch"
+"qlaunch.msbt.msbt/QlcAlcVGC_DeviceModel03","Nintendo Switch Lite"
+"qlaunch.msbt.msbt/QlcAlcVGC_DeviceModel04","Nintendo Switch 2"
+"qlaunch.msbt.msbt/QlcNfc_ConfirmSystemUpdate","Connecteu-vos a Internet i a continuació executeu una actualització del sistema."
+"migration.msbt.msbt/SaveMove2Dialog_DlgBtnAbort","Descarta totes les transferències actives"
+"auth.msbt.msbt/AuthNumChk_TxtFwInputLock","En aquests moments no podeu introduir el PIN.
+Comproveu la informació que es mostra a {bytes:0E|00|02|00|00|00|04|00|00|00|00|00} Ajuda."
+"myPage.msbt.msbt/FrdDetail_BtnFriendMemo","Afegeix una nota"
+"setting.msbt.msbt/SetCntPlayerNALock_BtnShopBuy"," En fer una compra fent servir un mètode de pagament desat"
+"qlaunch.msbt.msbt/VgcRegister_DlgBody_Help","Vegeu el lloc web d’assistència de Nintendo per a més informació.
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}També hi trobareu informació relativa als següents temes:
+・{bytes:0E|00|01|00|06|00|00|00}Com jugar a programes sense carregar-ne el cartutx virtual{bytes:0F|00|01|00|06|00}
+・{bytes:0E|00|01|00|06|00|00|00}Com desemparellar una consola emparellada{bytes:0F|00|01|00|06|00}{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+"qlaunch.msbt.msbt/QlcAlcVGC_DlgBodyEjectErrorPlaying","No s’ha pogut extreure el cartutx virtual.
+Tanqueu el programa a la consola següent i torneu-ho a provar."
+"auth.msbt.msbt/AuthNumChk_Help_Description","Si introduïu el PIN del control parental, es desactivarà temporalment el control parental
+fins que la consola entri en el mode d’esperao fins que torneu a activar el control parental.{bytes:0E|00|01|00|00|00|04|00|9A|99|99|3E}
+Totes les funcionalitats que es poden restringir amb el control parental estaran disponibles:
+・{bytes:0E|00|01|00|06|00|00|00}Es permetrà l’ús de qualsevol programa.{bytes:0F|00|01|00|06|00}
+・{bytes:0E|00|01|00|06|00|00|00}Serà possible publicar captures de pantalla i vídeos a les xarxes socials.{bytes:0F|00|01|00|06|00}
+・{bytes:0E|00|01|00|06|00|00|00}No es restringirà la comunicació amb altres persones.{bytes:0F|00|01|00|06|00}
+・{bytes:0E|00|01|00|06|00|00|00}Serà possible jugar en mode RV.{bytes:0F|00|01|00|06|00}
+・{bytes:0E|00|01|00|06|00|00|00}Es desactivaran tots els temporitzadors definits amb l’aplicació Control parental de la Nintendo Switch.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}◆ {bytes:0E|00|01|00|06|00|00|00}Com que es desactivaran totes les restriccions del control parentral, vigileu mentre
+el vostre fill jugui a la Nintendo Switch.{bytes:0F|00|01|00|06|00}{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+"auth.msbt.msbt/AuthNumChk_DlgBodyHelpShopN","■ Ajuda{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Obriu la vostra pàgina d’usuari al menú HOME i seleccioneu Configuració de l’usuari ⇒ Configuració de verificació d’identitat ⇒ {bytes:0E|00|02|00|00|00|04|00|00|00|00|00} Ajuda.
+Quan hàgiu iniciat la sessió amb el vostre compte de Nintendo tindreu l’opció de restablir el PIN."
+"auth.msbt.msbt/AuthNumChk_TxtJustAfterFwInputLock","Heu introduït un PIN incorrecte massa vegades.
+Comproveu la informació que es mostra a {bytes:0E|00|02|00|00|00|04|00|00|00|00|00} Ajuda."
+"qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyCheckOnlineLicense","El programa s’iniciarà fent servir la llicència en línia."
+"qlaunch.msbt.msbt/VgcUnregister_DlgBody_HelpWebUnregister","Podeu fer servir el lloc web següent per a desemparellar la consola:
+{bytes:0E|00|02|00|09|00|04|00|00|00|00|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Quan sigueu al lloc web, seleccioneu la consola de la qual us vulgueu desemparellar a la llista de consoles emparellades.
+◆ {bytes:0E|00|01|00|06|00|00|00}Tingueu en compte que només es pot fer servir el lloc web per a desemparellar una consola a l’any.{bytes:0F|00|01|00|06|00}{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+"qlaunch.msbt.msbt/VgcRegister_HelpUrl","https://www.region-selector-support.nintendo.com/?q=MT-10022"
+"auth.msbt.msbt/AuthNumSet_Input_DigitLimit","4-8 dígits"
+"dataTransfer.msbt.msbt/Dtt_Local_DlgBody_BrokenDataReboot","S’ha cancel·lat la transferència perquè les partides desades del programa següent són corruptes.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+　{bytes:0E|00|01|00|06|00|00|00}Programa: {bytes:0E|00|01|00|06|00|00|00}{bytes:0E|00|02|00|0A|00|04|00|00|00|00|00}{bytes:0F|00|01|00|06|00}
+Usuari: {bytes:0E|00|02|00|05|00|04|00|01|00|00|00}{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Caldrà que cancel·leu manualment la transferència a la consola de destinació. Consulteu el lloc web d’assistència de Nintendo per a més informació sobre com cancel·lar la transferència."
+"dataTransfer.msbt.msbt/Dtt_CancelIntro_DlgBody_Back","Aquesta consola es reiniciarà i tornarà a mostrar el procés de configuració inicial."
+"dataTransfer.msbt.msbt/Dtt_LocalFindDevice2_BodyMain2","S’ha connectat amb la consola Nintendo {bytes:0E|00|01|00|04|00|00|00}Switch 2{bytes:0F|00|01|00|04|00}.
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Mantingueu les consoles a prop.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+"myPage.msbt.msbt/FrdMemoInput_SwkbdExplanation","L’usuari no veurà res que escrigueu aquí."
+"setting.msbt.msbt/SetCntPlayerNALock_BodySection_22","Si es desactiva aquesta funcionalitat, ja no serà necessària l’autenticació, i els altres usuaris d’aquesta consola podran fer canvis i veure informació a les pàgines relacionades."
+"playerSelect.msbt.msbt/PselLockNumSet_Input_DigitLimit","4-8 dígits"
+"qlaunch.msbt.msbt/VgcCheck_DlgText_Help2","Si teniu problemes"
+"qlaunch.msbt.msbt/QlcCB_DlgBodyCBDL","S’estan baixant les partides desades..."
+"qlaunch.msbt.msbt/QlcAlcVGC_DeviceModel02","Nintendo Switch – Model OLED"
+"qlaunch.msbt.msbt/VgcUnregister_URL_WebUnregister","https://accounts.nintendo.com/portal/console/vgc_regs"
+"migration.msbt.msbt/SaveMove2Dialog_Send_DlgBrokenDataReboot1","S’ha cancel·lat la transferència perquè les partides desades del programa següent són corruptes.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+　{bytes:0E|00|01|00|06|00|00|00}{bytes:0E|00|02|00|0A|00|04|00|00|00|00|00}{bytes:0F|00|01|00|06|00}"
+"migration.msbt.msbt/SaveMove2Dialog_Send_DlgBrokenDataReboot2","S’ha cancel·lat la transferència perquè les partides desades del programa següent són corruptes.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+　{bytes:0E|00|01|00|06|00|00|00}{bytes:0E|00|02|00|0A|00|04|00|00|00|00|00}{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Caldrà que cancel·leu manualment la transferència a la consola de destinació. Consulteu el lloc web d’assistència de Nintendo per a més informació sobre com cancel·lar la transferència."
+"dataTransfer.msbt.msbt/Dtt_LocalUserConfirm_BodySub","{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Els usuaris que no estiguin enllaçats a un compte de Nintendo es transferiran a l’altra consola i ja no romandran en aquesta consola quan s’hagi completat la transferència. La resta d’usuaris es transferiran a l’altra consola, però també romandran en aquesta consola.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+"auth.msbt.msbt/AuthNumChk_Main_HeaderTopAccount","Cal un PIN per a verificar la vostra identitat."
+"dataTransfer.msbt.msbt/Dtt_LocalProgress_BodyMain2","S’estan enviant les dades...
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Mantingueu les consoles a prop.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+"myPage.msbt.msbt/FrdMemoInput_SwkbdHeader","Introduïu una nota sobre aquest usuari."
+"dataTransfer.msbt.msbt/Dtt_LocalSaveDataConfirm_BodySub","{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Les partides desades que no apareguin aquí es transferiran, però també romandran en aquesta consola.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+"dataTransfer.msbt.msbt/Dtt_LocalSaveDataConfirm_BodyTitle","Partides desades que es transferiran i ja no romandran en aquesta consola:"
+"splay.msbt.msbt/Splay_DlgBody_FinishAllowListReg","S’ha afegit a la llista segura.
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Es pot canviar més tard a Configuració ⇒ Funcionalitats restringides ⇒ Llista segura a l’aplicació Control parental de la {bytes:0E|00|01|00|04|00|00|00}Nintendo Switch{bytes:0F|00|01|00|04|00}.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+"myPage.msbt.msbt/FrdMemoInput_DlgBodyTutorial","Podeu afegir notes als usuaris de la vostra llista d’amics per a, per exemple, identificar amics concrets més ràpidament.
+{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Els amics no veuran cap de les notes que escrigueu.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
