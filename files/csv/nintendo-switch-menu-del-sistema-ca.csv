@@ -237,7 +237,7 @@ Una vegada s’hagin suprimit, no es podran recuperar."
 "cldr.msbt.msbt/America/Denver","Denver"
 "cldr.msbt.msbt/America/Godthab","Nuuk"
 "cldr.msbt.msbt/America/Halifax","Halifax"
-"cldr.msbt.msbt/America/Los_Angeles,America/Vancouver","Los Angeles, Vancouver"
+"cldr.msbt.msbt/America/Los_Angeles,America/Vancouver","Los Angeles"
 "cldr.msbt.msbt/America/Manaus","Manaus"
 "cldr.msbt.msbt/America/Mexico_City","Ciutat de Mèxic"
 "cldr.msbt.msbt/America/Montevideo","Montevideo"
@@ -702,7 +702,7 @@ Voleu tornar-ho a provar?"
 "Cruiser.msbt/CrsCmn_2BtnDlgBtnOK","D’acord"
 "Cruiser.msbt/CrsCmn_AutomaticterminationDlgBody","A continuació es tancarà aquesta pantalla."
 "Cruiser.msbt/CrsCmn_BootECDlgBtn","Obre"
-"Cruiser.msbt/CrsCmn_ErrDlgDlgTitle","Codi d’error: %04d-%04d"
+"Cruiser.msbt/CrsCmn_ErrDlgDlgTitle","Codi d’error: %s"
 "Cruiser.msbt/CrsCmn_FooterMinusBtn",""
 "Cruiser.msbt/CrsCmn_FooterPlusBtn",""
 "Cruiser.msbt/CrsCmn_SSLDlgBodyCertificateIssuer","Emissor del certificat"
@@ -1255,7 +1255,7 @@ Podeu fer-ho a la configuració ràpida (mantingueu premut )."
 "gift.msbt.msbt/Gft_DlgBodyExitHost","Se suprimirà el grup."
 "gift.msbt.msbt/Gft_DlgBodyHelp","Si l’opció «Iguala la versió amb usuaris locals» no es mostra a la seva consola, no podran utilitzar aquesta funcionalitat perquè la seva versió del sistema no està actualitzada.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Feu que executin una actualització del sistema anant al menú HOME i seleccionant  (Configuració del sistema) ⇒ Sistema.
-{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Cal una connexió a Internet per a executar una actualització del sistema.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Cal una connexió a Internet per a executar una actualització del sistema.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "gift.msbt.msbt/Gft_DlgBodyLowBattery","La bateria de la consola és baixa.
 Connecteu l’adaptador de corrent."
 "gift.msbt.msbt/Gft_DlgBodyNeedUpdate","Cal instal·lar una actualització del sistema per a igualar aquesta versió del programa."
@@ -2954,8 +2954,10 @@ Només en romandran les partides desades i la icona del programa al menú HOME. 
 Només en romandran les partides desades i la icona del programa al menú HOME.
 {bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Les dades d’actualització i el contingut descarregable es poden tornar a baixar més tard.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "option.msbt.msbt/OptCntDelete_DlgBodyCutDone","S’ha arxivat el programa correctament."
-"option.msbt.msbt/OptCntDelete_DlgBodyDelete","Se suprimiran les dades del programa."
-"option.msbt.msbt/OptCntDelete_DlgBodyDeleteCardOnly","Se suprimiran les dades relacionades amb aquest programa.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+"option.msbt.msbt/OptCntDelete_DlgBodyDelete","Se suprimiran les dades del programa.
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Les partides desades no se suprimiran.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+"option.msbt.msbt/OptCntDelete_DlgBodyDeleteCardOnly","Se suprimiran les dades relacionades amb aquest programa.
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Les partides desades no se suprimiran.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Les dades suprimides es poden tornar a baixar més tard."
 "option.msbt.msbt/OptCntDelete_DlgBodyDeleteDone","S’ha suprimit el programa correctament."
 "option.msbt.msbt/OptCntDelete_DlgBodyEjectCard","Suprimiu dades després d’extreure el cartutx."
@@ -3299,7 +3301,7 @@ Les captures de pantalla i els vídeos que feu es poden publicar després a les 
     {bytes:0E|00|01|00|06|00|00|00}SSID: {bytes:0E|00|02|00|08|00|04|00|00|00|00|00}
 Seguretat: WPA2-PSK (AES)
 Contrasenya: {bytes:0E|00|02|00|07|00|04|00|01|00|00|00}
-{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}La contrasenya serà diferent cada vegada que n’hàgiu d’introduir la configuració manualment.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}La contrasenya serà diferent cada vegada que n’hàgiu d’introduir la configuració manualment.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 ・{bytes:0E|00|01|00|06|00|00|00}Si el punt d’accés no canvia a la vostra consola Nintendo Switch, proveu de desactivar temporalment les dades mòbils al vostre dispositiu intel·ligent.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 ・{bytes:0E|00|01|00|06|00|00|00}Visiteu el lloc web d’assistència de Nintendo per a més informació.
 {bytes:0E|00|02|00|09|00|04|00|02|00|00|00}{bytes:0F|00|01|00|06|00}"
@@ -3719,7 +3721,7 @@ Es baixaran ara."
 {bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}L’actualització s’aturarà si el programa a què jugueu fa servir la comunicació sense fins o si s’actualitza un altre programa.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyNAErrorForMultipleUsers","Un usuari d’aquesta consola ha deixat de poder fer servir el seu compte de Nintendo.
 Accediu a la pàgina d’usuari corresponent al menú HOME i comproveu l’estat actual del compte de Nintendo.
-{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Quan no es pot fer servir un compte de Nintendo, es mostra  a la seva icona d’usuari del menú HOME.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Quan no es pot fer servir un compte de Nintendo, es mostra  a la seva icona d’usuari del menú HOME.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyNewData","Hi ha una nova actualització disponible.
 Es baixarà ara."
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyNoMain","Cal que tingueu el programa per a jugar-hi."
@@ -4158,7 +4160,7 @@ Notificacions ⇒ Configuració de les notificacions de les alarmes."
 "setting.msbt.msbt/SetCntController_BtnUsbConnection","{bytes:0E|00|00|00|02|00|02|00|64|00}Comunicació per cable amb el Controlador Pro{bytes:0E|00|00|00|02|00|02|00|64|00}"
 "setting.msbt.msbt/SetCntController_BtnVib","Vibració dels controladors"
 "setting.msbt.msbt/SetCntController_DlgBodyDeviceControllerOff","Només és possible prémer botons fent servir un controlador sense fils.
-{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Si reinicieu la consola o entra en mode d’espera, aquesta opció es tornarà a activar automàticament.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Si reinicieu la consola o entra en mode d’espera, aquesta opció es tornarà a activar automàticament.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "setting.msbt.msbt/SetCntController_DlgBodyUsbConnection","L’NFC del controlador no es pot fer servir durant la comunicació per cable.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Per a fer servir amiibo o altres accessoris compatibles amb NFC, desconnecteu el cable de càrrega USB i feu servir la comunicació sense fils."
 "setting.msbt.msbt/SetCntControllerDel_BodyExplain","Es desconnectaran tots els controladors i se suprimiran tots els emparellaments de controladors.
@@ -4337,7 +4339,8 @@ Es mostrarà a la part inferior de la llista quan seleccioneu manualment program
 "setting.msbt.msbt/SetCntDataMngSoft_BtnScan","Comprova si hi ha dades corruptes"
 "setting.msbt.msbt/SetCntDataMngSoft_DlgBodyDelete","S’arxivarà aquest programa.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Només en romandran les partides desades i la icona al menú HOME. Haureu de tornar a baixar el programa per a tornar-lo a fer servir."
-"setting.msbt.msbt/SetCntDataMngSoft_DlgBodyDeleteAll","Se suprimiran les dades del programa."
+"setting.msbt.msbt/SetCntDataMngSoft_DlgBodyDeleteAll","Software data will now be deleted.
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Les partides desades no se suprimiran.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "setting.msbt.msbt/SetCntDataMngSoft_DlgBodyDeleteAllFinished","S’han suprimit els programes."
 "setting.msbt.msbt/SetCntDataMngSoft_DlgBodyDeleteFinished","S’ha arxivat el programa."
 "setting.msbt.msbt/SetCntDataMngSoft_DlgBodyDeleting","S’estan arxivant els programes..."
@@ -4350,9 +4353,9 @@ Només en romandran les partides desades i la icona al menú HOME. Haureu de tor
 "setting.msbt.msbt/SetCntDataMngUSBTransfer_DlgBodyLowBattery","La bateria de la consola és baixa.
 Carregueu la consola."
 "setting.msbt.msbt/SetCntDataMngUSBTransfer_DlgBodyMiddleBattery","La bateria de la consola és baixa.
-{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Si la consola s’apaga, es desconnectarà de l’ordinador.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Si la consola s’apaga, es desconnectarà de l’ordinador.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "setting.msbt.msbt/SetCntDataMngUSBTransfer_DlgBodyUSBConnected","La vostra consola s’ha connectat a l’ordinador.
-{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}L’ordinador ha reconegut la consola. Feu servir l’ordinador per a seleccionar i copiar captures de pantalla i vídeos.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}L’ordinador ha reconegut la consola. Feu servir l’ordinador per a seleccionar i copiar captures de pantalla i vídeos.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "setting.msbt.msbt/SetCntDataMngUSBTransfer_DlgBodyUSBDisconnected","Connecteu la vostra consola Nintendo Switch a l’ordinador fent servir un cable USB."
 "setting.msbt.msbt/SetCntDataMngUSBTransfer_DlgBodyUSBDisconnectedReason","・{bytes:0E|00|01|00|06|00|00|00}Assegureu-vos que feu servir un cable USB capaç de transferir dades.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 ・{bytes:0E|00|01|00|06|00|00|00}Connecteu el port USB de la consola Nintendo Switch directament a l’ordinador. La funcionalitat de transferència de dades no funcionarà si connecteu el port USB de l’acoblador de la Nintendo Switch a l’ordinador.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
@@ -4381,7 +4384,7 @@ Assegureu-vos que la consola estigui en una superfície plana."
 "setting.msbt.msbt/SetCntDisplay_BtnSoundType_Value_Stereo","Estèreo"
 "setting.msbt.msbt/SetCntDock_BtnUpdate","Inicia l’actualització"
 "setting.msbt.msbt/SetCntDock_DlgBodyUpdating","S’està actualitzant l’acoblador...{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
-{bytes:0E|00|01|00|03|00|02|00|00|CD}Després d’actualitzar-lo, l’acoblador es reiniciarà. No toqueu l’acoblador ni la consola fins que no es completi el procés d’actualització.{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|03|CD}Després d’actualitzar-lo, l’acoblador es reiniciarà. No toqueu l’acoblador ni la consola fins que no es completi el procés d’actualització.{bytes:0F|00|01|00|03|00}"
 "setting.msbt.msbt/SetCntDock_TitleHeader","Actualitza l’acoblador"
 "setting.msbt.msbt/SetCntDock_Update","S’iniciarà l’actualització de l’acoblador.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 {bytes:0E|00|01|00|03|00|02|00|00|CD}Després d’actualitzar-lo, l’acoblador es reiniciarà. No toqueu l’acoblador ni la consola fins que no es completi el procés d’actualització.{bytes:0F|00|01|00|03|00}"
@@ -4649,7 +4652,7 @@ support.nintendo.com/switch/help"
 ・{bytes:0E|00|01|00|06|00|00|00}Nintendo pot identificar el vostre compte de Nintendo mitjançant aquest codi QR.{bytes:0F|00|01|00|06|00}
 ・{bytes:0E|00|01|00|06|00|00|00}En inscriure-us, podeu participar en promocions específiques, i és possible que rebeu correus electrònics relacionats amb aquestes promocions a les quals us heu inscrit. Reviseu la informació disponible a la ubicació.{bytes:0F|00|01|00|06|00}
 ・{bytes:0E|00|01|00|06|00|00|00}S’apliquen l’Acord del compte de Nintendo i la Política de privacitat.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
-{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Codi QR generat el: {bytes:0E|00|02|00|12|00|04|00|00|00|00|00}{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Codi QR generat el: {bytes:0E|00|02|00|12|00|04|00|00|00|00|00}{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "setting.msbt.msbt/SetCntPlayerNA_DlgBodyCheckInQR","{empty}"
 "setting.msbt.msbt/SetCntPlayerNA_DlgBodyDelPlaySoftLogComplete","S’ha suprimit l’historial."
 "setting.msbt.msbt/SetCntPlayerNA_DlgBodyDelPlaySoftLogConfirm","S’esborrarà la vostra activitat de joc."
@@ -4817,8 +4820,8 @@ l’adaptador de corrent"
 "setting.msbt.msbt/SetCntSupportErrList_BodyNoData","No s’ha produït cap error."
 "setting.msbt.msbt/SetCntSupportErrList_BtnErrTime","{bytes:0E|00|02|00|12|00|04|00|00|00|00|00}"
 "setting.msbt.msbt/SetCntSupportErrList_Title","Historial d’errors"
-"setting.msbt.msbt/SetCntSupportErrSendConfirm_DlgBody","Voleu enviar informes d’errors i informació de la configuració del sistema a Nintendo?
-{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Aquesta informació es farà servir per a la solució de problemes.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+"setting.msbt.msbt/SetCntSupportErrSendConfirm_DlgBody","Voleu enviar informes d’errors i informació de la configuració del sistema a Nintendo?{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Aquesta informació es pot compartir amb desenvolupadors de tercers els programes dels quals hagin tingut errors amb l’objectiu de fer-ne una anàlisi i millorar-los.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "setting.msbt.msbt/SetCntSupportErrSendConfirm_DlgBtnNotReport","Cancel·la"
 "setting.msbt.msbt/SetCntSupportErrSendConfirm_DlgBtnReport","Envia"
 "setting.msbt.msbt/SetCntSupportErrSendFailed_DlgBody","No s’ha pogut enviar la informació.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
@@ -4881,7 +4884,7 @@ Visiteu el lloc web d’assistència de Nintendo per a més informació.
 "setting.msbt.msbt/SetCntSysFormatAgreeOffline_BtnAgreeContinue","Continua"
 "setting.msbt.msbt/SetCntSysFormatSd_BtnCaution_Confirm","Formata"
 "setting.msbt.msbt/SetCntSysFormatSd_DlgBodyExFatSdInserted","Cal instal·lar una actualització del sistema per a utilitzar la targeta de memòria microSDXC.
-{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|46|00}Podeu executar l’actualització del sistema més tard seleccionant  (Configuració del sistema) ⇒ Sistema al menú HOME.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|46|00}Podeu executar l’actualització del sistema més tard seleccionant  (Configuració del sistema) ⇒ Sistema al menú HOME.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "setting.msbt.msbt/SetCntSysFormatSd_DlgBtnExFatSdInserted","Actualització del sistema"
 "setting.msbt.msbt/SetCntSysUpdate_BodyBgDownload","◆ {bytes:0E|00|01|00|06|00|00|00}La baixada continuarà encara que sortiu d’aquesta pantalla. Caldrà que actualitzeu el sistema quan acabi la baixada.{bytes:0F|00|01|00|06|00}"
 "setting.msbt.msbt/SetCntSysUpdate_BodyConfirm","Hi ha disponible una actualització del sistema. Seleccioneu Actualitza per a iniciar el procés."
@@ -5068,14 +5071,14 @@ Segur que voleu continuar?"
 "setting.msbt.msbt/SetReboot_CountDown_Three","tres segons"
 "setting.msbt.msbt/SetReboot_CountDown_Two","dos segons"
 "setting.msbt.msbt/SetRepair_DlgBodyDownload","Voleu sobreescriure les partides desades d’aquesta consola amb les partides desades restaurades?
-{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Se suprimiran les partides desades d’aquesta consola.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Se suprimiran les partides desades d’aquesta consola.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "setting.msbt.msbt/SetRepair_DlgBodyDownloadAll","Voleu sobreescriure les partides desades de tots els usuaris d’aquesta consola amb les partides desades restaurades?
-{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Se suprimiran les partides desades d’aquesta consola.
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Se suprimiran les partides desades d’aquesta consola.
 No és possible sobreescriure les partides desades només per a usuaris concrets.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "setting.msbt.msbt/SetRepair_DlgBodyDownloadOriginal","Voleu sobreescriure les partides desades d’aquesta consola amb les partides desades enviades a Nintendo?
-{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Se suprimiran les partides desades d’aquesta consola.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Se suprimiran les partides desades d’aquesta consola.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "setting.msbt.msbt/SetRepair_DlgBodyDownloadOriginalAll","Voleu sobreescriure les partides desades de tots els usuaris d’aquesta consola amb les partides desades enviades a Nintendo?
-{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Se suprimiran les partides desades d’aquesta consola.
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Se suprimiran les partides desades d’aquesta consola.
 No és possible sobreescriure les partides desades només per a usuaris concrets.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "setting.msbt.msbt/SetRepair_DlgBodyFinishRecving","S’han rebut les partides desades."
 "setting.msbt.msbt/SetRepair_DlgBodyFinishSending","S’han enviat les partides desades."
@@ -5097,7 +5100,7 @@ https://www.nintendo.co.jp/privacy/crossborder/"
 同じ目的で、国内または国外にあるそのソフトの提供元に送信させていただくことがあります｡{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 国外の送信先や個人情報保護に関する情報を、以下のウェブサイトに掲載しています（日本語のみ）。あらかじめご確認ください｡
 https://www.nintendo.co.jp/privacy/crossborder/
-{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}これらの事項については、このソフトのセーブデータを持つ他のすべてのユーザーに事前に了承を得てください｡{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}これらの事項については、このソフトのセーブデータを持つ他のすべてのユーザーに事前に了承を得てください｡{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "setting.msbt.msbt/SetRepair_DlgBodyUploadAllNoPolicy","{empty}"
 "setting.msbt.msbt/SetRepair_DlgBodyUploadNoPolicy","{empty}"
 "setting.msbt.msbt/SetRepair_DlgBtnCancel_AU","Cancel·la"
@@ -5170,13 +5173,13 @@ Voleu utilitzar-les?"
 "setting.msbt.msbt/SetStory_DlgBodyAutoDLOn","S’ha activat la baixada automàtica de partides desades en aquesta consola.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 La configuració d’altres consoles no canviarà. Si voleu actualitzar la configuració d’altres consoles, caldrà que ho feu separadament per a cada consola."
 "setting.msbt.msbt/SetStory_DlgBodyAutoDLPromotion","A més a més d’actualitzar les partides desades automàticament, podeu configurar-ho perquè les partides desades noves es baixin automàticament del servidor.
-{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Podeu canviar aquesta configuració més tard a  (Configuració del sistema) ⇒ Gestió de dades ⇒ Partides desades al núvol al menú HOME.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Podeu canviar aquesta configuració més tard a  (Configuració del sistema) ⇒ Gestió de dades ⇒ Partides desades al núvol al menú HOME.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "setting.msbt.msbt/SetStory_DlgBodyAutoDLPromotionOn","S’ha activat la baixada automàtica de partides desades.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 ・{bytes:0E|00|01|00|06|00|00|00}Caldrà que baixeu les partides desades manualment el primer cop.{bytes:0F|00|01|00|06|00}
 ・{bytes:0E|00|01|00|06|00|00|00}Si voleu activar aquesta funcionalitat en altres consoles, haureu de fer-ho per separat a la configuració de cada consola.{bytes:0F|00|01|00|06|00}
 　{bytes:0E|00|01|00|06|00|00|00}{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Podeu fer-ho a  (Configuració del sistema) ⇒ Gestió de dades ⇒ Partides desades al núvol al menú HOME.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}{bytes:0F|00|01|00|06|00}"
 "setting.msbt.msbt/SetStory_DlgBodyConfirmStatusUpdate","La consola es connectarà a Internet i actualitzarà l’estat de les dades.
-{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Pot tardar una estona.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Pot tardar una estona.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "setting.msbt.msbt/SetStory_DlgBodyLastErrorCheck_DL","L’anterior intent de baixada ha fallat.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Vegeu els detalls de l’error i seleccioneu Baixa les partides desades per a tornar-ho a provar."
 "setting.msbt.msbt/SetStory_DlgBodyLastErrorCheck_UL","L’anterior intent de fer una còpia de seguretat ha fallat.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
@@ -5438,7 +5441,7 @@ que us pot identificar s’enviaran a Nintendo.
 Pel mateix motiu, la informació anterior s’enviarà
 als desenvolupadors d’aquest programa, que poden
 residir dins o fora del vostre país.
-{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Per als propòsits detallats, adquiriu el consentiment
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Per als propòsits detallats, adquiriu el consentiment
 per a tots els usuaris que tinguin partides desades
 d’aquest programa.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "cldr.msbt.msbt/Africa/Brazzaville,Africa/Algiers","Brazzaville, Alger"
@@ -5450,7 +5453,7 @@ d’aquest programa.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|0
 "cldr.msbt.msbt/America/Lima,America/Guayaquil,America/Rio_Branco","Lima, Quito, Rio Branco"
 "cldr.msbt.msbt/America/New_York,America/Toronto,America/Toronto","Nova York, Montreal, Toronto"
 "cldr.msbt.msbt/America/Ojinaga","Ojinaga"
-"cldr.msbt.msbt/America/Phoenix,America/Mazatlan","Phoenix, Mazatlán"
+"cldr.msbt.msbt/America/Phoenix,America/Mazatlan","Phoenix, Vancouver, Mazatlán"
 "cldr.msbt.msbt/Asia/Dhaka","Dhaka"
 "cldr.msbt.msbt/Asia/Riyadh","Riad"
 "cldr.msbt.msbt/Atlantic/Reykjavik","Reykjavik"
@@ -5507,7 +5510,7 @@ per a enviar les dades al servidor."
 "dataTransfer.msbt.msbt/Dtt_CancelLogin_BtnNext","Inicia la sessió"
 "dataTransfer.msbt.msbt/Dtt_CancelProgress_BodyMain","Les dades del servidor s’estan retornant a aquesta consola."
 "dataTransfer.msbt.msbt/Dtt_CancelProgress_DlgBody_Reboot","La consola es reiniciarà perquè s’ha produït un error."
-"dataTransfer.msbt.msbt/Dtt_Cloud_DlgBody_SameDevice","Totes les dades d’aquesta consola s’han enviat al servidor.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+"dataTransfer.msbt.msbt/Dtt_Cloud_DlgBody_SameDevice","Les dades d’aquesta consola ja s’han enviat al servidor.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Rebeu les dades fent servir una consola Nintendo {bytes:0E|00|01|00|04|00|00|00}Switch 2{bytes:0F|00|01|00|04|00} i torneu-ho a provar."
 "dataTransfer.msbt.msbt/Dtt_Cloud_DlgBody_Unavailable","No és possible fer una transferència del sistema a una consola Nintendo {bytes:0E|00|01|00|04|00|00|00}Switch 2{bytes:0F|00|01|00|04|00} (en llengua japonesa i exclusiva per al Japó) si la consola té un o més comptes de Nintendo no japonesos."
 "dataTransfer.msbt.msbt/Dtt_CloudAcknowledgement_BtnNext","Següent"
@@ -5624,8 +5627,8 @@ Registreu els programes a la Nintendo eShop abans de continuar la transferència
 "dataTransfer.msbt.msbt/Dtt_SupportUrl_Compatibility_Short_KR","support.nintendo.com/switch2/compatibility"
 "dataTransfer.msbt.msbt/Dtt_SupportUrl_Compatibility_Short_Others","support.nintendo.com/switch2/compatibility"
 "dataTransfer.msbt.msbt/Dtt_SupportUrl_Compatibility_Short_US","support.nintendo.com/switch2/compatibility"
-"dataTransfer.msbt.msbt/Dtt_SupportUrl_Full","https://www.region-selector-support.nintendo.com?q=MT-10002"
-"dataTransfer.msbt.msbt/Dtt_SupportUrl_Short","support.nintendo.com"
+"dataTransfer.msbt.msbt/Dtt_SupportUrl_Full","https://support.nintendo.com/systemtransfer"
+"dataTransfer.msbt.msbt/Dtt_SupportUrl_Short","support.nintendo.com/systemtransfer"
 "dataTransfer.msbt.msbt/Dtt_SysFormat_Complete_Body","S’ha restaurat la configuració de fàbrica.
 La consola s’apagarà d’aquí a uns segons."
 "dataTransfer.msbt.msbt/Dtt_SysFormat_Header","Restaura la configuració de fàbrica"
@@ -5725,8 +5728,8 @@ les partides desades"
 Feu el següent:{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 ・{bytes:0E|00|01|00|06|00|00|00}Comproveu que hàgiu iniciat la sessió amb el mateix compte de Nintendo que s’ha utilitzat per a enviar les dades al servidor.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 ・{bytes:0E|00|01|00|06|00|00|00}Comproveu que no hagi passat la data de caducitat de l’emmagatzematge de les dades.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}"
-"dataTransfer.msbt.msbt/Dtt_Cloud_DlgBody_ReachedLimit","Les dades d’aquest usuari no es poden enviar al servidor.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
-Les dades del mateix usuari només es poden enviar de tres consoles. Les dades d’aquest usuari ja s’han enviat al servidor de tres altres consoles.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+"dataTransfer.msbt.msbt/Dtt_Cloud_DlgBody_ReachedLimit","Aquest usuari no pot enviar dades al servidor.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Es poden enviar al servidor dades de fins a tres consoles. Aquest usuari ja ha enviat dades de tres altres consoles.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Rebeu les dades fent servir una consola Nintendo {bytes:0E|00|01|00|04|00|00|00}Switch 2{bytes:0F|00|01|00|04|00} i torneu-ho a provar."
 "dataTransfer.msbt.msbt/Dtt_CloudAcknowledgement_BodyMain","■ {bytes:0E|00|01|00|06|00|00|00}Informació important relativa a les dades dels usuaris{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 　{bytes:0E|00|01|00|06|00|00|00}Abans de fer una transferència del sistema, assegureu-vos que tots els usuaris d’aquesta consola, inclòs vós, tinguin en compte la següent informació:{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
@@ -5885,10 +5888,10 @@ La consola es connectarà a Internet per a tornar-ho a comprovar."
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyDeleteAocAndPlay","Alguns continguts descarregables no són jugables perquè cap usuari d’aquesta consola en té el cartutx virtual corresponent.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Voleu suprimir les dades no jugables i iniciar el programa?"
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyLendingRights","No es pot jugar a aquest programa fent servir una llicència en línia perquè s’ha prestat el cartutx virtual a un membre del grup familiar.
-{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Podeu recuperar-lo a  (Cartutxos virtuals) al
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Podeu recuperar-lo a  (Cartutxos virtuals) al
 menú HOME.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyLendingRightsAoC","No es pot jugar a alguns continguts descarregables perquè s’ha prestat el cartutx virtual a un membre del grup familiar.
-{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Podeu recuperar-lo a  (Cartutxos virtuals) al
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Podeu recuperar-lo a  (Cartutxos virtuals) al
 menú HOME.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyNoRightsPatch","La consola es connectarà a Internet per a comprovar si les dades de l’actualització es poden fer servir."
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyNoVgcAoC","No hi ha cap cartutx virtual que es pugui carregar en aquesta consola."
@@ -5933,9 +5936,9 @@ Torneu-ho a provar."
 "qlaunch.msbt.msbt/Vgc_DeviceModelEmpty"," "
 "qlaunch.msbt.msbt/Vgc_ThisDevice","Aquesta consola"
 "qlaunch.msbt.msbt/VgcApprove_DlgBody_Complete_ToLend","S’ha completat l’emparellament.
-{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}No mogueu aquesta consola.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}No mogueu aquesta consola.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "qlaunch.msbt.msbt/VgcApprove_DlgBody_Progress","S’està emparellant...
-{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Mantingueu les consoles a prop.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Mantingueu les consoles a prop.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "qlaunch.msbt.msbt/VgcApprove_DlgBody_ReConnectFailure","Hi ha hagut un problema de connexió.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Comproveu l’estat de l’emparellament a l’altra consola."
 "qlaunch.msbt.msbt/VgcApprove_DlgBtnBackToHome","Menú HOME"
@@ -5945,7 +5948,7 @@ Comproveu l’estat de l’emparellament a l’altra consola."
 "qlaunch.msbt.msbt/VgcApprove_DlgBtn_Start","Inicia l’emparellament"
 "qlaunch.msbt.msbt/VgcApproveOnBorrow_DlgBtnBackToHome","Menú HOME"
 "qlaunch.msbt.msbt/VgcCheck_DlgBody_Complete","S’ha completat l’emparellament.
-{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Ara es poden carregar cartutxos virtuals.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Ara es poden carregar cartutxos virtuals.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "qlaunch.msbt.msbt/VgcCheck_DlgBody_ConnectStep1","Obriu  (Cartutxos virtuals) al menú HOME i seleccioneu el mateix usuari ({bytes:0E|00|02|00|04|00|04|00|00|00|00|00})."
 "qlaunch.msbt.msbt/VgcCheck_DlgBody_ConnectStep2","Hauria d’aparèixer automàticament una pantalla amb instruccions. Seleccioneu-hi Inicia l’emparellament."
 "qlaunch.msbt.msbt/VgcCheck_DlgBody_DeviceNotFound","No s’ha pogut trobar l’altra consola.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
@@ -5953,7 +5956,7 @@ Torneu-ho a provar."
 "qlaunch.msbt.msbt/VgcCheck_DlgBody_FailureNoInternet","No s’ha pogut connectar a Internet.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Reviseu la configuració de connexió i torneu-ho a provar."
 "qlaunch.msbt.msbt/VgcCheck_DlgBody_Progress","S’està emparellant...
-{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Mantingueu les consoles a prop.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Mantingueu les consoles a prop.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "qlaunch.msbt.msbt/VgcCheck_DlgBody_Start","S’està preparant per a l’emparellament..."
 "qlaunch.msbt.msbt/VgcCheck_DlgBody_Start_ToBorrow","Les consoles s’emparellaran abans que es rebi el cartutx virtual."
 "qlaunch.msbt.msbt/VgcCheck_DlgBtn_DeviceReady","Les consoles estan a prop"
@@ -6002,7 +6005,7 @@ Desemparelleu la consola emparellada i torneu-ho a provar."
 "qlaunch.msbt.msbt/VgcRegister_DlgBtnCancel","Cancel·la"
 "qlaunch.msbt.msbt/VgcRegister_DlgBtnNext","Següent"
 "qlaunch.msbt.msbt/VgcUnregister_DlgBody_Complete","S’ha desemparellat correctament.
-{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Ara s’iniciarà el procés d’emparellament amb aquesta consola.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Ara s’iniciarà el procés d’emparellament amb aquesta consola.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "qlaunch.msbt.msbt/VgcUnregister_DlgBody_Progress","S’està desemparellant..."
 "qlaunch.msbt.msbt/VgcUnregister_DlgBtnCancel","Cancel·la"
 "qlaunch.msbt.msbt/VgcUnregister_DlgBtnUnregister","Desemparella"
@@ -6080,7 +6083,7 @@ Visiteu el lloc web d’assistència de Nintendo per a més informació.
 "vgc.msbt.msbt/VgcBorrow_DlgBody_ReConnectFailure","No s’ha pogut agafar en préstec el cartutx virtual.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Confirmeu que la vostra consola estigui connectada a Internet i torneu-ho a provar."
 "vgc.msbt.msbt/VgcBorrow_DlgBody_Start","Voleu agafar en préstec aquest cartutx virtual?
-{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Acosteu les consoles i continueu.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Acosteu les consoles i continueu.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "vgc.msbt.msbt/VgcBorrow_DlgBtn_Start","Agafa en préstec"
 "vgc.msbt.msbt/VgcBorrow_DlgBtnInsert","Agafa en préstec"
 "vgc.msbt.msbt/VgcBorrow_Header","Agafa en préstec d’un membre del grup familiar"
@@ -6097,7 +6100,7 @@ Els detalls de l’error es mostraran a la següent pantalla."
 "vgc.msbt.msbt/VgcBulkInsert_DlgBody_AllErrorPlaying","No s’han pogut extreure els cartutxos virtuals perquè s’hi està jugant.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Tanqueu els programes i torneu-ho a provar."
 "vgc.msbt.msbt/VgcBulkInsert_DlgBody_Complete","{bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}{plurals: cartutx virtual carregat| cartutxos virtuals carregats}.
-{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Podreu jugar als cartutxos virtuals tan bon punt se n’acabin de baixar les dades necessàries.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Podreu jugar als cartutxos virtuals tan bon punt se n’acabin de baixar les dades necessàries.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "vgc.msbt.msbt/VgcBulkInsert_DlgBody_CompleteNoDownload","{bytes:0E|00|02|00|0D|00|04|00|00|00|00|00}{plurals: cartutx virtual carregat| cartutxos virtuals carregats}."
 "vgc.msbt.msbt/VgcBulkInsert_DlgBody_Leaving","Voleu tornar endarrere sense carregar cap cartutx virtual?"
 "vgc.msbt.msbt/VgcBulkInsert_DlgBody_LimitNum","Només podeu carregar fins a 30 cartutxos virtuals alhora."
@@ -6134,7 +6137,7 @@ Tanqueu els programes i torneu-ho a provar."
 "vgc.msbt.msbt/VgcDetail_DlgBody_StartDownload","S’han començat a baixar les dades.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Podeu comprovar l’estat de la baixada al menú HOME."
 "vgc.msbt.msbt/VgcDetail_DlgBodyEject","S’extraurà el cartutx virtual d’aquesta consola.
-{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Les partides desades del joc romandran a la vostra consola. Podreu continuar jugant d’on ho hàgiu deixat si torneu a carregar el cartutx virtual.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Les partides desades del joc romandran a la vostra consola. Podreu continuar jugant d’on ho hàgiu deixat si torneu a carregar el cartutx virtual.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "vgc.msbt.msbt/VgcDetail_DlgBtnHide","Amaga"
 "vgc.msbt.msbt/VgcDetail_DlgExBtn_Shop","Nintendo eShop"
 "vgc.msbt.msbt/VgcDetail_OptionBtn_Eject","Extreu d’aquesta consola"
@@ -6170,16 +6173,16 @@ tornat a la normalitat.{bytes:0E|00|00|00|02|00|02|00|64|00}"
 "qlaunch.msbt.msbt/VgcInsert_DlgBody_PartialIncompatible","Aquest cartutx virtual conté contingut que només està disponible en una Nintendo {bytes:0E|00|01|00|04|00|00|00}Switch 2{bytes:0F|00|01|00|04|00}, de manera que part del contingut pot no ser jugable.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Voleu carregar-lo igualment en aquesta consola?"
 "qlaunch.msbt.msbt/VgcRegister_DlgBody_StartInsertRemotely","Per a poder carregar cartutxos virtuals en una altra consola, primer cal que aquesta consola s’hi emparelli. El procés d’emparellament només s’ha de fer una vegada.
-{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Només és possible emparellar una consola amb una altra consola per a cada compte de Nintendo.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Només és possible emparellar una consola amb una altra consola per a cada compte de Nintendo.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "qlaunch.msbt.msbt/VgcUnregister_DlgBody_Start","Seleccioneu una consola per a desemparellar-la.
-{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Si desemparelleu una consola, se n’extrauran tots els cartutxos virtuals.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Si desemparelleu una consola, se n’extrauran tots els cartutxos virtuals.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "setting.msbt.msbt/SetCntPlayerNA_DlgBodyAccountInfoMain","Podeu comprovar la informació del vostre compte de Nintendo al lloc web del compte de Nintendo.{bytes:0E|00|00|00|02|00|02|00|50|00}
 {bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Per a fer-ho, accediu a l’URL anterior fent servir un ordinador o un dispositiu intel·ligent.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "setting.msbt.msbt/SetCntPlayerNA_DlgBtnShowOnDevice","Comprova fent servir aquesta consola"
 "splay.msbt.msbt/Splay_DlgBody_ParentalControlRating","No podeu jugar a aquest programa."
 "splay.msbt.msbt/SplayGuest_DlgBodyCannotReceive","Aquesta invitació a GameShare no es pot acceptar fent servir una consola Nintendo Switch."
 "migration.msbt.msbt/SaveMove2SelectData_DlgBodyMain","S’enviaran les partides desades dels següents programes.
-{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Les partides desades enviades se suprimiran d’aquesta consola.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Les partides desades enviades se suprimiran d’aquesta consola.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "myPage.msbt.msbt/FrdDetail_Frd_PresenceOn_PlatformNx","En línia (Nintendo Switch)"
 "option.msbt.msbt/OptCntOther_DlgBodyNoSetVGC_RealGC","El cartutx virtual no està carregat en aquesta consola.
 {bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}El cartutx físic està inserit.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
@@ -6192,23 +6195,23 @@ allargat.{bytes:0E|00|00|00|02|00|02|00|64|00}"
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyNoVgcAocResume_ErrorNA","No hi ha cap cartutx virtual que es pugui carregar en aquesta consola.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Si els vostres cartutxos virtuals no es mostren, comproveu  (Cartutxos virtuals) al menú HOME."
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyVgcLending","Aquest cartutx virtual s’ha prestat a un membre del grup familiar.
-{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Podeu recuperar-lo a  (Cartutxos virtuals) al
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Podeu recuperar-lo a  (Cartutxos virtuals) al
 menú HOME.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "qlaunch.msbt.msbt/VgcApprove_DlgBody_Complete","S’ha completat l’emparellament.
-{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Continueu el procés a la consola d’origen.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Continueu el procés a la consola d’origen.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "qlaunch.msbt.msbt/VgcApprove_DlgBody_Connect","S’està cercant la consola de l’altre usuari...
-{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Acosteu les consoles i espereu.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Acosteu les consoles i espereu.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "qlaunch.msbt.msbt/VgcApprove_DlgBody_Start","Llest per a començar el procés d’emparellament.
-{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Acosteu les consoles i continueu.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Acosteu les consoles i continueu.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "qlaunch.msbt.msbt/VgcCheck_DlgBody_Help","Per a poder emparellar les consoles, caldrà que les acosteu perquè es puguin connectar.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Si la consola que es mostra no es pot fer servir perquè l’heu perduda o està dnayada, desemparelleu-la fent servir un ordinador o un dispositiu intel·ligent.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Visiteu el lloc web d’assistència de Nintendo per a més informació.
 {bytes:0E|00|02|00|09|00|04|00|00|00|00|00}"
 "qlaunch.msbt.msbt/VgcD1Disable_DlgBody_AskNup","Hi ha una altra consola Nintendo Switch definida com a consola principal del vostre compte de Nintendo.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Instal·leu una actualització del sistema en aquella consola.
-{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Podeu instal·lar l’actualització del sistema a  (Configuració del sistema) ⇒ Sistema al menú HOME de la consola.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Podeu instal·lar l’actualització del sistema a  (Configuració del sistema) ⇒ Sistema al menú HOME de la consola.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "qlaunch.msbt.msbt/VgcInsert_DlgBody_Complete","Heu carregat aquest cartutx virtual.
-{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Podreu jugar a aquest joc tan bon punt acabin de baixar-se’n les dades.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Podreu jugar a aquest joc tan bon punt acabin de baixar-se’n les dades.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "setting.msbt.msbt/SetCntHardware_BtnDtt","Transferència del sistema a la Nintendo {bytes:0E|00|01|00|04|00|00|00}Switch 2{bytes:0F|00|01|00|04|00}"
 "playerSelect.msbt.msbt/PselCheckRights_DlgBodyNoRightsVgc","Aquest usuari no pot jugar a aquest programa.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 És possible que el programa esdevingui jugable si obriu
@@ -6222,19 +6225,19 @@ Visiteu el lloc web d’assistència de Nintendo per a més informació.
 "playerSelect.msbt.msbt/PselLR_Guide_HeaderTxt_Trial_Free","Cal una subscripció de pagament a Nintendo Switch Online per a començar l’esdeveniment de jocs de mostra per a aquest programa. Podeu provar el servei amb una prova gratuïta."
 "playerSelect.msbt.msbt/PselSel_BodyTop_LaunchApplication","Qui farà servir el programa?"
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyAoCRightsNoOnlineLicense","No es pot jugar a alguns continguts descarregables.
-{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Si teniu el cartutx virtual d’aquest programa, podreu jugar-hi si carregueu el cartutx virtual en aquesta consola a {bytes:0E|00|01|00|04|00|00|00} (Cartutxos virtuals){bytes:0F|00|01|00|04|00} al menú HOME.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Si teniu el cartutx virtual d’aquest programa, podreu jugar-hi si carregueu el cartutx virtual en aquesta consola a {bytes:0E|00|01|00|04|00|00|00} (Cartutxos virtuals){bytes:0F|00|01|00|04|00} al menú HOME.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyAoCRightsNoOnlineLicenseDetail","No es pot jugar a aquest joc si el cartutx virtual no es carrega en aquesta consola perquè algun contingut descarregable ha estat comprat per un altre usuari.
 {bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Només l’usuari que ha comprat aquest contingut pot jugar-hi fent servir la llicència en línia.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Podeu elegir suprimir el contingut descarregable al qual no podeu jugar i iniciar el programa.
 {bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Tingueu en compte que si suprimiu el contingut descarregable, altres usuaris d’aquesta consola ja no podran fer-lo servir.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyRightsNoOnlineLicense","No es pot jugar a aquest programa fent servir una llicència en línia.
-{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Si teniu el cartutx virtual d’aquest programa, podreu jugar-hi si carregueu el cartutx virtual en aquesta consola a {bytes:0E|00|01|00|04|00|00|00} (Cartutxos virtuals){bytes:0F|00|01|00|04|00} al menú HOME.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Si teniu el cartutx virtual d’aquest programa, podreu jugar-hi si carregueu el cartutx virtual en aquesta consola a {bytes:0E|00|01|00|04|00|00|00} (Cartutxos virtuals){bytes:0F|00|01|00|04|00} al menú HOME.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "qlaunch.msbt.msbt/QlcVgcSelect_SubAoCUpg","Paquet de millora i contingut descarregable"
 "qlaunch.msbt.msbt/VgcApproveOnBorrow_DlgBody_BorrowerNAError","L’emparellament ha fallat perquè el {bytes:0E|00|01|00|04|00|00|00}compte de Nintendo{bytes:0F|00|01|00|04|00} de l’altre usuari no es pot fer servir.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Seleccioneu la pàgina de {bytes:0E|00|02|00|04|00|04|00|00|00|00|00} al menú HOME d’aquesta consola i comproveu l’estat actual del {bytes:0E|00|01|00|04|00|00|00}compte de Nintendo{bytes:0F|00|01|00|04|00}.
-{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Quan un compte de Nintendo no es pot fer servir, s’hi mostra  a la icona d’usuari del menú HOME.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Quan un compte de Nintendo no es pot fer servir, s’hi mostra  a la icona d’usuari del menú HOME.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "qlaunch.msbt.msbt/VgcCheck_DlgBody_Complete_ToBorrow","S’ha completat l’emparellament.
-{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Ara es rebrà el cartutx virtual.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Ara es rebrà el cartutx virtual.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "qlaunch.msbt.msbt/VgcPurchased_DlgBody_Complete","S’ha carregat correctament!
 {bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Podreu jugar-hi tan bon punt acabin de baixar-se’n les dades.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "qlaunch.msbt.msbt/VgcPurchased_DlgBody_Whatis","Rebreu un cartutx virtual si compreu programes digitals a la Nintendo eShop.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
@@ -6246,11 +6249,11 @@ Assegureu-vos que la consola estigui connectada a Internet i torneu-ho a provar.
 "setting.msbt.msbt/SetCntSup_BodyNPNSLastNotifiedTime","⑨ {bytes:0E|00|02|00|08|00|04|00|00|00|00|00}"
 "setting.msbt.msbt/SetStory_BodyIncompatible","{bytes:0E|00|01|00|06|00|00|00} Aquestes partides desades són de programes que no són compatibles amb aquesta consola.{bytes:0F|00|01|00|06|00}"
 "splay.msbt.msbt/SplayGuest_DlgBodyControllerDisconnected","S’ha perdut la connexió amb el controlador.
-{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Premeu un botó al controlador que vulgueu fer servir.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Premeu un botó al controlador que vulgueu fer servir.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "splay.msbt.msbt/SplayGuest_HeaderHowToStart","Un usuari de Nintendo {bytes:0E|00|01|00|04|00|00|00}Switch 2{bytes:0F|00|01|00|04|00} pot compartir un joc que ho suporti fent el següent a la seva consola:{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 {bytes:0E|00|00|00|02|00|02|00|50|00}① Iniciar el joc al menú HOME.
 ② Iniciar GameShare dins d’aquell joc.{bytes:0E|00|00|00|02|00|02|00|64|00}"
-"setting.msbt.msbt/SetCntPlayerNALicense_BodyCheckLicense","Si activeu aquesta opció, els programes digitals que compreu seran jugables mentre la consola estigui connectada a Internet, fins i tot quan el cartutx virtual d’aquell programa no estigui carregat a la consola. No obstant això, quan feu servir una llicència en línia, només l’usuari associat al compte de Nintendo amb què es va comprar el programa hi podrà jugar. No serà jugable per a altres usuaris de la consola.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+"setting.msbt.msbt/SetCntPlayerNALicense_BodyCheckLicense","Si activeu aquesta opció, els programes digitals que compreu seran jugables mentre la consola estigui connectada a Internet, fins i tot quan el cartutx virtual d’aquell programa no estigui carregat a la consola. No obstant això, només l’usuari que hagi comprat el programa hi podrà jugar utilitzant-ne la llicència en línia.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 ◆{bytes:0E|00|01|00|06|00|00|00} Els vostres cartutxos virtuals es poden fer servir per a jugar a programes independentment d’aquesta opció.{bytes:0F|00|01|00|06|00}
 ◆{bytes:0E|00|01|00|06|00|00|00} Les llicències en línia no es poden fer servir en múltiples consoles al mateix temps.{bytes:0F|00|01|00|06|00}
 ◆{bytes:0E|00|01|00|06|00|00|00} La llicència en línia i el cartutx virtual d’un programa no es poden fer servir al mateix temps.{bytes:0F|00|01|00|06|00}"
@@ -6265,11 +6268,11 @@ Caldrà que feu servir una consola Nintendo {bytes:0E|00|01|00|04|00|00|00}Switc
 {bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Podreu jugar a aquest joc tan bon punt acabin de baixar-se’n les dades.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "vgc.msbt.msbt/VgcDetail_DlgBody_Info","■ Títol/Editor{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 　{bytes:0E|00|01|00|06|00|00|00}{bytes:0E|00|02|00|0B|00|04|00|00|00|00|00}{bytes:0F|00|01|00|06|00}
-　{bytes:0E|00|00|00|02|00|02|00|50|00}{bytes:0E|00|01|00|06|00|00|00}{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|02|00|0A|00|04|00|01|00|00|00}{bytes:0F|00|01|00|03|00}{bytes:0F|00|01|00|06|00}{bytes:0E|00|00|00|02|00|02|00|64|00}
+　{bytes:0E|00|00|00|02|00|02|00|50|00}{bytes:0E|00|01|00|06|00|00|00}{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|02|00|0A|00|04|00|01|00|00|00}{bytes:0F|00|01|00|03|00}{bytes:0F|00|01|00|06|00}{bytes:0E|00|00|00|02|00|02|00|64|00}
 
 ■ Estat{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 　{bytes:0E|00|01|00|06|00|00|00}{bytes:0E|00|02|00|0A|00|04|00|02|00|00|00}{bytes:0F|00|01|00|06|00}
-　{bytes:0E|00|00|00|02|00|02|00|50|00}{bytes:0E|00|01|00|06|00|00|00}{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|02|00|08|00|04|00|03|00|00|00}{bytes:0F|00|01|00|03|00}{bytes:0F|00|01|00|06|00}{bytes:0E|00|00|00|02|00|02|00|64|00}"
+　{bytes:0E|00|00|00|02|00|02|00|50|00}{bytes:0E|00|01|00|06|00|00|00}{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|02|00|08|00|04|00|03|00|00|00}{bytes:0F|00|01|00|03|00}{bytes:0F|00|01|00|06|00}{bytes:0E|00|00|00|02|00|02|00|64|00}"
 "vgc.msbt.msbt/VgcHelpDlg_BodyText_Help1","Aquí podeu veure els vostres cartutxos virtuals. Qualsevol programa
 digital que compreu es mostrarà aquí com a cartutx virtual."
 "splay.msbt.msbt/SplayGuest_DlgBodyUpdateHost","Cal que {bytes:0E|00|02|00|04|00|04|00|00|00|00|00} actualitzi la seva consola perquè pugueu fer-hi servir GameShare.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
@@ -6284,7 +6287,7 @@ Retorneu el cartutx virtual que us han prestat i torneu-ho a provar."
 Comproveu que l’altra consola estigui connectada a Internet i torneu-ho a provar."
 "vgc.msbt.msbt/VgcDetail_ActionBtn_InsertRemotely","Carrega en una altra consola"
 "vgc.msbt.msbt/VgcDetail_DlgBody_HideVgc","Si amagueu aquest cartutx virtual, ja no es mostrarà a la vostra llista de cartutxos virtuals.
-{bytes:0E|00|00|00|02|00|02|00|50|00}{bytes:0E|00|01|00|03|00|02|00|00|CD}Podeu veure els cartutxos virtuals amagats seleccionant «No trobeu un programa en concret?» sota la llista de cartutxos virtuals.{bytes:0F|00|01|00|03|00}{bytes:0E|00|00|00|02|00|02|00|64|00}"
+{bytes:0E|00|00|00|02|00|02|00|50|00}{bytes:0E|00|01|00|03|00|02|00|03|CD}Podeu veure els cartutxos virtuals amagats seleccionant «No trobeu un programa en concret?» sota la llista de cartutxos virtuals.{bytes:0F|00|01|00|03|00}{bytes:0E|00|00|00|02|00|02|00|64|00}"
 "vgc.msbt.msbt/VgcHelpDlg_BodyText_Help2","Podreu jugar a un joc si en carregueu el cartutx virtual.
 {bytes:0E|00|00|00|02|00|02|00|50|00}{bytes:0E|00|01|00|03|00|02|00|00|CD}Quan hàgiu carregat un cartutx virtual, podreu jugar al joc sense connexió a Internet, i la resta d’usuaris d’aquesta consola també hi podran jugar.{bytes:0F|00|01|00|03|00}{bytes:0E|00|00|00|02|00|02|00|64|00}"
 "vgc.msbt.msbt/VgcHelpDlg_BodyText_Help3-2","・{bytes:0E|00|01|00|06|00|00|00}Els cartutxos virtuals es poden prestar fins a 14 dies
@@ -6300,13 +6303,13 @@ No el podeu agafar en préstec perquè no és compatible amb aquesta consola."
 "vgc.msbt.msbt/VgcBorrow_DlgBody_PartialIncompatible","Aquest cartutx virtual conté contingut que només està disponible a la Nintendo {bytes:0E|00|01|00|04|00|00|00}Switch 2{bytes:0F|00|01|00|04|00}, de manera que alguns continguts poden no ser jugables a la Nintendo Switch.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Voleu agafar-lo en préstec igualment?"
 "vgc.msbt.msbt/VgcBulkEject_DlgBody_Confirm","S’extrauran tots els vostres cartutxos virtuals que estiguin carregats en aquesta consola.
-{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Les partides desades dels jocs romandran a la vostra consola. Podreu continuar jugant d’on ho hàgiu deixat si torneu a carregar el cartutx virtual.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Les partides desades dels jocs romandran a la vostra consola. Podreu continuar jugant d’on ho hàgiu deixat si torneu a carregar el cartutx virtual.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "vgc.msbt.msbt/VgcDetail_Body_RetrieveDate","Fins a {bytes:0E|00|02|00|12|00|04|00|00|00|00|00}"
 "vgc.msbt.msbt/VgcDetail_DlgBody_Downloaded","S’han baixat totes les dades."
 "vgc.msbt.msbt/VgcTop_Btn_HelpToFindAnySoft","No trobeu un programa en concret?"
 "vgc.msbt.msbt/VgcDetail_DlgBody_InfoSettingStatusFree","■ Títol/Editor{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 　{bytes:0E|00|01|00|06|00|00|00}{bytes:0E|00|02|00|0B|00|04|00|00|00|00|00}{bytes:0F|00|01|00|06|00}
-　{bytes:0E|00|00|00|02|00|02|00|50|00}{bytes:0E|00|01|00|06|00|00|00}{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|02|00|0A|00|04|00|01|00|00|00}{bytes:0F|00|01|00|03|00}{bytes:0F|00|01|00|06|00}{bytes:0E|00|00|00|02|00|02|00|64|00}
+　{bytes:0E|00|00|00|02|00|02|00|50|00}{bytes:0E|00|01|00|06|00|00|00}{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|02|00|0A|00|04|00|01|00|00|00}{bytes:0F|00|01|00|03|00}{bytes:0F|00|01|00|06|00}{bytes:0E|00|00|00|02|00|02|00|64|00}
 
 ■ Estat{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 　{bytes:0E|00|01|00|06|00|00|00}No carregat en cap consola{bytes:0F|00|01|00|06|00}"
@@ -6331,15 +6334,15 @@ virtuals fent servir un navegador web.
 "vgc.msbt.msbt/VgcInsertR_Btn_HowToPairing","Com emparellar"
 "vgc.msbt.msbt/VgcInsertR_DlgBody_CompleteNoEject","Heu carregat aquest cartutx virtual a l’altra consola."
 "vgc.msbt.msbt/VgcInsertR_DlgBody_Confirm","Es carregarà el cartutx virtual a l’altra consola.
-{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}El cartutx virtual es pot carregar en qualsevol consola emparellada.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}El cartutx virtual es pot carregar en qualsevol consola emparellada.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "vgc.msbt.msbt/VgcInsertR_DlgBody_ConfirmWithEject","El cartutx virtual s’extraurà d’aquesta consola i es carregarà a l’altra.
-{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}El cartutx virtual es pot carregar en qualsevol consola emparellada.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}El cartutx virtual es pot carregar en qualsevol consola emparellada.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "vgc.msbt.msbt/VgcInsertR_DlgBody_GuideA1","No hi ha cap altra consola on es pugui carregar el cartutx virtual.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 En lloc d’això, feu servir la consola on vulgueu carregar el cartutx virtual."
 "vgc.msbt.msbt/VgcInsertR_DlgBody_GuideB1","No hi ha cap altra consola on es pugui carregar el cartutx virtual.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Caldrà que emparelleu aquesta consola amb la consola on vulgueu carregar el cartutx virtual."
 "vgc.msbt.msbt/VgcInsertR_DlgBody_GuideD2","En lloc d’això, feu servir la consola on vulgueu carregar el cartutx virtual. També podeu carregar cartutxos virtuals accedint a aquest URL en un ordinador o dispositiu intel·ligent.
-{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}El lloc web també es pot fer servir per a comprovar les vostres consoles emparellades.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}El lloc web també es pot fer servir per a comprovar les vostres consoles emparellades.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "vgc.msbt.msbt/VgcInsertR_DlgBody_Processing","Espereu..."
 "vgc.msbt.msbt/VgcInsertR_DlgBtnCancel","Cancel·la"
 "vgc.msbt.msbt/VgcInsertR_DlgBtnInsert","Carrega"
@@ -6364,7 +6367,7 @@ Assegureu-vos que el programa estigui tancat a l’altra consola i torneu-ho a p
 "vgc.msbt.msbt/VgcLend_DlgBody_Ejecting","S’està extraient el cartutx virtual..."
 "vgc.msbt.msbt/VgcLend_DlgBody_InviteFamily","Podeu revisar o canviar la configuració del grup familiar del vostre compte de Nintendo a la següent pàgina.
 {bytes:0E|00|02|00|09|00|04|00|00|00|00|00}
-{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Accediu a la pàgina fent servir un ordinador o un dispositiu intel·ligent.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Accediu a la pàgina fent servir un ordinador o un dispositiu intel·ligent.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "vgc.msbt.msbt/VgcLend_DlgBody_NoBorrowableDevice","La consola Nintendo {bytes:0E|00|01|00|04|00|00|00}Switch 2{bytes:0F|00|01|00|04|00}/Nintendo Switch de l’usuari no pot rebre cartutxos virtuals.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Caldrà que iniciï la sessió al seu compte de Nintendo a la consola i que ho torneu a provar."
 "vgc.msbt.msbt/VgcLend_DlgBody_TimeoutBorrowing","Hi ha hagut un problema de connexió.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
@@ -6382,7 +6385,7 @@ Si l’altra consola no ha rebut el cartutx virtual, assegureu-vos que les dues 
 "vgc.msbt.msbt/VgcLend_SubTitle_Family","Grup familiar del compte de Nintendo"
 "vgc.msbt.msbt/VgcRetrieve_DlgBody_CheckRemote","S’està recuperant el cartutx virtual..."
 "vgc.msbt.msbt/VgcInsertR_DlgBody_Complete","Heu carregat aquest cartutx virtual a l’altra consola.
-{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}El cartutx virtual s’ha extret d’aquesta consola.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}El cartutx virtual s’ha extret d’aquesta consola.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "vgc.msbt.msbt/VgcInsertR_DlgBody_PartialIncompatible","Aquest cartutx virtual conté contingut que només està disponible en una Nintendo {bytes:0E|00|01|00|04|00|00|00}Switch 2{bytes:0F|00|01|00|04|00}, de manera que part del contingut pot no ser jugable a la Nintendo Switch.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Voleu carregar-lo igualment en aquesta consola?"
 "vgc.msbt.msbt/VgcLend_DlgBody_ExceedBorrowLimitNA","Aquest usuari no pot agafar en préstec més cartutxos virtuals. Cada usuari només pot agafar en préstec un cartutx virtual al mateix temps.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
@@ -6391,9 +6394,9 @@ Torneu-ho a provar quan l’usuari hagi retornat el cartutx virtual que té en p
 ・{bytes:0E|00|01|00|06|00|00|00}Si presteu un cartutx virtual a algú, aquella persona podrà jugar al joc sencer a la seva consola.
 Mentre estigui prestat, però, vós no podreu jugar-hi a la vostra consola.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 ・{bytes:0E|00|01|00|06|00|00|00}Un cartutx virtual es pot prestar fins a 14 dies. El recuperareu automàticament quan hagin passat 14 dies.
-{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Un cartutx virtual que hàgiu prestat també pot ser retornat o recuperat abans.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Un cartutx virtual que hàgiu prestat també pot ser retornat o recuperat abans.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 ・{bytes:0E|00|01|00|06|00|00|00}Podeu prestar un màxim de tres cartutxos virtuals al mateix temps. Cada persona només pot agafar en préstec un cartutx virtual al mateix temps, i no podeu prestar més d’un cartutx virtual a la mateixa consola.
-{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Si ja heu prestat tres cartutxos virtuals, podreu prestar-ne un altre tan bon punt us en retornin un o un recupereu un.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}{bytes:0F|00|01|00|06|00}"
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Si ja heu prestat tres cartutxos virtuals, podreu prestar-ne un altre tan bon punt us en retornin un o un recupereu un.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}{bytes:0F|00|01|00|06|00}"
 "vgc.msbt.msbt/VgcLend_DlgBody_OnOtherDevice","Aquest cartutx virtual està carregat en una altra consola.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Per a poder prestar-lo a algú, primer caldrà que l’extraieu de l’altra consola."
 "vgc.msbt.msbt/VgcLend_DlgBody_ReConnectFailure","La vostra consola no s’ha pogut connectar a Internet.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
@@ -6403,10 +6406,10 @@ Si l’altra consola no ha rebut el cartutx virtual, assegureu-vos que les dues 
 ② {bytes:0E|00|01|00|06|00|00|00}Acosteu les consoles.{bytes:0F|00|01|00|06|00}"
 "vgc.msbt.msbt/VgcInsertR_DlgBody_ErrorOffline","No s’ha pogut carregar el cartutx virtual a l’altra consola perquè no està connectada a Internet. Comproveu la connexió a Internet de l’altra consola."
 "vgc.msbt.msbt/VgcInsertR_DlgBody_GuideB2","A la consola que vulgueu emparellar, obriu  (Cartutxos virtuals) al menú HOME, seleccioneu el cartutx virtual que vulgueu i seleccioneu «Carrega en aquesta consola». Es mostraran les instruccions d’emparellament.
-{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Caldrà que hàgiu iniciat la sessió al mateix compte de Nintendo a les dues consoles.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Caldrà que hàgiu iniciat la sessió al mateix compte de Nintendo a les dues consoles.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "vgc.msbt.msbt/VgcInsertR_DlgBody_GuideD1","No podeu fer servir aquesta consola per a carregar cartutxos virtuals en una altra consola.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Caldrà que emparelleu aquesta consola amb la consola on vulgueu carregar el cartutx virtual.
-{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Només és possible emparellar una consola a una altra consola per cada compte de Nintendo.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Només és possible emparellar una consola a una altra consola per cada compte de Nintendo.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "vgc.msbt.msbt/VgcInsertR_DlgBody_Incompatible","Aquest cartutx virtual és exclusiu de la {bytes:0E|00|01|00|04|00|00|00}Nintendo Switch 2{bytes:0F|00|01|00|04|00}.
 No es pot carregar en una consola Nintendo Switch."
 "vgc.msbt.msbt/VgcLend_DlgBody_EjectErrorOffline","No es pot extreure el cartutx virtual de l’altra consola perquè està desconnectada.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
@@ -6419,7 +6422,7 @@ Torneu-ho a provar quan la persona que té el cartutx virtual agafat en préstec
 "vgc.msbt.msbt/VgcRetrieve_DlgBody_Playing","El programa d’aquest cartutx virtual s’està fent servir.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Assegureu-vos que el programa estigui tancat a l’altra consola i torneu-ho a provar."
 "vgc.msbt.msbt/VgcRetrieve_DlgBody_Start","Es recuperarà el cartutx virtual.
-{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}S’extraurà de la consola on està prestat i ja no s’hi podrà jugar en aquella consola.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}S’extraurà de la consola on està prestat i ja no s’hi podrà jugar en aquella consola.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "vgc.msbt.msbt/VgcRetrieve_DlgBtnInsert","Carrega en aquesta consola"
 "vgc.msbt.msbt/VgcRetrieve_DlgBtnMove","Recupera"
 "vgc.msbt.msbt/VgcRetrieve_DlgBtnNotInsert","No carreguis"
@@ -6428,7 +6431,7 @@ Assegureu-vos que el programa estigui tancat a l’altra consola i torneu-ho a p
 "vgc.msbt.msbt/VgcReturn_DlgBody_ErrorOtherDevice","Aquest cartutx virtual no es pot retornar en aquesta consola.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Retorneu-lo a la consola on estigui agafat en préstec."
 "vgc.msbt.msbt/VgcReturn_DlgBody_Start","Es retornarà aquest cartutx virtual.
-{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Deixareu de poder jugar a aquest joc en aquesta consola, però les partides desades hi romandran.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Deixareu de poder jugar a aquest joc en aquesta consola, però les partides desades hi romandran.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "vgc.msbt.msbt/VgcReturn_DlgBtn_Return","Retorna"
 "vgc.msbt.msbt/VgcReturn_DlgBtnOK","D’acord"
 "vgc.msbt.msbt/VgcTop_BalloonPublisherDivision"," / "
@@ -6460,7 +6463,7 @@ digital que compreu es mostrarà aquí com a cartutx virtual."
 "vgc.msbt.msbt/VgcTop_Filter_OtherDevice","Carregat en una altra consola"
 "vgc.msbt.msbt/VgcTop_FilterStatus_All","Tot"
 "vgc.msbt.msbt/VgcTop_FilterStatus_Count"," ({bytes:0E|00|02|00|10|00|04|00|00|00|00|00})"
-"vgc.msbt.msbt/VgcTop_FilterStatus_Etc","/..."
+"vgc.msbt.msbt/VgcTop_FilterStatus_Etc","/…"
 "vgc.msbt.msbt/VgcTop_Footer_BulkOperation","Carrega’n múltiples"
 "vgc.msbt.msbt/VgcTop_Footer_FilterReset","Esborra els filtres"
 "vgc.msbt.msbt/VgcTop_Footer_Sort","Ordena/filtra programes"
@@ -6478,7 +6481,7 @@ Si compreu programes digitals a la Nintendo eShop, s’afegiran aquí com a
 cartutxos virtuals."
 "vgc.msbt.msbt/VgcTop_DlgBody_HelpToFindAnySoft","・{bytes:0E|00|01|00|06|00|00|00}Si teniu el cartutx físic d’un joc, aquell joc no es mostrarà a la pantalla de cartutxos virtuals.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 ・{bytes:0E|00|01|00|06|00|00|00}No obtindreu un cartutx virtual per a alguns jocs, incloent-hi els programes de jocs de mostra, de manera que aquests jocs no s’hi mostraran.
-{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Es poden baixar de la Nintendo eShop i podeu jugar-hi sense un cartutx virtual.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Es poden baixar de la Nintendo eShop i podeu jugar-hi sense un cartutx virtual.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 ・{bytes:0E|00|01|00|06|00|00|00}Els jocs comprats per altres usuaris no s’hi mostraran.{bytes:0F|00|01|00|06|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 ・{bytes:0E|00|01|00|06|00|00|00}Si elegiu amagar un cartutx virtual, ja no s’hi mostrarà.{bytes:0F|00|01|00|06|00}"
 "setting.msbt.msbt/SetStory_DlgBtnDoNotSelect","Ho decidiré més tard"
@@ -6486,7 +6489,7 @@ cartutxos virtuals."
 "setting.msbt.msbt/SetCntController_DlgBodyWaitAutoTune","S’està calibrant...
 No toqueu la pantalla."
 "setting.msbt.msbt/SetStory_DlgBodyEnableAppAutoDL","Voleu canviar la configuració perquè a partir d’ara es baixin automàticament les partides desades d’aquest programa?
-{bytes:0E|00|00|00|02|00|02|00|50|00}{bytes:0E|00|01|00|03|00|02|00|00|CD}També podeu fer-ho en qualsevol moment a  (Configuració del sistema) ⇒ Gestió de dades ⇒ Partides desades al núvol ⇒ Configuració ⇒ Configuració per a cada partida desada al menú HOME.{bytes:0F|00|01|00|03|00}{bytes:0E|00|00|00|02|00|02|00|64|00}"
+{bytes:0E|00|00|00|02|00|02|00|50|00}{bytes:0E|00|01|00|03|00|02|00|03|CD}També podeu fer-ho en qualsevol moment a  (Configuració del sistema) ⇒ Gestió de dades ⇒ Partides desades al núvol ⇒ Configuració ⇒ Configuració per a cada partida desada al menú HOME.{bytes:0F|00|01|00|03|00}{bytes:0E|00|00|00|02|00|02|00|64|00}"
 "setting.msbt.msbt/SetCntController_DlgBtnAutoTune","Calibra"
 "setting.msbt.msbt/SetCntController_DlgBodyAutoTune","Es calibrarà la pantalla tàctil amb l’objectiu de reparar-la.
 Feu servir aquesta opció únicament quan la consola estigui en procés de reparació.
@@ -6501,7 +6504,7 @@ Torneu a calibrar la pantalla tàctil si no funciona amb normalitat."
 "vgc.msbt.msbt/VgcHelpDlg_SaveDataNote","Les partides desades es mantindran"
 "vgc.msbt.msbt/VgcHelpDlg_HeaderTitle1B","Quant als cartutxos virtuals"
 "setting.msbt.msbt/SetStory_DlgBodyEnableAppAutoUL","Voleu canviar la configuració perquè a partir d’ara es faci una còpia de seguretat automàtica de les partides desades d’aquest programa?
-{bytes:0E|00|00|00|02|00|02|00|50|00}{bytes:0E|00|01|00|03|00|02|00|00|CD}També podeu fer-ho en qualsevol moment a  (Configuració del sistema) ⇒ Gestió de dades ⇒ Partides desades al núvol ⇒ Configuració ⇒ Configuració per a cada partida desada al menú HOME.{bytes:0F|00|01|00|03|00}{bytes:0E|00|00|00|02|00|02|00|64|00}"
+{bytes:0E|00|00|00|02|00|02|00|50|00}{bytes:0E|00|01|00|03|00|02|00|03|CD}També podeu fer-ho en qualsevol moment a  (Configuració del sistema) ⇒ Gestió de dades ⇒ Partides desades al núvol ⇒ Configuració ⇒ Configuració per a cada partida desada al menú HOME.{bytes:0F|00|01|00|03|00}{bytes:0E|00|00|00|02|00|02|00|64|00}"
 "setting.msbt.msbt/SetStory_DlgBtnChangeSettingAccept","Canvia la configuració"
 "setting.msbt.msbt/SetStory_DlgBtnDownload","Baixa partides desades del servidor"
 "setting.msbt.msbt/SetStory_DlgBodyManageConflictTaskAutoDL","Les baixades automàtiques de les partides desades estan pausades.
@@ -6613,7 +6616,7 @@ Visiteu el lloc web d’assistència de Nintendo per a més informació.
 "myPage.msbt.msbt/FrdBlocklist_Reason_Campus","GameChat"
 "myPage.msbt.msbt/FrdReqReceived_SubInfo_Campus","GameChat"
 "qlaunch.msbt.msbt/QlcCB_DlgBodyAutoDLPromotion","A més a més d’actualitzar les partides desades automàticament, podeu configurar-ho perquè les partides desades noves es baixin automàticament del servidor.
-{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Podeu canviar aquesta configuració més tard a  (Configuració del sistema) ⇒ Gestió de dades ⇒ Partides desades al núvol al menú HOME.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Podeu canviar aquesta configuració més tard a  (Configuració del sistema) ⇒ Gestió de dades ⇒ Partides desades al núvol al menú HOME.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "qlaunch.msbt.msbt/QlcVgcSelect_DlgBody","Seleccioneu el cartutx virtual que voleu carregar."
 "interrupt.msbt.msbt/ItpRightsLostError_BodySimultaneousPlayAoCDetail_VGC","{bytes:0E|00|01|00|03|00|02|00|06|CD}{bytes:0E|00|00|00|02|00|02|00|5A|00}Codi d’error: {bytes:0E|00|02|00|05|00|04|00|00|00|00|00}{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
 Tanqueu qualsevol programa al qual s’estigui jugant en una altra consola abans de continuar jugant-hi en aquesta consola.
@@ -6651,8 +6654,7 @@ S’han suprimit les partides desades del servidor."
 "qlaunch.msbt.msbt/Vgc_SupportUrl_Top_Short","support.nintendo.com"
 "qlaunch.msbt.msbt/QlcAlcVGC_DeviceModelEmpty"," "
 "qlaunch.msbt.msbt/QlcAlcVGC_DlgBodyInsert","El cartutx virtual es carregarà en aquesta consola."
-"qlaunch.msbt.msbt/QlcAlcVGC_DlgBodyEjectErrorOffline","No s’ha pogut extreure el cartutx virtual.
-Connecteu la consola següent a Internet i torneu-ho a provar."
+"qlaunch.msbt.msbt/QlcAlcVGC_DlgBodyEjectErrorOffline","No s’ha pogut carregar el cartutx virtual perquè l’altra consola no està connectada a Internet."
 "qlaunch.msbt.msbt/QlcChildLock_TimeOver","S’ha acabat el temps."
 "qlaunch.msbt.msbt/QlcAlcVGC_DeviceModel01","Nintendo Switch"
 "qlaunch.msbt.msbt/QlcAlcVGC_DeviceModel03","Nintendo Switch Lite"
@@ -6720,4 +6722,185 @@ Caldrà que cancel·leu manualment la transferència a la consola de destinació
 "splay.msbt.msbt/Splay_DlgBody_FinishAllowListReg","S’ha afegit a la llista segura.
 {bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Es pot canviar més tard a Configuració ⇒ Funcionalitats restringides ⇒ Llista segura a l’aplicació Control parental de la {bytes:0E|00|01|00|04|00|00|00}Nintendo Switch{bytes:0F|00|01|00|04|00}.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
 "myPage.msbt.msbt/FrdMemoInput_DlgBodyTutorial","Podeu afegir notes als usuaris de la vostra llista d’amics per a, per exemple, identificar amics concrets més ràpidament.
-{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Els amics no veuran cap de les notes que escrigueu.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Els amics no veuran cap de les notes que escrigueu.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+"setting.msbt.msbt/SetCntPlayerNAVGCDevice_BodyDevice","Es poden emparellar fins a dues consoles."
+"setting.msbt.msbt/Dtm_TitlePostfixShuriken"," (GameShare)"
+"setting.msbt.msbt/SetCntPlayerNAVGCDevice_BodyThisDevice"," (Aquesta consola) "
+"setting.msbt.msbt/SetCntPlayerNAVGCDevice_BodyNoDevice","No heu emparellat cap consola que pugui utilitzar cartutxos virtuals.
+{bytes:0E|00|01|00|03|00|02|00|00|CD}Si carregueu un cartutx virtual en una consola, aquella consola s’emparellarà automàticament.{bytes:0F|00|01|00|03|00}"
+"setting.msbt.msbt/SetCntChild_HeadNameParent","Pares/Tutors"
+"setting.msbt.msbt/SetCntPlayerNA_BtnVgcDevice","Comprova quines consoles poden utilitzar cartutxos virtuals"
+"setting.msbt.msbt/SetCntPlayerNAVGCDevice_BodyDeviceInfoError","No s’ha pogut carregar.
+Espereu una mica i torneu-ho a provar."
+"setting.msbt.msbt/VgcUserSetDeivice_Header","Consoles que poden utilitzar cartutxos virtuals"
+"setting.msbt.msbt/SetCntSupportErrSendConfirm_DlgBody_AU","Voleu enviar informes d’errors i informació de la configuració del sistema a Nintendo?{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Aquesta informació es pot compartir amb desenvolupadors de tercers els programes dels quals hagin tingut errors amb l’objectiu de fer-ne una anàlisi i millorar-los. Depenent de la seva ubicació, és possible que un desenvolupador de tercers no tingui el requisit de protegir la informació de manera comparable a les salvaguardes de les lleis de privacitat d’Austràlia i Nova Zelanda.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+"setting.msbt.msbt/SetCntPlayerNAVGCDevice_BodyDevice_Max","És possible emparellar fins a dues consoles perquè pugueu utilitzar els vostres cartutxos virtuals en totes dues consoles.
+Si voleu emparellar una consola nova, primer heu de desemparellar una de les consoles que ja estigui emparellada."
+"setting.msbt.msbt/SetCntSupportErrSendConfirm_DlgBody_JP","Voleu enviar informes d’errors i informació de la configuració del sistema a Nintendo?{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Aquesta informació es pot compartir amb desenvolupadors de tercers els programes dels quals hagin tingut errors amb l’objectiu de fer-ne una anàlisi i millorar-los. La informació relativa a la compartició de dades amb destinacions internacionals i la protecció de les dades personals es publica al següent lloc web (només disponible en japonès). Reviseu aquesta informació amb antelació.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+"playerSelect.msbt.msbt/ActSelect_DigitalBundle_DlgBody","El programa es registrarà amb l’usuari {bytes:0E|00|02|00|04|00|04|00|00|00|00|00}.
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Això no es pot canviar més tard.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+"playerSelect.msbt.msbt/ActSelect_BodyTop_LaunchDigitalBundle","Qui registrarà el programa?"
+"playerSelect.msbt.msbt/ActSelect_DigitalBundleDetail_DlgBodyOwner","Podreu jugar a aquest programa en qualsevol consola."
+"playerSelect.msbt.msbt/ActSelect_DigitalBundleDetail_DlgBodyOther","Serà jugable per a tots els usuaris
+de consoles enllaçades al vostre
+compte de Nintendo."
+"playerSelect.msbt.msbt/ActSelect_DigitalBundleDetail_DlgBody","Si registreu el programa..."
+"vgc.msbt.msbt/VgcSetDeviceList_BodyThisDevice"," (Aquesta consola)"
+"vgc.msbt.msbt/VgcSetUnregister_DlgBody_Complete","S’ha desemparellat correctament."
+"vgc.msbt.msbt/VgcSetNavi_BtnDeviceList","Consoles emparellades"
+"vgc.msbt.msbt/VgcSetDeviceList_BodyNoDevice","No heu emparellat cap consola que pugui utilitzar cartutxos virtuals.
+{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Si carregueu un cartutx virtual en una consola, aquella consola s’emparellarà automàticament.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+"vgc.msbt.msbt/VgcSetDeviceDetail_BodyVGCNum"," Cartutxos virtuals carregats: {bytes:0E|00|02|00|10|00|04|00|00|00|00|00}"
+"vgc.msbt.msbt/VgcSetDeviceDetail_BodyVGCNum0","  Cartutxos virtuals carregats: Cap"
+"vgc.msbt.msbt/VgcSetUnregister_DlgBody_ForceUnregisterUnavailable","No s’ha pogut desemparellar la consola.
+Tingueu en compte que només és possible forçar el desemparellament d’una consola per any.
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Darrer desemparellament forçat: {bytes:0E|00|02|00|08|00|04|00|00|00|00|00}{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Visiteu el lloc web d’assistència de Nintendo per a més informació.
+{bytes:0E|00|02|00|08|00|04|00|01|00|00|00}"
+"vgc.msbt.msbt/VgcSetNavi_BtnOnlineLicense","Llicències en línia"
+"vgc.msbt.msbt/VgcSetHidden_BtnHiddenVGCs","Mostra els cartutxos virtuals ocults"
+"vgc.msbt.msbt/VgcSetNavi_BtnHiddenVgcs","Cartutxos virtuals ocults"
+"vgc.msbt.msbt/VgcSetDeviceList_BodyDevice_Max","És possible emparellar fins a dues consoles perquè pugueu utilitzar els vostres cartutxos virtuals en totes dues consoles.
+Si voleu emparellar una consola nova, primer heu de desemparellar una de les consoles que ja estigui emparellada."
+"vgc.msbt.msbt/VgcSetDeviceDetail_BodyUnregister_1Device","Es desemparellarà una consola que pot utilitzar cartutxos virtuals."
+"vgc.msbt.msbt/VgcSetTop_Header","Configuració dels cartutxos virtuals"
+"vgc.msbt.msbt/VgcSetOnlineLicense_BodyOnlineLicense","Si activeu aquesta opció, els programes digitals que compreu seran jugables mentre la consola estigui connectada a Internet, fins i tot quan el cartutx virtual d’aquell programa no estigui carregat a la consola. No obstant això, només l’usuari que hagi comprat el programa hi podrà jugar utilitzant-ne la llicència en línia.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+◆ {bytes:0E|00|01|00|06|00|00|00} Els vostres cartutxos virtuals es poden fer servir per a jugar a programes independentment d’aquesta opció.{bytes:0F|00|01|00|06|00}
+◆ {bytes:0E|00|01|00|06|00|00|00} Les llicències en línia no es poden fer servir en múltiples consoles al mateix temps.{bytes:0F|00|01|00|06|00}
+◆ {bytes:0E|00|01|00|06|00|00|00} La llicència en línia i el cartutx virtual d’un programa no es poden fer servir al mateix temps.{bytes:0F|00|01|00|06|00}"
+"vgc.msbt.msbt/VgcSetOnlineLicense_BtnOnlineLicense","Utilitza llicències en línia"
+"vgc.msbt.msbt/VgcSetDeviceDetail_BodyThisDevice","{bytes:0E|00|02|00|08|00|04|00|00|00|00|00} {bytes:0E|00|01|00|04|00|00|00}{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}(Aquesta consola){bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}{bytes:0F|00|01|00|04|00}"
+"vgc.msbt.msbt/VgcSetUnregister_DlgBtn_ForceUnregister","Força el desemparellament de la consola"
+"vgc.msbt.msbt/Vgc_DlgBody_GenericError","S’ha produït un error.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Torneu-ho a provar més tard."
+"vgc.msbt.msbt/VgcSetHidden_BodyHiddenVGCs","Si heu ocultat algun cartutx virtual, podeu veure’l aquí."
+"vgc.msbt.msbt/VgcSetDeviceDetail_BodyUnregister","Es desemparellarà una consola que pot utilitzar cartutxos virtuals.
+Per a tornar a emparellar la consola més endavant, caldrà que tingueu a mà una altra consola emparellada."
+"vgc.msbt.msbt/VgcSetUnregister_DlgBody_FailedOffline","No s’ha pogut desemparellar la consola seleccionada perquè no està connectada a Internet."
+"vgc.msbt.msbt/VgcSetUnregister_DlgBody_ForceUnregister","Es forçarà el desemparellament de la consola.
+Tingueu en compte que només és possible forçar el desemparellament d’una consola per any.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Si es desemparella la consola, se n’extrauran tots els cartutxos virtuals que tingui carregats i deixareu de poder jugar als programes associats.
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Les partides desades romandran a la consola.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+"vgc.msbt.msbt/VgcSetUnregister_DlgBody_UnregisterTemp_Other","Aquesta consola té un o més cartutxos virtuals que us ha prestat algun membre del grup familiar.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Podreu desemparellar la consola quan retorneu tots els cartutxos virtuals que us han prestat."
+"vgc.msbt.msbt/VgcSetDeviceDetail_BtnUnregister","Desemparella"
+"vgc.msbt.msbt/VgcSetDeviceDetail_BodySerial","Número de sèrie: {bytes:0E|00|02|00|08|00|04|00|00|00|00|00}"
+"vgc.msbt.msbt/VgcSetUnregister_DlgBody_Unregister","Si es desemparella la consola, se n’extrauran tots els cartutxos virtuals que tingui carregats i deixareu de poder jugar als programes associats.
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Les partides desades romandran a la consola.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+"vgc.msbt.msbt/VgcTop_SubAction_Settings","Configuració"
+"vgc.msbt.msbt/VgcSetDeviceList_BodyDeviceInfoError","No s’ha pogut carregar.
+Espereu una mica i torneu-ho a provar."
+"vgc.msbt.msbt/VgcSetDeviceList_HeaderVGCDevice","Consoles que poden utilitzar cartutxos virtuals"
+"vgc.msbt.msbt/VgcSetUnregister_DlgBody_ForceUnregister_Short","Es forçarà el desemparellament de la consola.
+Tingueu en compte que només és possible forçar el desemparellament d’una consola per any."
+"vgc.msbt.msbt/VgcSetUnregister_DlgBody_UnregisterTemp_Self","Es retornaran tots els cartutxos virtuals que us hagin prestat i es desemparellarà la consola."
+"vgc.msbt.msbt/VgcSetDeviceList_BodyDevice","Es poden emparellar fins a dues consoles."
+"qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyNotice_1","{bytes:0E|00|02|00|0A|00|04|00|00|00|00|00}
+・{bytes:0E|00|01|00|06|00|00|00}{bytes:0E|00|02|00|0B|00|04|00|01|00|00|00}{bytes:0F|00|01|00|06|00}"
+"qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyNotice_2","{bytes:0E|00|02|00|0A|00|04|00|00|00|00|00}
+・{bytes:0E|00|01|00|06|00|00|00}{bytes:0E|00|02|00|0B|00|04|00|01|00|00|00}{bytes:0F|00|01|00|06|00}
+・{bytes:0E|00|01|00|06|00|00|00}{bytes:0E|00|02|00|0B|00|04|00|02|00|00|00}{bytes:0F|00|01|00|06|00}"
+"qlaunch.msbt.msbt/RdtIcon_DigitalBundleSub","Registreu el programa
+inclòs amb la
+consola aquí"
+"qlaunch.msbt.msbt/RdtIcon_DigitalBundle","Programa inclòs"
+"qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodySoftInfoChanged","La informació d’aquest programa s’ha actualitzat.
+Torneu-ho a provar."
+"qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyNotice_1_WithSub","{bytes:0E|00|02|00|0A|00|04|00|00|00|00|00}
+・{bytes:0E|00|01|00|06|00|00|00}{bytes:0E|00|02|00|0B|00|04|00|01|00|00|00}{bytes:0F|00|01|00|06|00}
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}{bytes:0E|00|02|00|0A|00|04|00|02|00|00|00}{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+"qlaunch.msbt.msbt/QlcLaunchCheck_DlgBtnNotice_Skip","No ho tornis a mostrar en el futur"
+"qlaunch.msbt.msbt/QlcDigitalBundle_DlgBtnDelete","Suprimeix"
+"qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyNotice_2_Detail","{bytes:0E|00|02|00|0A|00|04|00|00|00|00|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+{bytes:0E|00|02|00|0C|00|08|00|01|00|00|00|00|02|00|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+{bytes:0E|00|02|00|0C|00|08|00|02|00|00|00|00|02|00|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}{bytes:0E|00|02|00|0B|00|04|00|03|00|00|00}{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+"qlaunch.msbt.msbt/RdtIcon_DigitalBundleReal","Programa inclòs"
+"qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyNotice_2_WithSub","{bytes:0E|00|02|00|0A|00|04|00|00|00|00|00}
+・{bytes:0E|00|01|00|06|00|00|00}{bytes:0E|00|02|00|0B|00|04|00|01|00|00|00}{bytes:0F|00|01|00|06|00}
+・{bytes:0E|00|01|00|06|00|00|00}{bytes:0E|00|02|00|0B|00|04|00|02|00|00|00}{bytes:0F|00|01|00|06|00}
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}{bytes:0E|00|02|00|0A|00|04|00|03|00|00|00}{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+"qlaunch.msbt.msbt/QlcDigitalBundle_DlgBodyDelete","Aquesta icona se suprimirà del menú HOME.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Encara podreu registrar el programa a la Nintendo eShop."
+"qlaunch.msbt.msbt/QlcCB_DlgBodyCBDownloadPartialFailure","No s’han pogut baixar algunes partides desades.
+Torneu-ho a provar."
+"qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyRightsNoOnlineLicense_Temp","No s’ha pogut iniciar el programa fent servir la llicència en línia.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Només l’usuari que ha comprat aquest contingut pot jugar-hi fent servir la llicència en línia."
+"qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyAoCRightsNoOnlineLicense_Temp","No es pot jugar a algun contingut descarregable fent servir la llicència en línia.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Només l’usuari que ha comprat el contingut pot jugar-hi."
+"qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyNotice_1_Detail","{bytes:0E|00|02|00|0A|00|04|00|00|00|00|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+{bytes:0E|00|02|00|0C|00|08|00|01|00|00|00|00|02|00|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}{bytes:0E|00|02|00|0B|00|04|00|02|00|00|00}{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+"qlaunch.msbt.msbt/QlcAlcVGC_DlgBtnPlayOnlineLicense","Juga-hi fent servir la llicència en línia"
+"qlaunch.msbt.msbt/QlcLaunchCheck_DlgBodyAoCRightsNoOnlineLicense_Temp_UA","No es pot jugar a aquest contingut descarregable fent servir la llicència en línia.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Només l’usuari que ha comprat el contingut pot jugar-hi."
+"qlaunch.msbt.msbt/Rdt_FooterText_DeleteDigitalBundle","Suprimeix"
+"qlaunch.msbt.msbt/QlcLaunchCheck_DlgBtnNotice_Detail","Mostra’n els detalls"
+"qlaunch.msbt.msbt/QlcAlcVGC_DlgBody_AboutOnlineLicenseTemp","Utilitzar la llicència en línia del programa us permetrà connectar-vos a Internet i jugar temporalment al programa.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+No obstant això, només l’usuari que hagi comprat el programa hi podrà jugar utilitzant-ne la llicència en línia.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+{bytes:0E|00|01|00|03|00|02|00|03|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Si voleu definir que sempre es faci servir la llicència en línia per a aquest programa, podeu fer-ho a  (Cartutxos virtuals) ⇒ Configuració al menú HOME.
+Visiteu el lloc web d’assistència de Nintendo per a més informació.
+{bytes:0E|00|02|00|09|00|04|00|00|00|00|00}{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+"migration.msbt.msbt/SaveMove2Dialog_DlgBodyNotFound2","No s’ha pogut trobar la consola d’origen.
+Aquesta consola es reiniciarà.{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Deixeu la consola d’origen a prop i engegada."
+"migration.msbt.msbt/SaveMove2_TitlePostfixShuriken"," (GameShare)"
+"migration.msbt.msbt/SaveMove2SelectData_DlgException","Les partides desades d’Animal Crossing: New Horizons no es poden enviar utilitzant la funcionalitat de transferència de partides desades.
+{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Les partides desades d’altres programes sí que es poden enviar.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}{bytes:0E|00|01|00|00|00|04|00|9A|99|19|3F}
+Visiteu el lloc web d’assistència de Nintendo per a més informació de com transferir les partides desades d’Animal Crossing: New Horizons.
+{bytes:0E|00|02|00|09|00|04|00|00|00|00|00}"
+"migration.msbt.msbt/SaveMove2SelectData_DlgExceptionUrl","https://support.nintendo.com/animalcrossing"
+"migration.msbt.msbt/SaveMove2SelectData_DlgExceptionUrlShort","support.nintendo.com/animalcrossing"
+"migration.msbt.msbt/SaveMove2Dialog_Receive_DlgBtnReboot","Reinicia"
+"option.msbt.msbt/OptCntUpdate_AsideInternet_NonVGC","Si el contingut descarregable o un paquet de millora no és utilitzable fins i tot després d’actualitzar, torneu-lo a baixar de la Nintendo eShop."
+"Cruiser.msbt/CrsMediaViewer_FooterClose","Tanca"
+"Cruiser.msbt/CrsMpSkip_MediaControlZLBtn",""
+"Cruiser.msbt/CrsMpSkip_MediaControlZRBtn",""
+"Cruiser.msbt/CrsMediaViewer_FooterHide","Amaga"
+"dataTransfer.msbt.msbt/Dtt_LocalSaveDataConfirm_BodySub2","{bytes:0E|00|00|00|02|00|02|00|50|00} {bytes:0E|00|01|00|06|00|00|00}Les partides desades de GameShare i demostracions de jocs no romandran en aquesta consola.{bytes:0F|00|01|00|06|00}{bytes:0E|00|00|00|02|00|02|00|64|00}"
+"dataTransfer.msbt.msbt/Dtt_TitlePostfixShuriken"," (GameShare)"
+"splay.msbt.msbt/SplayGuest_DlgBodyNotEnoughSpace","No es pot crear la partida desada de GameShare perquè no hi ha prou espai lliure.
+Necessitareu {bytes:0E|00|02|00|02|00|04|00|00|00|00|00}{bytes:0E|00|02|00|00|00|04|00|01|00|00|00} d’espai lliure a la memòria del sistema de la consola.
+Suprimiu programes per a fer espai."
+"splay.msbt.msbt/SplayGuest_DlgBodyFailedToMount","No us podeu unir a GameShare perquè la partida desada del programa al qual esteu jugant està en ús.
+Tanqueu el programa i torneu-ho a provar."
+"myPage.msbt.msbt/FrdShowAddFriendDirect_Btn_Ok","D’acord"
+"myPage.msbt.msbt/FrdShowAddFriendDirectHelp_Btn_Next","Següent"
+"myPage.msbt.msbt/FrdShowAddFriendDirectHelp_Btn_Back","Endarrere"
+"myPage.msbt.msbt/FrdShowAddFriendDirectHelp_Btn_Close","Tanca"
+"myPage.msbt.msbt/FrdShowAddFriendDirectHelp_Body3_Profile","Perfil"
+"myPage.msbt.msbt/FrdShowAddFriendDirect_Btn_InputFrdCode","Introduïu un codi d’amic"
+"myPage.msbt.msbt/FrdShowAddFriendDirect_Title","Afegeix un amic"
+"myPage.msbt.msbt/FrdShowAddFriendDirectHelp_Body1","Si envieu una petició d’amistat a un usuari i l’accepta, us fareu amics."
+"myPage.msbt.msbt/FrdShowAddFriendDirectHelp_Body2","Necessitareu un codi d’amic d’un usuari per a poder enviar-li una petició d’amistat.
+{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Un codi d’amic és un número que és únic per a cada usuari individual.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+"myPage.msbt.msbt/FrdShowAddFriendDirectHelp_Body3","Feu que l’altre usuari us digui quin és el seu codi d’amic."
+"myPage.msbt.msbt/FrdShowAddFriendDirectHelp_Body4","Llavors, introduïu el seu codi d’amic i envieu-li una petició d’amistat."
+"myPage.msbt.msbt/FrdShowAddFriendDirect_Body_Main","Si us feu amics amb un usuari, podreu jugar-hi en línia.
+{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Cal una subscripció a Nintendo Switch Online per a jugar en línia.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+"myPage.msbt.msbt/FrdShowAddFriendDirectHelp_Body5","Rebreu una notificació a la vostra pàgina d’usuari si una petició d’amistat que heu enviat és acceptada.
+{bytes:0E|00|01|00|03|00|02|00|00|CD}{bytes:0E|00|00|00|02|00|02|00|50|00}Podeu revisar o gestionar la vostra llista d’amics en qualsevol moment a la vostra pàgina d’usuari.{bytes:0E|00|00|00|02|00|02|00|64|00}{bytes:0F|00|01|00|03|00}"
+"myPage.msbt.msbt/FrdCodeInput_DlgBody_SendRequest","S’enviarà una petició d’amistat a aquesta persona."
+"myPage.msbt.msbt/FrdShowAddFriendDirect_DlgBody_FrdReqReceived_Title","Heu rebut una petició d’amistat de l’usuari següent."
+"myPage.msbt.msbt/FrdShowAddFriendDirectHelp_Body1_Left","Envia una petició d’amistat"
+"myPage.msbt.msbt/FrdCodeInput_DlgBody_ErrorAlreadySent","Ja heu enviat una petició d’amistat a aquesta persona.
+Si és possible, demaneu-li que accepti la petició pendent."
+"myPage.msbt.msbt/FrdShowAddFriendDirectHelp_Body_FriendCode","SW - 1234 - 5678 - XXXX"
+"myPage.msbt.msbt/FrdShowAddFriendDirect_Body_Complete","S’ha enviat la petició d’amistat.
+Us fareu amics quan l’altre usuari accepti la vostra petició."
+"myPage.msbt.msbt/FrdShowAddFriendDirectHelp_Body1_Right","L’altre usuari accepta la vostra petició"
+"myPage.msbt.msbt/FrdShowAddFriendDirect_Btn_ShowHelp","Com afegir amics"
+"myPage.msbt.msbt/FrdReceivedFrdReqListPlate_Header_Title","Peticions d’amistat rebudes"
+"myPage.msbt.msbt/FrdShowAddFriendDirect_DlgBody_FrdReqReceived_Button0","Fes-me’n amic"
+"myPage.msbt.msbt/FrdShowAddFriendDirect_DlgBody_FrdReqReceived_Button2","Mostra’n els detalls"
+"myPage.msbt.msbt/FrdCodeInput_DlgBody_ErrorUserIsFriend","Ja sou amic d’aquesta persona."
+"myPage.msbt.msbt/FrdShowAddFriendDirectHelp_Title","Com afegir amics"
+"myPage.msbt.msbt/FrdShowAddFriendDirect_Footer_ShowFrdReq","Peticions d’amistat rebudes"
+"myPage.msbt.msbt/FrdCodeInput_DlgBody_ErrorUserIsMyself","Heu introduït el vostre propi codi d’amic.
+Introduïu el codi d’amic d’un usuari de qui vulgueu ser amic."
+"myPage.msbt.msbt/FrdShowAddFriendDirect_DlgBody_ManyFrdReqReceived_Title","Heu rebut {bytes:0E|00|02|00|0E|00|04|00|00|00|00|00}{plurals: petició d’amistat| peticions d’amistat}."
+"myPage.msbt.msbt/FrdShowAddFriendDirect_DlgBody_ManyFrdReqReceived_Button0","Peticions d’amistat rebudes"
+"myPage.msbt.msbt/FrdShowAddFriendDirectHelp_Body3_Desc","Es pot trobar el codi d’amic de cada usuari al Perfil de la seva pàgina d’usuari, que és accessible
+seleccionant la seva icona d’usuari a la part superior esquerra del menú HOME de la seva consola."
