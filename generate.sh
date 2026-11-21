@@ -45,9 +45,9 @@ mkdir -p $DSTDIR/0100000000001000/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/int
 mkdir -p $DSTDIR/0100000000001000/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/migration.msbt.szs "$_"
 mkdir -p $DSTDIR/0100000000001000/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/notification.msbt.szs "$_"
 mkdir -p $DSTDIR/0100000000001000/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/option.msbt.szs "$_"
+mkdir -p $DSTDIR/0100000000001000/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/present.msbt.szs "$_"
 mkdir -p $DSTDIR/0100000000001000/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/qlaunch.msbt.szs "$_"
 mkdir -p $DSTDIR/0100000000001000/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/setting.msbt.szs "$_"
-mkdir -p $DSTDIR/0100000000001000/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/splay.msbt.szs "$_"
 mkdir -p $DSTDIR/0100000000001000/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/vgc.msbt.szs "$_"
 
 #0100000000001001 "auth" applet
@@ -104,7 +104,9 @@ mkdir -p $DSTDIR/0100000000001012/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/sta
 #0100000000001013 "myPage" sysapplet
 mkdir -p $DSTDIR/0100000000001013/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/common_$LANGFULL.msbt.szs $DSTDIR/0100000000001013/romfs/message/$LANGFULL/common.msbt.szs
 mkdir -p $DSTDIR/0100000000001013/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/myPage.msbt.szs "$_"
+mkdir -p $DSTDIR/0100000000001013/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/qlaunch.msbt.szs "$_"
 mkdir -p $DSTDIR/0100000000001013/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/setting.msbt.szs "$_"
+mkdir -p $DSTDIR/0100000000001013/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/vgc.msbt.szs "$_"
 
 #0100000000001015 "maintenance" sysapplet
 mkdir -p $DSTDIR/0100000000001015/romfs/message/$LANGFULL/ && cp $SRCDIR/szs/common_$LANGFULL.msbt.szs $DSTDIR/0100000000001015/romfs/message/$LANGFULL/common.msbt.szs

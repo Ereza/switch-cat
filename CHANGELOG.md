@@ -1,5 +1,11 @@
 # Registre de canvis
 
+## 23.5.0 - 2026-11-22
+### Versió del sistema
+- **Versió 23.5.0. Altres versions no estan suportades.**
+### Canvis
+- Actualització a la darrera versió del sistema i traducció dels components nous.
+
 ## 23.0.1 - 2026-11-08
 ### Versió del sistema
 - **Versió 23.0.1. Altres versions no estan suportades.**
